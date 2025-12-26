@@ -1,0 +1,684 @@
+{
+  "characters": [
+    {
+      "name": "Anjo",
+      "birthday": "01-01",
+      "romanized_name": "Anjō",
+      "affiliation": "Pirate Fan",
+      "role": "Civilian",
+      "haki": [],
+      "origin": "East Blue (Loguetown)",
+      "image": "Anjo.png"
+    },
+    {
+      "name": "Daz Bonez",
+      "birthday": "01-01",
+      "romanized_name": "Dazu Bōnesu",
+      "epithet": "\"The Killer\"",
+      "affiliation": "Cross Guild",
+      "role": "Officer Agent (former)",
+      "bounty": "75,000,000",
+      "devil_fruit": {
+        "name": "Dice-Dice Fruit",
+        "japanese_name": "Supa Supa no Mi",
+        "type": "Paramecia",
+        "power": "Turn body into blades"
+      },
+      "haki": [],
+      "origin": "West Blue",
+      "age": 31,
+      "height": "212 cm",
+      "image": "Daz Bonez (Mr. 1).png"
+    },
+    {
+      "name": "Islewan",
+      "birthday": "01-01",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Portgas D. Ace",
+      "birthday": "01-01",
+      "romanized_name": "Pōtogasu Dī Ēsu",
+      "epithet": "\"Fire Fist\" Ace",
+      "affiliation": "Whitebeard Pirates",
+      "role": "2nd Division Commander",
+      "bounty": "550,000,000",
+      "devil_fruit": {
+        "name": "Flame-Flame Fruit",
+        "japanese_name": "Mera Mera no Mi",
+        "type": "Logia",
+        "power": "Control and transform into fire"
+      },
+      "haki": [
+        "Conqueror's Haki",
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "South Blue (Baterilla)",
+      "age": 20,
+      "height": "185 cm",
+      "image": "Portgas D. Ace.png"
+    },
+    {
+      "name": "Peeply Lulu",
+      "birthday": "01-02",
+      "romanized_name": "Pīpurī Ruru",
+      "affiliation": "Galley-La Company",
+      "role": "Dock 1 Foreman",
+      "haki": [],
+      "origin": "Grand Line (Water 7)",
+      "age": 33,
+      "height": "206 cm",
+      "image": "Peepley Lulu (Peeply Lulu).png"
+    },
+    {
+      "name": "Aisa",
+      "birthday": "01-03",
+      "romanized_name": "Aisa",
+      "affiliation": "Shandia",
+      "role": "Wagomuland Employee",
+      "haki": [
+        "Observation Haki"
+      ],
+      "origin": "Sky Island (Skypiea)",
+      "age": 11,
+      "height": "140 cm",
+      "image": "Aisa (post-timeskip).png"
+    },
+    {
+      "name": "Iceburg",
+      "birthday": "01-03",
+      "romanized_name": "Aisubāgu",
+      "affiliation": "Galley-La Company",
+      "role": "President / Mayor",
+      "haki": [],
+      "origin": "Grand Line (Water 7)",
+      "age": 40,
+      "height": "199 cm",
+      "image": "Iceburg.png"
+    },
+    {
+      "name": "Lassoo",
+      "birthday": "01-04",
+      "romanized_name": "Rassū",
+      "affiliation": "New Spiders Cafe",
+      "role": "Pet / Mascot",
+      "devil_fruit": {
+        "name": "Mutt-Mutt Fruit, Model: Dachshund",
+        "japanese_name": "Inu Inu no Mi, Model: Dachshund",
+        "type": "Zoan",
+        "power": "Transform into a dachshund (gun)"
+      },
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Lassoo.png"
+    },
+    {
+      "name": "Peterman",
+      "birthday": "01-04",
+      "romanized_name": "Pītāman",
+      "affiliation": "Hound Pets",
+      "role": "Slave Trader",
+      "haki": [],
+      "origin": "Sabaody Archipelago",
+      "image": "Peterman.png"
+    },
+    {
+      "name": "Ulti",
+      "birthday": "01-04",
+      "romanized_name": "Uruti",
+      "affiliation": "Beasts Pirates (former)",
+      "role": "Tobiroppo (former)",
+      "bounty": "400,000,000",
+      "devil_fruit": {
+        "name": "Dragon-Dragon Fruit, Model: Pachycephalosaurus",
+        "japanese_name": "Ryu Ryu no Mi, Model: Pachycephalosaurus",
+        "type": "Ancient Zoan",
+        "power": "Transform into a pachycephalosaurus"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Grand Line",
+      "age": 22,
+      "height": "173 cm",
+      "image": "Ulti.png"
+    },
+    {
+      "name": "Strawberry",
+      "birthday": "01-05",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Oimo",
+      "birthday": "01-06",
+      "romanized_name": "Oimo",
+      "affiliation": "Giant Warrior Pirates",
+      "role": "Pirate",
+      "haki": [],
+      "origin": "Grand Line (Elbaph)",
+      "age": 153,
+      "height": "1600 cm",
+      "image": "Oimo.png"
+    },
+    {
+      "name": "Tilestone",
+      "birthday": "01-06",
+      "romanized_name": "Tairusuton",
+      "affiliation": "Galley-La Company",
+      "role": "Dock 1 Foreman",
+      "haki": [],
+      "origin": "Grand Line (Water 7)",
+      "age": 35,
+      "height": "255 cm",
+      "image": "Tilestone.png"
+    },
+    {
+      "name": "Mozu",
+      "birthday": "01-07",
+      "romanized_name": "Mozu",
+      "epithet": "Square Sisters",
+      "affiliation": "Franky Family",
+      "role": "Bartender",
+      "haki": [],
+      "origin": "Grand Line (Water 7)",
+      "age": 21,
+      "height": "187 cm",
+      "image": "Mozu.png"
+    },
+    {
+      "name": "Emporio Ivankov",
+      "birthday": "01-08",
+      "romanized_name": "Enporio Iwankofu",
+      "epithet": "\"Okama King\"",
+      "affiliation": "Revolutionary Army",
+      "role": "G Army Commander",
+      "devil_fruit": {
+        "name": "Horm-Horm Fruit",
+        "japanese_name": "Horu Horu no Mi",
+        "type": "Paramecia",
+        "power": "Control hormones"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Grand Line (Kamabakka Kingdom)",
+      "age": 53,
+      "height": "449 cm",
+      "image": "Emporio Ivankov.png"
+    },
+    {
+      "name": "General Franky",
+      "birthday": "01-08",
+      "romanized_name": "Furankī Shōgun",
+      "epithet": "\"Iron Pirate\"",
+      "affiliation": "Straw Hat Pirates",
+      "role": "Mecha",
+      "haki": [],
+      "origin": "Created on Baldimore / Assembled",
+      "height": "1300 cm",
+      "image": "Franky.png"
+    },
+    {
+      "name": "Ivan X",
+      "birthday": "01-08",
+      "romanized_name": "Iwan Ekkusu",
+      "affiliation": "Super Spot-Billed Duck Troops",
+      "role": "Troop Member",
+      "haki": [],
+      "origin": "Grand Line (Arabasta)",
+      "age": 16,
+      "height": "228 cm",
+      "image": "Ivan X.png"
+    },
+    {
+      "name": "Mountblutain",
+      "birthday": "01-09",
+      "romanized_name": "Maunburuten",
+      "affiliation": "Fake Straw Hat Crew",
+      "role": "Pirate",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 30,
+      "height": "294 cm",
+      "image": "Mounblutain (Fake Sogeking, Mounbleten).png"
+    },
+    {
+      "name": "Pickles",
+      "birthday": "01-09",
+      "romanized_name": "Pikurusu",
+      "epithet": "\"Tackle Machine\"",
+      "affiliation": "Foxy Pirates",
+      "role": "Groggy Monster",
+      "haki": [],
+      "origin": "Unknown",
+      "height": "212 cm",
+      "image": "Hamburg, Pickles, and Big Pan.png"
+    },
+    {
+      "name": "Eustass Kid",
+      "birthday": "01-10",
+      "romanized_name": "Yūsutasu Kiddo",
+      "epithet": "\"Captain\"",
+      "affiliation": "Kid Pirates",
+      "role": "Captain",
+      "bounty": "3,000,000,000",
+      "devil_fruit": {
+        "name": "Magnet-Magnet Fruit",
+        "japanese_name": "Jiki Jiki no Mi",
+        "type": "Paramecia",
+        "power": "Manipulate magnetism"
+      },
+      "haki": [
+        "Conqueror's Haki",
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "South Blue",
+      "age": 23,
+      "height": "205 cm",
+      "image": "Eustass Kid.png"
+    },
+    {
+      "name": "Otohime",
+      "birthday": "01-10",
+      "romanized_name": "Otohime",
+      "epithet": "\"Incarnation of Love\"",
+      "affiliation": "Ryugu Kingdom",
+      "role": "Queen",
+      "haki": [
+        "Observation Haki"
+      ],
+      "origin": "Grand Line (Ryugu Kingdom)",
+      "height": "224 cm",
+      "image": "Otohime.png"
+    },
+    {
+      "name": "Itomimizu",
+      "birthday": "01-11",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Hiriluk",
+      "birthday": "01-12",
+      "romanized_name": "Hiruruku",
+      "epithet": "Dr. Hiriluk",
+      "affiliation": "Drum Kingdom",
+      "role": "Doctor / Thief",
+      "haki": [],
+      "origin": "Grand Line (Drum Kingdom)",
+      "age": 68,
+      "height": "213 cm",
+      "image": "Hiriluk.png"
+    },
+    {
+      "name": "Ikaros Much",
+      "birthday": "01-13",
+      "romanized_name": "Ikarosu Muhhi",
+      "affiliation": "New Fish-Man Pirates",
+      "role": "Officer",
+      "haki": [],
+      "origin": "Grand Line (Fish-Man Island)",
+      "age": 30,
+      "height": "499 cm",
+      "image": "Ikaros Much.png"
+    },
+    {
+      "name": "Sweet Pea",
+      "birthday": "01-14",
+      "romanized_name": "Suitopī",
+      "affiliation": "Kuja Pirates",
+      "role": "Pirate",
+      "haki": [
+        "Armament Haki"
+      ],
+      "origin": "Calm Belt (Amazon Lily)",
+      "image": "Sweet Pea.png"
+    },
+    {
+      "name": "A.O",
+      "birthday": "01-15",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Boodle",
+      "birthday": "01-16",
+      "romanized_name": "Būdoru",
+      "affiliation": "Orange Town",
+      "role": "Mayor",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 75,
+      "height": "172 cm",
+      "image": "Boodle.png"
+    },
+    {
+      "name": "Capone Bege",
+      "birthday": "01-17",
+      "romanized_name": "Kapone Bejji",
+      "epithet": "\"Gang\" Bege",
+      "affiliation": "Fire Tank Pirates",
+      "role": "Captain",
+      "bounty": "350,000,000",
+      "devil_fruit": {
+        "name": "Castle-Castle Fruit",
+        "japanese_name": "Shiro Shiro no Mi",
+        "type": "Paramecia",
+        "power": "Become a living fortress"
+      },
+      "haki": [],
+      "origin": "West Blue",
+      "age": 42,
+      "height": "166 cm",
+      "image": "Capone Bege.png"
+    },
+    {
+      "name": "Splash",
+      "birthday": "01-18",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Splatter",
+      "birthday": "01-18",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Kouzuki Toki",
+      "birthday": "01-19",
+      "romanized_name": "Kōzuki Toki",
+      "affiliation": "Kouzuki Family",
+      "role": "Wife of Oden",
+      "devil_fruit": {
+        "name": "Time-Time Fruit",
+        "japanese_name": "Toki Toki no Mi",
+        "type": "Paramecia",
+        "power": "Travel forward in time"
+      },
+      "haki": [],
+      "origin": "Unknown (born 830+ years ago)",
+      "age": 36,
+      "height": "190 cm",
+      "image": "Kozuki Toki.png"
+    },
+    {
+      "name": "Spandine",
+      "birthday": "01-19",
+      "romanized_name": "Supandain",
+      "affiliation": "CP9 (former)",
+      "role": "Chief (former)",
+      "haki": [],
+      "origin": "Grand Line",
+      "age": 66,
+      "height": "275 cm",
+      "image": "Spandine.png"
+    },
+    {
+      "name": "Kinderella",
+      "birthday": "01-20",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Antonio",
+      "birthday": "01-21",
+      "romanized_name": "Antonio",
+      "affiliation": "Antonio's Graman",
+      "role": "Store Owner",
+      "haki": [],
+      "origin": "Sabaody Archipelago",
+      "image": "Antonio.png"
+    },
+    {
+      "name": "Miss Friday",
+      "birthday": "01-21",
+      "romanized_name": "Misu Furaidē",
+      "affiliation": "Unluckies",
+      "role": "Messenger / Agent",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Miss Friday.png"
+    },
+    {
+      "name": "Going Merry",
+      "birthday": "01-22",
+      "romanized_name": "Gōingu Merī-gō",
+      "affiliation": "Straw Hat Pirates",
+      "role": "Ship",
+      "haki": [],
+      "origin": "East Blue (Syrup Village)",
+      "height": "1100 cm",
+      "image": "Going Merry (Merry Go) (edited).png"
+    },
+    {
+      "name": "Pez",
+      "birthday": "01-22",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Basskarte",
+      "birthday": "01-23",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Dosmarche",
+      "birthday": "01-23",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Nusstorte",
+      "birthday": "01-23",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Ginrummy",
+      "birthday": "01-23",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Roxanne",
+      "birthday": "01-23",
+      "romanized_name": "Rokusānu",
+      "affiliation": "Restaurant Baratie",
+      "role": "Customer",
+      "haki": [],
+      "origin": "East Blue",
+      "image": "Roxanne.png"
+    },
+    {
+      "name": "Gild Tesoro",
+      "birthday": "01-24",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Kairiken",
+      "birthday": "01-24",
+      "romanized_name": "Kairiken",
+      "affiliation": "Sabaody Archipelago",
+      "role": "Bounty Hunter",
+      "haki": [],
+      "origin": "Sabaody Archipelago",
+      "image": "Kairiken.png"
+    },
+    {
+      "name": "Miss Monday",
+      "birthday": "01-24",
+      "romanized_name": "Misu Mandē",
+      "affiliation": "Baroque Works (former)",
+      "role": "Bounty Hunter",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Miss Monday.png"
+    },
+    {
+      "name": "Giolla",
+      "birthday": "01-25",
+      "romanized_name": "Jōra",
+      "affiliation": "Donquixote Pirates",
+      "role": "Officer",
+      "devil_fruit": {
+        "name": "Art-Art Fruit",
+        "japanese_name": "Ato Ato no Mi",
+        "type": "Paramecia",
+        "power": "Turn targets into abstract art"
+      },
+      "haki": [],
+      "origin": "North Blue",
+      "age": 61,
+      "height": "221 cm",
+      "image": "Giolla.png"
+    },
+    {
+      "name": "Kuromarimo",
+      "birthday": "01-26",
+      "romanized_name": "Kuromārimo",
+      "affiliation": "Bliking Pirates",
+      "role": "Staff Officer",
+      "haki": [],
+      "origin": "Grand Line (Drum Kingdom)",
+      "age": 30,
+      "height": "186 cm",
+      "image": "Kuromarimo.png"
+    },
+    {
+      "name": "Nero",
+      "birthday": "01-26",
+      "romanized_name": "Nero",
+      "epithet": "\"Sea Weasel\"",
+      "affiliation": "CP9 (former)",
+      "role": "New Recruit",
+      "haki": [],
+      "origin": "West Blue",
+      "age": 22,
+      "height": "202 cm",
+      "image": "Nero.png"
+    },
+    {
+      "name": "Charlotte Chiffon",
+      "birthday": "01-27",
+      "romanized_name": "Shārotto Shifon",
+      "affiliation": "Fire Tank Pirates",
+      "role": "Member / Minister of Puff (former)",
+      "haki": [],
+      "origin": "Grand Line (Totto Land)",
+      "age": 26,
+      "height": "215 cm",
+      "image": "Charlotte Chiffon.png"
+    },
+    {
+      "name": "Lola",
+      "birthday": "01-27",
+      "romanized_name": "Rōra",
+      "epithet": "\"Lola the Proposer\"",
+      "affiliation": "Fire Tank Pirates",
+      "role": "Captain (former)",
+      "bounty": "24,000,000",
+      "haki": [],
+      "origin": "Grand Line (Totto Land)",
+      "age": 26,
+      "height": "215 cm",
+      "image": "Lola (zombie).png"
+    },
+    {
+      "name": "Mansherry",
+      "birthday": "01-28",
+      "romanized_name": "Mansherī",
+      "affiliation": "Tontatta Kingdom",
+      "role": "Princess",
+      "devil_fruit": {
+        "name": "Heal-Heal Fruit",
+        "japanese_name": "Chiyu Chiyu no Mi",
+        "type": "Paramecia",
+        "power": "Heal living beings with tears"
+      },
+      "haki": [],
+      "origin": "Grand Line (Green Bit)",
+      "age": 25,
+      "height": "20 cm",
+      "image": "Mansherry.png"
+    },
+    {
+      "name": "Kin'emon",
+      "birthday": "01-29",
+      "romanized_name": "Kin'emon",
+      "epithet": "\"Foxfire\"",
+      "affiliation": "Kouzuki Family / Akazaya Nine",
+      "role": "Samurai / Retainer",
+      "devil_fruit": {
+        "name": "Garb-Garb Fruit",
+        "japanese_name": "Fuku Fuku no Mi",
+        "type": "Paramecia",
+        "power": "Create clothing and disguises"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Wano Country (Kuri)",
+      "age": 36,
+      "height": "295 cm",
+      "image": "Kin_emon (Kinemon).png"
+    },
+    {
+      "name": "Domo-kun",
+      "birthday": "01-30",
+      "romanized_name": "Dōmo-kun",
+      "affiliation": "Fake Straw Hat Crew",
+      "role": "Pet",
+      "haki": [],
+      "origin": "Unknown",
+      "image": "Domo-kun.png"
+    },
+    {
+      "name": "Suleiman",
+      "birthday": "01-30",
+      "romanized_name": "Sureiman",
+      "epithet": "\"The Beheader\"",
+      "affiliation": "Beautiful Pirates / Straw Hat Grand Fleet",
+      "role": "Combatant",
+      "bounty": "67,000,000",
+      "haki": [
+        "Observation Haki",
+        "Armament Haki"
+      ],
+      "origin": "South Blue",
+      "age": 40,
+      "height": "240 cm",
+      "image": "Suleiman.png"
+    },
+    {
+      "name": "Aladine",
+      "birthday": "01-31",
+      "romanized_name": "Aradin",
+      "affiliation": "Sun Pirates",
+      "role": "Captain / Doctor",
+      "haki": [],
+      "origin": "Grand Line (Ryugu Kingdom)",
+      "age": 46,
+      "height": "627 cm",
+      "image": "Aladine (Aladdin).png"
+    },
+    {
+      "name": "An Zengaiina",
+      "birthday": "01-31",
+      "romanized_name": "An Zengaina",
+      "affiliation": "Zengaiina Pirates",
+      "role": "Captain",
+      "haki": [],
+      "origin": "Unknown",
+      "image": "An Zengaiina (Ratherby Seifer).png"
+    },
+    {
+      "name": "Ipponmatsu",
+      "birthday": "01-31",
+      "romanized_name": "Ipponmatsu",
+      "affiliation": "Arms Shop",
+      "role": "Owner",
+      "haki": [],
+      "origin": "East Blue (Loguetown)",
+      "age": 40,
+      "height": "157 cm",
+      "image": "Ipponmatsu (Matsu).png"
+    }
+  ]
+}

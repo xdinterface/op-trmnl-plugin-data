@@ -1,0 +1,757 @@
+{
+  "characters": [
+    {
+      "name": "Aphelandra",
+      "birthday": "08-01",
+      "romanized_name": "Aferandora",
+      "affiliation": "Kuja Pirates",
+      "role": "Warrior",
+      "haki": [
+        "Armament Haki"
+      ],
+      "origin": "Calm Belt (Amazon Lily)",
+      "image": "Aphelandra.png"
+    },
+    {
+      "name": "Bishamon",
+      "birthday": "08-01",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Urouge",
+      "birthday": "08-01",
+      "romanized_name": "Urūji",
+      "epithet": "Mad Monk",
+      "affiliation": "Fallen Monk Pirates",
+      "role": "Captain",
+      "bounty": "108,000,000",
+      "devil_fruit": {
+        "name": "Unknown (Karma)",
+        "japanese_name": "Unknown",
+        "type": "Paramecia",
+        "power": "Convert damage to physical strength"
+      },
+      "haki": [],
+      "origin": "Sky Island",
+      "age": 47,
+      "height": "388 cm",
+      "image": "Urouge.png"
+    },
+    {
+      "name": "Époni",
+      "birthday": "08-02",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Yasopp",
+      "birthday": "08-02",
+      "romanized_name": "Yasoppu",
+      "epithet": "Chaser",
+      "affiliation": "Red Hair Pirates",
+      "role": "Sniper",
+      "bounty": "Unknown",
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "East Blue (Gecko Islands)",
+      "age": 47,
+      "height": "183 cm",
+      "image": "Yasopp (1).png"
+    },
+    {
+      "name": "Hanzo",
+      "birthday": "08-03",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Inazuma",
+      "birthday": "08-03",
+      "romanized_name": "Inazuma",
+      "affiliation": "Revolutionary Army",
+      "role": "Officer",
+      "devil_fruit": {
+        "name": "Snip-Snip Fruit",
+        "japanese_name": "Choki Choki no Mi",
+        "type": "Paramecia",
+        "power": "Turn hands into scissors"
+      },
+      "haki": [],
+      "origin": "South Blue",
+      "age": 29,
+      "height": "228 cm",
+      "image": "Inazuma.png"
+    },
+    {
+      "name": "Marshall D. Teach",
+      "birthday": "08-03",
+      "romanized_name": "Māsharu Dī Tīchi",
+      "epithet": "Blackbeard",
+      "affiliation": "Blackbeard Pirates",
+      "role": "Admiral / Emperor",
+      "bounty": "3,996,000,000",
+      "devil_fruit": {
+        "name": "Dark-Dark / Tremor-Tremor",
+        "japanese_name": "Yami Yami / Gura Gura",
+        "type": "Logia / Paramecia",
+        "power": "Darkness and earthquakes"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Grand Line",
+      "age": 40,
+      "height": "344 cm",
+      "image": "Marshall D. Teach (Blackbeard, Marshall D. Teech).png"
+    },
+    {
+      "name": "Amazon",
+      "birthday": "08-04",
+      "romanized_name": "Amazon",
+      "affiliation": "Skypiea",
+      "role": "Gatekeeper",
+      "haki": [],
+      "origin": "Grand Line (Skypiea)",
+      "age": 79,
+      "height": "120 cm",
+      "image": "Amazon.png"
+    },
+    {
+      "name": "Boss of the Earth",
+      "birthday": "08-04",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Rebecca",
+      "birthday": "08-04",
+      "romanized_name": "Rebekka",
+      "epithet": "The Undefeated Woman",
+      "affiliation": "Dressrosa",
+      "role": "Lady-in-waiting",
+      "haki": [
+        "Observation Haki"
+      ],
+      "origin": "Grand Line (Dressrosa)",
+      "age": 16,
+      "height": "171 cm",
+      "image": "Rebecca.png"
+    },
+    {
+      "name": "Gaimon",
+      "birthday": "08-05",
+      "romanized_name": "Gaimon",
+      "affiliation": "Island of Rare Animals",
+      "role": "Guardian",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 45,
+      "height": "130 cm",
+      "image": "Gaimon.png"
+    },
+    {
+      "name": "Octopako",
+      "birthday": "08-05",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Vasco Shot",
+      "birthday": "08-05",
+      "romanized_name": "Basuko Shotto",
+      "epithet": "Heavy Drinker",
+      "affiliation": "Blackbeard Pirates",
+      "role": "Titanic Captain",
+      "devil_fruit": {
+        "name": "Glug-Glug Fruit",
+        "japanese_name": "Gabu Gabu no Mi",
+        "type": "Paramecia",
+        "power": "Generate and manipulate alcohol"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "South Blue",
+      "age": 38,
+      "height": "573 cm",
+      "image": "Vasco Shot.png"
+    },
+    {
+      "name": "Blenheim",
+      "birthday": "08-06",
+      "romanized_name": "Burenhaimu",
+      "affiliation": "Whitebeard Pirates",
+      "role": "9th Division Commander",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Blenheim.png"
+    },
+    {
+      "name": "Gladius",
+      "birthday": "08-06",
+      "romanized_name": "Guradiusu",
+      "affiliation": "Donquixote Pirates",
+      "role": "Officer",
+      "bounty": "31,000,000",
+      "devil_fruit": {
+        "name": "Pop-Pop Fruit",
+        "japanese_name": "Pamu Pamu no Mi",
+        "type": "Paramecia",
+        "power": "Rupture non-living objects"
+      },
+      "haki": [],
+      "origin": "North Blue",
+      "age": 33,
+      "height": "260 cm",
+      "image": "Gladius.png"
+    },
+    {
+      "name": "Gomorrah",
+      "birthday": "08-06",
+      "romanized_name": "Gomora",
+      "affiliation": "Franky Family",
+      "role": "King Bull",
+      "haki": [],
+      "origin": "Unknown",
+      "image": "Sodom and Gomorrah.png"
+    },
+    {
+      "name": "Sodom",
+      "birthday": "08-06",
+      "romanized_name": "Sodomu",
+      "affiliation": "Franky Family",
+      "role": "King Bull",
+      "haki": [],
+      "origin": "Unknown",
+      "image": "Sodom and Gomorrah.png"
+    },
+    {
+      "name": "Bellamy",
+      "birthday": "08-07",
+      "romanized_name": "Beramī",
+      "epithet": "The Hyena",
+      "affiliation": "Bellamy Pirates (former)",
+      "role": "Dyer",
+      "bounty": "195,000,000",
+      "devil_fruit": {
+        "name": "Spring-Spring Fruit",
+        "japanese_name": "Bane Bane no Mi",
+        "type": "Paramecia",
+        "power": "Turn legs into springs"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "North Blue",
+      "age": 27,
+      "height": "240 cm",
+      "image": "Bellamy (post-timeskip).png"
+    },
+    {
+      "name": "Kaku",
+      "birthday": "08-07",
+      "romanized_name": "Kaku",
+      "epithet": "Mountain Wind",
+      "affiliation": "CP0",
+      "role": "Agent",
+      "devil_fruit": {
+        "name": "Ox-Ox Fruit, Model: Giraffe",
+        "japanese_name": "Ushi Ushi no Mi, Model: Giraffe",
+        "type": "Zoan",
+        "power": "Transform into a giraffe"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "East Blue",
+      "age": 25,
+      "height": "193 cm",
+      "image": "Kaku (CP9).png"
+    },
+    {
+      "name": "Buggy",
+      "birthday": "08-08",
+      "romanized_name": "Bagī",
+      "epithet": "The Star Clown",
+      "affiliation": "Cross Guild",
+      "role": "Emperor",
+      "bounty": "3,189,000,000",
+      "devil_fruit": {
+        "name": "Chop-Chop Fruit",
+        "japanese_name": "Bara Bara no Mi",
+        "type": "Paramecia",
+        "power": "Split body into pieces"
+      },
+      "haki": [],
+      "origin": "Grand Line",
+      "age": 39,
+      "height": "192 cm",
+      "image": "Buggy.png"
+    },
+    {
+      "name": "Hatchan",
+      "birthday": "08-08",
+      "romanized_name": "Hatchan",
+      "epithet": "Six Sword Style",
+      "affiliation": "Takoyaki 8",
+      "role": "Shop Owner",
+      "bounty": "8,000,000",
+      "haki": [],
+      "origin": "Grand Line (Fish-Man Island)",
+      "age": 38,
+      "height": "220 cm",
+      "image": "Hatchan (Hachi).png"
+    },
+    {
+      "name": "Yazaemon",
+      "birthday": "08-08",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Hack",
+      "birthday": "08-09",
+      "romanized_name": "Hakku",
+      "epithet": "Hundredth Dan",
+      "affiliation": "Revolutionary Army",
+      "role": "Instructor",
+      "haki": [],
+      "origin": "Grand Line (Fish-Man Island)",
+      "age": 38,
+      "height": "280 cm",
+      "image": "Hack.png"
+    },
+    {
+      "name": "Vegapunk",
+      "birthday": "08-09",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Wapol",
+      "birthday": "08-09",
+      "romanized_name": "Waporu",
+      "epithet": "Tin-Plate",
+      "affiliation": "Evil Black Drum Kingdom",
+      "role": "King",
+      "devil_fruit": {
+        "name": "Munch-Munch Fruit",
+        "japanese_name": "Baku Baku no Mi",
+        "type": "Paramecia",
+        "power": "Eat anything and integrate it into body"
+      },
+      "haki": [],
+      "origin": "Grand Line (Drum Kingdom)",
+      "age": 29,
+      "height": "207 cm",
+      "image": "Wapol.png"
+    },
+    {
+      "name": "Fujitora",
+      "birthday": "08-10",
+      "romanized_name": "Isshō",
+      "affiliation": "Marines",
+      "role": "Admiral",
+      "bounty": "3,000,000,000",
+      "devil_fruit": {
+        "name": "Press-Press Fruit",
+        "japanese_name": "Zushi Zushi no Mi",
+        "type": "Paramecia",
+        "power": "Manipulate gravity"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Grand Line",
+      "age": 54,
+      "height": "270 cm",
+      "image": "Issho (Fujitora).png"
+    },
+    {
+      "name": "Gedatsu",
+      "birthday": "08-10",
+      "romanized_name": "Gedatsu",
+      "epithet": "Sky Boss",
+      "affiliation": "Ukkari Hot-Spring Island",
+      "role": "Priest (former)",
+      "haki": [
+        "Observation Haki"
+      ],
+      "origin": "Sky Island (Birka)",
+      "age": 31,
+      "height": "220 cm",
+      "image": "Gedatsu.png"
+    },
+    {
+      "name": "Hattori",
+      "birthday": "08-10",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Dellinger",
+      "birthday": "08-11",
+      "romanized_name": "Derinjā",
+      "affiliation": "Donquixote Pirates",
+      "role": "Officer",
+      "bounty": "15,000,000",
+      "haki": [],
+      "origin": "North Blue",
+      "age": 16,
+      "height": "145 cm",
+      "image": "Dellinger.png"
+    },
+    {
+      "name": "Duval",
+      "birthday": "08-11",
+      "romanized_name": "Dyubaru",
+      "epithet": "Iron Mask",
+      "affiliation": "Rosy Life Riders",
+      "role": "Leader",
+      "haki": [],
+      "origin": "Grand Line",
+      "age": 25,
+      "height": "470 cm",
+      "image": "Duval.png"
+    },
+    {
+      "name": "Hajrudin",
+      "birthday": "08-12",
+      "romanized_name": "Hairudin",
+      "affiliation": "Straw Hat Grand Fleet",
+      "role": "Captain",
+      "haki": [],
+      "origin": "Grand Line (Elbaph)",
+      "age": 81,
+      "height": "2200 cm",
+      "image": "Hajrudin.png"
+    },
+    {
+      "name": "Don Sai",
+      "birthday": "08-13",
+      "romanized_name": "Sai",
+      "affiliation": "Straw Hat Grand Fleet",
+      "role": "13th Leader of Happo Navy",
+      "bounty": "210,000,000",
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "West Blue (Kano Country)",
+      "age": 28,
+      "height": "242 cm",
+      "image": "Sai.png"
+    },
+    {
+      "name": "Machvise",
+      "birthday": "08-13",
+      "romanized_name": "Mahhabaisu",
+      "affiliation": "Donquixote Pirates",
+      "role": "Officer",
+      "bounty": "11,000,000",
+      "devil_fruit": {
+        "name": "Ton-Ton Fruit",
+        "japanese_name": "Ton Ton no Mi",
+        "type": "Paramecia",
+        "power": "Increase body weight in tons"
+      },
+      "haki": [],
+      "origin": "North Blue",
+      "age": 52,
+      "height": "440 cm",
+      "image": "Machvise (Mach Vise).png"
+    },
+    {
+      "name": "Bomba",
+      "birthday": "08-14",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Giberson",
+      "birthday": "08-14",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Jean Ango",
+      "birthday": "08-14",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Pisaro",
+      "birthday": "08-14",
+      "romanized_name": "Pisaro",
+      "affiliation": "Arlong Pirates",
+      "role": "Musician",
+      "haki": [],
+      "origin": "Grand Line (Fish-Man Island)",
+      "image": "Pisaro.png"
+    },
+    {
+      "name": "Bentham",
+      "birthday": "08-15",
+      "romanized_name": "Bensamu",
+      "epithet": "Mr. 2 Bon Kurei",
+      "affiliation": "Newkama Land",
+      "role": "Queen",
+      "bounty": "32,000,000",
+      "devil_fruit": {
+        "name": "Clone-Clone Fruit",
+        "japanese_name": "Mane Mane no Mi",
+        "type": "Paramecia",
+        "power": "Impersonate anyone touched"
+      },
+      "haki": [],
+      "origin": "East Blue",
+      "age": 32,
+      "height": "238 cm",
+      "image": "Bentham (Mr. 2 Bon Kurei, Bon Clay).png"
+    },
+    {
+      "name": "Dr. Tsukimi",
+      "birthday": "08-15",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Sakazuki",
+      "birthday": "08-16",
+      "romanized_name": "Sakazuki",
+      "epithet": "Akainu",
+      "affiliation": "Marines",
+      "role": "Fleet Admiral",
+      "bounty": "5,000,000,000",
+      "devil_fruit": {
+        "name": "Mag-Mag Fruit",
+        "japanese_name": "Magu Magu no Mi",
+        "type": "Logia",
+        "power": "Control and transform into magma"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "North Blue",
+      "age": 55,
+      "height": "306 cm",
+      "image": "Sakazuki (Akainu) (attack).png"
+    },
+    {
+      "name": "Matsuge",
+      "birthday": "08-17",
+      "romanized_name": "Matsuge",
+      "affiliation": "Super Spot-Billed Duck Troops",
+      "role": "Transport",
+      "haki": [],
+      "origin": "Grand Line (Arabasta)",
+      "age": 17,
+      "height": "190 cm",
+      "image": "Matsuge (Eyelashes).png"
+    },
+    {
+      "name": "Pagaya",
+      "birthday": "08-17",
+      "romanized_name": "Pagaya",
+      "affiliation": "Skypiea",
+      "role": "Engineer",
+      "haki": [],
+      "origin": "Grand Line (Skypiea)",
+      "age": 54,
+      "height": "179 cm",
+      "image": "Pagaya.png"
+    },
+    {
+      "name": "Wiper",
+      "birthday": "08-18",
+      "romanized_name": "Waipā",
+      "epithet": "Berserker",
+      "affiliation": "Shandia / God's Guards",
+      "role": "Leader",
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Sky Island (Skypiea)",
+      "age": 24,
+      "height": "183 cm",
+      "image": "Wyper (post-timeskip).png"
+    },
+    {
+      "name": "Motobaro",
+      "birthday": "08-19",
+      "romanized_name": "Motobaro",
+      "affiliation": "Rosy Life Riders",
+      "role": "Pet (Bison)",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Motobaro (Motobalo).png"
+    },
+    {
+      "name": "Boo",
+      "birthday": "08-20",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Holdem",
+      "birthday": "08-21",
+      "romanized_name": "Hōrudemu",
+      "affiliation": "Beasts Pirates",
+      "role": "Headliner",
+      "devil_fruit": {
+        "name": "Artificial Zoan (Lion)",
+        "japanese_name": "SMILE",
+        "type": "SMILE",
+        "power": "Lion head on stomach"
+      },
+      "haki": [],
+      "origin": "Wano Country",
+      "age": 30,
+      "height": "312 cm",
+      "image": "Holed_em (Holdem).png"
+    },
+    {
+      "name": "Pound",
+      "birthday": "08-21",
+      "romanized_name": "Paundo",
+      "affiliation": "civilian",
+      "haki": [],
+      "origin": "Grand Line (New World)",
+      "age": 48,
+      "height": "731 cm (24'0\")",
+      "image": "Pound.png"
+    },
+    {
+      "name": "Take",
+      "birthday": "08-21",
+      "romanized_name": "Take",
+      "affiliation": "civilian",
+      "role": "Pirate; Commander of Parties",
+      "haki": [],
+      "origin": "Grand Line (Ryugu Kingdom, Fish-Man Island)",
+      "image": "Take.png"
+    },
+    {
+      "name": "Vander Decken IX",
+      "birthday": "08-22",
+      "romanized_name": "Bandā Dekken Kyūsei",
+      "affiliation": "civilian",
+      "role": "Pirate; Captain",
+      "bounty": "Unknown",
+      "haki": [],
+      "origin": "Grand Line (Ryugu Kingdom; Fish-Man Island)",
+      "age": 35,
+      "height": "352 cm (11'7\")",
+      "image": "Vander Decken IX.png"
+    },
+    {
+      "name": "Pell",
+      "birthday": "08-23",
+      "romanized_name": "Peru",
+      "epithet": "Pell the Falcon",
+      "affiliation": "Arabasta Kingdom",
+      "role": "Commander of Royal Guards",
+      "devil_fruit": {
+        "name": "Tori Tori no Mi, Model: Falcon",
+        "type": "Zoan",
+        "power": "Allows him to transform into a falcon, flight, enhanced speed and strength, talons in combat."
+      },
+      "haki": [],
+      "origin": "Grand Line (Arabasta Kingdom)",
+      "age": 35,
+      "height": "189 cm (6'2\")",
+      "image": "Pell.png"
+    },
+    {
+      "name": "Daigin",
+      "birthday": "08-24",
+      "romanized_name": "Daigin",
+      "affiliation": "civilian",
+      "role": "Commodore",
+      "bounty": "At least ★(At least 100,000,000)",
+      "haki": [],
+      "origin": "West Blue",
+      "image": "Daigin.png"
+    },
+    {
+      "name": "Kaya",
+      "birthday": "08-24",
+      "romanized_name": "Kaya",
+      "affiliation": "civilian",
+      "role": "Medical student",
+      "haki": [],
+      "origin": "East Blue (Gecko Islands)",
+      "age": 19,
+      "height": "169 cm (5'6\")",
+      "image": "Kaya.png"
+    },
+    {
+      "name": "Corgi",
+      "birthday": "08-25",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Gyatz",
+      "birthday": "08-26",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Monet",
+      "birthday": "08-27",
+      "romanized_name": "Mone",
+      "affiliation": "Caesar Clown (espionage); Donquixote Pirates",
+      "role": "Caesar's secretary (Undercover); Doflamingo's spy; Pirate Officer",
+      "devil_fruit": {
+        "name": "Yuki Yuki no Mi",
+        "type": "Logia",
+        "power": "Create, control, and transform her body into snow."
+      },
+      "haki": [],
+      "origin": "North Blue",
+      "age": 30,
+      "height": "227 cm (7'5\")",
+      "image": "Monet.png"
+    },
+    {
+      "name": "Hannyabal",
+      "birthday": "08-28",
+      "romanized_name": "Hannyabaru",
+      "affiliation": "civilian",
+      "role": "Chief Warden; Vice Warden (former)",
+      "haki": [],
+      "origin": "South Blue",
+      "age": 35,
+      "height": "309 cm (10'1\")",
+      "image": "Hannyabal (post-timeskip).png"
+    },
+    {
+      "name": "Farul",
+      "birthday": "08-29",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Curly Dadan",
+      "birthday": "08-30",
+      "romanized_name": "Kārī Dadan",
+      "affiliation": "civilian",
+      "role": "Mountain Bandit Boss; Caretaker of Monkey D. Luffy, Portgas D. Ace, and Sabo (former)",
+      "bounty": "7,800,000",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 55,
+      "height": "221 cm (7'3\")",
+      "image": "Curly Dadan.png"
+    },
+    {
+      "name": "Cavendish",
+      "birthday": "08-31",
+      "romanized_name": "Kyabendisshu",
+      "epithet": "\"Cavendish of the White Horse\" (白馬のキャベンディッシュ, Hakuba no Kyabendisshu?, VIZ: \"White Knight Cavendish\");\"Pirate Prince\" (海賊貴公子, Kaizoku Kikōshi?, VIZ: \"Pirate Noble\"; Funimation: \"Pirate Nobleman\")",
+      "affiliation": "civilian",
+      "role": "Captain of the First Ship of the Straw Hat Grand Fleet; Pirate Captain; Prince of the Bourgeois Kingdom (former)",
+      "bounty": "330,000,000280,000,000",
+      "haki": [],
+      "origin": "Grand Line (Bourgeois Kingdom)",
+      "age": 26,
+      "height": "208 cm (6'10\")",
+      "image": "Cavendish.png"
+    }
+  ]
+}

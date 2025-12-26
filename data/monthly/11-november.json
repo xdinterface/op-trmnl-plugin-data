@@ -1,0 +1,559 @@
+{
+  "characters": [
+    {
+      "name": "Dalmatian",
+      "birthday": "11-01",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Wanda",
+      "birthday": "11-01",
+      "romanized_name": "Wanda",
+      "affiliation": "Mokomo Dukedom",
+      "role": "Musketeer; Kingsbird (former)",
+      "haki": [],
+      "origin": "Grand Line (Mokomo Dukedom)",
+      "age": 28,
+      "height": "181 cm (5'11\")",
+      "image": "Wanda.png"
+    },
+    {
+      "name": "Judy",
+      "birthday": "11-02",
+      "romanized_name": "Judi",
+      "affiliation": "civilian",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Judy (Judi).png"
+    },
+    {
+      "name": "Koncelot",
+      "birthday": "11-02",
+      "romanized_name": "Konsurotto",
+      "affiliation": "Mokomo Dukedom",
+      "role": "Musketeer",
+      "haki": [],
+      "origin": "Grand Line (Mokomo Dukedom)",
+      "age": 29,
+      "height": "204 cm (6'8\")",
+      "image": "Concelot.png"
+    },
+    {
+      "name": "Marie",
+      "birthday": "11-02",
+      "romanized_name": "Marī",
+      "affiliation": "civilian",
+      "role": "Slave; Nurse (former)",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Marie.png"
+    },
+    {
+      "name": "Camie",
+      "birthday": "11-03",
+      "romanized_name": "Keimī",
+      "affiliation": "Mermaid Cafe",
+      "role": "Waitress",
+      "haki": [],
+      "origin": "Grand Line (Fish-Man Island)",
+      "age": 18,
+      "height": "197 cm (6'6\")",
+      "image": "Camie (Keimi).png"
+    },
+    {
+      "name": "Yamato",
+      "birthday": "11-03",
+      "romanized_name": "Yamato",
+      "epithet": "\"Oni Princess\" (鬼姫, Onihime?, VIZ: \"Ogre Princess\")",
+      "affiliation": "civilian",
+      "haki": [],
+      "age": 28,
+      "height": "263 cm (8'8\")",
+      "image": "Yamato.png"
+    },
+    {
+      "name": "Kashigami",
+      "birthday": "11-04",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Fisher Tiger",
+      "birthday": "11-05",
+      "romanized_name": "Fisshā Taigā",
+      "epithet": "The Adventurer",
+      "affiliation": "Sun Pirates",
+      "role": "Captain; Hero of Slaves",
+      "bounty": "230,000,000",
+      "haki": [],
+      "origin": "Grand Line (Fish-Man Island)",
+      "age": 48,
+      "height": "520 cm (17'1\")",
+      "image": "Fisher Tiger.png"
+    },
+    {
+      "name": "Ryuma",
+      "birthday": "11-06",
+      "romanized_name": "Shimotsuki Ryūma",
+      "epithet": "Sword God",
+      "affiliation": "Wano Country; Shimotsuki Family",
+      "role": "Samurai",
+      "haki": [
+        "Busoshoku"
+      ],
+      "origin": "Wano Country",
+      "age": 47,
+      "height": "179 cm (5'10\")",
+      "image": "Shimotsuki Ryuma.png"
+    },
+    {
+      "name": "Cocoa",
+      "birthday": "11-07",
+      "romanized_name": "Kokoa",
+      "affiliation": "Fake Straw Hat Crew",
+      "role": "Pirate (Impersonated Nico Robin)",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 27,
+      "height": "138 cm (4'6\")",
+      "image": "Cocoa (Fake Robin).png"
+    },
+    {
+      "name": "Holy",
+      "birthday": "11-07",
+      "romanized_name": "Hōrī",
+      "affiliation": "God's Army",
+      "role": "Pet",
+      "haki": [],
+      "origin": "Skypiea",
+      "image": "Holy (Holly).png"
+    },
+    {
+      "name": "Carue",
+      "birthday": "11-08",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Shamba",
+      "birthday": "11-08",
+      "romanized_name": "Shanba",
+      "affiliation": "Torino Kingdom",
+      "role": "Inhabitant",
+      "haki": [],
+      "origin": "South Blue (Torino Kingdom)",
+      "image": "Shanba (Shamba).png"
+    },
+    {
+      "name": "Albion",
+      "birthday": "11-09",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Benn Beckman",
+      "birthday": "11-09",
+      "romanized_name": "Ben Bekkuman",
+      "affiliation": "civilian",
+      "role": "Pirate; First Mate",
+      "bounty": "Unknown",
+      "haki": [],
+      "origin": "North Blue",
+      "age": 50,
+      "height": "206 cm (6'9\")",
+      "image": "Benn Beckman (Ben Beckman) (1).png"
+    },
+    {
+      "name": "St. Jalmack",
+      "birthday": "11-09",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Yosaku",
+      "birthday": "11-10",
+      "romanized_name": "Yosaku",
+      "affiliation": "Johnny",
+      "role": "Fisherman; Bounty Hunter (former)",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 26,
+      "height": "185 cm (6'1\")",
+      "image": "Yosaku.png"
+    },
+    {
+      "name": "Jozu",
+      "birthday": "11-11",
+      "romanized_name": "Jozu",
+      "epithet": "\"Diamond\" Jozu (ダイヤモンド・ジョズ, Daiyamondo Jozu?)",
+      "affiliation": "civilian",
+      "role": "Pirate; 3rd Division Commander",
+      "bounty": "Unknown",
+      "haki": [],
+      "origin": "West Blue",
+      "age": 42,
+      "height": "503 cm (16'6\")",
+      "image": "Jozu.png"
+    },
+    {
+      "name": "Roronoa Zoro",
+      "birthday": "11-11",
+      "romanized_name": "Roronoa Zoro",
+      "epithet": "\"Pirate Hunter Zoro\" (海賊狩りのゾロ, Kaizoku Gari no Zoro?)",
+      "affiliation": "Straw Hat Pirates",
+      "role": "Master Swordsman; Pirate; Crew Combatant; Senior Officer; Rōnin (temporary); Bounty Hunter (former)",
+      "bounty": "1,111,000,000320,000,000120,000,00060,000,000",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 21,
+      "height": "178 cm (5'10\") (debut)181 cm (5'11\") (after timeskip)",
+      "image": "Roronoa Zoro (Roronoa Zolo) (Thriller Bark).png"
+    },
+    {
+      "name": "Soro",
+      "birthday": "11-11",
+      "romanized_name": "Sōro",
+      "affiliation": "civilian",
+      "role": "Pet",
+      "haki": [],
+      "origin": "East Blue",
+      "image": "Soro (Solo).png"
+    },
+    {
+      "name": "Zeo",
+      "birthday": "11-11",
+      "romanized_name": "Zeo",
+      "epithet": "\"Noble of the Fish-Man District\" (魚人街の貴族, Gyojin-gai no Kizoku?)",
+      "affiliation": "civilian",
+      "role": "Pirate; Pirate Officer",
+      "haki": [],
+      "origin": "Grand Line (Ryugu Kingdom; Fish-Man Island)",
+      "age": 30,
+      "height": "325 cm (10'8\")",
+      "image": "Zeo.png"
+    },
+    {
+      "name": "Johnny",
+      "birthday": "11-12",
+      "romanized_name": "Jonī",
+      "affiliation": "civilian",
+      "role": "Bounty Hunter (former); Fisherman",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 25,
+      "height": "186 cm (6'1\")",
+      "image": "Johnny.png"
+    },
+    {
+      "name": "Kingdew",
+      "birthday": "11-13",
+      "romanized_name": "Kingudyū",
+      "epithet": "Twin-Gauntlet Kingdew",
+      "affiliation": "Whitebeard Pirates",
+      "role": "11th Division Commander",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Kingdew.png"
+    },
+    {
+      "name": "Coffee Monkeys",
+      "birthday": "11-14",
+      "romanized_name": "Kōhī Monkīzu",
+      "affiliation": "civilian",
+      "role": "Kidnappers",
+      "haki": [],
+      "image": "Coffee Monkeys.png"
+    },
+    {
+      "name": "Negikuma Maria",
+      "birthday": "11-14",
+      "romanized_name": "Negikuma Maria",
+      "affiliation": "civilian",
+      "role": "Housewife",
+      "haki": [],
+      "origin": "Grand Line (Drum Island)",
+      "age": 43,
+      "image": "Negikuma Maria (Maria Onion Bear, Mrs. Negi, Big Mama).png"
+    },
+    {
+      "name": "Raideen",
+      "birthday": "11-14",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Ririka",
+      "birthday": "11-15",
+      "romanized_name": "Ririka",
+      "affiliation": "civilian",
+      "role": "Bartender",
+      "haki": [],
+      "origin": "East Blue",
+      "image": "Ririka.png"
+    },
+    {
+      "name": "Porche",
+      "birthday": "11-16",
+      "romanized_name": "Poruche",
+      "affiliation": "Foxy Pirates",
+      "role": "Pirate; Combatant",
+      "haki": [],
+      "image": "Porche, Capote, and Monda.png"
+    },
+    {
+      "name": "Charlotte Maple",
+      "birthday": "11-17",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Marble",
+      "birthday": "11-17",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Mobile",
+      "birthday": "11-17",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Myukuru",
+      "birthday": "11-17",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Moodie",
+      "birthday": "11-17",
+      "romanized_name": "Mūdi",
+      "affiliation": "civilian",
+      "haki": [],
+      "origin": "East Blue",
+      "image": "Moodie.png"
+    },
+    {
+      "name": "Higuma",
+      "birthday": "11-18",
+      "romanized_name": "Higuma",
+      "affiliation": "Higuma Bandits",
+      "role": "Bandit Leader",
+      "bounty": "8,000,000",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 46,
+      "height": "190 cm (6'3\")",
+      "image": "Higuma.png"
+    },
+    {
+      "name": "Brontosaurus",
+      "birthday": "11-19",
+      "romanized_name": "Burontozaurusu",
+      "affiliation": "civilian",
+      "haki": [],
+      "origin": "Grand Line (Little Garden)",
+      "image": "Brontosaurus.png"
+    },
+    {
+      "name": "Onimaru",
+      "birthday": "11-19",
+      "romanized_name": "Onimaru",
+      "epithet": "\"Gyukimaru on Oihagi Bridge\" (おいはぎ橋の牛鬼丸, Oihagi-bashi no Gyūkimaru?, Viz: \"Gyukimaru on Bandit's Bridge\")",
+      "affiliation": "civilian",
+      "role": "Warrior Monk; Highway Robber; Pet (former)",
+      "haki": [],
+      "origin": "Grand Line (Wano Country)",
+      "age": 69,
+      "height": "428 cm (14'1\") (Human form)",
+      "image": "Onimaru (Gyukimaru).png"
+    },
+    {
+      "name": "Bepo",
+      "birthday": "11-20",
+      "romanized_name": "Bepo",
+      "affiliation": "civilian",
+      "role": "Pirate; Navigator; Guardians' helper",
+      "bounty": "1,500500",
+      "haki": [],
+      "origin": "Zou (Mokomo Dukedom)",
+      "age": 22,
+      "height": "240 cm (7'10\")",
+      "image": "Bepo.png"
+    },
+    {
+      "name": "Mr. 11",
+      "birthday": "11-21",
+      "romanized_name": "Misutā Irebun",
+      "affiliation": "civilian",
+      "role": "Frontier Agent",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Mr. 11.png"
+    },
+    {
+      "name": "Mummy Mee",
+      "birthday": "11-21",
+      "romanized_name": "Mamīmī",
+      "affiliation": "civilian",
+      "role": "Housemother",
+      "haki": [],
+      "origin": "East Blue (Conomi Islands)",
+      "image": "Mummy Mee (Mameemee).png"
+    },
+    {
+      "name": "Nekomamushi",
+      "birthday": "11-22",
+      "romanized_name": "Nekomamushi",
+      "epithet": "\"Master Nekomamushi\" (ネコマムシの旦那, Nekomamushi no Dan'na?, Viz: \"Cat Viper\" Funimation: \"Master Cat Viper\")\"Ruler of Night\" (夜の王, Yoru no Ō?, Simulcast subs: \"King of Night\")",
+      "affiliation": "civilian",
+      "role": "Yakuza Boss; Ruler of Mokomo Dukedom (former); Guardian of the Whale Forest (former); Retainer; Samurai; Pirate Apprentice (former)",
+      "haki": [],
+      "origin": "Grand Line (Mokomo Dukedom)",
+      "age": 40,
+      "height": "522 cm (17'1\")",
+      "image": "Nekomamushi (Cat Viper).png"
+    },
+    {
+      "name": "Shushu",
+      "birthday": "11-22",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Ankoro",
+      "birthday": "11-23",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Kentauros",
+      "birthday": "11-23",
+      "romanized_name": "Kentarousu",
+      "affiliation": "Arabasta",
+      "role": "Super Spot-Billed Duck Troops",
+      "haki": [],
+      "origin": "Arabasta",
+      "age": 15,
+      "height": "157 cm",
+      "image": "Kentauros (Centaur).png"
+    },
+    {
+      "name": "Kizaru",
+      "birthday": "11-23",
+      "romanized_name": "Borusarīno",
+      "affiliation": "civilian",
+      "role": "Admiral; Vice Admiral (former)",
+      "bounty": "(3,000,000,000)",
+      "haki": [],
+      "origin": "North Blue",
+      "age": 58,
+      "height": "302 cm (9'11\")",
+      "image": "Borsalino (Kizaru).png"
+    },
+    {
+      "name": "Ran",
+      "birthday": "11-24",
+      "romanized_name": "Ran",
+      "affiliation": "Kuja Pirates",
+      "role": "Pirate",
+      "haki": [
+        "Busoshoku",
+        "Kenbunshoku"
+      ],
+      "origin": "Calm Belt (Amazon Lily)",
+      "image": "Ran.png"
+    },
+    {
+      "name": "Charlotte Daifuku",
+      "birthday": "11-25",
+      "romanized_name": "Shārotto Daifuku",
+      "affiliation": "Charlotte Family; Big Mom Pirates",
+      "role": "Pirate Officer; Minister of Beans",
+      "bounty": "300,000,000",
+      "devil_fruit": {
+        "name": "Hoya Hoya no Mi",
+        "type": "Paramecia",
+        "power": "Allows him to summon a halberd-wielding genie from his body by rubbing his belly."
+      },
+      "haki": [
+        "Busoshoku",
+        "Kenbunshoku"
+      ],
+      "origin": "Grand Line (On a boat)",
+      "age": 48,
+      "height": "489 cm (16'0\")",
+      "image": "Charlotte Daifuku.png"
+    },
+    {
+      "name": "Charlotte Katakuri",
+      "birthday": "11-25",
+      "romanized_name": "Shārotto Katakuri",
+      "affiliation": "civilian",
+      "role": "Sweet Commander; Minister of Flour",
+      "bounty": "1,057,000,000",
+      "haki": [],
+      "origin": "Grand Line (On a boat)",
+      "age": 48,
+      "height": "509 cm (16'8\")",
+      "image": "Charlotte Katakuri.png"
+    },
+    {
+      "name": "Charlotte Oven",
+      "birthday": "11-25",
+      "romanized_name": "Shārotto Ōbun",
+      "affiliation": "civilian",
+      "role": "Pirate Officer; Minister of Browned Food",
+      "bounty": "300,000,000",
+      "haki": [],
+      "origin": "Grand Line (On a boat)",
+      "age": 48,
+      "height": "492 cm (16'2\")",
+      "image": "Charlotte Oven.png"
+    },
+    {
+      "name": "Goro",
+      "birthday": "11-26",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Blue Gilly",
+      "birthday": "11-27",
+      "romanized_name": "Burū Girī",
+      "affiliation": "Ideo Pirates",
+      "role": "Martial Artist; Pirate",
+      "haki": [],
+      "origin": "Grand Line",
+      "age": 24,
+      "height": "314 cm (10'3½\")",
+      "image": "Blue Gilly.png"
+    },
+    {
+      "name": "Tank Lepanto",
+      "birthday": "11-28",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Agyo",
+      "birthday": "11-29",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Bacura",
+      "birthday": "11-29",
+      "romanized_name": "Bakyura",
+      "affiliation": "Kuja Pirates",
+      "role": "Pet; Executioner",
+      "haki": [],
+      "origin": "Calm Belt (Amazon Lily)",
+      "image": "Bacura (Bakula).png"
+    },
+    {
+      "name": "Cerberus",
+      "birthday": "11-29",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Vinsmoke Reiju",
+      "birthday": "11-30",
+      "romanized_name": "Vinsumōku Reiju",
+      "epithet": "\"Poison Pink\" (ポイズンピンク, Poizun Pinku?)",
+      "affiliation": "civilian",
+      "role": "Princess; Mercenary",
+      "haki": [],
+      "origin": "North Blue (Germa Kingdom)",
+      "age": 24,
+      "height": "173 cm (5'8\")",
+      "image": "Vinsmoke Reiju.png"
+    }
+  ]
+}

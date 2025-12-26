@@ -1,0 +1,750 @@
+{
+  "characters": [
+    {
+      "name": "Kashi",
+      "birthday": "04-01",
+      "romanized_name": "Kashi",
+      "affiliation": "Giant Warrior Pirates",
+      "role": "Gatekeeper (former)",
+      "haki": [],
+      "origin": "Grand Line (Elbaph)",
+      "age": 156,
+      "height": "1700 cm",
+      "image": "Kashii.png"
+    },
+    {
+      "name": "Kerville",
+      "birthday": "04-01",
+      "romanized_name": "Karebiru",
+      "affiliation": "Baskerville",
+      "role": "Chief Justice",
+      "haki": [],
+      "origin": "Grand Line",
+      "age": 42,
+      "height": "512 cm",
+      "image": "Bas, Kerville, and Princess.png"
+    },
+    {
+      "name": "Usopp",
+      "birthday": "04-01",
+      "romanized_name": "Usoppu",
+      "epithet": "\"God\"",
+      "affiliation": "Straw Hat Pirates",
+      "role": "Sniper",
+      "bounty": "500,000,000",
+      "haki": [
+        "Observation Haki"
+      ],
+      "origin": "East Blue",
+      "age": 19,
+      "height": "176 cm",
+      "image": "Usopp.png"
+    },
+    {
+      "name": "Jinbe",
+      "birthday": "04-02",
+      "romanized_name": "Jinbē",
+      "epithet": "\"Knight of the Sea\"",
+      "affiliation": "Straw Hat Pirates",
+      "role": "Helmsman",
+      "bounty": "1,100,000,000",
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Grand Line (Fish-Man Island)",
+      "age": 46,
+      "height": "301 cm",
+      "image": "Jinbe (Jimbei).png"
+    },
+    {
+      "name": "Zeff",
+      "birthday": "04-02",
+      "romanized_name": "Zefu",
+      "epithet": "\"Red-Leg\"",
+      "affiliation": "Baratie",
+      "role": "Head Chef",
+      "haki": [
+        "Armament Haki"
+      ],
+      "origin": "East Blue",
+      "age": 67,
+      "height": "189 cm",
+      "image": "Zeff.png"
+    },
+    {
+      "name": "Brook",
+      "birthday": "04-03",
+      "romanized_name": "Burukku",
+      "epithet": "\"Soul King\"",
+      "affiliation": "Straw Hat Pirates",
+      "role": "Musician / Swordsman",
+      "bounty": "383,000,000",
+      "devil_fruit": {
+        "name": "Revive-Revive Fruit",
+        "japanese_name": "Yomi Yomi no Mi",
+        "type": "Paramecia",
+        "power": "Come back to life / Soul control"
+      },
+      "haki": [],
+      "origin": "West Blue",
+      "age": 90,
+      "height": "277 cm",
+      "image": "Brook.png"
+    },
+    {
+      "name": "Monda",
+      "birthday": "04-03",
+      "romanized_name": "Monda",
+      "affiliation": "Foxy Pirates",
+      "role": "Pet (Shark)",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Porche, Capote, and Monda.png"
+    },
+    {
+      "name": "Porchemi",
+      "birthday": "04-03",
+      "romanized_name": "Porushēmi",
+      "affiliation": "Bluejam Pirates",
+      "role": "Member",
+      "bounty": "3,400,000",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 25,
+      "height": "320 cm",
+      "image": "Porchemy.png"
+    },
+    {
+      "name": "Foxy",
+      "birthday": "04-04",
+      "romanized_name": "Fokushī",
+      "epithet": "\"Silver Fox\"",
+      "affiliation": "Foxy Pirates",
+      "role": "Captain",
+      "bounty": "24,000,000",
+      "devil_fruit": {
+        "name": "Slow-Slow Fruit",
+        "japanese_name": "Noro Noro no Mi",
+        "type": "Paramecia",
+        "power": "Slow down time with beams"
+      },
+      "haki": [],
+      "origin": "South Blue",
+      "age": 38,
+      "height": "180 cm",
+      "image": "Foxy.png"
+    },
+    {
+      "name": "Shirahoshi",
+      "birthday": "04-04",
+      "romanized_name": "Shirahoshi",
+      "epithet": "\"Mermaid Princess\" / Poseidon",
+      "affiliation": "Ryugu Kingdom",
+      "role": "Princess / Ancient Weapon",
+      "haki": [
+        "Observation Haki"
+      ],
+      "origin": "Grand Line (Ryugu Kingdom)",
+      "age": 16,
+      "height": "1187 cm",
+      "image": "Shirahoshi.png"
+    },
+    {
+      "name": "Shishilian",
+      "birthday": "04-04",
+      "romanized_name": "Shishirian",
+      "epithet": "\"Full Power\"",
+      "affiliation": "Mokomo Dukedom",
+      "role": "Captain of Musketeers",
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Grand Line (Zou)",
+      "age": 34,
+      "height": "196 cm",
+      "image": "Shishilian.png"
+    },
+    {
+      "name": "Minister of the Right",
+      "birthday": "04-05",
+      "romanized_name": "Udaijin",
+      "affiliation": "Ryugu Kingdom",
+      "role": "Minister",
+      "haki": [],
+      "origin": "Grand Line (Ryugu Kingdom)",
+      "age": 55,
+      "height": "313 cm",
+      "image": "Minister of the Right.png"
+    },
+    {
+      "name": "Yamakaji",
+      "birthday": "04-05",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Edward Newgate",
+      "birthday": "04-06",
+      "romanized_name": "Edowādo Nyūgēto",
+      "epithet": "\"Whitebeard\"",
+      "affiliation": "Whitebeard Pirates",
+      "role": "Captain / Emperor",
+      "bounty": "5,046,000,000",
+      "devil_fruit": {
+        "name": "Tremor-Tremor Fruit",
+        "japanese_name": "Gura Gura no Mi",
+        "type": "Paramecia",
+        "power": "Create earthquakes"
+      },
+      "haki": [
+        "Conqueror's Haki",
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Grand Line (Sphinx)",
+      "age": 72,
+      "height": "666 cm",
+      "image": "Edward Newgate (Whitebeard) (sitting).png"
+    },
+    {
+      "name": "Jean Bart",
+      "birthday": "04-06",
+      "romanized_name": "Janbāru",
+      "affiliation": "Heart Pirates",
+      "role": "Pirate",
+      "haki": [],
+      "origin": "Unknown",
+      "image": "Jean Bart.png"
+    },
+    {
+      "name": "Speed Jiru",
+      "birthday": "04-06",
+      "romanized_name": "Supīdo Jiru",
+      "affiliation": "Whitebeard Pirates",
+      "role": "14th Division Commander",
+      "haki": [],
+      "origin": "East Blue",
+      "image": "Speed Jiru (Speed Jil).png"
+    },
+    {
+      "name": "Gin",
+      "birthday": "04-07",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Shachi",
+      "birthday": "04-07",
+      "romanized_name": "Shachi",
+      "affiliation": "Heart Pirates",
+      "role": "Pirate",
+      "haki": [],
+      "origin": "North Blue",
+      "age": 27,
+      "image": "Shachi.png"
+    },
+    {
+      "name": "Bourbon Jr.",
+      "birthday": "04-08",
+      "romanized_name": "Bābon Junia",
+      "affiliation": "Whitebeard Pirates",
+      "role": "Doctor",
+      "haki": [],
+      "origin": "Unknown",
+      "image": "Bourbon Jr..png"
+    },
+    {
+      "name": "Buffalo",
+      "birthday": "04-08",
+      "romanized_name": "Baffarō",
+      "affiliation": "Donquixote Pirates",
+      "role": "Officer",
+      "devil_fruit": {
+        "name": "Spin-Spin Fruit",
+        "japanese_name": "Guru Guru no Mi",
+        "type": "Paramecia",
+        "power": "Spin body parts like propellers"
+      },
+      "haki": [],
+      "origin": "North Blue",
+      "age": 30,
+      "height": "696 cm",
+      "image": "Buffalo.png"
+    },
+    {
+      "name": "Clover",
+      "birthday": "04-08",
+      "romanized_name": "Kurōbā",
+      "epithet": "Dr. Clover",
+      "affiliation": "Ohara",
+      "role": "Archaeologist / Director",
+      "haki": [],
+      "origin": "West Blue (Ohara)",
+      "age": 85,
+      "height": "172 cm",
+      "image": "Clover.png"
+    },
+    {
+      "name": "Megalo",
+      "birthday": "04-08",
+      "romanized_name": "Megaro",
+      "affiliation": "Ryugu Kingdom",
+      "role": "Pet (Shark)",
+      "haki": [],
+      "origin": "Grand Line (Ryugu Kingdom)",
+      "image": "Megalo.png"
+    },
+    {
+      "name": "Caesar Clown",
+      "birthday": "04-09",
+      "romanized_name": "Shīzā Kuraun",
+      "epithet": "\"Master\"",
+      "affiliation": "MADS (former) / Donquixote Pirates (former)",
+      "role": "Scientist",
+      "bounty": "300,000,000",
+      "devil_fruit": {
+        "name": "Gas-Gas Fruit",
+        "japanese_name": "Gasu Gasu no Mi",
+        "type": "Logia",
+        "power": "Control and transform into gas"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Grand Line",
+      "age": 55,
+      "height": "309 cm",
+      "image": "Caesar Clown (Gangster Gastino).png"
+    },
+    {
+      "name": "Marguerite",
+      "birthday": "04-09",
+      "romanized_name": "Māgaretto",
+      "affiliation": "Kuja Pirates",
+      "role": "Pirate",
+      "haki": [
+        "Armament Haki"
+      ],
+      "origin": "Calm Belt (Amazon Lily)",
+      "age": 18,
+      "height": "178 cm",
+      "image": "Marguerite (Margaret).png"
+    },
+    {
+      "name": "Mohmoo",
+      "birthday": "04-09",
+      "romanized_name": "Mōmu",
+      "affiliation": "Caribou Pirates / Arlong Pirates (former)",
+      "role": "Sea Cow / Pet",
+      "haki": [],
+      "origin": "Grand Line",
+      "height": "3600 cm",
+      "image": "Momoo.png"
+    },
+    {
+      "name": "Piiman",
+      "birthday": "04-09",
+      "romanized_name": "Pīman",
+      "affiliation": "Usopp Pirates (former)",
+      "role": "Member (former)",
+      "haki": [],
+      "origin": "East Blue (Syrup Village)",
+      "age": 11,
+      "height": "120 cm",
+      "image": "Piiman (Pepper).png"
+    },
+    {
+      "name": "Yorki",
+      "birthday": "04-09",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Ashura Douji",
+      "birthday": "04-10",
+      "affiliation": "civilian",
+      "image": "Ashura Doji.png"
+    },
+    {
+      "name": "Boss of the Forest",
+      "birthday": "04-10",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Nora Gitsune",
+      "birthday": "04-10",
+      "romanized_name": "Nora Gitsune",
+      "affiliation": "Fake Straw Hat Crew",
+      "role": "Pet",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 13,
+      "height": "103 cm",
+      "image": "Nora Gitsune (Fake Chopper, Stray Fox).png"
+    },
+    {
+      "name": "Tamanegi",
+      "birthday": "04-10",
+      "romanized_name": "Tamanegi",
+      "affiliation": "Usopp Pirates (former)",
+      "role": "Member (former)",
+      "haki": [],
+      "origin": "East Blue (Syrup Village)",
+      "age": 11,
+      "height": "124 cm",
+      "image": "Tamanegi (Onion).png"
+    },
+    {
+      "name": "Pekoms",
+      "birthday": "04-11",
+      "romanized_name": "Pekomuzu",
+      "affiliation": "Big Mom Pirates",
+      "role": "Combatant",
+      "bounty": "330,000,000",
+      "devil_fruit": {
+        "name": "Turtle-Turtle Fruit",
+        "japanese_name": "Kame Kame no Mi",
+        "type": "Zoan",
+        "power": "Transform into a turtle"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Grand Line (Zou)",
+      "age": 27,
+      "height": "232 cm",
+      "image": "Pekoms.png"
+    },
+    {
+      "name": "Bakkin",
+      "birthday": "04-12",
+      "romanized_name": "Misu Bakkin",
+      "epithet": "Miss Buckingham Stussy",
+      "affiliation": "Rocks Pirates (former)",
+      "role": "Pirate",
+      "haki": [],
+      "origin": "Grand Line",
+      "age": 76,
+      "height": "68 cm",
+      "image": "Buckingham Stussy.png"
+    },
+    {
+      "name": "Cowboy",
+      "birthday": "04-12",
+      "romanized_name": "Kaubōi",
+      "affiliation": "None",
+      "role": "Background Character",
+      "haki": [],
+      "origin": "Unknown",
+      "image": "Cowboy.png"
+    },
+    {
+      "name": "Morgan",
+      "birthday": "04-13",
+      "romanized_name": "Mōgan",
+      "epithet": "\"Axe-Hand\"",
+      "affiliation": "Marines (former)",
+      "role": "Captain (former)",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 44,
+      "height": "285 cm",
+      "image": "Morgan.png"
+    },
+    {
+      "name": "Hody Jones",
+      "birthday": "04-14",
+      "romanized_name": "Hōdi Jōnzu",
+      "affiliation": "New Fish-Man Pirates",
+      "role": "Captain",
+      "haki": [],
+      "origin": "Grand Line (Fish-Man Island)",
+      "age": 30,
+      "height": "331 cm",
+      "image": "Hody Jones (Hordy Jones).png"
+    },
+    {
+      "name": "Fossa",
+      "birthday": "04-15",
+      "romanized_name": "Fossa",
+      "affiliation": "Whitebeard Pirates",
+      "role": "15th Division Commander",
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "North Blue",
+      "image": "Fossa.png"
+    },
+    {
+      "name": "Stronger",
+      "birthday": "04-16",
+      "romanized_name": "Sutorongā",
+      "affiliation": "Blackbeard Pirates",
+      "role": "Horse",
+      "devil_fruit": {
+        "name": "Horse-Horse Fruit, Model: Pegasus",
+        "japanese_name": "Uma Uma no Mi, Model: Pegasus",
+        "type": "Mythical Zoan",
+        "power": "Transform into a pegasus"
+      },
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Doc Q and Stronger.png"
+    },
+    {
+      "name": "Charlotte Anana",
+      "birthday": "04-17",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Hyouzou",
+      "birthday": "04-18",
+      "romanized_name": "Hyōzō",
+      "affiliation": "New Fish-Man Pirates",
+      "role": "Mercenary / Assassin",
+      "haki": [],
+      "origin": "Grand Line (Fish-Man Island)",
+      "age": 39,
+      "height": "327 cm",
+      "image": "Hyouzou.png"
+    },
+    {
+      "name": "Sham",
+      "birthday": "04-19",
+      "romanized_name": "Shamu",
+      "epithet": "Nyaban Brothers",
+      "affiliation": "Black Cat Pirates",
+      "role": "Ship Guard",
+      "bounty": "7,000,000",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 23,
+      "height": "201 cm",
+      "image": "Sham (Siam).png"
+    },
+    {
+      "name": "Blueno",
+      "birthday": "04-20",
+      "romanized_name": "Burūno",
+      "affiliation": "CP0 / CP9 (former)",
+      "role": "Agent",
+      "devil_fruit": {
+        "name": "Door-Door Fruit",
+        "japanese_name": "Doa Doa no Mi",
+        "type": "Paramecia",
+        "power": "Create doors on any surface"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "North Blue",
+      "age": 32,
+      "height": "258 cm",
+      "image": "Blueno.png"
+    },
+    {
+      "name": "Island Eater",
+      "birthday": "04-21",
+      "romanized_name": "Shimakui",
+      "affiliation": "None",
+      "role": "Sea King",
+      "haki": [],
+      "origin": "Grand Line",
+      "height": "71500 cm",
+      "image": "Island Eater.png"
+    },
+    {
+      "name": "Ucy",
+      "birthday": "04-21",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Kuro",
+      "birthday": "04-22",
+      "romanized_name": "Kuro",
+      "epithet": "\"Kuro of a Hundred Plans\"",
+      "affiliation": "Black Cat Pirates",
+      "role": "Captain",
+      "bounty": "16,000,000",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 35,
+      "height": "207 cm",
+      "image": "Kuro (Klahadore).png"
+    },
+    {
+      "name": "Charlotte Mont-d'Or",
+      "birthday": "04-23",
+      "romanized_name": "Shārotto Mondōru",
+      "epithet": "\"The Scribe\"",
+      "affiliation": "Charlotte Family",
+      "role": "Minister of Cheese",
+      "bounty": "120,000,000",
+      "devil_fruit": {
+        "name": "Book-Book Fruit",
+        "japanese_name": "Buku Buku no Mi",
+        "type": "Paramecia",
+        "power": "Control books and trap people in them"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Grand Line (Totto Land)",
+      "age": 38,
+      "height": "260 cm",
+      "image": "Charlotte Mont-d_Or (Charlotte Mont-d_Or).png"
+    },
+    {
+      "name": "Kalifa",
+      "birthday": "04-23",
+      "romanized_name": "Karifa",
+      "affiliation": "CP0 / CP9 (former)",
+      "role": "Agent",
+      "devil_fruit": {
+        "name": "Bubble-Bubble Fruit",
+        "japanese_name": "Awa Awa no Mi",
+        "type": "Paramecia",
+        "power": "Create and control soap bubbles"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Grand Line",
+      "age": 27,
+      "height": "185 cm",
+      "image": "Kalifa (CP9).png"
+    },
+    {
+      "name": "Chome",
+      "birthday": "04-24",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Stussy",
+      "birthday": "04-24",
+      "romanized_name": "Sutyūshī",
+      "epithet": "\"Queen of the Pleasure District\"",
+      "affiliation": "CP0 (former)",
+      "role": "Agent (Clone)",
+      "devil_fruit": {
+        "name": "Unknown (Succubus)",
+        "japanese_name": "Unknown",
+        "type": "Unknown (likely Mythical Zoan)",
+        "power": "Bat wings, life absorption"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "MADS",
+      "height": "179 cm",
+      "image": "Stussy.png"
+    },
+    {
+      "name": "Penguin",
+      "birthday": "04-25",
+      "romanized_name": "Pengin",
+      "affiliation": "Heart Pirates",
+      "role": "Pirate",
+      "haki": [],
+      "origin": "North Blue",
+      "age": 28,
+      "image": "Penguin.png"
+    },
+    {
+      "name": "Chaka",
+      "birthday": "04-26",
+      "romanized_name": "Chaka",
+      "epithet": "\"The Jackal\"",
+      "affiliation": "Arabasta Kingdom",
+      "role": "Head Guard",
+      "devil_fruit": {
+        "name": "Dog-Dog Fruit, Model: Jackal",
+        "japanese_name": "Inu Inu no Mi, Model: Jackal",
+        "type": "Zoan",
+        "power": "Transform into a jackal"
+      },
+      "haki": [],
+      "origin": "Grand Line (Arabasta)",
+      "age": 41,
+      "height": "213 cm",
+      "image": "Chaka.png"
+    },
+    {
+      "name": "Streusen",
+      "birthday": "04-27",
+      "romanized_name": "Shutoroizen",
+      "epithet": "\"Gourmet Knight\"",
+      "affiliation": "Big Mom Pirates",
+      "role": "Executive Chef",
+      "devil_fruit": {
+        "name": "Cook-Cook Fruit",
+        "japanese_name": "Kuku Kuku no Mi",
+        "type": "Paramecia",
+        "power": "Turn objects into food"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Grand Line",
+      "age": 92,
+      "height": "140 cm",
+      "image": "Streusen.png"
+    },
+    {
+      "name": "Funkfreed",
+      "birthday": "04-28",
+      "romanized_name": "Fankufurīdo",
+      "affiliation": "Spandam",
+      "role": "Sword / Pet",
+      "devil_fruit": {
+        "name": "Elephant-Elephant Fruit",
+        "japanese_name": "Zou Zou no Mi",
+        "type": "Zoan",
+        "power": "Sword that transforms into an elephant"
+      },
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Funkfreed.png"
+    },
+    {
+      "name": "Miss Goldenweek",
+      "birthday": "04-29",
+      "romanized_name": "Misu Gōrudenwīku",
+      "epithet": "\"Flag Bearer of Freedom\"",
+      "affiliation": "New Spiders Cafe",
+      "role": "Officer Agent (former) / Painter",
+      "bounty": "29,000,000",
+      "haki": [],
+      "origin": "North Blue",
+      "age": 18,
+      "height": "145 cm",
+      "image": "Marianne (Miss Goldenweek).png"
+    },
+    {
+      "name": "Viola",
+      "birthday": "04-30",
+      "romanized_name": "Viora",
+      "epithet": "Violet",
+      "affiliation": "Riku Family / Dressrosa",
+      "role": "Princess",
+      "devil_fruit": {
+        "name": "Glare-Glare Fruit",
+        "japanese_name": "Giro Giro no Mi",
+        "type": "Paramecia",
+        "power": "See through everything and read minds"
+      },
+      "haki": [],
+      "origin": "Grand Line (Dressrosa)",
+      "age": 29,
+      "height": "178 cm",
+      "image": "Viola (Violet).png"
+    }
+  ]
+}

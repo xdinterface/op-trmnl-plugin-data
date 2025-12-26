@@ -1,0 +1,758 @@
+{
+  "characters": [
+    {
+      "name": "Delacuaji",
+      "birthday": "09-01",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Jewelry Bonney",
+      "birthday": "09-01",
+      "romanized_name": "Juerī Bonī",
+      "epithet": "\"Big Eater\" (大喰らい, Ō-Gurai?, English versions: \"Glutton\")",
+      "affiliation": "civilian",
+      "role": "Pirate Captain; Princess (former)",
+      "bounty": "320,000,000140,000,000",
+      "haki": [],
+      "origin": "Red Line (Mary Geoise)",
+      "age": 24,
+      "height": "174 cm (5'9\") (debut, after timeskip)",
+      "image": "Jewelry Bonney.png"
+    },
+    {
+      "name": "Kiwi",
+      "birthday": "09-01",
+      "romanized_name": "Mozu & Kiui",
+      "epithet": "Square Sisters",
+      "affiliation": "Franky Family",
+      "role": "Bartenders; Dismantlers; Bounty Hunters",
+      "haki": [],
+      "origin": "Grand Line (Water 7, Slums)",
+      "age": 22,
+      "height": "187 cm (6'1\")",
+      "image": "Kiwi.png"
+    },
+    {
+      "name": "Boa Hancock",
+      "birthday": "09-02",
+      "romanized_name": "Boa Hankokku",
+      "epithet": "\"Snake Princess\" (蛇姫, Hebihime?);\"Pirate Empress\" (海賊女帝, Kaizoku Jotei?)",
+      "affiliation": "Kuja Pirates",
+      "role": "Captain of the Kuja Pirates; Empress of Amazon Lily; Warlord of the Sea (former); Slave (former)",
+      "bounty": "1,659,000,00080,000,000",
+      "devil_fruit": {
+        "name": "Love-Love Fruit",
+        "japanese_name": "メロメロの実",
+        "type": "Paramecia",
+        "power": "Petrification of those attracted to her"
+      },
+      "haki": [],
+      "origin": "Calm Belt (Amazon Lily)",
+      "age": 31,
+      "height": "191 cm (6'3\") (debut, after timeskip)",
+      "image": "Boa Hancock.png"
+    },
+    {
+      "name": "Heppoko",
+      "birthday": "09-02",
+      "romanized_name": "Heppoko",
+      "affiliation": "Alvida Pirates",
+      "role": "Pirate",
+      "haki": [],
+      "origin": "East Blue",
+      "image": "Heppoko.png"
+    },
+    {
+      "name": "Peppoko",
+      "birthday": "09-02",
+      "romanized_name": "Peppoko",
+      "affiliation": "Alvida Pirates",
+      "role": "Pirate",
+      "haki": [],
+      "origin": "East Blue",
+      "image": "Peppoko.png"
+    },
+    {
+      "name": "Poppoko",
+      "birthday": "09-02",
+      "romanized_name": "Poppoko",
+      "affiliation": "Alvida Pirates",
+      "role": "Pirate",
+      "haki": [],
+      "origin": "East Blue",
+      "image": "Poppoko.png"
+    },
+    {
+      "name": "Boa Sandersonia",
+      "birthday": "09-03",
+      "romanized_name": "Boa Sandāsonia",
+      "affiliation": "civilian",
+      "role": "Ruler of Amazon Lily; Slave (former)",
+      "bounty": "40,000,000",
+      "haki": [],
+      "origin": "Calm Belt (Amazon Lily)",
+      "age": 30,
+      "height": "453 cm (14'10\")",
+      "image": "Boa Sandersonia.png"
+    },
+    {
+      "name": "Brannew",
+      "birthday": "09-03",
+      "romanized_name": "Buran'nyū",
+      "affiliation": "civilian",
+      "role": "Commodore; Lieutenant Commander (former)",
+      "bounty": "At least ★(At least 100,000,000)",
+      "haki": [],
+      "origin": "Grand Line",
+      "age": 56,
+      "height": "190 cm (6'3\")",
+      "image": "Brannew (Brandnew).png"
+    },
+    {
+      "name": "Mcguy",
+      "birthday": "09-03",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Kumashi",
+      "birthday": "09-04",
+      "romanized_name": "Kumashī",
+      "affiliation": "Thriller Bark Pirates (Perona)",
+      "role": "Perona's servant; Wild Zombie Commander-in-Chief",
+      "haki": [],
+      "image": "Kumashi (Kumacy).png"
+    },
+    {
+      "name": "Wanze",
+      "birthday": "09-04",
+      "romanized_name": "Wanze",
+      "epithet": "\"Mad Wanze\" (マッドなワンゼ, Maddona Wanze?)",
+      "affiliation": "civilian",
+      "role": "Cipher Pol Agent; Chef",
+      "haki": [],
+      "origin": "West Blue",
+      "age": 28,
+      "height": "173 cm (5'8\")",
+      "image": "Wanze.png"
+    },
+    {
+      "name": "Boa Marigold",
+      "birthday": "09-05",
+      "romanized_name": "Boa Marīgōrudo",
+      "affiliation": "civilian",
+      "role": "Ruler of Amazon Lily; Slave (Former)",
+      "bounty": "40,000,000",
+      "haki": [],
+      "origin": "Calm Belt (Amazon Lily)",
+      "age": 28,
+      "height": "432 cm (14'2\")",
+      "image": "Boa Marigold.png"
+    },
+    {
+      "name": "Crocodile",
+      "birthday": "09-05",
+      "romanized_name": "Kurokodairu",
+      "epithet": "\"Sir Crocodile\"",
+      "affiliation": "Cross Guild",
+      "role": "Chief Officer",
+      "bounty": "1,965,000,000",
+      "devil_fruit": {
+        "name": "Sand-Sand Fruit",
+        "japanese_name": "Suna Suna no Mi",
+        "type": "Logia",
+        "power": "Control and transform into sand"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Grand Line",
+      "age": 46,
+      "height": "253 cm",
+      "image": "Crocodile.png"
+    },
+    {
+      "name": "Gekko Moriah",
+      "birthday": "09-06",
+      "romanized_name": "Gekkō Moria",
+      "epithet": "Gecko Moriah",
+      "affiliation": "Thriller Bark Pirates; Warlord (former)",
+      "role": "Captain",
+      "bounty": "320,000,000",
+      "devil_fruit": {
+        "name": "Kage Kage no Mi",
+        "japanese_name": "カゲカゲの実",
+        "type": "Paramecia",
+        "power": "Manipulate shadows"
+      },
+      "haki": [],
+      "origin": "West Blue",
+      "age": 50,
+      "height": "692 cm",
+      "image": "Gecko Moria (Moriah).png"
+    },
+    {
+      "name": "Macro",
+      "birthday": "09-06",
+      "romanized_name": "Makuro",
+      "affiliation": "Macro Pirates; Sun Pirates (former)",
+      "role": "Pirate; Captain; Slave trader",
+      "haki": [],
+      "origin": "Grand Line (Ryugu Kingdom; Fish-Man Island)",
+      "image": "macro.png"
+    },
+    {
+      "name": "Squard",
+      "birthday": "09-06",
+      "romanized_name": "Sukuādo",
+      "epithet": "\"Maelstrom Spider\" (大渦蜘蛛, Ō Uzu Gumo?, English versions: Whirl Spider)",
+      "affiliation": "civilian",
+      "role": "Pirate Captain",
+      "bounty": "210,000,000",
+      "haki": [],
+      "origin": "Grand Line",
+      "age": 52,
+      "height": "228 cm (7'5\")",
+      "image": "Squard.png"
+    },
+    {
+      "name": "Fullbody",
+      "birthday": "09-07",
+      "romanized_name": "Furubodi",
+      "epithet": "Double Ironfist Fullbody",
+      "affiliation": "Marines",
+      "role": "Marine Lieutenant Commander",
+      "haki": [],
+      "origin": "North Blue",
+      "age": 28,
+      "height": "184 cm (6'0\")",
+      "image": "Fullbody (after).png"
+    },
+    {
+      "name": "Motzel",
+      "birthday": "09-07",
+      "romanized_name": "Mottseru Ojisan",
+      "affiliation": "civilian",
+      "haki": [],
+      "origin": "East Blue",
+      "image": "Motzel.png"
+    },
+    {
+      "name": "Cabaji",
+      "birthday": "09-08",
+      "romanized_name": "Kabaji",
+      "epithet": "\"Cabaji the Acrobat\" (曲芸のカバジ, Kyokugi no Kabaji?)",
+      "affiliation": "civilian",
+      "role": "Pirate; Chief of Staff; Acrobat; Swordsman",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 34,
+      "height": "208 cm (6'10\")",
+      "image": "Cabaji.png"
+    },
+    {
+      "name": "Kureha",
+      "birthday": "09-08",
+      "romanized_name": "Kureha",
+      "epithet": "\"Witch\" (魔女, Majo?);\"Master of Doctors\" (マスターオブ医者, Masutā Obu Isha?)",
+      "affiliation": "civilian",
+      "role": "Head-Doctor of the Sakura Kingdom; Leader of the Isshi-100",
+      "haki": [],
+      "origin": "Grand Line (Drum Kingdom)",
+      "age": 141,
+      "height": "188 cm (6'2\")",
+      "image": "Kureha.png"
+    },
+    {
+      "name": "Rakuyo",
+      "birthday": "09-08",
+      "romanized_name": "Rakuyō",
+      "epithet": "Morning Star Rakuyo",
+      "affiliation": "Whitebeard Pirates",
+      "role": "7th Division Commander",
+      "haki": [
+        "Busoshoku",
+        "Kenbunshoku"
+      ],
+      "origin": "South Blue",
+      "image": "Rakuyo.png"
+    },
+    {
+      "name": "Basil Hawkins",
+      "birthday": "09-09",
+      "romanized_name": "Bajiru Hōkinsu",
+      "epithet": "\"Magician\" (魔術師, Majutsushi?)",
+      "affiliation": "civilian",
+      "role": "Pirate; Captain; Shinuchi",
+      "bounty": "320,000,000249,000,000",
+      "haki": [],
+      "origin": "North Blue",
+      "age": 31,
+      "height": "210 cm (6'10½\") (debut, after timeskip)",
+      "image": "Basil Hawkins.png"
+    },
+    {
+      "name": "Manjaro",
+      "birthday": "09-09",
+      "romanized_name": "Manjarō",
+      "affiliation": "Fake Straw Hat Crew",
+      "role": "Pirate",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 25,
+      "height": "202 cm (6'7\")",
+      "image": "Manjaro (Fake Zoro).png"
+    },
+    {
+      "name": "O-Kiku",
+      "birthday": "09-09",
+      "romanized_name": "Kikunojō",
+      "epithet": "\"Kikunojo of the Lingering Snow\" (残雪の菊之丞, Zansetsu no Kikunojō?, English: \"Kikunojo of the Fallen Snow\")",
+      "affiliation": "civilian",
+      "role": "Daimyo of Ringo; Samurai; Retainer of the Kouzuki Family; Tea House Poster Girl",
+      "haki": [],
+      "origin": "Grand Line (Wano Country)",
+      "age": 42,
+      "height": "287 cm (9'5\")",
+      "image": "Kikunojo (Okiku) (scary mask).png"
+    },
+    {
+      "name": "Shyarly",
+      "birthday": "09-09",
+      "romanized_name": "Shārī",
+      "epithet": "Madam Shyarly (マダム・シャーリー, Madamu Shārī?)",
+      "affiliation": "civilian",
+      "role": "Proprietor of the Mermaid Cafe; Fortune teller (former)",
+      "haki": [],
+      "origin": "Grand Line (Ryugu Kingdom; Fish-Man Island)",
+      "age": 29,
+      "height": "520 cm (17'1\")",
+      "image": "Shyarly (Sharley).png"
+    },
+    {
+      "name": "T-Bone",
+      "birthday": "09-10",
+      "romanized_name": "Tī Bōn",
+      "epithet": "Ship Cutter",
+      "affiliation": "Marines",
+      "role": "Marine Vice Admiral",
+      "bounty": "At least 500,000,000",
+      "haki": [
+        "Busoshoku",
+        "Kenbunshoku"
+      ],
+      "origin": "Grand Line",
+      "age": 53,
+      "height": "200 cm (6'7\")",
+      "image": "T-Bone.png"
+    },
+    {
+      "name": "Very Good",
+      "birthday": "09-10",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Mont Blanc Cricket",
+      "birthday": "09-11",
+      "romanized_name": "Monburan Kuriketto",
+      "epithet": "Last Boss",
+      "affiliation": "Saruyama Alliance",
+      "role": "Pirate; Captain",
+      "bounty": "25,000,000",
+      "haki": [],
+      "origin": "North Blue",
+      "age": 43,
+      "height": "242 cm (7'11\")",
+      "image": "Mont Blanc Cricket (Montblanc Cricket).png"
+    },
+    {
+      "name": "Morley",
+      "birthday": "09-11",
+      "romanized_name": "Mōrī",
+      "epithet": "\"Morley of Fur\" (毛皮のモーリー, Kegawa no Mōrī?)",
+      "affiliation": "civilian",
+      "role": "West Army Commander of the Revolutionary Army; Pirate (former); Prisoner of Impel Down (former)",
+      "bounty": "293,000,000",
+      "haki": [],
+      "origin": "West Blue",
+      "age": 160,
+      "height": "1253 cm (41'1\")",
+      "image": "Morley.png"
+    },
+    {
+      "name": "Curiel",
+      "birthday": "09-12",
+      "romanized_name": "Kurieru",
+      "epithet": "Heavy Artillery Curiel",
+      "affiliation": "Whitebeard Pirates",
+      "role": "10th Division Commander",
+      "haki": [
+        "Busoshoku",
+        "Kenbunshoku"
+      ],
+      "origin": "Grand Line",
+      "image": "Curiel.png"
+    },
+    {
+      "name": "Hoe",
+      "birthday": "09-13",
+      "romanized_name": "Hoe",
+      "affiliation": "King Neptune",
+      "role": "Neptune's transportation",
+      "haki": [],
+      "origin": "Grand Line (Fish-Man Island)",
+      "height": "40m",
+      "image": "Hoe.png"
+    },
+    {
+      "name": "Lord of the Coast",
+      "birthday": "09-14",
+      "romanized_name": "Kinkai no Nushi",
+      "epithet": "Local Sea Monster",
+      "affiliation": "Foosha Village's local Sea King",
+      "role": "Foosha Village's local Sea King",
+      "haki": [],
+      "origin": "East Blue",
+      "height": "N/A",
+      "image": "Lord of the Coast (Local Sea Monster).png"
+    },
+    {
+      "name": "O-Tsuru",
+      "birthday": "09-15",
+      "romanized_name": "Tsurujo",
+      "affiliation": "Loyal to Kouzuki Family",
+      "role": "Tea House Owner",
+      "haki": [],
+      "origin": "Grand Line (Wano Country)",
+      "age": 55,
+      "height": "191 cm (6'3\")",
+      "image": "Tsurujo (Otsuru) (past).png"
+    },
+    {
+      "name": "Spoil",
+      "birthday": "09-15",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Laboon",
+      "birthday": "09-16",
+      "romanized_name": "Rabūn",
+      "affiliation": "civilian",
+      "haki": [],
+      "origin": "West Blue",
+      "age": 53,
+      "height": "400 m (1312'4\")",
+      "image": "Laboon.png"
+    },
+    {
+      "name": "Rindo",
+      "birthday": "09-16",
+      "romanized_name": "Rindō",
+      "affiliation": "civilian",
+      "role": "Pirate; Sniper",
+      "haki": [],
+      "origin": "Calm Belt (Amazon Lily)",
+      "image": "Rindo.png"
+    },
+    {
+      "name": "Kuina",
+      "birthday": "09-17",
+      "romanized_name": "Shimotsuki Kuina",
+      "affiliation": "Shimotsuki Family",
+      "role": "Trainee Swordsman",
+      "haki": [],
+      "origin": "East Blue (Shimotsuki Village)",
+      "age": 11,
+      "height": "150 cm (4'11\")",
+      "image": "Shimotsuki Kuina.png"
+    },
+    {
+      "name": "Devil Dias",
+      "birthday": "09-18",
+      "romanized_name": "Debiru Diasu",
+      "affiliation": "civilian",
+      "role": "Pirate; Captain (former); Slave",
+      "bounty": "60,000,000",
+      "haki": [],
+      "image": "Devil Dias.png"
+    },
+    {
+      "name": "Karasu",
+      "birthday": "09-18",
+      "romanized_name": "Karasu",
+      "affiliation": "civilian",
+      "role": "North Army Commander of the Revolutionary Army",
+      "bounty": "400,000,000",
+      "haki": [],
+      "origin": "North Blue",
+      "age": 47,
+      "height": "265 cm (8'8\")",
+      "image": "Karasu.png"
+    },
+    {
+      "name": "Don Krieg",
+      "birthday": "09-19",
+      "romanized_name": "Kurīku",
+      "epithet": "Don Krieg",
+      "affiliation": "Krieg Pirates",
+      "role": "Pirate Admiral",
+      "bounty": "17,000,000",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 44,
+      "height": "243 cm (8'0\")",
+      "image": "Krieg (Don Krieg).png"
+    },
+    {
+      "name": "Shura",
+      "birthday": "09-20",
+      "romanized_name": "Shura",
+      "epithet": "Sky Rider",
+      "affiliation": "God's Army",
+      "role": "Priest of Enel",
+      "haki": [
+        "Observation Haki"
+      ],
+      "origin": "Sky Islands (Birka)",
+      "age": 33,
+      "height": "191 cm (6'3\")",
+      "image": "Shura (solo).png"
+    },
+    {
+      "name": "Chocolat",
+      "birthday": "09-21",
+      "romanized_name": "Shokora",
+      "affiliation": "civilian",
+      "role": "Pirate",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 26,
+      "height": "181 cm (5'11\")",
+      "image": "Chocolat (Fake Nami).png"
+    },
+    {
+      "name": "Kuzan",
+      "birthday": "09-21",
+      "romanized_name": "Kuzan",
+      "affiliation": "civilian",
+      "role": "Titanic Captain (Captain of the Tenth Ship); Admiral (former); Vice Admiral (former)",
+      "haki": [],
+      "origin": "South Blue (Vespa Kingdom territory)",
+      "age": 49,
+      "height": "298 cm (9'9¼\")",
+      "image": "Kuzan (Aokiji).png"
+    },
+    {
+      "name": "Pappag",
+      "birthday": "09-21",
+      "romanized_name": "Pappagu",
+      "affiliation": "civilian",
+      "role": "Fashion Designer; Takoyaki seller; Pet",
+      "haki": [],
+      "origin": "Grand Line (Ryugu Kingdom, Fish-Man Island)",
+      "age": 33,
+      "height": "50 cm (1'7\")",
+      "image": "Pappag (Pappagu).png"
+    },
+    {
+      "name": "Kyros",
+      "birthday": "09-22",
+      "romanized_name": "Kyurosu",
+      "affiliation": "civilian",
+      "role": "Gladiator (former); Riku Royal Army Captain (former)",
+      "bounty": "Unknown (as Thunder Soldier)",
+      "haki": [],
+      "origin": "Grand Line (Dressrosa)",
+      "age": 44,
+      "height": "298 cm (9'9\")",
+      "image": "Kyros.png"
+    },
+    {
+      "name": "Hanger",
+      "birthday": "09-23",
+      "romanized_name": "Hangā",
+      "affiliation": "civilian",
+      "role": "Salesperson",
+      "haki": [],
+      "origin": "East Blue",
+      "image": "Hanger.png"
+    },
+    {
+      "name": "Orochi",
+      "birthday": "09-23",
+      "romanized_name": "Kurozumi Orochi",
+      "affiliation": "Wano Country (Kurozumi Family); Beasts Pirates (former)",
+      "role": "Shogun of Wano Country (former)",
+      "devil_fruit": {
+        "name": "Hebi Hebi no Mi, Model: Yamata no Orochi",
+        "type": "Mythical Zoan",
+        "power": "Allows him to transform into a eight-headed snake and a human-eight-headed snake hybrid at will. Can survive decapitation up to 8 times."
+      },
+      "haki": [],
+      "origin": "Grand Line (Wano Country)",
+      "age": 54,
+      "height": "350 cm (11'6\")",
+      "image": "Kurozumi Orochi.png"
+    },
+    {
+      "name": "Umit",
+      "birthday": "09-23",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Black Maria",
+      "birthday": "09-24",
+      "romanized_name": "Burakkumaria",
+      "affiliation": "civilian",
+      "role": "Shinuchi; Brothel owner",
+      "bounty": "480,000,000",
+      "haki": [],
+      "origin": "Wano Country",
+      "age": 29,
+      "height": "820 cm (26'11\")",
+      "image": "Black Maria.png"
+    },
+    {
+      "name": "Jean Goen",
+      "birthday": "09-24",
+      "romanized_name": "Jan Goen",
+      "affiliation": "civilian",
+      "role": "Prisoner",
+      "bounty": "Less than 15,000,000",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Jean Goen (Dez Tinny).png"
+    },
+    {
+      "name": "Suu",
+      "birthday": "09-24",
+      "romanized_name": "Sū",
+      "affiliation": "Skypiea",
+      "role": "Pet",
+      "haki": [],
+      "origin": "Sky Islands (Skypiea)",
+      "image": "Su (Suu).png"
+    },
+    {
+      "name": "Terracotta",
+      "birthday": "09-25",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Cosmos",
+      "birthday": "09-26",
+      "romanized_name": "Kosumosu",
+      "affiliation": "civilian",
+      "role": "Pirate",
+      "haki": [],
+      "origin": "Calm Belt (Amazon Lily)",
+      "image": "Cosmos.png"
+    },
+    {
+      "name": "Dagama",
+      "birthday": "09-26",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Mr. 9",
+      "birthday": "09-27",
+      "romanized_name": "Misutā Nain",
+      "affiliation": "Baroque Works (former)",
+      "role": "Frontier Agent (former); Bounty Hunter",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Mr. 9.png"
+    },
+    {
+      "name": "Jack",
+      "birthday": "09-28",
+      "romanized_name": "Jakku",
+      "epithet": "\"Jack the Drought\" (旱害のジャック, Kangai no Jakku?)",
+      "affiliation": "civilian",
+      "role": "All-Star; Captain of the Mammoth; De Facto Ruler of Kuri (former)",
+      "bounty": "1,000,000,000",
+      "haki": [],
+      "origin": "Grand Line",
+      "age": 28,
+      "height": "830 cm (27'3\")",
+      "image": "Jack.png"
+    },
+    {
+      "name": "Stalker",
+      "birthday": "09-28",
+      "romanized_name": "Sutōkā",
+      "affiliation": "civilian",
+      "role": "Marine Lieutenant Junior Grade",
+      "bounty": "At least 1,000,000",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Stalker.png"
+    },
+    {
+      "name": "Charlotte Cabaletta",
+      "birthday": "09-29",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Cadenza",
+      "birthday": "09-29",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Counter",
+      "birthday": "09-29",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Gala",
+      "birthday": "09-29",
+      "romanized_name": "Shārotto Gara",
+      "affiliation": "civilian",
+      "haki": [],
+      "age": 46,
+      "image": "Charlotte Lola.png"
+    },
+    {
+      "name": "Charlotte Opera",
+      "birthday": "09-29",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Drug. Peclo",
+      "birthday": "09-29",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Pinky",
+      "birthday": "09-29",
+      "romanized_name": "Pinkī",
+      "epithet": "Monstrous Bird",
+      "affiliation": "civilian",
+      "haki": [],
+      "origin": "East Blue",
+      "image": "Pinky.png"
+    },
+    {
+      "name": "Avalo Pizarro",
+      "birthday": "09-30",
+      "romanized_name": "Abaro Pisaro",
+      "epithet": "Corrupt King",
+      "affiliation": "Blackbeard Pirates",
+      "role": "Titanic Captain (Captain of the Fourth Ship)",
+      "bounty": "Unknown",
+      "devil_fruit": {
+        "name": "Shima Shima no Mi",
+        "type": "Paramecia",
+        "power": "Allows him to assimilate his body into an island itself and control its natural environment and artificial structures."
+      },
+      "haki": [
+        "Busoshoku",
+        "Kenbunshoku"
+      ],
+      "origin": "North Blue",
+      "age": 42,
+      "height": "505 cm (16'6\")",
+      "image": "Avalo Pizarro.png"
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "characters": [
+    {
+      "name": "Comile",
+      "birthday": "10-01",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Mohji",
+      "birthday": "10-01",
+      "romanized_name": "Mōji",
+      "epithet": "Beast Tamer (猛獣使いのモージ, Mōjū-tsukai no Mōji?);Beast Breaker (4Kids)",
+      "affiliation": "civilian",
+      "role": "Pirate; First Mate",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 29,
+      "height": "197 cm (6'6\")",
+      "image": "Mohji and Richie.png"
+    },
+    {
+      "name": "Dorry",
+      "birthday": "10-02",
+      "romanized_name": "Dorī",
+      "epithet": "Dorry the Blue Ogre (青鬼のドリー, Ao-Oni no Dorī?)",
+      "affiliation": "civilian",
+      "role": "Pirate Captain",
+      "bounty": "1,800,000,000100,000,000",
+      "haki": [],
+      "origin": "Grand Line (Elbaph)",
+      "age": 160,
+      "height": "2260 cm (74'2\")",
+      "image": "Dorry.png"
+    },
+    {
+      "name": "Tonjit",
+      "birthday": "10-02",
+      "romanized_name": "Tonjitto",
+      "affiliation": "civilian",
+      "role": "Nomad, Stilt walker",
+      "haki": [],
+      "origin": "Grand Line (Long Ring Long Land)",
+      "age": 63,
+      "height": "118 cm (3'10\")",
+      "image": "Tonjit.png"
+    },
+    {
+      "name": "Yama",
+      "birthday": "10-03",
+      "romanized_name": "Yama",
+      "affiliation": "Enel (former)",
+      "role": "Commander of the Divine Soldiers (former)",
+      "haki": [],
+      "origin": "Sky Islands (Birka)",
+      "age": 45,
+      "height": "366 cm (12')",
+      "image": "Yama.png"
+    },
+    {
+      "name": "Calgara",
+      "birthday": "10-04",
+      "romanized_name": "Karugara",
+      "epithet": "The Demon of Shandora",
+      "affiliation": "Shandia",
+      "role": "Warrior",
+      "haki": [
+        "Kenbunshoku"
+      ],
+      "origin": "Grand Line (Jaya)",
+      "age": 39,
+      "height": "222 cm (7'3\")",
+      "image": "Kalgara (Calgara).png"
+    },
+    {
+      "name": "Oars",
+      "birthday": "10-04",
+      "romanized_name": "Ōzu",
+      "epithet": "\"Devil\" (魔人, Majin?, VIZ: \"Beast\");\"Oars the Continent-Puller\" (国引きオーズ, Kunihiki Ōzu?)",
+      "affiliation": "civilian",
+      "role": "Special Zombie; Leader of clan of evil giants (former)",
+      "haki": [],
+      "origin": "North Blue",
+      "height": "67 m (219'10\")",
+      "image": "Oars.png"
+    },
+    {
+      "name": "Shandia Chief",
+      "birthday": "10-04",
+      "romanized_name": "Shandia Shūchō",
+      "affiliation": "Shandia",
+      "role": "Chief of Shandia",
+      "haki": [],
+      "origin": "Sky Islands (Skypiea)",
+      "age": 65,
+      "height": "179 cm (5'10\")",
+      "image": "Shandia Chief.png"
+    },
+    {
+      "name": "Kokoro",
+      "birthday": "10-05",
+      "romanized_name": "Kokoro",
+      "affiliation": "civilian",
+      "role": "Stationmaster; \"Lovely\" secretary of Tom (former)",
+      "haki": [],
+      "origin": "Grand Line (Ryugu Kingdom; Fish-Man Island)",
+      "age": 72,
+      "height": "168 cm (5'6\")",
+      "image": "Kokoro.png"
+    },
+    {
+      "name": "Marco",
+      "birthday": "10-05",
+      "romanized_name": "Maruko",
+      "epithet": "\"Marco the Phoenix\"",
+      "affiliation": "Whitebeard Pirates (former)",
+      "role": "1st Division Commander (former)",
+      "bounty": "1,374,000,000",
+      "devil_fruit": {
+        "name": "Bird-Bird Fruit, Model: Phoenix",
+        "japanese_name": "Tori Tori no Mi, Model: Phoenix",
+        "type": "Mythical Zoan",
+        "power": "Transform into a phoenix"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Grand Line",
+      "age": 45,
+      "height": "203 cm",
+      "image": "Marco (post-timeskip).png"
+    },
+    {
+      "name": "Monkey D. Dragon",
+      "birthday": "10-05",
+      "romanized_name": "Monkī Dī Doragon",
+      "epithet": "\"Rebellious Dragon\" (反逆竜, Hangyaku Ryū?, Funimation: \"The Insurgent Serpent\")\"World's Worst Criminal\" (世界最悪の犯罪者, Sekai Saiaku no Hanzaisha?, Funimation: \"World's Most Heinous Criminal\")",
+      "affiliation": "civilian",
+      "role": "Supreme Commander of the Revolutionary Army;Captain of the Freedom Fighters (former)",
+      "bounty": "Unknown",
+      "haki": [],
+      "origin": "East Blue (Goa Kingdom)",
+      "age": 55,
+      "height": "256 cm (8'5\")",
+      "image": "Monkey D. Dragon.png"
+    },
+    {
+      "name": "O-Toko",
+      "birthday": "10-05",
+      "romanized_name": "Toko",
+      "affiliation": "civilian",
+      "role": "Kamuro",
+      "haki": [],
+      "origin": "Grand Line (Wano Country)",
+      "age": 6,
+      "height": "89 cm (2'11\")",
+      "image": "Toko.png"
+    },
+    {
+      "name": "Van Augur",
+      "birthday": "10-05",
+      "romanized_name": "Van Ōgā",
+      "epithet": "\"The Supersonic\" (音越, Otogoe?)",
+      "affiliation": "civilian",
+      "role": "Titanic Captain (Captain of the Third Ship); Sniper",
+      "bounty": "At least 64,000,000",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 27,
+      "height": "340 cm (11'2\")",
+      "image": "Van Augur (Van Auger, Van Ogre).png"
+    },
+    {
+      "name": "Bartolomeo",
+      "birthday": "10-06",
+      "romanized_name": "Barutoromeo",
+      "epithet": "\"Bartolomeo the Cannibal\" (人食いのバルトロメオ, Hitokui no Barutoromeo?, Viz: \"Man-Eater Bartolomeo\")",
+      "affiliation": "civilian",
+      "role": "Captain of the Second Ship of the Straw Hat Grand Fleet; Pirate Captain; Mafia Leader (former)",
+      "bounty": "200,000,000150,000,000",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 24,
+      "height": "220 cm (7'3\")",
+      "image": "Bartolomeo.png"
+    },
+    {
+      "name": "Tashigi",
+      "birthday": "10-06",
+      "romanized_name": "Tashigi",
+      "affiliation": "Marines",
+      "role": "Captain; Ensign (former); Master Chief Petty Officer (former)",
+      "bounty": "At least ★(At least 100,000,000)",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 23,
+      "height": "170 cm (5'7\")",
+      "image": "Tashigi.png"
+    },
+    {
+      "name": "Trafalgar D. Water Law",
+      "birthday": "10-06",
+      "romanized_name": "Torafarugā Dī Wāteru Rō",
+      "epithet": "\"Surgeon of Death\"",
+      "affiliation": "Heart Pirates",
+      "role": "Captain / Doctor",
+      "bounty": "3,000,000,000",
+      "devil_fruit": {
+        "name": "Op-Op Fruit",
+        "japanese_name": "Ope Ope no Mi",
+        "type": "Paramecia",
+        "power": "Create a spherical space for operations"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "North Blue (Flevance)",
+      "age": 26,
+      "height": "191 cm",
+      "image": "Trafalgar D. Water Law (post-timeskip).png"
+    },
+    {
+      "name": "Kouzuki Momonosuke",
+      "birthday": "10-07",
+      "romanized_name": "Kōzuki Momonosuke",
+      "affiliation": "Kouzuki Family",
+      "role": "Shogun",
+      "devil_fruit": {
+        "name": "Uo Uo no Mi, Model: Seiryu (Artificial)",
+        "type": "Mythical Zoan (Artificial)",
+        "power": "Allows him to transform into a serpentine dragon and fly by producing Flame Clouds."
+      },
+      "haki": [
+        "Kenbunshoku"
+      ],
+      "origin": "Grand Line (Moby Dick)",
+      "age": 28,
+      "height": "322 cm (10'7\")",
+      "image": "Kozuki Momonosuke (dragon).png"
+    },
+    {
+      "name": "Lao G",
+      "birthday": "10-07",
+      "romanized_name": "Rao Jī",
+      "affiliation": "civilian",
+      "role": "Pirate Officer",
+      "bounty": "61,000,000",
+      "haki": [],
+      "origin": "North Blue",
+      "age": 70,
+      "height": "157 cm (5'2\")",
+      "image": "Lao G.png"
+    },
+    {
+      "name": "Doberman",
+      "birthday": "10-08",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Hatcha",
+      "birthday": "10-08",
+      "romanized_name": "Hatcha",
+      "affiliation": "civilian",
+      "haki": [],
+      "origin": "Punk Hazard",
+      "age": 188,
+      "height": "3675 cm (120'7\")",
+      "image": "Hatcha (Haccha).png"
+    },
+    {
+      "name": "Pierre",
+      "birthday": "10-08",
+      "romanized_name": "Piēru",
+      "affiliation": "Gan Fall",
+      "role": "Gan Fall's Pet",
+      "devil_fruit": {
+        "name": "Uma Uma no Mi",
+        "type": "Zoan",
+        "power": "Allows him to turn into a full horse (Pegasus form)"
+      },
+      "haki": [],
+      "origin": "Sky Islands (Skypiea)",
+      "image": "Pierre (solo).png"
+    },
+    {
+      "name": "Dosun",
+      "birthday": "10-09",
+      "romanized_name": "Dosun",
+      "affiliation": "civilian",
+      "role": "Pirate; Pirate Officer",
+      "haki": [],
+      "origin": "Grand Line (Ryugu Kingdom; Fish-Man Island)",
+      "age": 30,
+      "height": "418 cm (13'8\")",
+      "image": "Dosun.png"
+    },
+    {
+      "name": "Magellan",
+      "birthday": "10-09",
+      "romanized_name": "Mazeran",
+      "affiliation": "civilian",
+      "role": "Vice Warden; Chief Warden (former)",
+      "haki": [],
+      "origin": "Grand Line",
+      "age": 47,
+      "height": "491 cm (16'1\")",
+      "image": "Magellan.png"
+    },
+    {
+      "name": "Mont Blanc Noland",
+      "birthday": "10-09",
+      "romanized_name": "Monburan Nōrando",
+      "epithet": "\"Liar Noland\" (うそつきノーランド, Usotsuki Nōrando?)",
+      "affiliation": "civilian",
+      "role": "Explorer; Botanist; Admiral",
+      "haki": [],
+      "origin": "North Blue",
+      "height": "220 cm (7'2\")",
+      "image": "Mont Blanc Noland (Montblanc Noland).png"
+    },
+    {
+      "name": "Braham",
+      "birthday": "10-10",
+      "romanized_name": "Burahamu",
+      "affiliation": "civilian",
+      "role": "Shandia Warrior; God's Guard",
+      "haki": [],
+      "origin": "Sky Islands (Skypiea)",
+      "age": 24,
+      "height": "179 cm (5'10\")",
+      "image": "Braham.png"
+    },
+    {
+      "name": "Den",
+      "birthday": "10-10",
+      "romanized_name": "Den",
+      "affiliation": "civilian",
+      "role": "Shipwright; Sea Forest Researcher; Coating Mechanic",
+      "haki": [],
+      "origin": "Grand Line (Fish-Man Island)",
+      "age": 62,
+      "height": "435 cm (14'3\")",
+      "image": "Den.png"
+    },
+    {
+      "name": "Ideo",
+      "birthday": "10-10",
+      "romanized_name": "Ideo",
+      "epithet": "\"Destruction Cannon\" (破壊砲, Hakai Hō?)",
+      "affiliation": "civilian",
+      "role": "Captain of the Fourth Ship of the Straw Hat Grand Fleet; Pirate, Captain; Boxer",
+      "haki": [],
+      "origin": "Grand Line",
+      "age": 22,
+      "height": "225 cm (7'5\")",
+      "image": "Ideo.png"
+    },
+    {
+      "name": "Stomp",
+      "birthday": "10-10",
+      "romanized_name": "Sutonpu",
+      "affiliation": "Arabasta",
+      "role": "Super Spot-Billed Duck Troops member",
+      "haki": [],
+      "origin": "Grand Line (Arabasta)",
+      "age": 15,
+      "height": "202 cm",
+      "image": "Stomp.png"
+    },
+    {
+      "name": "Inuarashi",
+      "birthday": "10-11",
+      "romanized_name": "Inuarashi",
+      "epithet": "\"Duke Inuarashi\" (イヌアラシ公爵, Inuarashi Kōshaku?, English versions: \"Duke Dogstorm\")\"Ruler of Day\" (昼の王, Hiru no Ō?, Simulcast subs: \"King of Day\")",
+      "affiliation": "civilian",
+      "role": "Daimyo; Ruler of the Mokomo Dukedom (former); Commander of the Musketeers; Retainer; Samurai; Pirate Apprentice (former)",
+      "haki": [],
+      "origin": "Grand Line (Mokomo Dukedom)",
+      "age": 40,
+      "height": "511 cm (16'9\")",
+      "image": "Inuarashi (Dogstorm).png"
+    },
+    {
+      "name": "Charlotte Cinnamon",
+      "birthday": "10-12",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Citron",
+      "birthday": "10-12",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Smoothie",
+      "birthday": "10-12",
+      "romanized_name": "Shārotto Sumūjī",
+      "affiliation": "civilian",
+      "role": "Sweet Commander; Minister of Juice",
+      "bounty": "932,000,000",
+      "haki": [],
+      "origin": "Grand Line (Totto Land)",
+      "age": 35,
+      "height": "464 cm (15'3\")",
+      "image": "Charlotte Smoothie.png"
+    },
+    {
+      "name": "Izou",
+      "birthday": "10-13",
+      "romanized_name": "Izō",
+      "affiliation": "civilian",
+      "role": "16th Division Commander (former); Samurai; Retainer of the Kouzuki Family",
+      "bounty": "510,000,000",
+      "haki": [],
+      "origin": "Grand Line (Wano Country)",
+      "age": 45,
+      "height": "192 cm (6'3¾\")",
+      "image": "Izou (Izo).png"
+    },
+    {
+      "name": "Haredas",
+      "birthday": "10-14",
+      "romanized_name": "Haredasu",
+      "affiliation": "civilian",
+      "role": "Scientist",
+      "haki": [],
+      "origin": "Sky Islands (Birka)",
+      "age": 97,
+      "height": "253 cm (8'4\")",
+      "image": "Haredas (post-timeskip).png"
+    },
+    {
+      "name": "Charlotte Compote",
+      "birthday": "10-15",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Yuen",
+      "birthday": "10-15",
+      "romanized_name": "Shārotto Yūen",
+      "affiliation": "civilian",
+      "role": "Pirate Officer",
+      "haki": [],
+      "age": 19,
+      "image": "Charlotte Oven.png"
+    },
+    {
+      "name": "Mornin",
+      "birthday": "10-15",
+      "romanized_name": "Mōnin",
+      "affiliation": "civilian",
+      "role": "Mayor",
+      "haki": [],
+      "origin": "East Blue (Syrup Village)",
+      "image": "Mornin.png"
+    },
+    {
+      "name": "Taroimo",
+      "birthday": "10-16",
+      "romanized_name": "Taroimo",
+      "affiliation": "civilian",
+      "role": "Cyborg animal; Pet",
+      "haki": [],
+      "image": "Taroimo.png"
+    },
+    {
+      "name": "Marin",
+      "birthday": "10-17",
+      "romanized_name": "Marin",
+      "affiliation": "civilian",
+      "role": "Slave",
+      "haki": [],
+      "origin": "Grand Line (Sabaody Archipelago)",
+      "image": "Marin.png"
+    },
+    {
+      "name": "Noble Croc",
+      "birthday": "10-17",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Doc Q",
+      "birthday": "10-18",
+      "romanized_name": "Doku Kyū",
+      "epithet": "Death God",
+      "affiliation": "Blackbeard Pirates",
+      "role": "Titanic Captain (Captain of the Ninth Ship); Doctor",
+      "bounty": "72,000,000",
+      "devil_fruit": {
+        "name": "Shiku Shiku no Mi",
+        "type": "Paramecia",
+        "power": "Allows him to afflict others with diseases."
+      },
+      "haki": [
+        "Busoshoku",
+        "Kenbunshoku"
+      ],
+      "origin": "North Blue",
+      "age": 28,
+      "height": "342 cm (11'3\")",
+      "image": "Doc Q and Stronger.png"
+    },
+    {
+      "name": "Jigoku Benten",
+      "birthday": "10-18",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Anglais",
+      "birthday": "10-19",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Galette",
+      "birthday": "10-19",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Poire",
+      "birthday": "10-19",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Sea Bunny",
+      "birthday": "10-19",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Tyrannosaurus",
+      "birthday": "10-20",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Sam",
+      "birthday": "10-21",
+      "romanized_name": "Samu-san",
+      "affiliation": "civilian",
+      "haki": [],
+      "origin": "East Blue (Conomi Islands)",
+      "image": "Sam.png"
+    },
+    {
+      "name": "Vito",
+      "birthday": "10-21",
+      "romanized_name": "Vito",
+      "epithet": "Monster Gun",
+      "affiliation": "Fire Tank Pirates",
+      "role": "Pirate Advisor",
+      "bounty": "95,000,000",
+      "haki": [],
+      "origin": "West Blue",
+      "age": 36,
+      "height": "242 cm (7'11\")",
+      "image": "Vito.png"
+    },
+    {
+      "name": "Drip",
+      "birthday": "10-22",
+      "romanized_name": "Dorippu",
+      "epithet": "Warlord Killer",
+      "affiliation": "Fake Straw Hat Crew",
+      "role": "Pirate (Impersonated Sanji)",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 24,
+      "height": "208 cm (6'10\")",
+      "image": "Drip (Fake Sanji).png"
+    },
+    {
+      "name": "Sugar",
+      "birthday": "10-22",
+      "romanized_name": "Shugā",
+      "affiliation": "civilian",
+      "role": "Pirate Special Officer",
+      "haki": [],
+      "origin": "North Blue",
+      "age": 10,
+      "height": "110 cm (3'7½\")",
+      "image": "Sugar.png"
+    },
+    {
+      "name": "Donquixote Doflamingo",
+      "birthday": "10-23",
+      "romanized_name": "Donkihōte Dofuramingo",
+      "epithet": "\"Heavenly Yaksha\"",
+      "affiliation": "Donquixote Pirates (former)",
+      "role": "Captain (former)",
+      "bounty": "340,000,000",
+      "devil_fruit": {
+        "name": "String-String Fruit",
+        "japanese_name": "Ito Ito no Mi",
+        "type": "Paramecia",
+        "power": "Create and manipulate strings"
+      },
+      "haki": [
+        "Conqueror's Haki",
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Mary Geoise",
+      "age": 41,
+      "height": "305 cm",
+      "image": "Donquixote Doflamingo (Don Quixote Doflamingo).png"
+    },
+    {
+      "name": "Shinobu",
+      "birthday": "10-23",
+      "romanized_name": "Shinobu",
+      "epithet": "\"Bewitching Kunoichi\" (悩殺くの一, Nōsatsu Kunoichi?);\"Shinobu the Man-Killer\" (男殺しのしのぶ, Otoko-goroshi no Shinobu?)",
+      "affiliation": "civilian",
+      "role": "Kunoichi; Retainer of the Kouzuki Family; Member of the Kouzuki Family Oniwabanshu (Former)",
+      "haki": [],
+      "origin": "Grand Line (Wano Country)",
+      "age": 49,
+      "height": "180 cm (5'11\")",
+      "image": "Shinobu.png"
+    },
+    {
+      "name": "X Drake",
+      "birthday": "10-24",
+      "romanized_name": "Diesu Dorēku",
+      "epithet": "\"Red Flag\" (赤旗, Akahata?)",
+      "affiliation": "civilian",
+      "role": "Captain of SWORD; Pirate (undercover); Captain (undercover); Shinuchi (undercover, former); Marine Rear Admiral (former)",
+      "bounty": "222,000,000",
+      "haki": [],
+      "origin": "North Blue",
+      "age": 33,
+      "height": "233 cm (7'8\") (debut, after timeskip)",
+      "image": "X Drake.png"
+    },
+    {
+      "name": "Koala",
+      "birthday": "10-25",
+      "romanized_name": "Koara",
+      "affiliation": "civilian",
+      "role": "Revolutionary Army Officer; Assistant Fish-Man Karate Instructor; Slave (former)",
+      "bounty": "Unknown",
+      "haki": [],
+      "age": 23,
+      "height": "160 cm (5'3\")",
+      "image": "Koala (adult).png"
+    },
+    {
+      "name": "Kuroobi",
+      "birthday": "10-25",
+      "romanized_name": "Kuro'obi",
+      "affiliation": "civilian",
+      "role": "Pirate Officer",
+      "bounty": "9,000,000",
+      "haki": [],
+      "origin": "Grand Line (Ryugu Kingdom, Fish-Man Island)",
+      "age": 38,
+      "height": "252 cm (8'3\")",
+      "image": "Kuroobi.png"
+    },
+    {
+      "name": "Belladonna",
+      "birthday": "10-26",
+      "romanized_name": "Beradonna",
+      "affiliation": "Kuja",
+      "role": "Doctor",
+      "haki": [
+        "Busoshoku",
+        "Kenbunshoku"
+      ],
+      "origin": "Calm Belt (Amazon Lily)",
+      "image": "Belladonna.png"
+    },
+    {
+      "name": "Denjiro",
+      "birthday": "10-26",
+      "romanized_name": "Denjirō",
+      "epithet": "\"Dozing Kyoshiro\" (居眠り狂死郎, Inemuri Kyōshirō?, VIZ: \"Napping Kyoshiro\")",
+      "affiliation": "civilian",
+      "role": "Daimyo; Samurai; Retainer of the Kouzuki Family (former); Yakuza Boss (former); Money Changer (former); Thief (former)",
+      "haki": [],
+      "origin": "Grand Line (Wano Country)",
+      "age": 47,
+      "height": "306 cm (10'0½\")",
+      "image": "Denjiro (Kyoshiro).png"
+    },
+    {
+      "name": "Kagikko",
+      "birthday": "10-27",
+      "romanized_name": "Kagikko",
+      "affiliation": "civilian",
+      "role": "Pirate; Locksmith",
+      "haki": [],
+      "origin": "East Blue",
+      "image": "Kagikko (Keygan).png"
+    },
+    {
+      "name": "Scarlet",
+      "birthday": "10-28",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Bavarois",
+      "birthday": "10-29",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Snack",
+      "birthday": "10-29",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Turco",
+      "birthday": "10-29",
+      "romanized_name": "Toruko",
+      "affiliation": "civilian",
+      "role": "Pirate",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 45,
+      "height": "258 cm (8'5\")",
+      "image": "Turco (Fake Franky).png"
+    },
+    {
+      "name": "Domino",
+      "birthday": "10-30",
+      "romanized_name": "Domino",
+      "affiliation": "civilian",
+      "role": "Head Jailer; Vice Head Jailer (former)",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Domino.png"
+    },
+    {
+      "name": "Magra",
+      "birthday": "10-30",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Monstar",
+      "birthday": "10-31",
+      "romanized_name": "Monsutā",
+      "affiliation": "Red Hair Pirates",
+      "role": "Pirate Officer; Musician",
+      "haki": [],
+      "origin": "East Blue",
+      "image": "Monster.png"
+    },
+    {
+      "name": "Sherrie",
+      "birthday": "10-31",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Whitey Bay",
+      "birthday": "10-31",
+      "affiliation": "civilian"
+    }
+  ]
+}

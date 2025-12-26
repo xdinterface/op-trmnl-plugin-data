@@ -1,0 +1,635 @@
+{
+  "characters": [
+    {
+      "name": "Capote",
+      "birthday": "05-01",
+      "romanized_name": "Kapōti",
+      "affiliation": "Foxy Pirates",
+      "role": "Combatant",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Porche, Capote, and Monda.png"
+    },
+    {
+      "name": "Hikoichi",
+      "birthday": "05-01",
+      "romanized_name": "Hikoichi",
+      "affiliation": "Kaido (Headliners)",
+      "role": "Headliner (former)",
+      "devil_fruit": {
+        "name": "Artificial Zoan (Turtle)",
+        "japanese_name": "SMILE",
+        "type": "SMILE",
+        "power": "Turtle shell torso"
+      },
+      "haki": [],
+      "origin": "Wano Country",
+      "image": "Hikoichi.png"
+    },
+    {
+      "name": "Kaido",
+      "birthday": "05-01",
+      "romanized_name": "Kaidō",
+      "epithet": "King of the Beasts",
+      "affiliation": "Beasts Pirates",
+      "role": "Governor-General / Emperor",
+      "bounty": "4,611,100,000",
+      "devil_fruit": {
+        "name": "Fish-Fish Fruit, Model: Azure Dragon",
+        "japanese_name": "Uo Uo no Mi, Model: Seiryu",
+        "type": "Mythical Zoan",
+        "power": "Transform into an azure dragon"
+      },
+      "haki": [
+        "Conqueror's Haki",
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Grand Line (Vodka Kingdom)",
+      "age": 59,
+      "height": "710 cm",
+      "image": "Kaidou (Kaido) (dragon).png"
+    },
+    {
+      "name": "Coribou",
+      "birthday": "05-02",
+      "romanized_name": "Koribū",
+      "epithet": "Blood-Splatterer",
+      "affiliation": "Caribou Pirates",
+      "role": "Captain",
+      "bounty": "190,000,000",
+      "haki": [],
+      "origin": "North Blue",
+      "age": 29,
+      "height": "250 cm",
+      "image": "Coribou.png"
+    },
+    {
+      "name": "Cosette",
+      "birthday": "05-02",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Monkey D. Garp",
+      "birthday": "05-02",
+      "romanized_name": "Monkī Dī Gāpu",
+      "epithet": "Garp the Fist",
+      "affiliation": "Marines",
+      "role": "Vice Admiral",
+      "bounty": "3,000,000,000",
+      "haki": [
+        "Conqueror's Haki",
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "East Blue (Goa Kingdom)",
+      "age": 78,
+      "height": "287 cm",
+      "image": "Monkey D. Garp.png"
+    },
+    {
+      "name": "Arlong",
+      "birthday": "05-03",
+      "romanized_name": "Āron",
+      "epithet": "Arlong the Saw",
+      "affiliation": "Arlong Pirates",
+      "role": "Captain",
+      "bounty": "20,000,000",
+      "haki": [],
+      "origin": "Grand Line (Fish-Man Island)",
+      "age": 41,
+      "height": "263 cm",
+      "image": "Arlong.png"
+    },
+    {
+      "name": "Cindry",
+      "birthday": "05-04",
+      "romanized_name": "Bikutoria Shindorī",
+      "affiliation": "Thriller Bark Pirates",
+      "role": "Zombie",
+      "haki": [],
+      "origin": "West Blue",
+      "age": 24,
+      "height": "188 cm",
+      "image": "Victoria Cindry.png"
+    },
+    {
+      "name": "Isshily",
+      "birthday": "05-04",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Koushirou",
+      "birthday": "05-04",
+      "romanized_name": "Shimotsuki Kōshirō",
+      "affiliation": "Isshin Dojo",
+      "role": "Dojo Master",
+      "haki": [],
+      "origin": "East Blue (Shimotsuki Village)",
+      "age": 51,
+      "height": "184 cm",
+      "image": "Shimotsuki Koushirou.png"
+    },
+    {
+      "name": "Demaro Black",
+      "birthday": "05-05",
+      "romanized_name": "Demaro Burakku",
+      "epithet": "Three-Tongued",
+      "affiliation": "Fake Straw Hat Crew",
+      "role": "Captain",
+      "bounty": "26,000,000",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 36,
+      "height": "245 cm",
+      "image": "Demaro Black (Fake Luffy, Demalo Black).png"
+    },
+    {
+      "name": "Monkey D. Luffy",
+      "birthday": "05-05",
+      "romanized_name": "Monkī Dī Rufi",
+      "epithet": "Straw Hat Luffy",
+      "affiliation": "Straw Hat Pirates",
+      "role": "Captain / Emperor",
+      "bounty": "3,000,000,000",
+      "devil_fruit": {
+        "name": "Human-Human Fruit, Model: Nika",
+        "japanese_name": "Hito Hito no Mi, Model: Nika",
+        "type": "Mythical Zoan",
+        "power": "Rubber body / Sun God Nika"
+      },
+      "haki": [
+        "Conqueror's Haki",
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "East Blue (Foosha Village)",
+      "age": 19,
+      "height": "174 cm",
+      "image": "Monkey D. Luffy.png"
+    },
+    {
+      "name": "Enel",
+      "birthday": "05-06",
+      "romanized_name": "Eneru",
+      "epithet": "\"God\"",
+      "affiliation": "God's Army (former)",
+      "role": "God (former)",
+      "devil_fruit": {
+        "name": "Rumble-Rumble Fruit",
+        "japanese_name": "Goro Goro no Mi",
+        "type": "Logia",
+        "power": "Control and transform into lightning"
+      },
+      "haki": [
+        "Observation Haki"
+      ],
+      "origin": "Sky Island (Birka)",
+      "age": 39,
+      "height": "266 cm",
+      "image": "Enel (Eneru).png"
+    },
+    {
+      "name": "Maynard",
+      "birthday": "05-07",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Shakuyaku",
+      "birthday": "05-08",
+      "romanized_name": "Shakuyaku",
+      "epithet": "Shakky",
+      "affiliation": "Kuja Pirates (former)",
+      "role": "Empress (former) / Bartender",
+      "haki": [
+        "Armament Haki"
+      ],
+      "origin": "Calm Belt (Amazon Lily)",
+      "age": 64,
+      "height": "186 cm",
+      "image": "Shakuyaku (Shakky).png"
+    },
+    {
+      "name": "Shoujou",
+      "birthday": "05-08",
+      "romanized_name": "Shōjō",
+      "epithet": "Sonar King",
+      "affiliation": "Saruyama Alliance",
+      "role": "Boss",
+      "bounty": "36,000,000",
+      "haki": [],
+      "origin": "South Blue",
+      "age": 27,
+      "height": "351 cm",
+      "image": "Shoujou.png"
+    },
+    {
+      "name": "Kong",
+      "birthday": "05-09",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Sengoku",
+      "birthday": "05-09",
+      "romanized_name": "Sengoku",
+      "epithet": "The Buddha",
+      "affiliation": "Marines",
+      "role": "Inspector General",
+      "devil_fruit": {
+        "name": "Human-Human Fruit, Model: Buddha",
+        "japanese_name": "Hito Hito no Mi, Model: Daibutsu",
+        "type": "Mythical Zoan",
+        "power": "Transform into a giant golden Buddha"
+      },
+      "haki": [
+        "Conqueror's Haki",
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "South Blue",
+      "age": 79,
+      "height": "278 cm",
+      "image": "Sengoku (post-timeskip).png"
+    },
+    {
+      "name": "Heracles",
+      "birthday": "05-10",
+      "romanized_name": "Herakuresu",
+      "epithet": "Heracles'n",
+      "affiliation": "Boin Archipelago",
+      "role": "Warrior / Botanist",
+      "haki": [],
+      "origin": "South Blue",
+      "age": 51,
+      "height": "214 cm",
+      "image": "Heracles_n.png"
+    },
+    {
+      "name": "Goldberg",
+      "birthday": "05-11",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Poro",
+      "birthday": "05-11",
+      "romanized_name": "Poro",
+      "affiliation": "Orange Town",
+      "role": "Bookstore Owner",
+      "haki": [],
+      "origin": "East Blue (Orange Town)",
+      "image": "Poro.png"
+    },
+    {
+      "name": "Daikoku",
+      "birthday": "05-12",
+      "romanized_name": "Daikoku",
+      "affiliation": "Orochi Oniwabanshu",
+      "role": "Ninja",
+      "haki": [],
+      "origin": "Grand Line (Wano Country)",
+      "age": 42,
+      "height": "436 cm",
+      "image": "Daikoku.png"
+    },
+    {
+      "name": "Vinsmoke Judge",
+      "birthday": "05-12",
+      "romanized_name": "Vinsumōku Jajji",
+      "epithet": "Garuda",
+      "affiliation": "Germa 66 / Vinsmoke Family",
+      "role": "King / Commander",
+      "haki": [
+        "Armament Haki"
+      ],
+      "origin": "North Blue (Germa Kingdom)",
+      "age": 56,
+      "height": "272 cm",
+      "image": "Vinsmoke Judge.png"
+    },
+    {
+      "name": "Koby",
+      "birthday": "05-13",
+      "romanized_name": "Kobī",
+      "epithet": "The Hero",
+      "affiliation": "Marines (SWORD)",
+      "role": "Captain",
+      "bounty": "500,000,000",
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "East Blue",
+      "age": 18,
+      "height": "167 cm",
+      "image": "Koby (Coby) (after).png"
+    },
+    {
+      "name": "Silvers Rayleigh",
+      "birthday": "05-13",
+      "romanized_name": "Shirubāzu Reirī",
+      "epithet": "Dark King",
+      "affiliation": "Roger Pirates (former)",
+      "role": "First Mate (former) / Coater",
+      "haki": [
+        "Conqueror's Haki",
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Unknown",
+      "age": 78,
+      "height": "188 cm",
+      "image": "Rayleigh.png"
+    },
+    {
+      "name": "Tamago",
+      "birthday": "05-14",
+      "romanized_name": "Tamago",
+      "epithet": "Baron Tamago",
+      "affiliation": "Big Mom Pirates",
+      "role": "Knight / Combatant",
+      "bounty": "429,000,000",
+      "devil_fruit": {
+        "name": "Egg-Egg Fruit",
+        "japanese_name": "Tama Tama no Mi",
+        "type": "Paramecia",
+        "power": "Evolve from Egg to Chicken"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Grand Line",
+      "age": 46,
+      "height": "301 cm",
+      "image": "Tamago.png"
+    },
+    {
+      "name": "Baby 5",
+      "birthday": "05-15",
+      "romanized_name": "Bebī Faibu",
+      "affiliation": "Happo Navy",
+      "role": "Pirate",
+      "devil_fruit": {
+        "name": "Arms-Arms Fruit",
+        "japanese_name": "Buki Buki no Mi",
+        "type": "Paramecia",
+        "power": "Transform body into weapons"
+      },
+      "haki": [],
+      "origin": "North Blue",
+      "age": 24,
+      "height": "181 cm",
+      "image": "Baby 5.png"
+    },
+    {
+      "name": "Kolumbus",
+      "birthday": "05-16",
+      "romanized_name": "Koronbusu",
+      "affiliation": "Yonta Maria Grand Fleet",
+      "role": "Pirate",
+      "haki": [],
+      "origin": "Grand Line",
+      "age": 51,
+      "height": "130 cm",
+      "image": "Orlumbus (Olombus).png"
+    },
+    {
+      "name": "Pudding Pudding",
+      "birthday": "05-16",
+      "romanized_name": "Purinpurin",
+      "affiliation": "Marines",
+      "role": "Commodore",
+      "haki": [],
+      "origin": "East Blue",
+      "image": "Pudding Pudding (Purinpurin).png"
+    },
+    {
+      "name": "Hocker",
+      "birthday": "05-17",
+      "romanized_name": "Hokkā",
+      "affiliation": "Orange Town",
+      "role": "Pet Shop Owner",
+      "haki": [],
+      "origin": "East Blue (Orange Town)",
+      "image": "Hocker.png"
+    },
+    {
+      "name": "Mr. 13",
+      "birthday": "05-17",
+      "romanized_name": "Misutā Sātīn",
+      "affiliation": "Baroque Works (former)",
+      "role": "Unluckies",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Mr. 13.png"
+    },
+    {
+      "name": "Poppy",
+      "birthday": "05-17",
+      "romanized_name": "Popī",
+      "affiliation": "Kuja",
+      "role": "Warrior",
+      "haki": [
+        "Armament Haki"
+      ],
+      "origin": "Calm Belt (Amazon Lily)",
+      "image": "Poppy.png"
+    },
+    {
+      "name": "Gorilla",
+      "birthday": "05-18",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Andre",
+      "birthday": "05-19",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Candre",
+      "birthday": "05-19",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "John Giant",
+      "birthday": "05-19",
+      "romanized_name": "Jon Jaianto",
+      "affiliation": "Marines",
+      "role": "Vice Admiral",
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Grand Line (Elbaph)",
+      "height": "12000 cm",
+      "image": "John Giant.png"
+    },
+    {
+      "name": "Tenguyama Hitetsu",
+      "birthday": "05-19",
+      "romanized_name": "Tenguyama Hitetsu",
+      "epithet": "Kozuki Sukiyaki",
+      "affiliation": "Kouzuki Family",
+      "role": "Swordsmith / Shogun (former)",
+      "haki": [],
+      "origin": "Grand Line (Wano Country)",
+      "age": 81,
+      "height": "214 cm",
+      "image": "Kozuki Sukiyaki (Tenguyama Hitetsu).png"
+    },
+    {
+      "name": "Conis",
+      "birthday": "05-20",
+      "romanized_name": "Konisu",
+      "affiliation": "Skypiea",
+      "role": "Civilian",
+      "haki": [],
+      "origin": "Sky Island (Skypiea)",
+      "age": 21,
+      "height": "176 cm",
+      "image": "Conis.png"
+    },
+    {
+      "name": "Gotti",
+      "birthday": "05-21",
+      "romanized_name": "Gotti",
+      "epithet": "Assassin",
+      "affiliation": "Fire Tank Pirates",
+      "role": "Assassin",
+      "bounty": "90,000,000",
+      "haki": [],
+      "origin": "West Blue",
+      "age": 33,
+      "height": "375 cm",
+      "image": "Gotti.png"
+    },
+    {
+      "name": "Decalvan Brothers",
+      "birthday": "05-22",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Lindbergh",
+      "birthday": "05-22",
+      "romanized_name": "Rindobāgu",
+      "affiliation": "Revolutionary Army",
+      "role": "South Army Commander",
+      "bounty": "316,000,000",
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Unknown",
+      "age": 37,
+      "height": "149 cm",
+      "image": "Lindbergh.png"
+    },
+    {
+      "name": "Chew",
+      "birthday": "05-23",
+      "romanized_name": "Chū",
+      "affiliation": "Arlong Pirates",
+      "role": "Officer",
+      "bounty": "5,500,000",
+      "haki": [],
+      "origin": "Grand Line (Fish-Man Island)",
+      "age": 35,
+      "height": "257 cm",
+      "image": "Chew (Choo).png"
+    },
+    {
+      "name": "Carrot",
+      "birthday": "05-24",
+      "romanized_name": "Kyarotto",
+      "affiliation": "Mokomo Dukedom",
+      "role": "Ruler",
+      "haki": [],
+      "origin": "Grand Line (Zou)",
+      "age": 15,
+      "height": "161 cm",
+      "image": "Carrot.png"
+    },
+    {
+      "name": "Big Pan",
+      "birthday": "05-25",
+      "romanized_name": "Biggu Pan",
+      "epithet": "The Wotan",
+      "affiliation": "Foxy Pirates",
+      "role": "Groggy Monster",
+      "haki": [],
+      "origin": "Unknown",
+      "image": "Hamburg, Pickles, and Big Pan.png"
+    },
+    {
+      "name": "Kohza",
+      "birthday": "05-26",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Koze",
+      "birthday": "05-27",
+      "romanized_name": "Kōze",
+      "affiliation": "Whitebeard Pirates",
+      "role": "Pirate",
+      "haki": [],
+      "origin": "Unknown",
+      "image": "Koze.png"
+    },
+    {
+      "name": "Stansen",
+      "birthday": "05-27",
+      "romanized_name": "Sutansen",
+      "affiliation": "New Giant Warrior Pirates",
+      "role": "Shipwright",
+      "haki": [],
+      "origin": "Grand Line (Elbaph)",
+      "age": 81,
+      "height": "1950 cm",
+      "image": "Stansen.png"
+    },
+    {
+      "name": "Cat-car",
+      "birthday": "05-28",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Diamante",
+      "birthday": "05-29",
+      "romanized_name": "Diamante",
+      "epithet": "Hero of the Coliseum",
+      "affiliation": "Donquixote Pirates",
+      "role": "Executive",
+      "bounty": "99,000,000",
+      "devil_fruit": {
+        "name": "Ripple-Ripple Fruit",
+        "japanese_name": "Hira Hira no Mi",
+        "type": "Paramecia",
+        "power": "Make anything flat and waving"
+      },
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "North Blue",
+      "age": 45,
+      "height": "525 cm",
+      "image": "Diamante.png"
+    },
+    {
+      "name": "Kyuin",
+      "birthday": "05-30",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Lacuba",
+      "birthday": "05-31",
+      "romanized_name": "Rakyūba",
+      "affiliation": "None",
+      "role": "Pirate",
+      "bounty": "17,000,000",
+      "haki": [],
+      "origin": "Unknown",
+      "image": "Lacuba.png"
+    }
+  ]
+}

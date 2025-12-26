@@ -1,0 +1,608 @@
+{
+  "characters": [
+    {
+      "name": "Heat",
+      "birthday": "12-01",
+      "romanized_name": "Hīto",
+      "affiliation": "civilian",
+      "role": "Pirate",
+      "haki": [],
+      "origin": "South Blue (Kutsukku Island)",
+      "image": "Heat.png"
+    },
+    {
+      "name": "Ipponume",
+      "birthday": "12-01",
+      "romanized_name": "Ippon'ume",
+      "affiliation": "civilian",
+      "role": "Arms Shop Proprietress",
+      "haki": [],
+      "origin": "East Blue",
+      "image": "Ipponume (Ippon Ume).png"
+    },
+    {
+      "name": "Charlotte Akimeg",
+      "birthday": "12-02",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Allmeg",
+      "birthday": "12-02",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Fuyumeg",
+      "birthday": "12-02",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Harumeg",
+      "birthday": "12-02",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Nutmeg",
+      "birthday": "12-02",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Kaneshiro",
+      "birthday": "12-02",
+      "romanized_name": "Kaneshiro",
+      "affiliation": "civilian",
+      "role": "Pirate; Shipwright",
+      "haki": [],
+      "origin": "Grand Line (Ryugu Kingdom, Fish-Man Island)",
+      "image": "Kaneshiro.png"
+    },
+    {
+      "name": "Napoleon",
+      "birthday": "12-02",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Bell-mère",
+      "birthday": "12-03",
+      "romanized_name": "Berumēru",
+      "affiliation": "Marines (former)",
+      "role": "Mikan Farmer; Marine Officer (former)",
+      "haki": [],
+      "origin": "East Blue (Conomi Islands)",
+      "age": 30,
+      "height": "186 cm (6'1\")",
+      "image": "Bell-mère (Bellemere, Bell-mere).png"
+    },
+    {
+      "name": "Jorl",
+      "birthday": "12-04",
+      "romanized_name": "Yoruru",
+      "epithet": "\"Waterfall Beard\" Jorul (滝ひげのヨルル, Takihige no Yoruru?, VIZ: Beardfall)",
+      "affiliation": "civilian",
+      "role": "Pirate Captain (former)",
+      "haki": [],
+      "origin": "Grand Line (Elbaph)",
+      "height": "2150 cm (70'6\")",
+      "image": "Jorul.png"
+    },
+    {
+      "name": "Indigo",
+      "birthday": "12-05",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Igaram",
+      "birthday": "12-06",
+      "romanized_name": "Igaramu",
+      "affiliation": "civilian",
+      "role": "Captain of the Royal Guard; Frontier Agent (former); Bounty Hunter (former); Mayor of Whisky Peak (undercover, former)",
+      "haki": [],
+      "origin": "Grand Line (Arabasta Kingdom)",
+      "age": 50,
+      "height": "218 cm (7'1\")",
+      "image": "Igaram (Mr. 8).png"
+    },
+    {
+      "name": "Ikkaku",
+      "birthday": "12-07",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Yuda Snakes",
+      "birthday": "12-07",
+      "romanized_name": "Yuda",
+      "affiliation": "Kuja",
+      "role": "Sea Serpent",
+      "haki": [],
+      "origin": "Calm Belt",
+      "image": "Yuda Snakes.png"
+    },
+    {
+      "name": "Jarl",
+      "birthday": "12-08",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Maskeredomo Bird",
+      "birthday": "12-08",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Kelly Funk",
+      "birthday": "12-09",
+      "romanized_name": "Kerī Fanku",
+      "affiliation": "Mogaro Kingdom",
+      "role": "Assassin",
+      "bounty": "57,000,000",
+      "devil_fruit": {
+        "name": "Jake Jake no Mi",
+        "type": "Paramecia",
+        "power": "Allows him to transform into a full body jacket."
+      },
+      "haki": [],
+      "origin": "Grand Line (Mogaro Kingdom)",
+      "age": 36,
+      "height": "168 cm (5'6\")",
+      "image": "Kelly Funk (solo).png"
+    },
+    {
+      "name": "Packy",
+      "birthday": "12-09",
+      "romanized_name": "Koze to Pakkī",
+      "affiliation": "civilian",
+      "role": "Pirates",
+      "haki": [],
+      "origin": "East Blue",
+      "image": "Packy.png"
+    },
+    {
+      "name": "Tacos",
+      "birthday": "12-09",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Amande",
+      "birthday": "12-10",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Effilée",
+      "birthday": "12-10",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Hachée",
+      "birthday": "12-10",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Mondée",
+      "birthday": "12-10",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Edward Weevil",
+      "birthday": "12-10",
+      "romanized_name": "Edowādo Wīburu",
+      "affiliation": "civilian",
+      "role": "Pirate",
+      "bounty": "480,000,000",
+      "haki": [],
+      "origin": "Grand Line",
+      "age": 35,
+      "height": "680 cm (22'4\")",
+      "image": "Edward Weevil (Whitebeard Jr.).png"
+    },
+    {
+      "name": "Mr. Shimizu",
+      "birthday": "12-11",
+      "romanized_name": "Shimizu",
+      "affiliation": "Baroque Works",
+      "role": "Millions Agent",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Mr. Shimizu.png"
+    },
+    {
+      "name": "Rock",
+      "birthday": "12-11",
+      "romanized_name": "Rokku",
+      "epithet": "Killers of the Snowy Mountain",
+      "affiliation": "Caesar Clown",
+      "role": "Mercenary; Assassin",
+      "bounty": "20,000,000",
+      "haki": [],
+      "origin": "Grand Line",
+      "age": 25,
+      "height": "4250 cm (139'5\")",
+      "image": "Rock.png"
+    },
+    {
+      "name": "Scotch",
+      "birthday": "12-11",
+      "romanized_name": "Sukotchi",
+      "epithet": "Iron Boy",
+      "affiliation": "Beasts Pirates",
+      "role": "Pirate",
+      "haki": [],
+      "image": "Scotch.png"
+    },
+    {
+      "name": "Speed",
+      "birthday": "12-11",
+      "romanized_name": "Supīdo",
+      "affiliation": "civilian",
+      "role": "Shinuchi",
+      "haki": [],
+      "origin": "Grand Line (Wano Country)",
+      "age": 24,
+      "height": "298 cm (9'9\")",
+      "image": "Speed.png"
+    },
+    {
+      "name": "Chinjao",
+      "birthday": "12-12",
+      "romanized_name": "Chinjao",
+      "epithet": "Don Chinjao (首領（ドン）・チンジャオ, Don Chinjao?);\"Chinjao the Drill\" (錐のチンジャオ, Kiri no Chinjao?)",
+      "affiliation": "civilian",
+      "role": "12th Leader of the Happo Navy; Pirate (former)",
+      "bounty": "542,000,000",
+      "haki": [],
+      "origin": "West Blue (Kano Country)",
+      "age": 78,
+      "height": "520 cm (17'1\")",
+      "image": "Chinjao (Qing Jiao, Don Chin Jao).png"
+    },
+    {
+      "name": "King",
+      "birthday": "12-12",
+      "romanized_name": "Kingu",
+      "epithet": "\"King the Conflagration\" (火災のキング, Kasai no Kingu?, English versions: \"King the Wildfire\")",
+      "affiliation": "civilian",
+      "role": "All-Star",
+      "bounty": "1,390,000,000",
+      "haki": [],
+      "origin": "Grand Line",
+      "age": 47,
+      "height": "613 cm (20'1\")",
+      "image": "King.png"
+    },
+    {
+      "name": "Nezumi",
+      "birthday": "12-12",
+      "romanized_name": "Nezumi",
+      "affiliation": "Marines",
+      "role": "Marine Captain",
+      "bounty": "100,000,000",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 36,
+      "height": "182 cm (5'11¾\")",
+      "image": "Nezumi.png"
+    },
+    {
+      "name": "Faust",
+      "birthday": "12-13",
+      "romanized_name": "Fausuto",
+      "affiliation": "civilian",
+      "role": "Pirate; Magician",
+      "haki": [],
+      "origin": "North Blue",
+      "image": "Faust.png"
+    },
+    {
+      "name": "St. Mjosgard",
+      "birthday": "12-13",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Pica",
+      "birthday": "12-14",
+      "romanized_name": "Pīka",
+      "affiliation": "civilian",
+      "role": "Pirate Executive Officer",
+      "bounty": "99,000,000",
+      "haki": [],
+      "origin": "North Blue",
+      "age": 40,
+      "height": "470 cm (15'5\")",
+      "image": "Pica.png"
+    },
+    {
+      "name": "Charlotte Noisette",
+      "birthday": "12-15",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Nerine",
+      "birthday": "12-15",
+      "romanized_name": "Nerine",
+      "affiliation": "Kuja",
+      "role": "Warrior",
+      "haki": [
+        "Busoshoku"
+      ],
+      "origin": "Calm Belt (Amazon Lily)",
+      "image": "Nerine.png"
+    },
+    {
+      "name": "Charlotte Cornstarch",
+      "birthday": "12-16",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Mash",
+      "birthday": "12-16",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Moscato",
+      "birthday": "12-16",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Inuppe",
+      "birthday": "12-16",
+      "romanized_name": "Inuppe",
+      "affiliation": "civilian",
+      "role": "Wild Zombie",
+      "haki": [],
+      "image": "Inuppe (Dog Penguin).png"
+    },
+    {
+      "name": "Banchina",
+      "birthday": "12-17",
+      "romanized_name": "Bankīna",
+      "affiliation": "civilian",
+      "haki": [],
+      "origin": "East Blue (Syrup Village)",
+      "image": "Banchina (Bankina).png"
+    },
+    {
+      "name": "Yuki",
+      "birthday": "12-17",
+      "romanized_name": "Yuki",
+      "affiliation": "civilian",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Yuki.png"
+    },
+    {
+      "name": "Byron",
+      "birthday": "12-18",
+      "romanized_name": "Bairon",
+      "affiliation": "civilian",
+      "role": "Musician; Pirate; Slave",
+      "haki": [],
+      "origin": "West Blue",
+      "age": 25,
+      "height": "192 cm (6'3½\")",
+      "image": "Byron.png"
+    },
+    {
+      "name": "Zunisha",
+      "birthday": "12-18",
+      "romanized_name": "Zunīsha",
+      "affiliation": "Joy Boy (former)",
+      "role": "Naitamie-Norida elephant carrying Zou",
+      "haki": [],
+      "origin": "Grand Line",
+      "age": 1000,
+      "height": "Over 5 km (3.1 miles)",
+      "image": "Zunesha.png"
+    },
+    {
+      "name": "Dogra",
+      "birthday": "12-19",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Hogback",
+      "birthday": "12-19",
+      "romanized_name": "Hogubakku",
+      "epithet": "\"Doctor Hogback\" (ドクトル・ホグバック, Dokutoru Hogubakku?)\"Genius Surgeon\" (天才外科医, Tensai Gekai?)",
+      "affiliation": "civilian",
+      "role": "Doctor",
+      "haki": [],
+      "origin": "West Blue",
+      "age": 47,
+      "height": "223 cm (7'4\")",
+      "image": "Hogback.png"
+    },
+    {
+      "name": "Charlotte Marnier",
+      "birthday": "12-20",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Charlotte Mozart",
+      "birthday": "12-20",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Louis Arnote",
+      "birthday": "12-20",
+      "romanized_name": "Rui Ānōto",
+      "affiliation": "civilian",
+      "role": "Explorer",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Louis Arnote (Louis Arnot, Brag Men).png"
+    },
+    {
+      "name": "Mother Carmel",
+      "birthday": "12-21",
+      "romanized_name": "Karumeru",
+      "epithet": "\"Holy Mother\" (聖母, Seibo?)",
+      "affiliation": "civilian",
+      "role": "Child Trafficker; Caretaker of Sheep's House",
+      "haki": [],
+      "origin": "West Blue",
+      "height": "185 cm (6'1)",
+      "image": "Carmel (old).png"
+    },
+    {
+      "name": "Gan Fall",
+      "birthday": "12-22",
+      "romanized_name": "Gan Fōru",
+      "epithet": "\"Knight of the Sky\" (空の騎士, Sora no Kishi?, VIZ and Funimation: Sky Knight, 4Kids: Sky Lord)",
+      "affiliation": "civilian",
+      "role": "God of Skypiea; Mercenary (former)",
+      "haki": [],
+      "origin": "Grand Line (Skypiea)",
+      "age": 68,
+      "height": "180 cm (5'11\")",
+      "image": "Gan Fall (Ganfor) (solo).png"
+    },
+    {
+      "name": "Miyagi",
+      "birthday": "12-22",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Kouzuki Hiyori",
+      "birthday": "12-23",
+      "romanized_name": "Kōzuki Hiyori",
+      "affiliation": "Kouzuki Family",
+      "role": "Oiran",
+      "haki": [],
+      "origin": "Grand Line (Moby Dick)",
+      "age": 26,
+      "height": "170 cm (5'7\")",
+      "image": "Kozuki Hiyori.png"
+    },
+    {
+      "name": "Tony Tony Chopper",
+      "birthday": "12-24",
+      "romanized_name": "Tonī Tonī Choppā",
+      "epithet": "\"Cotton Candy Lover\" (わたあめ大好き, Wataame Daisuki?)",
+      "affiliation": "Straw Hat Pirates",
+      "role": "Doctor; Senior Officer",
+      "bounty": "1,00010050",
+      "devil_fruit": {
+        "name": "Human-Human Fruit",
+        "japanese_name": "ヒトヒトの実",
+        "type": "Zoan",
+        "power": "Human transformation and intelligence"
+      },
+      "haki": [],
+      "origin": "Grand Line (Drum Island)",
+      "age": 17,
+      "height": "90 cm (2'11\") (hybrid form)",
+      "image": "Tony Tony Chopper.png"
+    },
+    {
+      "name": "Jesus Burgess",
+      "birthday": "12-25",
+      "romanized_name": "Jīzasu Bājesu",
+      "epithet": "\"Champion\" (チャンピオン, Chanpion?)",
+      "affiliation": "civilian",
+      "role": "Titanic Captain (Captain of the First Ship); Helmsman",
+      "bounty": "At least 20,000,000",
+      "haki": [],
+      "origin": "Grand Line",
+      "age": 29,
+      "height": "355 cm (11'8\")",
+      "image": "Jesus Burgess.png"
+    },
+    {
+      "name": "Miss Merry Christmas",
+      "birthday": "12-25",
+      "romanized_name": "Dorofī",
+      "epithet": "Town-Collapser",
+      "affiliation": "Baroque Works (former)",
+      "role": "Officer Agent (former); Cafe Waitress",
+      "bounty": "14,000,000",
+      "devil_fruit": {
+        "name": "Mogu Mogu no Mi",
+        "type": "Zoan",
+        "power": "Allows her to transform into a mole or a mole-human hybrid."
+      },
+      "haki": [],
+      "origin": "Grand Line",
+      "age": 51,
+      "height": "156 cm (5'1\")",
+      "image": "Drophy (Miss Merry Christmas).png"
+    },
+    {
+      "name": "Charlotte Broyé",
+      "birthday": "12-26",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Mashikaku",
+      "birthday": "12-26",
+      "romanized_name": "Mashikaku",
+      "affiliation": "civilian",
+      "role": "Marine Chief Petty Officer",
+      "bounty": "At least 100,000",
+      "haki": [],
+      "origin": "East Blue",
+      "image": "Mashikaku.png"
+    },
+    {
+      "name": "Akumai",
+      "birthday": "12-27",
+      "romanized_name": "Akumai",
+      "affiliation": "civilian",
+      "haki": [],
+      "origin": "Grand Line",
+      "image": "Akumai.png"
+    },
+    {
+      "name": "Lines",
+      "birthday": "12-27",
+      "romanized_name": "Rainzu",
+      "affiliation": "civilian",
+      "role": "Marine Seaman First Class",
+      "bounty": "At least 100,000",
+      "haki": [],
+      "origin": "East Blue",
+      "image": "Lines.png"
+    },
+    {
+      "name": "Jango",
+      "birthday": "12-28",
+      "romanized_name": "Jango",
+      "epithet": "\"One-Two\" Jango (as a pirate) (1・2のジャンゴ, Ichi Ni no Jango?);\"Jango the Turncoat\" (Marine) (寝返りのジャンゴ, Negaeri no Jango?)",
+      "affiliation": "civilian",
+      "role": "Marine Lieutenant Commander; Marine Seaman Recruit (promoted); Pirate (former); Captain (former), First Mate (former), Dancer (former)",
+      "bounty": "(At least 1,000,000)9,000,000",
+      "haki": [],
+      "origin": "East Blue",
+      "age": 29,
+      "height": "207 cm (6’9½”)",
+      "image": "Jango (Django).png"
+    },
+    {
+      "name": "Du Feld",
+      "birthday": "12-29",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Absalom",
+      "birthday": "12-30",
+      "romanized_name": "Abusaromu",
+      "epithet": "Absalom of the Graveyard (墓場のアブサロム, Hakaba no Abusaromu?)",
+      "affiliation": "civilian",
+      "role": "ReporterSoldier Zombies and General Zombies Commander",
+      "haki": [],
+      "origin": "West Blue",
+      "age": 36,
+      "height": "195 cm (6'5\")",
+      "image": "absalom.png"
+    },
+    {
+      "name": "Gol D. Roger",
+      "birthday": "12-31",
+      "romanized_name": "Gōru Dī Rojā",
+      "epithet": "Pirate King (海賊王, Kaizoku-Ō?, King of the Pirates (English versions))",
+      "affiliation": "Roger Pirates",
+      "role": "Pirate Captain",
+      "bounty": "5,564,800,000",
+      "haki": [],
+      "origin": "East Blue (Loguetown)",
+      "height": "274 cm (9'0\")",
+      "image": "Gol D. Roger.png"
+    }
+  ]
+}
