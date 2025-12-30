@@ -8,7 +8,11 @@
       "role": "Civilian",
       "haki": [],
       "origin": "East Blue (Loguetown)",
-      "image": "Anjo.png"
+      "image": "Anjo.png",
+      "image_offset": {
+        "x": 59,
+        "y": 5
+      }
     },
     {
       "name": "Daz Bonez",
@@ -28,12 +32,21 @@
       "origin": "West Blue",
       "age": 31,
       "height": "212 cm",
-      "image": "Daz Bonez (Mr. 1).png"
+      "image": "Daz Bonez (Mr. 1).png",
+      "image_offset": {
+        "x": 30,
+        "y": 0
+      }
     },
     {
       "name": "Islewan",
       "birthday": "01-01",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Islewan.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Portgas D. Ace",
@@ -57,7 +70,11 @@
       "origin": "South Blue (Baterilla)",
       "age": 20,
       "height": "185 cm",
-      "image": "Portgas D. Ace.png"
+      "image": "Portgas D. Ace.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Peeply Lulu",
@@ -69,7 +86,11 @@
       "origin": "Grand Line (Water 7)",
       "age": 33,
       "height": "206 cm",
-      "image": "Peepley Lulu (Peeply Lulu).png"
+      "image": "Peepley Lulu (Peeply Lulu).png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Aisa",
@@ -83,7 +104,11 @@
       "origin": "Sky Island (Skypiea)",
       "age": 11,
       "height": "140 cm",
-      "image": "Aisa (post-timeskip).png"
+      "image": "Aisa (post-timeskip).png",
+      "image_offset": {
+        "x": 50,
+        "y": 48
+      }
     },
     {
       "name": "Iceburg",
@@ -95,7 +120,11 @@
       "origin": "Grand Line (Water 7)",
       "age": 40,
       "height": "199 cm",
-      "image": "Iceburg.png"
+      "image": "Iceburg.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Lassoo",
@@ -111,7 +140,11 @@
       },
       "haki": [],
       "origin": "Grand Line",
-      "image": "Lassoo.png"
+      "image": "Lassoo.png",
+      "image_offset": {
+        "x": 2,
+        "y": 5
+      }
     },
     {
       "name": "Peterman",
@@ -121,7 +154,11 @@
       "role": "Slave Trader",
       "haki": [],
       "origin": "Sabaody Archipelago",
-      "image": "Peterman.png"
+      "image": "Peterman.png",
+      "image_offset": {
+        "x": 20,
+        "y": 5
+      }
     },
     {
       "name": "Ulti",
@@ -143,12 +180,21 @@
       "origin": "Grand Line",
       "age": 22,
       "height": "173 cm",
-      "image": "Ulti.png"
+      "image": "Ulti.png",
+      "image_offset": {
+        "x": 47,
+        "y": 5
+      }
     },
     {
       "name": "Strawberry",
       "birthday": "01-05",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Strawberry.png",
+      "image_offset": {
+        "x": 54,
+        "y": 5
+      }
     },
     {
       "name": "Oimo",
@@ -160,7 +206,11 @@
       "origin": "Grand Line (Elbaph)",
       "age": 153,
       "height": "1600 cm",
-      "image": "Oimo.png"
+      "image": "Oimo.png",
+      "image_offset": {
+        "x": 75,
+        "y": 5
+      }
     },
     {
       "name": "Tilestone",
@@ -185,7 +235,11 @@
       "origin": "Grand Line (Water 7)",
       "age": 21,
       "height": "187 cm",
-      "image": "Mozu.png"
+      "image": "Mozu.png",
+      "image_offset": {
+        "x": 86,
+        "y": 5
+      }
     },
     {
       "name": "Emporio Ivankov",
@@ -219,7 +273,7 @@
       "haki": [],
       "origin": "Created on Baldimore / Assembled",
       "height": "1300 cm",
-      "image": "Franky.png"
+      "image": "General_Franky.png"
     },
     {
       "name": "Ivan X",
@@ -231,7 +285,11 @@
       "origin": "Grand Line (Arabasta)",
       "age": 16,
       "height": "228 cm",
-      "image": "Ivan X.png"
+      "image": "Ivan X.png",
+      "image_offset": {
+        "x": 39,
+        "y": 5
+      }
     },
     {
       "name": "Mountblutain",
@@ -255,7 +313,11 @@
       "haki": [],
       "origin": "Unknown",
       "height": "212 cm",
-      "image": "Hamburg, Pickles, and Big Pan.png"
+      "image": "Hamburg, Pickles, and Big Pan.png",
+      "image_offset": {
+        "x": 32,
+        "y": 5
+      }
     },
     {
       "name": "Eustass Kid",
@@ -279,7 +341,11 @@
       "origin": "South Blue",
       "age": 23,
       "height": "205 cm",
-      "image": "Eustass Kid.png"
+      "image": "Eustass Kid.png",
+      "image_offset": {
+        "x": 43,
+        "y": 5
+      }
     },
     {
       "name": "Otohime",
@@ -293,12 +359,21 @@
       ],
       "origin": "Grand Line (Ryugu Kingdom)",
       "height": "224 cm",
-      "image": "Otohime.png"
+      "image": "Otohime.png",
+      "image_offset": {
+        "x": 0,
+        "y": 5
+      }
     },
     {
       "name": "Itomimizu",
       "birthday": "01-11",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Itomimizu.png",
+      "image_offset": {
+        "x": 42,
+        "y": 5
+      }
     },
     {
       "name": "Hiriluk",
@@ -311,7 +386,11 @@
       "origin": "Grand Line (Drum Kingdom)",
       "age": 68,
       "height": "213 cm",
-      "image": "Hiriluk.png"
+      "image": "Hiriluk.png",
+      "image_offset": {
+        "x": 52,
+        "y": 5
+      }
     },
     {
       "name": "Ikaros Much",
@@ -323,7 +402,11 @@
       "origin": "Grand Line (Fish-Man Island)",
       "age": 30,
       "height": "499 cm",
-      "image": "Ikaros Much.png"
+      "image": "Ikaros Much.png",
+      "image_offset": {
+        "x": 45,
+        "y": 0
+      }
     },
     {
       "name": "Sweet Pea",
@@ -335,10 +418,14 @@
         "Armament Haki"
       ],
       "origin": "Calm Belt (Amazon Lily)",
-      "image": "Sweet Pea.png"
+      "image": "Sweet Pea.png",
+      "image_offset": {
+        "x": 70,
+        "y": 5
+      }
     },
     {
-      "name": "A.O",
+      "name": "A O",
       "birthday": "01-15",
       "affiliation": "civilian"
     },
@@ -352,7 +439,11 @@
       "origin": "East Blue",
       "age": 75,
       "height": "172 cm",
-      "image": "Boodle.png"
+      "image": "Boodle.png",
+      "image_offset": {
+        "x": 52,
+        "y": 5
+      }
     },
     {
       "name": "Capone Bege",
@@ -372,17 +463,23 @@
       "origin": "West Blue",
       "age": 42,
       "height": "166 cm",
-      "image": "Capone Bege.png"
+      "image": "Capone Bege.png",
+      "image_offset": {
+        "x": 45,
+        "y": 5
+      }
     },
     {
       "name": "Splash",
       "birthday": "01-18",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Splash.png"
     },
     {
       "name": "Splatter",
       "birthday": "01-18",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Splatter.png"
     },
     {
       "name": "Kouzuki Toki",
@@ -400,7 +497,11 @@
       "origin": "Unknown (born 830+ years ago)",
       "age": 36,
       "height": "190 cm",
-      "image": "Kozuki Toki.png"
+      "image": "Kozuki Toki.png",
+      "image_offset": {
+        "x": 42,
+        "y": 5
+      }
     },
     {
       "name": "Spandine",
@@ -417,7 +518,12 @@
     {
       "name": "Kinderella",
       "birthday": "01-20",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Kinderella.png",
+      "image_offset": {
+        "x": 35,
+        "y": 5
+      }
     },
     {
       "name": "Antonio",
@@ -448,32 +554,53 @@
       "haki": [],
       "origin": "East Blue (Syrup Village)",
       "height": "1100 cm",
-      "image": "Going Merry (Merry Go) (edited).png"
+      "image": "Going Merry (Merry Go) (edited).png",
+      "image_offset": {
+        "x": 0,
+        "y": 5
+      }
     },
     {
-      "name": "Pez",
+      "name": "Capone Pez",
       "birthday": "01-22",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Pez.png",
+      "image_offset": {
+        "x": 27,
+        "y": 5
+      }
     },
     {
       "name": "Charlotte Basskarte",
       "birthday": "01-23",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Charlotte_Basskarte.png",
+      "image_offset": {
+        "x": 57,
+        "y": 5
+      }
     },
     {
       "name": "Charlotte Dosmarche",
       "birthday": "01-23",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Charlotte_Dosmarche.png",
+      "image_offset": {
+        "x": 34,
+        "y": 5
+      }
     },
     {
       "name": "Charlotte Nusstorte",
       "birthday": "01-23",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Charlotte_Nusstorte.png"
     },
     {
       "name": "Ginrummy",
       "birthday": "01-23",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Ginrummy.png"
     },
     {
       "name": "Roxanne",
@@ -488,7 +615,8 @@
     {
       "name": "Gild Tesoro",
       "birthday": "01-24",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Gild_Tesoro.png"
     },
     {
       "name": "Kairiken",
@@ -498,7 +626,11 @@
       "role": "Bounty Hunter",
       "haki": [],
       "origin": "Sabaody Archipelago",
-      "image": "Kairiken.png"
+      "image": "Kairiken.png",
+      "image_offset": {
+        "x": 34,
+        "y": 5
+      }
     },
     {
       "name": "Miss Monday",
@@ -508,7 +640,11 @@
       "role": "Bounty Hunter",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Miss Monday.png"
+      "image": "Miss Monday.png",
+      "image_offset": {
+        "x": 25,
+        "y": 5
+      }
     },
     {
       "name": "Giolla",
@@ -526,7 +662,11 @@
       "origin": "North Blue",
       "age": 61,
       "height": "221 cm",
-      "image": "Giolla.png"
+      "image": "Giolla.png",
+      "image_offset": {
+        "x": 70,
+        "y": 5
+      }
     },
     {
       "name": "Kuromarimo",
@@ -538,7 +678,11 @@
       "origin": "Grand Line (Drum Kingdom)",
       "age": 30,
       "height": "186 cm",
-      "image": "Kuromarimo.png"
+      "image": "Kuromarimo.png",
+      "image_offset": {
+        "x": 61,
+        "y": 5
+      }
     },
     {
       "name": "Nero",
@@ -551,7 +695,11 @@
       "origin": "West Blue",
       "age": 22,
       "height": "202 cm",
-      "image": "Nero.png"
+      "image": "Nero.png",
+      "image_offset": {
+        "x": 59,
+        "y": 5
+      }
     },
     {
       "name": "Charlotte Chiffon",
@@ -563,7 +711,11 @@
       "origin": "Grand Line (Totto Land)",
       "age": 26,
       "height": "215 cm",
-      "image": "Charlotte Chiffon.png"
+      "image": "Charlotte Chiffon.png",
+      "image_offset": {
+        "x": 26,
+        "y": 5
+      }
     },
     {
       "name": "Lola",
@@ -577,7 +729,11 @@
       "origin": "Grand Line (Totto Land)",
       "age": 26,
       "height": "215 cm",
-      "image": "Lola (zombie).png"
+      "image": "Lola (zombie).png",
+      "image_offset": {
+        "x": 48,
+        "y": 5
+      }
     },
     {
       "name": "Mansherry",
@@ -595,7 +751,11 @@
       "origin": "Grand Line (Green Bit)",
       "age": 25,
       "height": "20 cm",
-      "image": "Mansherry.png"
+      "image": "Mansherry.png",
+      "image_offset": {
+        "x": 73,
+        "y": 5
+      }
     },
     {
       "name": "Kin'emon",
@@ -617,7 +777,11 @@
       "origin": "Wano Country (Kuri)",
       "age": 36,
       "height": "295 cm",
-      "image": "Kin_emon (Kinemon).png"
+      "image": "Kin_emon (Kinemon).png",
+      "image_offset": {
+        "x": 35,
+        "y": 5
+      }
     },
     {
       "name": "Domo-kun",
@@ -644,7 +808,11 @@
       "origin": "South Blue",
       "age": 40,
       "height": "240 cm",
-      "image": "Suleiman.png"
+      "image": "Suleiman.png",
+      "image_offset": {
+        "x": 71,
+        "y": 5
+      }
     },
     {
       "name": "Aladine",
@@ -656,7 +824,11 @@
       "origin": "Grand Line (Ryugu Kingdom)",
       "age": 46,
       "height": "627 cm",
-      "image": "Aladine (Aladdin).png"
+      "image": "Aladine (Aladdin).png",
+      "image_offset": {
+        "x": 39,
+        "y": 5
+      }
     },
     {
       "name": "An Zengaiina",
@@ -666,7 +838,11 @@
       "role": "Captain",
       "haki": [],
       "origin": "Unknown",
-      "image": "An Zengaiina (Ratherby Seifer).png"
+      "image": "An Zengaiina (Ratherby Seifer).png",
+      "image_offset": {
+        "x": 91,
+        "y": 5
+      }
     },
     {
       "name": "Ipponmatsu",
@@ -678,7 +854,17 @@
       "origin": "East Blue (Loguetown)",
       "age": 40,
       "height": "157 cm",
-      "image": "Ipponmatsu (Matsu).png"
+      "image": "Ipponmatsu (Matsu).png",
+      "image_offset": {
+        "x": 46,
+        "y": 5
+      }
+    },
+    {
+      "name": "Peepley Lulu",
+      "birthday": "01-02",
+      "haki": [],
+      "image": "Peepley Lulu (Peeply Lulu) (edited).png"
     }
   ]
 }

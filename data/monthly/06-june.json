@@ -3,7 +3,12 @@
     {
       "name": "Moda",
       "birthday": "06-01",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Moda.png",
+      "image_offset": {
+        "x": 16,
+        "y": 5
+      }
     },
     {
       "name": "St. Charloss",
@@ -15,7 +20,11 @@
       "origin": "Mary Geoise",
       "age": 24,
       "height": "230 cm",
-      "image": "Charlos.png"
+      "image": "Charlos.png",
+      "image_offset": {
+        "x": 50,
+        "y": 2
+      }
     },
     {
       "name": "Chimney",
@@ -49,10 +58,14 @@
       "origin": "Grand Line",
       "age": 30,
       "height": "212 cm",
-      "image": "Rob Lucci (CP0).png"
+      "image": "Rob Lucci (CP0).png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
-      "name": "Ronse",
+      "name": "Lonz",
       "birthday": "06-02",
       "affiliation": "civilian"
     },
@@ -79,7 +92,8 @@
     {
       "name": "Epoida",
       "birthday": "06-04",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Epoida.png"
     },
     {
       "name": "Raijin",
@@ -91,7 +105,11 @@
       "origin": "Grand Line (Wano Country)",
       "age": 45,
       "height": "200 cm",
-      "image": "Raijin.png"
+      "image": "Raijin.png",
+      "image_offset": {
+        "x": 37,
+        "y": 5
+      }
     },
     {
       "name": "Crocus",
@@ -105,7 +123,11 @@
       "origin": "Grand Line",
       "age": 73,
       "height": "203 cm",
-      "image": "Crocus.png"
+      "image": "Crocus.png",
+      "image_offset": {
+        "x": 14,
+        "y": 5
+      }
     },
     {
       "name": "Jabra",
@@ -126,7 +148,11 @@
       "origin": "North Blue",
       "age": 37,
       "height": "212 cm",
-      "image": "Jabra.png"
+      "image": "Jabra.png",
+      "image_offset": {
+        "x": 30,
+        "y": 5
+      }
     },
     {
       "name": "Sicily",
@@ -136,7 +162,11 @@
       "role": "Rear Admiral",
       "haki": [],
       "origin": "South Blue",
-      "image": "Sicily.png"
+      "image": "Sicily.png",
+      "image_offset": {
+        "x": 35,
+        "y": 5
+      }
     },
     {
       "name": "Karma",
@@ -156,7 +186,11 @@
       "origin": "Grand Line",
       "age": 48,
       "height": "251 cm",
-      "image": "Momonga.png"
+      "image": "Momonga.png",
+      "image_offset": {
+        "x": 20,
+        "y": 0
+      }
     },
     {
       "name": "Sheepshead",
@@ -174,7 +208,11 @@
       "origin": "Grand Line",
       "age": 24,
       "height": "293 cm",
-      "image": "Sheepshead.png"
+      "image": "Sheepshead.png",
+      "image_offset": {
+        "x": 23,
+        "y": 5
+      }
     },
     {
       "name": "Perona",
@@ -193,12 +231,21 @@
       "origin": "West Blue",
       "age": 25,
       "height": "160 cm",
-      "image": "Perona (post-timeskip).png"
+      "image": "Perona (post-timeskip).png",
+      "image_offset": {
+        "x": 66,
+        "y": 5
+      }
     },
     {
       "name": "Lacroix",
       "birthday": "06-08",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Lacroix.png",
+      "image_offset": {
+        "x": 51,
+        "y": 5
+      }
     },
     {
       "name": "Saldeath",
@@ -210,12 +257,21 @@
       "origin": "Grand Line",
       "age": 18,
       "height": "218 cm",
-      "image": "Saldeath.png"
+      "image": "Saldeath.png",
+      "image_offset": {
+        "x": 46,
+        "y": 5
+      }
     },
     {
       "name": "Rockstar",
       "birthday": "06-09",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Rockstar.png",
+      "image_offset": {
+        "x": 66,
+        "y": 5
+      }
     },
     {
       "name": "Surume",
@@ -246,12 +302,21 @@
       "origin": "Grand Line (Drum Kingdom)",
       "age": 35,
       "height": "218 cm",
-      "image": "Dalton.png"
+      "image": "Dalton.png",
+      "image_offset": {
+        "x": 10,
+        "y": 5
+      }
     },
     {
       "name": "Portgas D. Rouge",
       "birthday": "06-10",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Portgas_D_Rouge.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Shiliew",
@@ -273,7 +338,11 @@
       "origin": "Grand Line",
       "age": 44,
       "height": "340 cm",
-      "image": "Shiryu.png"
+      "image": "Shiryu.png",
+      "image_offset": {
+        "x": 29,
+        "y": 5
+      }
     },
     {
       "name": "Disco",
@@ -284,7 +353,11 @@
       "role": "Auctioneer",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Disco.png"
+      "image": "Disco.png",
+      "image_offset": {
+        "x": 54,
+        "y": 5
+      }
     },
     {
       "name": "Senor Pink",
@@ -374,12 +447,21 @@
       "origin": "East Blue",
       "age": 34,
       "height": "196 cm",
-      "image": "Belo Betty.png"
+      "image": "Belo Betty.png",
+      "image_offset": {
+        "x": 74,
+        "y": 5
+      }
     },
     {
       "name": "Roshio",
       "birthday": "06-15",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Roshio.png",
+      "image_offset": {
+        "x": 34,
+        "y": 5
+      }
     },
     {
       "name": "Pedro",
@@ -396,7 +478,11 @@
       "origin": "Grand Line (Zou)",
       "age": 32,
       "height": "233 cm",
-      "image": "Pedro.png"
+      "image": "Pedro.png",
+      "image_offset": {
+        "x": 29,
+        "y": 5
+      }
     },
     {
       "name": "Genzo",
@@ -418,7 +504,11 @@
       "role": "Civilian",
       "haki": [],
       "origin": "Grand Line (Drum Kingdom)",
-      "image": "Tamachibi.png"
+      "image": "Tamachibi.png",
+      "image_offset": {
+        "x": 58,
+        "y": 5
+      }
     },
     {
       "name": "Toto",
@@ -438,7 +528,11 @@
       "role": "Waitress / Recruit",
       "haki": [],
       "origin": "East Blue (Shells Town)",
-      "image": "Rika.png"
+      "image": "Rika.png",
+      "image_offset": {
+        "x": 61,
+        "y": 5
+      }
     },
     {
       "name": "Mr. 4",
@@ -452,7 +546,11 @@
       "origin": "Grand Line",
       "age": 30,
       "height": "218 cm",
-      "image": "Babe (Mr. 4).png"
+      "image": "Babe (Mr. 4).png",
+      "image_offset": {
+        "x": 69,
+        "y": 5
+      }
     },
     {
       "name": "Rokkaku",
@@ -462,7 +560,11 @@
       "role": "Lieutenant",
       "haki": [],
       "origin": "East Blue",
-      "image": "Rokkaku.png"
+      "image": "Rokkaku.png",
+      "image_offset": {
+        "x": 43,
+        "y": 5
+      }
     },
     {
       "name": "Tibany",
@@ -482,12 +584,18 @@
     {
       "name": "Miss Father's Day",
       "birthday": "06-21",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Miss_Fathers_Day.png"
     },
     {
       "name": "Gyro",
       "birthday": "06-22",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Gyro.png",
+      "image_offset": {
+        "x": 56,
+        "y": 5
+      }
     },
     {
       "name": "Orlumbus",
@@ -501,11 +609,15 @@
       "origin": "Grand Line (Standing Kingdom)",
       "age": 42,
       "height": "480 cm",
-      "image": "Orlumbus (Olombus).png"
+      "image": "Orlumbus (Olombus).png",
+      "image_offset": {
+        "x": 31,
+        "y": 5
+      }
     },
     {
       "name": "Ryuboshi",
-      "birthday": "06-23",
+      "birthday": "06-24",
       "romanized_name": "Ryūboshi",
       "affiliation": "Neptune Family",
       "role": "Prince",
@@ -513,12 +625,6 @@
       "origin": "Grand Line (Ryugu Kingdom)",
       "age": 23,
       "height": "544 cm",
-      "image": "Ryuboshi.png"
-    },
-    {
-      "name": "Ryuuboshi",
-      "birthday": "06-24",
-      "affiliation": "civilian",
       "image": "Ryuboshi.png"
     },
     {
@@ -548,7 +654,11 @@
       "role": "Partner",
       "haki": [],
       "origin": "Grand Line (Totto Land)",
-      "image": "Zeus (Fluff).png"
+      "image": "Zeus (Fluff).png",
+      "image_offset": {
+        "x": 21,
+        "y": 5
+      }
     },
     {
       "name": "Riku Dold III",
@@ -560,7 +670,11 @@
       "origin": "Grand Line (Dressrosa)",
       "age": 60,
       "height": "261 cm",
-      "image": "Riku Doldo III.png"
+      "image": "Riku Doldo III.png",
+      "image_offset": {
+        "x": 36,
+        "y": 5
+      }
     },
     {
       "name": "Mocha",
@@ -572,7 +686,11 @@
       "origin": "Unknown",
       "age": 9,
       "height": "692 cm",
-      "image": "Mocha.png"
+      "image": "Mocha.png",
+      "image_offset": {
+        "x": 44,
+        "y": 5
+      }
     },
     {
       "name": "St. Roswald",
@@ -600,7 +718,11 @@
       "origin": "Grand Line",
       "age": 31,
       "height": "331 cm",
-      "image": "Fukurou (Fukurô, Fukuro).png"
+      "image": "Fukurou (Fukurô, Fukuro).png",
+      "image_offset": {
+        "x": 55,
+        "y": 5
+      }
     },
     {
       "name": "Pankuuta Dakeyan",
@@ -610,12 +732,27 @@
       "role": "Pirate",
       "haki": [],
       "origin": "Unknown",
-      "image": "Pankuta Dakeyan (Justy Tinbread).png"
+      "image": "Pankuta Dakeyan (Justy Tinbread).png",
+      "image_offset": {
+        "x": 61,
+        "y": 5
+      }
     },
     {
       "name": "Elmy",
       "birthday": "06-30",
       "affiliation": "civilian"
+    },
+    {
+      "name": "Fugetsu Omusubi",
+      "birthday": "06-30",
+      "haki": []
+    },
+    {
+      "name": "Shiryu",
+      "birthday": "06-11",
+      "haki": [],
+      "image": "Shiryu (edited).png"
     }
   ]
 }

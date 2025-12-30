@@ -8,7 +8,11 @@
       "role": "Combatant",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Porche, Capote, and Monda.png"
+      "image": "Porche, Capote, and Monda.png",
+      "image_offset": {
+        "x": 21,
+        "y": 5
+      }
     },
     {
       "name": "Hikoichi",
@@ -48,7 +52,11 @@
       "origin": "Grand Line (Vodka Kingdom)",
       "age": 59,
       "height": "710 cm",
-      "image": "Kaidou (Kaido) (dragon).png"
+      "image": "Kaidou (Kaido) (dragon).png",
+      "image_offset": {
+        "x": 37,
+        "y": 5
+      }
     },
     {
       "name": "Coribou",
@@ -62,12 +70,21 @@
       "origin": "North Blue",
       "age": 29,
       "height": "250 cm",
-      "image": "Coribou.png"
+      "image": "Coribou.png",
+      "image_offset": {
+        "x": 39,
+        "y": 5
+      }
     },
     {
       "name": "Cosette",
       "birthday": "05-02",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Cosette.png",
+      "image_offset": {
+        "x": 25,
+        "y": 5
+      }
     },
     {
       "name": "Monkey D. Garp",
@@ -85,7 +102,11 @@
       "origin": "East Blue (Goa Kingdom)",
       "age": 78,
       "height": "287 cm",
-      "image": "Monkey D. Garp.png"
+      "image": "Monkey D. Garp.png",
+      "image_offset": {
+        "x": 16,
+        "y": 0
+      }
     },
     {
       "name": "Arlong",
@@ -99,7 +120,11 @@
       "origin": "Grand Line (Fish-Man Island)",
       "age": 41,
       "height": "263 cm",
-      "image": "Arlong.png"
+      "image": "Arlong.png",
+      "image_offset": {
+        "x": 42,
+        "y": 0
+      }
     },
     {
       "name": "Cindry",
@@ -111,10 +136,14 @@
       "origin": "West Blue",
       "age": 24,
       "height": "188 cm",
-      "image": "Victoria Cindry.png"
+      "image": "Victoria Cindry.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
-      "name": "Isshily",
+      "name": "Ishilly",
       "birthday": "05-04",
       "affiliation": "civilian"
     },
@@ -128,7 +157,11 @@
       "origin": "East Blue (Shimotsuki Village)",
       "age": 51,
       "height": "184 cm",
-      "image": "Shimotsuki Koushirou.png"
+      "image": "Shimotsuki Koushirou.png",
+      "image_offset": {
+        "x": 3,
+        "y": 0
+      }
     },
     {
       "name": "Demaro Black",
@@ -166,7 +199,11 @@
       "origin": "East Blue (Foosha Village)",
       "age": 19,
       "height": "174 cm",
-      "image": "Monkey D. Luffy.png"
+      "image": "Monkey D. Luffy.png",
+      "image_offset": {
+        "x": 43,
+        "y": 8
+      }
     },
     {
       "name": "Enel",
@@ -187,12 +224,21 @@
       "origin": "Sky Island (Birka)",
       "age": 39,
       "height": "266 cm",
-      "image": "Enel (Eneru).png"
+      "image": "Enel (Eneru).png",
+      "image_offset": {
+        "x": 85,
+        "y": 0
+      }
     },
     {
       "name": "Maynard",
       "birthday": "05-07",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Maynard.png",
+      "image_offset": {
+        "x": 37,
+        "y": 5
+      }
     },
     {
       "name": "Shakuyaku",
@@ -207,7 +253,11 @@
       "origin": "Calm Belt (Amazon Lily)",
       "age": 64,
       "height": "186 cm",
-      "image": "Shakuyaku (Shakky).png"
+      "image": "Shakuyaku (Shakky).png",
+      "image_offset": {
+        "x": 50,
+        "y": 13
+      }
     },
     {
       "name": "Shoujou",
@@ -221,12 +271,17 @@
       "origin": "South Blue",
       "age": 27,
       "height": "351 cm",
-      "image": "Shoujou.png"
+      "image": "Shoujou.png",
+      "image_offset": {
+        "x": 42,
+        "y": 5
+      }
     },
     {
       "name": "Kong",
       "birthday": "05-09",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Kong.png"
     },
     {
       "name": "Sengoku",
@@ -249,7 +304,11 @@
       "origin": "South Blue",
       "age": 79,
       "height": "278 cm",
-      "image": "Sengoku (post-timeskip).png"
+      "image": "Sengoku (post-timeskip).png",
+      "image_offset": {
+        "x": 34,
+        "y": 0
+      }
     },
     {
       "name": "Heracles",
@@ -267,7 +326,8 @@
     {
       "name": "Goldberg",
       "birthday": "05-11",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Goldberg.png"
     },
     {
       "name": "Poro",
@@ -277,7 +337,11 @@
       "role": "Bookstore Owner",
       "haki": [],
       "origin": "East Blue (Orange Town)",
-      "image": "Poro.png"
+      "image": "Poro.png",
+      "image_offset": {
+        "x": 79,
+        "y": 5
+      }
     },
     {
       "name": "Daikoku",
@@ -304,7 +368,11 @@
       "origin": "North Blue (Germa Kingdom)",
       "age": 56,
       "height": "272 cm",
-      "image": "Vinsmoke Judge.png"
+      "image": "Vinsmoke Judge.png",
+      "image_offset": {
+        "x": 81,
+        "y": 5
+      }
     },
     {
       "name": "Koby",
@@ -321,7 +389,11 @@
       "origin": "East Blue",
       "age": 18,
       "height": "167 cm",
-      "image": "Koby (Coby) (after).png"
+      "image": "Koby (Coby) (after).png",
+      "image_offset": {
+        "x": 38,
+        "y": 0
+      }
     },
     {
       "name": "Silvers Rayleigh",
@@ -338,7 +410,11 @@
       "origin": "Unknown",
       "age": 78,
       "height": "188 cm",
-      "image": "Rayleigh.png"
+      "image": "Rayleigh.png",
+      "image_offset": {
+        "x": 44,
+        "y": 0
+      }
     },
     {
       "name": "Tamago",
@@ -361,7 +437,11 @@
       "origin": "Grand Line",
       "age": 46,
       "height": "301 cm",
-      "image": "Tamago.png"
+      "image": "Tamago.png",
+      "image_offset": {
+        "x": 55,
+        "y": 5
+      }
     },
     {
       "name": "Baby 5",
@@ -379,19 +459,11 @@
       "origin": "North Blue",
       "age": 24,
       "height": "181 cm",
-      "image": "Baby 5.png"
-    },
-    {
-      "name": "Kolumbus",
-      "birthday": "05-16",
-      "romanized_name": "Koronbusu",
-      "affiliation": "Yonta Maria Grand Fleet",
-      "role": "Pirate",
-      "haki": [],
-      "origin": "Grand Line",
-      "age": 51,
-      "height": "130 cm",
-      "image": "Orlumbus (Olombus).png"
+      "image": "Baby 5.png",
+      "image_offset": {
+        "x": 25,
+        "y": 5
+      }
     },
     {
       "name": "Pudding Pudding",
@@ -401,7 +473,11 @@
       "role": "Commodore",
       "haki": [],
       "origin": "East Blue",
-      "image": "Pudding Pudding (Purinpurin).png"
+      "image": "Pudding Pudding (Purinpurin).png",
+      "image_offset": {
+        "x": 53,
+        "y": 5
+      }
     },
     {
       "name": "Hocker",
@@ -433,22 +509,41 @@
         "Armament Haki"
       ],
       "origin": "Calm Belt (Amazon Lily)",
-      "image": "Poppy.png"
+      "image": "Poppy.png",
+      "image_offset": {
+        "x": 81,
+        "y": 5
+      }
     },
     {
       "name": "Gorilla",
       "birthday": "05-18",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Gorilla.png",
+      "image_offset": {
+        "x": 62,
+        "y": 5
+      }
     },
     {
       "name": "Andre",
       "birthday": "05-19",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Andre.png",
+      "image_offset": {
+        "x": 62,
+        "y": 5
+      }
     },
     {
       "name": "Candre",
       "birthday": "05-19",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Candre.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "John Giant",
@@ -462,7 +557,11 @@
       ],
       "origin": "Grand Line (Elbaph)",
       "height": "12000 cm",
-      "image": "John Giant.png"
+      "image": "John Giant.png",
+      "image_offset": {
+        "x": 45,
+        "y": 5
+      }
     },
     {
       "name": "Tenguyama Hitetsu",
@@ -501,16 +600,25 @@
       "origin": "West Blue",
       "age": 33,
       "height": "375 cm",
-      "image": "Gotti.png"
+      "image": "Gotti.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Decalvan Brothers",
       "birthday": "05-22",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Decalvan_Brothers.png",
+      "image_offset": {
+        "x": 42,
+        "y": 5
+      }
     },
     {
       "name": "Lindbergh",
-      "birthday": "05-22",
+      "birthday": "05-21",
       "romanized_name": "Rindobāgu",
       "affiliation": "Revolutionary Army",
       "role": "South Army Commander",
@@ -522,7 +630,11 @@
       "origin": "Unknown",
       "age": 37,
       "height": "149 cm",
-      "image": "Lindbergh.png"
+      "image": "Lindbergh.png",
+      "image_offset": {
+        "x": 30,
+        "y": 5
+      }
     },
     {
       "name": "Chew",
@@ -535,7 +647,11 @@
       "origin": "Grand Line (Fish-Man Island)",
       "age": 35,
       "height": "257 cm",
-      "image": "Chew (Choo).png"
+      "image": "Chew (Choo).png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Carrot",
@@ -558,12 +674,17 @@
       "role": "Groggy Monster",
       "haki": [],
       "origin": "Unknown",
-      "image": "Hamburg, Pickles, and Big Pan.png"
+      "image": "Hamburg, Pickles, and Big Pan.png",
+      "image_offset": {
+        "x": 66,
+        "y": 5
+      }
     },
     {
-      "name": "Kohza",
+      "name": "Koza",
       "birthday": "05-26",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Koza (edited).png"
     },
     {
       "name": "Koze",
@@ -573,7 +694,11 @@
       "role": "Pirate",
       "haki": [],
       "origin": "Unknown",
-      "image": "Koze.png"
+      "image": "Koze.png",
+      "image_offset": {
+        "x": 57,
+        "y": 5
+      }
     },
     {
       "name": "Stansen",
@@ -585,10 +710,14 @@
       "origin": "Grand Line (Elbaph)",
       "age": 81,
       "height": "1950 cm",
-      "image": "Stansen.png"
+      "image": "Stansen.png",
+      "image_offset": {
+        "x": 41,
+        "y": 5
+      }
     },
     {
-      "name": "Cat-car",
+      "name": "Nyasha",
       "birthday": "05-28",
       "affiliation": "civilian"
     },
@@ -613,12 +742,17 @@
       "origin": "North Blue",
       "age": 45,
       "height": "525 cm",
-      "image": "Diamante.png"
+      "image": "Diamante.png",
+      "image_offset": {
+        "x": 35,
+        "y": 5
+      }
     },
     {
       "name": "Kyuin",
       "birthday": "05-30",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Kyuin.png"
     },
     {
       "name": "Lacuba",
@@ -630,6 +764,16 @@
       "haki": [],
       "origin": "Unknown",
       "image": "Lacuba.png"
+    },
+    {
+      "name": "Kaidou",
+      "birthday": "05-01",
+      "haki": [],
+      "image": "Kaidou (Kaido) (dragon).png",
+      "image_offset": {
+        "x": 37,
+        "y": 5
+      }
     }
   ]
 }

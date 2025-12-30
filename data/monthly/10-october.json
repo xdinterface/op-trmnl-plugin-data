@@ -1,7 +1,7 @@
 {
   "characters": [
     {
-      "name": "Comile",
+      "name": "Comil",
       "birthday": "10-01",
       "affiliation": "civilian"
     },
@@ -16,7 +16,11 @@
       "origin": "East Blue",
       "age": 29,
       "height": "197 cm (6'6\")",
-      "image": "Mohji and Richie.png"
+      "image": "Mohji and Richie.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Dorry",
@@ -30,7 +34,11 @@
       "origin": "Grand Line (Elbaph)",
       "age": 160,
       "height": "2260 cm (74'2\")",
-      "image": "Dorry.png"
+      "image": "Dorry.png",
+      "image_offset": {
+        "x": 79,
+        "y": 5
+      }
     },
     {
       "name": "Tonjit",
@@ -54,7 +62,11 @@
       "origin": "Sky Islands (Birka)",
       "age": 45,
       "height": "366 cm (12')",
-      "image": "Yama.png"
+      "image": "Yama.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Calgara",
@@ -69,7 +81,11 @@
       "origin": "Grand Line (Jaya)",
       "age": 39,
       "height": "222 cm (7'3\")",
-      "image": "Kalgara (Calgara).png"
+      "image": "Kalgara (Calgara).png",
+      "image_offset": {
+        "x": 34,
+        "y": 5
+      }
     },
     {
       "name": "Oars",
@@ -105,7 +121,11 @@
       "origin": "Grand Line (Ryugu Kingdom; Fish-Man Island)",
       "age": 72,
       "height": "168 cm (5'6\")",
-      "image": "Kokoro.png"
+      "image": "Kokoro.png",
+      "image_offset": {
+        "x": 65,
+        "y": 5
+      }
     },
     {
       "name": "Marco",
@@ -128,7 +148,11 @@
       "origin": "Grand Line",
       "age": 45,
       "height": "203 cm",
-      "image": "Marco (post-timeskip).png"
+      "image": "Marco (post-timeskip).png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Monkey D. Dragon",
@@ -142,7 +166,11 @@
       "origin": "East Blue (Goa Kingdom)",
       "age": 55,
       "height": "256 cm (8'5\")",
-      "image": "Monkey D. Dragon.png"
+      "image": "Monkey D. Dragon.png",
+      "image_offset": {
+        "x": 0,
+        "y": 5
+      }
     },
     {
       "name": "O-Toko",
@@ -154,7 +182,11 @@
       "origin": "Grand Line (Wano Country)",
       "age": 6,
       "height": "89 cm (2'11\")",
-      "image": "Toko.png"
+      "image": "Toko.png",
+      "image_offset": {
+        "x": 57,
+        "y": 5
+      }
     },
     {
       "name": "Van Augur",
@@ -168,7 +200,11 @@
       "origin": "East Blue",
       "age": 27,
       "height": "340 cm (11'2\")",
-      "image": "Van Augur (Van Auger, Van Ogre).png"
+      "image": "Van Augur (Van Auger, Van Ogre).png",
+      "image_offset": {
+        "x": 53,
+        "y": 5
+      }
     },
     {
       "name": "Bartolomeo",
@@ -182,7 +218,11 @@
       "origin": "East Blue",
       "age": 24,
       "height": "220 cm (7'3\")",
-      "image": "Bartolomeo.png"
+      "image": "Bartolomeo.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Tashigi",
@@ -218,7 +258,11 @@
       "origin": "North Blue (Flevance)",
       "age": 26,
       "height": "191 cm",
-      "image": "Trafalgar D. Water Law (post-timeskip).png"
+      "image": "Trafalgar D. Water Law (post-timeskip).png",
+      "image_offset": {
+        "x": 53,
+        "y": 5
+      }
     },
     {
       "name": "Kouzuki Momonosuke",
@@ -237,7 +281,11 @@
       "origin": "Grand Line (Moby Dick)",
       "age": 28,
       "height": "322 cm (10'7\")",
-      "image": "Kozuki Momonosuke (dragon).png"
+      "image": "Kozuki Momonosuke (dragon).png",
+      "image_offset": {
+        "x": 61,
+        "y": 5
+      }
     },
     {
       "name": "Lao G",
@@ -250,7 +298,11 @@
       "origin": "North Blue",
       "age": 70,
       "height": "157 cm (5'2\")",
-      "image": "Lao G.png"
+      "image": "Lao G.png",
+      "image_offset": {
+        "x": 54,
+        "y": 5
+      }
     },
     {
       "name": "Doberman",
@@ -281,7 +333,11 @@
       },
       "haki": [],
       "origin": "Sky Islands (Skypiea)",
-      "image": "Pierre (solo).png"
+      "image": "Pierre (solo).png",
+      "image_offset": {
+        "x": 68,
+        "y": 5
+      }
     },
     {
       "name": "Dosun",
@@ -317,7 +373,11 @@
       "haki": [],
       "origin": "North Blue",
       "height": "220 cm (7'2\")",
-      "image": "Mont Blanc Noland (Montblanc Noland).png"
+      "image": "Mont Blanc Noland (Montblanc Noland).png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Braham",
@@ -329,7 +389,11 @@
       "origin": "Sky Islands (Skypiea)",
       "age": 24,
       "height": "179 cm (5'10\")",
-      "image": "Braham.png"
+      "image": "Braham.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Den",
@@ -341,7 +405,11 @@
       "origin": "Grand Line (Fish-Man Island)",
       "age": 62,
       "height": "435 cm (14'3\")",
-      "image": "Den.png"
+      "image": "Den.png",
+      "image_offset": {
+        "x": 40,
+        "y": 5
+      }
     },
     {
       "name": "Ideo",
@@ -366,7 +434,11 @@
       "origin": "Grand Line (Arabasta)",
       "age": 15,
       "height": "202 cm",
-      "image": "Stomp.png"
+      "image": "Stomp.png",
+      "image_offset": {
+        "x": 34,
+        "y": 5
+      }
     },
     {
       "name": "Inuarashi",
@@ -379,7 +451,11 @@
       "origin": "Grand Line (Mokomo Dukedom)",
       "age": 40,
       "height": "511 cm (16'9\")",
-      "image": "Inuarashi (Dogstorm).png"
+      "image": "Inuarashi (Dogstorm).png",
+      "image_offset": {
+        "x": 92,
+        "y": 5
+      }
     },
     {
       "name": "Charlotte Cinnamon",
@@ -402,7 +478,11 @@
       "origin": "Grand Line (Totto Land)",
       "age": 35,
       "height": "464 cm (15'3\")",
-      "image": "Charlotte Smoothie.png"
+      "image": "Charlotte Smoothie.png",
+      "image_offset": {
+        "x": 46,
+        "y": 5
+      }
     },
     {
       "name": "Izou",
@@ -427,7 +507,11 @@
       "origin": "Sky Islands (Birka)",
       "age": 97,
       "height": "253 cm (8'4\")",
-      "image": "Haredas (post-timeskip).png"
+      "image": "Haredas (post-timeskip).png",
+      "image_offset": {
+        "x": 15,
+        "y": 0
+      }
     },
     {
       "name": "Charlotte Compote",
@@ -442,7 +526,7 @@
       "role": "Pirate Officer",
       "haki": [],
       "age": 19,
-      "image": "Charlotte Oven.png"
+      "image": "Charlotte_Yuen.png"
     },
     {
       "name": "Mornin",
@@ -452,7 +536,11 @@
       "role": "Mayor",
       "haki": [],
       "origin": "East Blue (Syrup Village)",
-      "image": "Mornin.png"
+      "image": "Mornin.png",
+      "image_offset": {
+        "x": 54,
+        "y": 5
+      }
     },
     {
       "name": "Taroimo",
@@ -461,7 +549,11 @@
       "affiliation": "civilian",
       "role": "Cyborg animal; Pet",
       "haki": [],
-      "image": "Taroimo.png"
+      "image": "Taroimo.png",
+      "image_offset": {
+        "x": 60,
+        "y": 5
+      }
     },
     {
       "name": "Marin",
@@ -498,7 +590,11 @@
       "origin": "North Blue",
       "age": 28,
       "height": "342 cm (11'3\")",
-      "image": "Doc Q and Stronger.png"
+      "image": "Doc Q and Stronger.png",
+      "image_offset": {
+        "x": 30,
+        "y": 5
+      }
     },
     {
       "name": "Jigoku Benten",
@@ -528,7 +624,12 @@
     {
       "name": "Tyrannosaurus",
       "birthday": "10-20",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Tyrannosaurus.png",
+      "image_offset": {
+        "x": 69,
+        "y": 5
+      }
     },
     {
       "name": "Sam",
@@ -537,7 +638,11 @@
       "affiliation": "civilian",
       "haki": [],
       "origin": "East Blue (Conomi Islands)",
-      "image": "Sam.png"
+      "image": "Sam.png",
+      "image_offset": {
+        "x": 39,
+        "y": 5
+      }
     },
     {
       "name": "Vito",
@@ -613,7 +718,11 @@
       "origin": "Grand Line (Wano Country)",
       "age": 49,
       "height": "180 cm (5'11\")",
-      "image": "Shinobu.png"
+      "image": "Shinobu.png",
+      "image_offset": {
+        "x": 60,
+        "y": 5
+      }
     },
     {
       "name": "X Drake",
@@ -627,7 +736,11 @@
       "origin": "North Blue",
       "age": 33,
       "height": "233 cm (7'8\") (debut, after timeskip)",
-      "image": "X Drake.png"
+      "image": "X Drake.png",
+      "image_offset": {
+        "x": 78,
+        "y": 5
+      }
     },
     {
       "name": "Koala",
@@ -639,7 +752,11 @@
       "haki": [],
       "age": 23,
       "height": "160 cm (5'3\")",
-      "image": "Koala (adult).png"
+      "image": "Koala (adult).png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Kuroobi",
@@ -652,7 +769,11 @@
       "origin": "Grand Line (Ryugu Kingdom, Fish-Man Island)",
       "age": 38,
       "height": "252 cm (8'3\")",
-      "image": "Kuroobi.png"
+      "image": "Kuroobi.png",
+      "image_offset": {
+        "x": 35,
+        "y": 5
+      }
     },
     {
       "name": "Belladonna",
@@ -665,7 +786,11 @@
         "Kenbunshoku"
       ],
       "origin": "Calm Belt (Amazon Lily)",
-      "image": "Belladonna.png"
+      "image": "Belladonna.png",
+      "image_offset": {
+        "x": 53,
+        "y": 5
+      }
     },
     {
       "name": "Denjiro",
@@ -678,7 +803,11 @@
       "origin": "Grand Line (Wano Country)",
       "age": 47,
       "height": "306 cm (10'0½\")",
-      "image": "Denjiro (Kyoshiro).png"
+      "image": "Denjiro (Kyoshiro).png",
+      "image_offset": {
+        "x": 0,
+        "y": 5
+      }
     },
     {
       "name": "Kagikko",
@@ -688,7 +817,11 @@
       "role": "Pirate; Locksmith",
       "haki": [],
       "origin": "East Blue",
-      "image": "Kagikko (Keygan).png"
+      "image": "Kagikko (Keygan).png",
+      "image_offset": {
+        "x": 47,
+        "y": 5
+      }
     },
     {
       "name": "Scarlet",
@@ -733,7 +866,7 @@
       "affiliation": "civilian"
     },
     {
-      "name": "Monstar",
+      "name": "Monster",
       "birthday": "10-31",
       "romanized_name": "Monsutā",
       "affiliation": "Red Hair Pirates",
@@ -743,14 +876,58 @@
       "image": "Monster.png"
     },
     {
-      "name": "Sherrie",
+      "name": "Whitey Bay",
       "birthday": "10-31",
       "affiliation": "civilian"
     },
     {
-      "name": "Whitey Bay",
+      "name": "Shandian Chief",
+      "birthday": "10-04",
+      "affiliation": "unknown",
+      "age": "65"
+    },
+    {
+      "name": "Scarlett",
+      "birthday": "10-28",
+      "affiliation": "civilian",
+      "age": "25"
+    },
+    {
+      "name": "Shelly",
       "birthday": "10-31",
-      "affiliation": "civilian"
+      "affiliation": "unknown",
+      "image": "Shelly (Sherry).png",
+      "image_offset": {
+        "x": 0,
+        "y": 5
+      }
+    },
+    {
+      "name": "Ginny",
+      "birthday": "10-21",
+      "haki": []
+    },
+    {
+      "name": "Guernika",
+      "birthday": "10-25",
+      "haki": []
+    },
+    {
+      "name": "Kalgara",
+      "birthday": "10-04",
+      "haki": [],
+      "image": "Kalgara (Calgara) (edited).png"
+    },
+    {
+      "name": "Toko",
+      "birthday": "10-05",
+      "haki": [],
+      "image": "Toko (edited).png"
+    },
+    {
+      "name": "Uta",
+      "birthday": "10-01",
+      "haki": []
     }
   ]
 }

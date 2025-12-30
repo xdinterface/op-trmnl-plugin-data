@@ -57,7 +57,11 @@
       "origin": "East Blue (Gecko Islands)",
       "age": 47,
       "height": "183 cm",
-      "image": "Yasopp (1).png"
+      "image": "Yasopp (1).png",
+      "image_offset": {
+        "x": 73,
+        "y": 5
+      }
     },
     {
       "name": "Hanzo",
@@ -80,7 +84,11 @@
       "origin": "South Blue",
       "age": 29,
       "height": "228 cm",
-      "image": "Inazuma.png"
+      "image": "Inazuma.png",
+      "image_offset": {
+        "x": 79,
+        "y": 5
+      }
     },
     {
       "name": "Marshall D. Teach",
@@ -118,7 +126,7 @@
       "image": "Amazon.png"
     },
     {
-      "name": "Boss of the Earth",
+      "name": "Dirt Boss",
       "birthday": "08-04",
       "affiliation": "civilian"
     },
@@ -135,7 +143,11 @@
       "origin": "Grand Line (Dressrosa)",
       "age": 16,
       "height": "171 cm",
-      "image": "Rebecca.png"
+      "image": "Rebecca.png",
+      "image_offset": {
+        "x": 32,
+        "y": 5
+      }
     },
     {
       "name": "Gaimon",
@@ -147,7 +159,11 @@
       "origin": "East Blue",
       "age": 45,
       "height": "130 cm",
-      "image": "Gaimon.png"
+      "image": "Gaimon.png",
+      "image_offset": {
+        "x": 27,
+        "y": 5
+      }
     },
     {
       "name": "Octopako",
@@ -174,7 +190,11 @@
       "origin": "South Blue",
       "age": 38,
       "height": "573 cm",
-      "image": "Vasco Shot.png"
+      "image": "Vasco Shot.png",
+      "image_offset": {
+        "x": 30,
+        "y": 5
+      }
     },
     {
       "name": "Blenheim",
@@ -184,7 +204,11 @@
       "role": "9th Division Commander",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Blenheim.png"
+      "image": "Blenheim.png",
+      "image_offset": {
+        "x": 42,
+        "y": 5
+      }
     },
     {
       "name": "Gladius",
@@ -203,7 +227,11 @@
       "origin": "North Blue",
       "age": 33,
       "height": "260 cm",
-      "image": "Gladius.png"
+      "image": "Gladius.png",
+      "image_offset": {
+        "x": 67,
+        "y": 5
+      }
     },
     {
       "name": "Gomorrah",
@@ -246,7 +274,11 @@
       "origin": "North Blue",
       "age": 27,
       "height": "240 cm",
-      "image": "Bellamy (post-timeskip).png"
+      "image": "Bellamy (post-timeskip).png",
+      "image_offset": {
+        "x": 50,
+        "y": 2
+      }
     },
     {
       "name": "Kaku",
@@ -268,7 +300,11 @@
       "origin": "East Blue",
       "age": 25,
       "height": "193 cm",
-      "image": "Kaku (CP9).png"
+      "image": "Kaku (CP9).png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Buggy",
@@ -288,7 +324,11 @@
       "origin": "Grand Line",
       "age": 39,
       "height": "192 cm",
-      "image": "Buggy.png"
+      "image": "Buggy.png",
+      "image_offset": {
+        "x": 54,
+        "y": 5
+      }
     },
     {
       "name": "Hatchan",
@@ -366,7 +406,11 @@
       "origin": "Grand Line",
       "age": 54,
       "height": "270 cm",
-      "image": "Issho (Fujitora).png"
+      "image": "Issho (Fujitora).png",
+      "image_offset": {
+        "x": 14,
+        "y": 5
+      }
     },
     {
       "name": "Gedatsu",
@@ -386,7 +430,12 @@
     {
       "name": "Hattori",
       "birthday": "08-10",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Hattori.png",
+      "image_offset": {
+        "x": 3,
+        "y": 5
+      }
     },
     {
       "name": "Dellinger",
@@ -412,7 +461,11 @@
       "origin": "Grand Line",
       "age": 25,
       "height": "470 cm",
-      "image": "Duval.png"
+      "image": "Duval.png",
+      "image_offset": {
+        "x": 59,
+        "y": 5
+      }
     },
     {
       "name": "Hajrudin",
@@ -424,7 +477,11 @@
       "origin": "Grand Line (Elbaph)",
       "age": 81,
       "height": "2200 cm",
-      "image": "Hajrudin.png"
+      "image": "Hajrudin.png",
+      "image_offset": {
+        "x": 66,
+        "y": 5
+      }
     },
     {
       "name": "Don Sai",
@@ -459,7 +516,11 @@
       "origin": "North Blue",
       "age": 52,
       "height": "440 cm",
-      "image": "Machvise (Mach Vise).png"
+      "image": "Machvise (Mach Vise).png",
+      "image_offset": {
+        "x": 35,
+        "y": 5
+      }
     },
     {
       "name": "Bomba",
@@ -504,7 +565,11 @@
       "origin": "East Blue",
       "age": 32,
       "height": "238 cm",
-      "image": "Bentham (Mr. 2 Bon Kurei, Bon Clay).png"
+      "image": "Bentham (Mr. 2 Bon Kurei, Bon Clay).png",
+      "image_offset": {
+        "x": 63,
+        "y": 5
+      }
     },
     {
       "name": "Dr. Tsukimi",
@@ -544,7 +609,11 @@
       "origin": "Grand Line (Arabasta)",
       "age": 17,
       "height": "190 cm",
-      "image": "Matsuge (Eyelashes).png"
+      "image": "Matsuge (Eyelashes).png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Pagaya",
@@ -556,7 +625,11 @@
       "origin": "Grand Line (Skypiea)",
       "age": 54,
       "height": "179 cm",
-      "image": "Pagaya.png"
+      "image": "Pagaya.png",
+      "image_offset": {
+        "x": 82,
+        "y": 5
+      }
     },
     {
       "name": "Wiper",
@@ -572,7 +645,11 @@
       "origin": "Sky Island (Skypiea)",
       "age": 24,
       "height": "183 cm",
-      "image": "Wyper (post-timeskip).png"
+      "image": "Wyper (post-timeskip).png",
+      "image_offset": {
+        "x": 26,
+        "y": 2
+      }
     },
     {
       "name": "Motobaro",
@@ -582,7 +659,11 @@
       "role": "Pet (Bison)",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Motobaro (Motobalo).png"
+      "image": "Motobaro (Motobalo).png",
+      "image_offset": {
+        "x": 48,
+        "y": 5
+      }
     },
     {
       "name": "Boo",
@@ -626,7 +707,11 @@
       "role": "Pirate; Commander of Parties",
       "haki": [],
       "origin": "Grand Line (Ryugu Kingdom, Fish-Man Island)",
-      "image": "Take.png"
+      "image": "Take.png",
+      "image_offset": {
+        "x": 38,
+        "y": 5
+      }
     },
     {
       "name": "Vander Decken IX",
@@ -668,7 +753,11 @@
       "bounty": "At least ★(At least 100,000,000)",
       "haki": [],
       "origin": "West Blue",
-      "image": "Daigin.png"
+      "image": "Daigin.png",
+      "image_offset": {
+        "x": 85,
+        "y": 5
+      }
     },
     {
       "name": "Kaya",
@@ -680,7 +769,11 @@
       "origin": "East Blue (Gecko Islands)",
       "age": 19,
       "height": "169 cm (5'6\")",
-      "image": "Kaya.png"
+      "image": "Kaya.png",
+      "image_offset": {
+        "x": 59,
+        "y": 0
+      }
     },
     {
       "name": "Corgi",
@@ -688,7 +781,7 @@
       "affiliation": "civilian"
     },
     {
-      "name": "Gyatz",
+      "name": "Gatz",
       "birthday": "08-26",
       "affiliation": "civilian"
     },
@@ -751,7 +844,38 @@
       "origin": "Grand Line (Bourgeois Kingdom)",
       "age": 26,
       "height": "208 cm (6'10\")",
-      "image": "Cavendish.png"
+      "image": "Cavendish.png",
+      "image_offset": {
+        "x": 32,
+        "y": 5
+      }
+    },
+    {
+      "name": "Kurozumi Higurashi",
+      "birthday": "08-19",
+      "affiliation": "civilian",
+      "devil_fruit": {
+        "name": "Travesti-Fruit",
+        "japanese_name": "Mane Mane no Mi",
+        "type": "Paramecia",
+        "power": "Allows you to change your appearance by touching your face with your right hand, and to return to your normal appearance by touching your face with your left hand. You only need to touch a person once for their appearance to be remembered forever. The user can also assemble parts of different people, but is unable to attack unless he possesses his own face and body."
+      }
+    },
+    {
+      "name": "Kurozumi Semimaru",
+      "birthday": "08-23",
+      "affiliation": "civilian",
+      "devil_fruit": {
+        "name": "Fruit of the Barrier",
+        "japanese_name": "Bari Bari no Mi",
+        "type": "Paramecia",
+        "power": "Enables its user to generate almost invisible barriers to deflect or block any attack. These barriers can take on a wide range of shapes (racket, stairs, etc.)."
+      }
+    },
+    {
+      "name": "Tsukimi",
+      "birthday": "08-15",
+      "haki": []
     }
   ]
 }

@@ -3,7 +3,12 @@
     {
       "name": "Minorhinoceros",
       "birthday": "03-01",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Minorhinoceros.png",
+      "image_offset": {
+        "x": 20,
+        "y": 5
+      }
     },
     {
       "name": "Sanji",
@@ -21,7 +26,11 @@
       "origin": "North Blue (Germa Kingdom)",
       "age": 21,
       "height": "180 cm",
-      "image": "Sanji.png"
+      "image": "Sanji.png",
+      "image_offset": {
+        "x": 2,
+        "y": 0
+      }
     },
     {
       "name": "Sanjuan Wolf",
@@ -40,7 +49,11 @@
       "origin": "West Blue",
       "age": 99,
       "height": "18000 cm",
-      "image": "Sanjuan Wolf (San Juan Wolf).png"
+      "image": "Sanjuan Wolf (San Juan Wolf).png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Vinsmoke Ichiji",
@@ -56,7 +69,11 @@
       "origin": "North Blue (Germa Kingdom)",
       "age": 21,
       "height": "186 cm",
-      "image": "Vinsmoke Ichiji.png"
+      "image": "Vinsmoke Ichiji.png",
+      "image_offset": {
+        "x": 12,
+        "y": 5
+      }
     },
     {
       "name": "Vinsmoke Niji",
@@ -72,7 +89,11 @@
       "origin": "North Blue (Germa Kingdom)",
       "age": 21,
       "height": "185 cm",
-      "image": "Vinsmoke Niji.png"
+      "image": "Vinsmoke Niji.png",
+      "image_offset": {
+        "x": 0,
+        "y": 5
+      }
     },
     {
       "name": "Vinsmoke Yonji",
@@ -88,7 +109,11 @@
       "origin": "North Blue (Germa Kingdom)",
       "age": 21,
       "height": "194 cm",
-      "image": "Vinsmoke Yonji.png"
+      "image": "Vinsmoke Yonji.png",
+      "image_offset": {
+        "x": 15,
+        "y": 5
+      }
     },
     {
       "name": "Galdino",
@@ -110,7 +135,11 @@
       "origin": "South Blue",
       "age": 37,
       "height": "179 cm",
-      "image": "Galdino (Mr. 3).png"
+      "image": "Galdino (Mr. 3).png",
+      "image_offset": {
+        "x": 97,
+        "y": 5
+      }
     },
     {
       "name": "Hina",
@@ -164,17 +193,31 @@
       "origin": "North Blue",
       "age": 25,
       "height": "345 cm",
-      "image": "Masira.png"
+      "image": "Masira.png",
+      "image_offset": {
+        "x": 48,
+        "y": 5
+      }
     },
     {
       "name": "Minotaurus",
       "birthday": "03-04",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Minotaurus.png",
+      "image_offset": {
+        "x": 63,
+        "y": 5
+      }
     },
     {
       "name": "Minokoala",
       "birthday": "03-05",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Minokoala.png",
+      "image_offset": {
+        "x": 55,
+        "y": 5
+      }
     },
     {
       "name": "Sadi",
@@ -187,7 +230,11 @@
       "origin": "Grand Line",
       "age": 23,
       "height": "183 cm",
-      "image": "Sadi-chan (Little Sadie).png"
+      "image": "Sadi-chan (Little Sadie).png",
+      "image_offset": {
+        "x": 26,
+        "y": 5
+      }
     },
     {
       "name": "Charlotte Brûlée",
@@ -207,7 +254,11 @@
       "origin": "Grand Line (Totto Land)",
       "age": 43,
       "height": "350 cm",
-      "image": "Charlotte Brûlée (Brulee).png"
+      "image": "Charlotte Brûlée (Brulee).png",
+      "image_offset": {
+        "x": 32,
+        "y": 5
+      }
     },
     {
       "name": "Jaguar D. Saul",
@@ -246,7 +297,12 @@
     {
       "name": "Minozebra",
       "birthday": "03-07",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Minozebra.png",
+      "image_offset": {
+        "x": 20,
+        "y": 5
+      }
     },
     {
       "name": "Zambai",
@@ -258,7 +314,11 @@
       "origin": "Grand Line (Water 7)",
       "age": 35,
       "height": "227 cm",
-      "image": "Zambai.png"
+      "image": "Zambai.png",
+      "image_offset": {
+        "x": 40,
+        "y": 5
+      }
     },
     {
       "name": "Dracule Mihawk",
@@ -292,7 +352,11 @@
       "origin": "South Blue",
       "age": 36,
       "height": "240 cm",
-      "image": "Franky.png"
+      "image": "Franky.png",
+      "image_offset": {
+        "x": 60,
+        "y": 5
+      }
     },
     {
       "name": "Shanks",
@@ -310,7 +374,11 @@
       "origin": "West Blue",
       "age": 39,
       "height": "199 cm",
-      "image": "Shanks (1).png"
+      "image": "Shanks (4).png",
+      "image_offset": {
+        "x": 73,
+        "y": 5
+      }
     },
     {
       "name": "Hotori",
@@ -351,7 +419,11 @@
       "origin": "Grand Line (Jaya)",
       "age": 400,
       "height": "20000 cm",
-      "image": "Nola (baby).png"
+      "image": "Nola (baby).png",
+      "image_offset": {
+        "x": 51,
+        "y": 5
+      }
     },
     {
       "name": "Satori",
@@ -387,7 +459,12 @@
     {
       "name": "Palms",
       "birthday": "03-11",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Palms.png",
+      "image_offset": {
+        "x": 83,
+        "y": 5
+      }
     },
     {
       "name": "Spandam",
@@ -399,7 +476,11 @@
       "origin": "Grand Line",
       "age": 41,
       "height": "192 cm",
-      "image": "Spandam (Spanda) (past).png"
+      "image": "Spandam (Spanda) (past).png",
+      "image_offset": {
+        "x": 42,
+        "y": 5
+      }
     },
     {
       "name": "Patty",
@@ -411,24 +492,21 @@
       "origin": "East Blue",
       "age": 29,
       "height": "204 cm",
-      "image": "Patty.png"
+      "image": "Patty.png",
+      "image_offset": {
+        "x": 84,
+        "y": 5
+      }
     },
     {
       "name": "Sarutobi",
       "birthday": "03-12",
-      "affiliation": "civilian"
-    },
-    {
-      "name": "Stelly",
-      "birthday": "03-12",
-      "romanized_name": "Suterī",
-      "affiliation": "Goa Kingdom",
-      "role": "King",
-      "haki": [],
-      "origin": "East Blue (Goa Kingdom)",
-      "age": 20,
-      "height": "180 cm",
-      "image": "Shelly (Sherry).png"
+      "affiliation": "civilian",
+      "image": "Sarutobi.png",
+      "image_offset": {
+        "x": 65,
+        "y": 5
+      }
     },
     {
       "name": "Lafitte",
@@ -448,7 +526,11 @@
       "origin": "West Blue",
       "age": 41,
       "height": "340 cm",
-      "image": "Laffitte (Lafitte).png"
+      "image": "Laffitte (Lafitte).png",
+      "image_offset": {
+        "x": 17,
+        "y": 5
+      }
     },
     {
       "name": "Alvida",
@@ -516,7 +598,7 @@
       "image": "Smoker.png"
     },
     {
-      "name": "Who's Who",
+      "name": "Who's-Who",
       "birthday": "03-15",
       "romanized_name": "Fūzu Fū",
       "epithet": "\"Who of the Droplets\"",
@@ -536,7 +618,11 @@
       "origin": "North Blue",
       "age": 38,
       "height": "336 cm",
-      "image": "Who_s Who.png"
+      "image": "Who_s Who.png",
+      "image_offset": {
+        "x": 50,
+        "y": 4
+      }
     },
     {
       "name": "Tom",
@@ -548,7 +634,11 @@
       "origin": "Grand Line (Fish-Man Island)",
       "age": 67,
       "height": "296 cm",
-      "image": "Tom.png"
+      "image": "Tom.png",
+      "image_offset": {
+        "x": 52,
+        "y": 0
+      }
     },
     {
       "name": "Ideaman",
@@ -558,7 +648,11 @@
       "role": "Staff Officer",
       "haki": [],
       "origin": "East Blue",
-      "image": "Ideaman.png"
+      "image": "Ideaman.png",
+      "image_offset": {
+        "x": 15,
+        "y": 5
+      }
     },
     {
       "name": "Trebol",
@@ -580,7 +674,11 @@
       "origin": "North Blue",
       "age": 49,
       "height": "349 cm",
-      "image": "Trebol.png"
+      "image": "Trebol.png",
+      "image_offset": {
+        "x": 56,
+        "y": 5
+      }
     },
     {
       "name": "Atmos",
@@ -594,7 +692,11 @@
         "Observation Haki"
       ],
       "origin": "West Blue",
-      "image": "Atmos.png"
+      "image": "Atmos.png",
+      "image_offset": {
+        "x": 19,
+        "y": 5
+      }
     },
     {
       "name": "Scratchmen Apoo",
@@ -645,10 +747,11 @@
     {
       "name": "Shiki",
       "birthday": "03-20",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Shiki.png"
     },
     {
-      "name": "Lieutenant Spacey",
+      "name": "Spacey",
       "birthday": "03-21",
       "affiliation": "civilian"
     },
@@ -660,12 +763,17 @@
       "role": "Fishmonger",
       "haki": [],
       "origin": "East Blue",
-      "image": "Sapi.png"
+      "image": "Sapi.png",
+      "image_offset": {
+        "x": 56,
+        "y": 5
+      }
     },
     {
       "name": "Charlotte Raisin",
       "birthday": "03-23",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Charlotte_Raisin.png"
     },
     {
       "name": "Miss Catherine",
@@ -675,7 +783,11 @@
       "role": "Nun",
       "haki": [],
       "origin": "Grand Line (Whisky Peak)",
-      "image": "Miss Catherina (Miss Katherina).png"
+      "image": "Miss Catherina (Miss Katherina).png",
+      "image_offset": {
+        "x": 58,
+        "y": 5
+      }
     },
     {
       "name": "Thatch",
@@ -685,7 +797,11 @@
       "role": "4th Division Commander",
       "haki": [],
       "origin": "North Blue",
-      "image": "Thatch.png"
+      "image": "Thatch.png",
+      "image_offset": {
+        "x": 21,
+        "y": 5
+      }
     },
     {
       "name": "Ohm",
@@ -700,7 +816,11 @@
       "origin": "Sky Island (Birka)",
       "age": 29,
       "height": "189 cm",
-      "image": "Ohm.png"
+      "image": "Ohm.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Thousand Sunny",
@@ -711,7 +831,11 @@
       "haki": [],
       "origin": "Grand Line (Water 7)",
       "height": "5600 cm",
-      "image": "Thousand Sunny.png"
+      "image": "Thousand Sunny.png",
+      "image_offset": {
+        "x": 4,
+        "y": 5
+      }
     },
     {
       "name": "Mikio Itoo",
@@ -722,7 +846,11 @@
       "bounty": "1,000,000",
       "haki": [],
       "origin": "East Blue",
-      "image": "Mikio Itoo.png"
+      "image": "Mikio_Itoo.png",
+      "image_offset": {
+        "x": 84,
+        "y": 5
+      }
     },
     {
       "name": "Tsuru",
@@ -744,10 +872,14 @@
       "origin": "North Blue",
       "age": 76,
       "height": "204 cm",
-      "image": "Tsuru.png"
+      "image": "Tsuru.png",
+      "image_offset": {
+        "x": 21,
+        "y": 5
+      }
     },
     {
-      "name": "Pinkbeard",
+      "name": "Peachbeard",
       "birthday": "03-27",
       "affiliation": "civilian"
     },
@@ -759,10 +891,14 @@
       "role": "Banquet Head",
       "haki": [],
       "origin": "Grand Line (Fish-Man Island)",
-      "image": "Shioyaki.png"
+      "image": "Shioyaki.png",
+      "image_offset": {
+        "x": 46,
+        "y": 5
+      }
     },
     {
-      "name": "Sarue",
+      "name": "Sarie Nantokanette",
       "birthday": "03-28",
       "affiliation": "civilian"
     },
@@ -786,7 +922,11 @@
       "origin": "South Blue",
       "age": 36,
       "height": "361 cm",
-      "image": "Catarina Devon (Catalina Devon).png"
+      "image": "Catarina Devon (Catalina Devon).png",
+      "image_offset": {
+        "x": 18,
+        "y": 5
+      }
     },
     {
       "name": "Fukurokuju",
@@ -810,7 +950,11 @@
       "origin": "Mary Geoise",
       "age": 17,
       "height": "178 cm",
-      "image": "Shalria.png"
+      "image": "Shalria.png",
+      "image_offset": {
+        "x": 26,
+        "y": 5
+      }
     },
     {
       "name": "Bas",
@@ -822,7 +966,11 @@
       "origin": "Grand Line",
       "age": 48,
       "height": "512 cm",
-      "image": "Baskerville.png"
+      "image": "Baskerville.png",
+      "image_offset": {
+        "x": 54,
+        "y": 5
+      }
     },
     {
       "name": "Manboshi",
@@ -834,7 +982,11 @@
       "origin": "Grand Line (Ryugu Kingdom)",
       "age": 20,
       "height": "473 cm",
-      "image": "Manboshi.png"
+      "image": "Manboshi.png",
+      "image_offset": {
+        "x": 33,
+        "y": 5
+      }
     },
     {
       "name": "Baskerville",
@@ -846,7 +998,51 @@
       "haki": [],
       "origin": "Grand Line",
       "height": "512 cm",
-      "image": "Baskerville.png"
+      "image": "Baskerville.png",
+      "image_offset": {
+        "x": 35,
+        "y": 5
+      }
+    },
+    {
+      "name": "Shaka",
+      "birthday": "03-22",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Lilith",
+      "birthday": "03-22",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Edison",
+      "birthday": "03-22",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Pythagoras",
+      "birthday": "03-22",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Atlas",
+      "birthday": "03-22",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "York",
+      "birthday": "03-22",
+      "affiliation": "civilian"
+    },
+    {
+      "name": "Hera",
+      "birthday": "03-17",
+      "haki": []
+    },
+    {
+      "name": "Kurozumi Tama",
+      "birthday": "03-03",
+      "haki": []
     }
   ]
 }

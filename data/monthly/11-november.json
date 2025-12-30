@@ -15,7 +15,11 @@
       "origin": "Grand Line (Mokomo Dukedom)",
       "age": 28,
       "height": "181 cm (5'11\")",
-      "image": "Wanda.png"
+      "image": "Wanda.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Judy",
@@ -24,7 +28,11 @@
       "affiliation": "civilian",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Judy (Judi).png"
+      "image": "Judy (Judi).png",
+      "image_offset": {
+        "x": 42,
+        "y": 5
+      }
     },
     {
       "name": "Koncelot",
@@ -36,7 +44,11 @@
       "origin": "Grand Line (Mokomo Dukedom)",
       "age": 29,
       "height": "204 cm (6'8\")",
-      "image": "Concelot.png"
+      "image": "Concelot.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Marie",
@@ -46,7 +58,11 @@
       "role": "Slave; Nurse (former)",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Marie.png"
+      "image": "Marie.png",
+      "image_offset": {
+        "x": 61,
+        "y": 5
+      }
     },
     {
       "name": "Camie",
@@ -69,7 +85,11 @@
       "haki": [],
       "age": 28,
       "height": "263 cm (8'8\")",
-      "image": "Yamato.png"
+      "image": "Yamato.png",
+      "image_offset": {
+        "x": 6,
+        "y": 5
+      }
     },
     {
       "name": "Kashigami",
@@ -88,7 +108,11 @@
       "origin": "Grand Line (Fish-Man Island)",
       "age": 48,
       "height": "520 cm (17'1\")",
-      "image": "Fisher Tiger.png"
+      "image": "Fisher Tiger.png",
+      "image_offset": {
+        "x": 47,
+        "y": 5
+      }
     },
     {
       "name": "Ryuma",
@@ -103,7 +127,11 @@
       "origin": "Wano Country",
       "age": 47,
       "height": "179 cm (5'10\")",
-      "image": "Shimotsuki Ryuma.png"
+      "image": "Shimotsuki Ryuma.png",
+      "image_offset": {
+        "x": 29,
+        "y": 2
+      }
     },
     {
       "name": "Cocoa",
@@ -128,9 +156,14 @@
       "image": "Holy (Holly).png"
     },
     {
-      "name": "Carue",
+      "name": "Karoo",
       "birthday": "11-08",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Karoo (edited).png",
+      "image_offset": {
+        "x": 36,
+        "y": 5
+      }
     },
     {
       "name": "Shamba",
@@ -140,7 +173,11 @@
       "role": "Inhabitant",
       "haki": [],
       "origin": "South Blue (Torino Kingdom)",
-      "image": "Shanba (Shamba).png"
+      "image": "Shanba (Shamba).png",
+      "image_offset": {
+        "x": 38,
+        "y": 5
+      }
     },
     {
       "name": "Albion",
@@ -158,7 +195,11 @@
       "origin": "North Blue",
       "age": 50,
       "height": "206 cm (6'9\")",
-      "image": "Benn Beckman (Ben Beckman) (1).png"
+      "image": "Benn Beckman (Ben Beckman).png",
+      "image_offset": {
+        "x": 100,
+        "y": 5
+      }
     },
     {
       "name": "St. Jalmack",
@@ -175,7 +216,11 @@
       "origin": "East Blue",
       "age": 26,
       "height": "185 cm (6'1\")",
-      "image": "Yosaku.png"
+      "image": "Yosaku.png",
+      "image_offset": {
+        "x": 48,
+        "y": 11
+      }
     },
     {
       "name": "Jozu",
@@ -203,7 +248,11 @@
       "origin": "East Blue",
       "age": 21,
       "height": "178 cm (5'10\") (debut)181 cm (5'11\") (after timeskip)",
-      "image": "Roronoa Zoro (Roronoa Zolo) (Thriller Bark).png"
+      "image": "Roronoa Zoro (Roronoa Zolo) (edited).png",
+      "image_offset": {
+        "x": 100,
+        "y": 5
+      }
     },
     {
       "name": "Soro",
@@ -226,7 +275,11 @@
       "origin": "Grand Line (Ryugu Kingdom; Fish-Man Island)",
       "age": 30,
       "height": "325 cm (10'8\")",
-      "image": "Zeo.png"
+      "image": "Zeo.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Johnny",
@@ -238,7 +291,11 @@
       "origin": "East Blue",
       "age": 25,
       "height": "186 cm (6'1\")",
-      "image": "Johnny.png"
+      "image": "Johnny.png",
+      "image_offset": {
+        "x": 21,
+        "y": 0
+      }
     },
     {
       "name": "Kingdew",
@@ -249,7 +306,11 @@
       "role": "11th Division Commander",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Kingdew.png"
+      "image": "Kingdew.png",
+      "image_offset": {
+        "x": 72,
+        "y": 5
+      }
     },
     {
       "name": "Coffee Monkeys",
@@ -335,7 +396,11 @@
       "origin": "East Blue",
       "age": 46,
       "height": "190 cm (6'3\")",
-      "image": "Higuma.png"
+      "image": "Higuma.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Brontosaurus",
@@ -403,12 +468,17 @@
       "origin": "Grand Line (Mokomo Dukedom)",
       "age": 40,
       "height": "522 cm (17'1\")",
-      "image": "Nekomamushi (Cat Viper).png"
+      "image": "Nekomamushi (Cat Viper).png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
-      "name": "Shushu",
+      "name": "Chouchou",
       "birthday": "11-22",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Chouchou (edited).png"
     },
     {
       "name": "Ankoro",
@@ -438,7 +508,11 @@
       "origin": "North Blue",
       "age": 58,
       "height": "302 cm (9'11\")",
-      "image": "Borsalino (Kizaru).png"
+      "image": "Borsalino (Kizaru).png",
+      "image_offset": {
+        "x": 0,
+        "y": 5
+      }
     },
     {
       "name": "Ran",
@@ -485,7 +559,11 @@
       "origin": "Grand Line (On a boat)",
       "age": 48,
       "height": "509 cm (16'8\")",
-      "image": "Charlotte Katakuri.png"
+      "image": "Charlotte Katakuri.png",
+      "image_offset": {
+        "x": 87,
+        "y": 5
+      }
     },
     {
       "name": "Charlotte Oven",
@@ -498,7 +576,11 @@
       "origin": "Grand Line (On a boat)",
       "age": 48,
       "height": "492 cm (16'2\")",
-      "image": "Charlotte Oven.png"
+      "image": "Charlotte Oven.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Goro",
@@ -515,7 +597,11 @@
       "origin": "Grand Line",
       "age": 24,
       "height": "314 cm (10'3½\")",
-      "image": "Blue Gilly.png"
+      "image": "Blue Gilly.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Tank Lepanto",
@@ -553,7 +639,27 @@
       "origin": "North Blue (Germa Kingdom)",
       "age": 24,
       "height": "173 cm (5'8\")",
-      "image": "Vinsmoke Reiju.png"
+      "image": "Vinsmoke Reiju.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
+    },
+    {
+      "name": "Shimotsuki Kouzaburou",
+      "birthday": "11-14",
+      "affiliation": "unknown"
+    },
+    {
+      "name": "Shimotsuki Ryuma",
+      "birthday": "11-06",
+      "haki": [],
+      "image": "Shimotsuki Ryuma (edited).png"
+    },
+    {
+      "name": "Shimotsuki Ushimaru",
+      "birthday": "11-02",
+      "haki": []
     }
   ]
 }

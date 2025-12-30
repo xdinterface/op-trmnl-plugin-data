@@ -17,7 +17,11 @@
       "origin": "Red Line (Mary Geoise)",
       "age": 24,
       "height": "174 cm (5'9\") (debut, after timeskip)",
-      "image": "Jewelry Bonney.png"
+      "image": "Jewelry Bonney.png",
+      "image_offset": {
+        "x": 46,
+        "y": 5
+      }
     },
     {
       "name": "Kiwi",
@@ -30,7 +34,11 @@
       "origin": "Grand Line (Water 7, Slums)",
       "age": 22,
       "height": "187 cm (6'1\")",
-      "image": "Kiwi.png"
+      "image": "Kiwi.png",
+      "image_offset": {
+        "x": 83,
+        "y": 5
+      }
     },
     {
       "name": "Boa Hancock",
@@ -50,7 +58,11 @@
       "origin": "Calm Belt (Amazon Lily)",
       "age": 31,
       "height": "191 cm (6'3\") (debut, after timeskip)",
-      "image": "Boa Hancock.png"
+      "image": "Boa Hancock.png",
+      "image_offset": {
+        "x": 17,
+        "y": 3
+      }
     },
     {
       "name": "Heppoko",
@@ -60,7 +72,11 @@
       "role": "Pirate",
       "haki": [],
       "origin": "East Blue",
-      "image": "Heppoko.png"
+      "image": "Heppoko.png",
+      "image_offset": {
+        "x": 23,
+        "y": 5
+      }
     },
     {
       "name": "Peppoko",
@@ -80,7 +96,11 @@
       "role": "Pirate",
       "haki": [],
       "origin": "East Blue",
-      "image": "Poppoko.png"
+      "image": "Poppoko.png",
+      "image_offset": {
+        "x": 31,
+        "y": 5
+      }
     },
     {
       "name": "Boa Sandersonia",
@@ -93,7 +113,11 @@
       "origin": "Calm Belt (Amazon Lily)",
       "age": 30,
       "height": "453 cm (14'10\")",
-      "image": "Boa Sandersonia.png"
+      "image": "Boa Sandersonia.png",
+      "image_offset": {
+        "x": 37,
+        "y": 5
+      }
     },
     {
       "name": "Brannew",
@@ -106,10 +130,14 @@
       "origin": "Grand Line",
       "age": 56,
       "height": "190 cm (6'3\")",
-      "image": "Brannew (Brandnew).png"
+      "image": "Brannew (Brandnew).png",
+      "image_offset": {
+        "x": 24,
+        "y": 5
+      }
     },
     {
-      "name": "Mcguy",
+      "name": "McGuy",
       "birthday": "09-03",
       "affiliation": "civilian"
     },
@@ -120,7 +148,11 @@
       "affiliation": "Thriller Bark Pirates (Perona)",
       "role": "Perona's servant; Wild Zombie Commander-in-Chief",
       "haki": [],
-      "image": "Kumashi (Kumacy).png"
+      "image": "Kumashi (Kumacy).png",
+      "image_offset": {
+        "x": 24,
+        "y": 5
+      }
     },
     {
       "name": "Wanze",
@@ -133,7 +165,11 @@
       "origin": "West Blue",
       "age": 28,
       "height": "173 cm (5'8\")",
-      "image": "Wanze.png"
+      "image": "Wanze.png",
+      "image_offset": {
+        "x": 19,
+        "y": 5
+      }
     },
     {
       "name": "Boa Marigold",
@@ -169,7 +205,11 @@
       "origin": "Grand Line",
       "age": 46,
       "height": "253 cm",
-      "image": "Crocodile.png"
+      "image": "Crocodile.png",
+      "image_offset": {
+        "x": 68,
+        "y": 0
+      }
     },
     {
       "name": "Gekko Moriah",
@@ -189,7 +229,11 @@
       "origin": "West Blue",
       "age": 50,
       "height": "692 cm",
-      "image": "Gecko Moria (Moriah).png"
+      "image": "Gecko Moria (Moriah).png",
+      "image_offset": {
+        "x": 46,
+        "y": 5
+      }
     },
     {
       "name": "Macro",
@@ -213,7 +257,11 @@
       "origin": "Grand Line",
       "age": 52,
       "height": "228 cm (7'5\")",
-      "image": "Squard.png"
+      "image": "Squard.png",
+      "image_offset": {
+        "x": 68,
+        "y": 5
+      }
     },
     {
       "name": "Fullbody",
@@ -235,7 +283,11 @@
       "affiliation": "civilian",
       "haki": [],
       "origin": "East Blue",
-      "image": "Motzel.png"
+      "image": "Motzel.png",
+      "image_offset": {
+        "x": 34,
+        "y": 5
+      }
     },
     {
       "name": "Cabaji",
@@ -248,7 +300,11 @@
       "origin": "East Blue",
       "age": 34,
       "height": "208 cm (6'10\")",
-      "image": "Cabaji.png"
+      "image": "Cabaji.png",
+      "image_offset": {
+        "x": 18,
+        "y": 5
+      }
     },
     {
       "name": "Kureha",
@@ -275,7 +331,11 @@
         "Kenbunshoku"
       ],
       "origin": "South Blue",
-      "image": "Rakuyo.png"
+      "image": "Rakuyo.png",
+      "image_offset": {
+        "x": 37,
+        "y": 5
+      }
     },
     {
       "name": "Basil Hawkins",
@@ -289,7 +349,11 @@
       "origin": "North Blue",
       "age": 31,
       "height": "210 cm (6'10½\") (debut, after timeskip)",
-      "image": "Basil Hawkins.png"
+      "image": "Basil Hawkins.png",
+      "image_offset": {
+        "x": 32,
+        "y": 5
+      }
     },
     {
       "name": "Manjaro",
@@ -327,7 +391,11 @@
       "origin": "Grand Line (Ryugu Kingdom; Fish-Man Island)",
       "age": 29,
       "height": "520 cm (17'1\")",
-      "image": "Shyarly (Sharley).png"
+      "image": "Shyarly (Sharley).png",
+      "image_offset": {
+        "x": 42,
+        "y": 5
+      }
     },
     {
       "name": "T-Bone",
@@ -402,7 +470,11 @@
       "haki": [],
       "origin": "Grand Line (Fish-Man Island)",
       "height": "40m",
-      "image": "Hoe.png"
+      "image": "Hoe.png",
+      "image_offset": {
+        "x": 69,
+        "y": 5
+      }
     },
     {
       "name": "Lord of the Coast",
@@ -414,7 +486,11 @@
       "haki": [],
       "origin": "East Blue",
       "height": "N/A",
-      "image": "Lord of the Coast (Local Sea Monster).png"
+      "image": "Lord of the Coast (Local Sea Monster).png",
+      "image_offset": {
+        "x": 42,
+        "y": 5
+      }
     },
     {
       "name": "O-Tsuru",
@@ -426,7 +502,11 @@
       "origin": "Grand Line (Wano Country)",
       "age": 55,
       "height": "191 cm (6'3\")",
-      "image": "Tsurujo (Otsuru) (past).png"
+      "image": "Tsurujo (Otsuru) (past).png",
+      "image_offset": {
+        "x": 39,
+        "y": 1
+      }
     },
     {
       "name": "Spoil",
@@ -442,7 +522,11 @@
       "origin": "West Blue",
       "age": 53,
       "height": "400 m (1312'4\")",
-      "image": "Laboon.png"
+      "image": "Laboon.png",
+      "image_offset": {
+        "x": 51,
+        "y": 5
+      }
     },
     {
       "name": "Rindo",
@@ -452,7 +536,11 @@
       "role": "Pirate; Sniper",
       "haki": [],
       "origin": "Calm Belt (Amazon Lily)",
-      "image": "Rindo.png"
+      "image": "Rindo.png",
+      "image_offset": {
+        "x": 36,
+        "y": 5
+      }
     },
     {
       "name": "Kuina",
@@ -464,7 +552,11 @@
       "origin": "East Blue (Shimotsuki Village)",
       "age": 11,
       "height": "150 cm (4'11\")",
-      "image": "Shimotsuki Kuina.png"
+      "image": "Shimotsuki Kuina.png",
+      "image_offset": {
+        "x": 40,
+        "y": 5
+      }
     },
     {
       "name": "Devil Dias",
@@ -487,7 +579,11 @@
       "origin": "North Blue",
       "age": 47,
       "height": "265 cm (8'8\")",
-      "image": "Karasu.png"
+      "image": "Karasu.png",
+      "image_offset": {
+        "x": 49,
+        "y": 0
+      }
     },
     {
       "name": "Don Krieg",
@@ -501,7 +597,11 @@
       "origin": "East Blue",
       "age": 44,
       "height": "243 cm (8'0\")",
-      "image": "Krieg (Don Krieg).png"
+      "image": "Krieg (Don Krieg).png",
+      "image_offset": {
+        "x": 51,
+        "y": 5
+      }
     },
     {
       "name": "Shura",
@@ -516,7 +616,11 @@
       "origin": "Sky Islands (Birka)",
       "age": 33,
       "height": "191 cm (6'3\")",
-      "image": "Shura (solo).png"
+      "image": "Shura (solo).png",
+      "image_offset": {
+        "x": 81,
+        "y": 5
+      }
     },
     {
       "name": "Chocolat",
@@ -540,7 +644,11 @@
       "origin": "South Blue (Vespa Kingdom territory)",
       "age": 49,
       "height": "298 cm (9'9¼\")",
-      "image": "Kuzan (Aokiji).png"
+      "image": "Kuzan (Aokiji).png",
+      "image_offset": {
+        "x": 64,
+        "y": 3
+      }
     },
     {
       "name": "Pappag",
@@ -610,7 +718,11 @@
       "origin": "Wano Country",
       "age": 29,
       "height": "820 cm (26'11\")",
-      "image": "Black Maria.png"
+      "image": "Black Maria.png",
+      "image_offset": {
+        "x": 27,
+        "y": 5
+      }
     },
     {
       "name": "Jean Goen",
@@ -621,7 +733,11 @@
       "bounty": "Less than 15,000,000",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Jean Goen (Dez Tinny).png"
+      "image": "Jean Goen (Dez Tinny).png",
+      "image_offset": {
+        "x": 29,
+        "y": 5
+      }
     },
     {
       "name": "Suu",
@@ -631,7 +747,11 @@
       "role": "Pet",
       "haki": [],
       "origin": "Sky Islands (Skypiea)",
-      "image": "Su (Suu).png"
+      "image": "Su (Suu).png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Terracotta",
@@ -646,7 +766,11 @@
       "role": "Pirate",
       "haki": [],
       "origin": "Calm Belt (Amazon Lily)",
-      "image": "Cosmos.png"
+      "image": "Cosmos.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Dagama",
@@ -675,7 +799,11 @@
       "origin": "Grand Line",
       "age": 28,
       "height": "830 cm (27'3\")",
-      "image": "Jack.png"
+      "image": "Jack.png",
+      "image_offset": {
+        "x": 26,
+        "y": 5
+      }
     },
     {
       "name": "Stalker",
@@ -686,7 +814,11 @@
       "bounty": "At least 1,000,000",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Stalker.png"
+      "image": "Stalker.png",
+      "image_offset": {
+        "x": 62,
+        "y": 5
+      }
     },
     {
       "name": "Charlotte Cabaletta",
@@ -718,7 +850,7 @@
       "affiliation": "civilian"
     },
     {
-      "name": "Drug. Peclo",
+      "name": "Drug Peclo",
       "birthday": "09-29",
       "affiliation": "civilian"
     },
@@ -730,7 +862,11 @@
       "affiliation": "civilian",
       "haki": [],
       "origin": "East Blue",
-      "image": "Pinky.png"
+      "image": "Pinky.png",
+      "image_offset": {
+        "x": 27,
+        "y": 5
+      }
     },
     {
       "name": "Avalo Pizarro",
@@ -752,7 +888,50 @@
       "origin": "North Blue",
       "age": 42,
       "height": "505 cm (16'6\")",
-      "image": "Avalo Pizarro.png"
+      "image": "Avalo Pizarro.png",
+      "image_offset": {
+        "x": 22,
+        "y": 5
+      }
+    },
+    {
+      "name": "Gecko Moria",
+      "birthday": "09-06",
+      "affiliation": "unknown",
+      "bounty": "320000000",
+      "devil_fruit": {
+        "name": "Fruit of the Shadow",
+        "japanese_name": "Kage Kage no Mi",
+        "type": "Paramecia",
+        "power": "Allows its user to control shadows. He can cut the shadows of anyone with a pair of scissors, and the shadows thus removed can be locked into inert bodies, giving rise to zombies possessing the combat techniques of the person to whom the shadow belonged. If shadows are enclosed in the body of a living being, they can only remain for a short time, depending on the latter's mental strength. For example, its user has consumed up to 1000 of them. It should also be noted that the user can use his own shadow and make it tangible. He can therefore use his shadow to teleport or protect himself from physical attacks."
+      },
+      "age": "50",
+      "image": "Gecko Moria (Moriah).png"
+    },
+    {
+      "name": "Kikunojo",
+      "birthday": "09-09",
+      "affiliation": "civilian",
+      "age": "22",
+      "image": "Kikunojo (Okiku) (scary mask).png"
+    },
+    {
+      "name": "T Bone",
+      "birthday": "09-10",
+      "affiliation": "navy",
+      "age": "53"
+    },
+    {
+      "name": "Kurozumi Orochi",
+      "birthday": "09-23",
+      "haki": [],
+      "image": "Kurozumi Orochi (edited).png"
+    },
+    {
+      "name": "Shimotsuki Kuina",
+      "birthday": "09-17",
+      "haki": [],
+      "image": "Shimotsuki Kuina (edited).png"
     }
   ]
 }

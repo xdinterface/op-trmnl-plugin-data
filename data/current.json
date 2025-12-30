@@ -70,7 +70,11 @@
       "origin": "East Blue (Conomi Islands)",
       "age": 30,
       "height": "186 cm (6'1\")",
-      "image": "Bell-mère (Bellemere, Bell-mere).png"
+      "image": "Bell-mère (Bellemere, Bell-mere).png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Jorl",
@@ -82,7 +86,11 @@
       "haki": [],
       "origin": "Grand Line (Elbaph)",
       "height": "2150 cm (70'6\")",
-      "image": "Jorul.png"
+      "image": "Jorul.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Indigo",
@@ -99,7 +107,11 @@
       "origin": "Grand Line (Arabasta Kingdom)",
       "age": 50,
       "height": "218 cm (7'1\")",
-      "image": "Igaram (Mr. 8).png"
+      "image": "Igaram (Mr. 8).png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Ikkaku",
@@ -117,9 +129,14 @@
       "image": "Yuda Snakes.png"
     },
     {
-      "name": "Jarl",
+      "name": "Jarul",
       "birthday": "12-08",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Jarul (edited).png",
+      "image_offset": {
+        "x": 32,
+        "y": 0
+      }
     },
     {
       "name": "Maskeredomo Bird",
@@ -214,7 +231,11 @@
       "origin": "Grand Line",
       "age": 25,
       "height": "4250 cm (139'5\")",
-      "image": "Rock.png"
+      "image": "Rock.png",
+      "image_offset": {
+        "x": 50,
+        "y": 3
+      }
     },
     {
       "name": "Scotch",
@@ -224,7 +245,11 @@
       "affiliation": "Beasts Pirates",
       "role": "Pirate",
       "haki": [],
-      "image": "Scotch.png"
+      "image": "Scotch.png",
+      "image_offset": {
+        "x": 50,
+        "y": 3
+      }
     },
     {
       "name": "Speed",
@@ -250,11 +275,15 @@
       "origin": "West Blue (Kano Country)",
       "age": 78,
       "height": "520 cm (17'1\")",
-      "image": "Chinjao (Qing Jiao, Don Chin Jao).png"
+      "image": "Chinjao (Qing Jiao, Don Chin Jao).png",
+      "image_offset": {
+        "x": 65,
+        "y": 5
+      }
     },
     {
       "name": "King",
-      "birthday": "12-12",
+      "birthday": "12-01",
       "romanized_name": "Kingu",
       "epithet": "\"King the Conflagration\" (火災のキング, Kasai no Kingu?, English versions: \"King the Wildfire\")",
       "affiliation": "civilian",
@@ -277,7 +306,11 @@
       "origin": "East Blue",
       "age": 36,
       "height": "182 cm (5'11¾\")",
-      "image": "Nezumi.png"
+      "image": "Nezumi.png",
+      "image_offset": {
+        "x": 15,
+        "y": 5
+      }
     },
     {
       "name": "Faust",
@@ -388,7 +421,11 @@
       "origin": "Grand Line",
       "age": 1000,
       "height": "Over 5 km (3.1 miles)",
-      "image": "Zunesha.png"
+      "image": "Zunesha.png",
+      "image_offset": {
+        "x": 23,
+        "y": 5
+      }
     },
     {
       "name": "Dogra",
@@ -406,7 +443,11 @@
       "origin": "West Blue",
       "age": 47,
       "height": "223 cm (7'4\")",
-      "image": "Hogback.png"
+      "image": "Hogback.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Charlotte Marnier",
@@ -451,7 +492,11 @@
       "origin": "Grand Line (Skypiea)",
       "age": 68,
       "height": "180 cm (5'11\")",
-      "image": "Gan Fall (Ganfor) (solo).png"
+      "image": "Gan Fall (Ganfor) (solo).png",
+      "image_offset": {
+        "x": 26,
+        "y": 10
+      }
     },
     {
       "name": "Miyagi",
@@ -468,7 +513,11 @@
       "origin": "Grand Line (Moby Dick)",
       "age": 26,
       "height": "170 cm (5'7\")",
-      "image": "Kozuki Hiyori.png"
+      "image": "Kozuki Hiyori.png",
+      "image_offset": {
+        "x": 32,
+        "y": 5
+      }
     },
     {
       "name": "Tony Tony Chopper",
@@ -526,7 +575,12 @@
     {
       "name": "Charlotte Broyé",
       "birthday": "12-26",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Charlotte_Broy.png",
+      "image_offset": {
+        "x": 21,
+        "y": 5
+      }
     },
     {
       "name": "Mashikaku",
@@ -571,10 +625,14 @@
       "origin": "East Blue",
       "age": 29,
       "height": "207 cm (6’9½”)",
-      "image": "Jango (Django).png"
+      "image": "Jango (Django).png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
-      "name": "Du Feld",
+      "name": "Lu Feld",
       "birthday": "12-29",
       "affiliation": "civilian"
     },
@@ -589,7 +647,11 @@
       "origin": "West Blue",
       "age": 36,
       "height": "195 cm (6'5\")",
-      "image": "absalom.png"
+      "image": "absalom.png",
+      "image_offset": {
+        "x": 67,
+        "y": 5
+      }
     },
     {
       "name": "Gol D. Roger",
@@ -602,7 +664,58 @@
       "haki": [],
       "origin": "East Blue (Loguetown)",
       "height": "274 cm (9'0\")",
-      "image": "Gol D. Roger.png"
+      "image": "Gol D. Roger.png",
+      "image_offset": {
+        "x": 18,
+        "y": 5
+      }
+    },
+    {
+      "name": "Drophy",
+      "birthday": "12-25",
+      "affiliation": "unknown",
+      "bounty": "14000000",
+      "devil_fruit": {
+        "name": "Digging Fruit",
+        "japanese_name": "Mogu Mogu no Mi",
+        "type": "Zoan",
+        "power": "whoever eats it becomes half-mole. It can dig gigantic galleries in almost any material."
+      },
+      "age": "51",
+      "image": "Drophy (Miss Merry Christmas).png"
+    },
+    {
+      "name": "Zunesha",
+      "birthday": "12-18",
+      "affiliation": "unknown",
+      "age": "1 000",
+      "image": "Zunesha (edited).png"
+    },
+    {
+      "name": "Carmel",
+      "birthday": "12-21",
+      "haki": [],
+      "image": "Carmel (old).png"
+    },
+    {
+      "name": "Donquixote Mjosgard",
+      "birthday": "12-13",
+      "haki": []
+    },
+    {
+      "name": "Jorul",
+      "birthday": "12-04",
+      "haki": [],
+      "image": "Jorul (edited).png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
+    },
+    {
+      "name": "Yeti Cool Brothers",
+      "birthday": "12-11",
+      "haki": []
     }
   ]
 }

@@ -22,7 +22,11 @@
       "origin": "Grand Line",
       "age": 42,
       "height": "512 cm",
-      "image": "Bas, Kerville, and Princess.png"
+      "image": "Bas, Kerville, and Princess.png",
+      "image_offset": {
+        "x": 14,
+        "y": 5
+      }
     },
     {
       "name": "Usopp",
@@ -55,7 +59,11 @@
       "origin": "Grand Line (Fish-Man Island)",
       "age": 46,
       "height": "301 cm",
-      "image": "Jinbe (Jimbei).png"
+      "image": "Jinbe (Jimbei).png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Zeff",
@@ -70,7 +78,11 @@
       "origin": "East Blue",
       "age": 67,
       "height": "189 cm",
-      "image": "Zeff.png"
+      "image": "Zeff.png",
+      "image_offset": {
+        "x": 84,
+        "y": 43
+      }
     },
     {
       "name": "Brook",
@@ -90,7 +102,11 @@
       "origin": "West Blue",
       "age": 90,
       "height": "277 cm",
-      "image": "Brook.png"
+      "image": "Brook.png",
+      "image_offset": {
+        "x": 0,
+        "y": 5
+      }
     },
     {
       "name": "Monda",
@@ -100,7 +116,11 @@
       "role": "Pet (Shark)",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Porche, Capote, and Monda.png"
+      "image": "Porche, Capote, and Monda.png",
+      "image_offset": {
+        "x": 16,
+        "y": 5
+      }
     },
     {
       "name": "Porchemi",
@@ -148,7 +168,11 @@
       "origin": "Grand Line (Ryugu Kingdom)",
       "age": 16,
       "height": "1187 cm",
-      "image": "Shirahoshi.png"
+      "image": "Shirahoshi.png",
+      "image_offset": {
+        "x": 34,
+        "y": 5
+      }
     },
     {
       "name": "Shishilian",
@@ -164,7 +188,11 @@
       "origin": "Grand Line (Zou)",
       "age": 34,
       "height": "196 cm",
-      "image": "Shishilian.png"
+      "image": "Shishilian.png",
+      "image_offset": {
+        "x": 92,
+        "y": 5
+      }
     },
     {
       "name": "Minister of the Right",
@@ -176,12 +204,17 @@
       "origin": "Grand Line (Ryugu Kingdom)",
       "age": 55,
       "height": "313 cm",
-      "image": "Minister of the Right.png"
+      "image": "Minister of the Right.png",
+      "image_offset": {
+        "x": 26,
+        "y": 5
+      }
     },
     {
       "name": "Yamakaji",
       "birthday": "04-05",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Yamakaji.png"
     },
     {
       "name": "Edward Newgate",
@@ -205,7 +238,11 @@
       "origin": "Grand Line (Sphinx)",
       "age": 72,
       "height": "666 cm",
-      "image": "Edward Newgate (Whitebeard) (sitting).png"
+      "image": "Edward Newgate (Whitebeard) (sitting).png",
+      "image_offset": {
+        "x": 24,
+        "y": 5
+      }
     },
     {
       "name": "Jean Bart",
@@ -215,7 +252,11 @@
       "role": "Pirate",
       "haki": [],
       "origin": "Unknown",
-      "image": "Jean Bart.png"
+      "image": "Jean Bart.png",
+      "image_offset": {
+        "x": 48,
+        "y": 5
+      }
     },
     {
       "name": "Speed Jiru",
@@ -225,12 +266,17 @@
       "role": "14th Division Commander",
       "haki": [],
       "origin": "East Blue",
-      "image": "Speed Jiru (Speed Jil).png"
+      "image": "Speed Jiru (Speed Jil).png",
+      "image_offset": {
+        "x": 40,
+        "y": 5
+      }
     },
     {
       "name": "Gin",
       "birthday": "04-07",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Gin.png"
     },
     {
       "name": "Shachi",
@@ -282,7 +328,11 @@
       "origin": "West Blue (Ohara)",
       "age": 85,
       "height": "172 cm",
-      "image": "Clover.png"
+      "image": "Clover.png",
+      "image_offset": {
+        "x": 76,
+        "y": 5
+      }
     },
     {
       "name": "Megalo",
@@ -292,7 +342,11 @@
       "role": "Pet (Shark)",
       "haki": [],
       "origin": "Grand Line (Ryugu Kingdom)",
-      "image": "Megalo.png"
+      "image": "Megalo.png",
+      "image_offset": {
+        "x": 21,
+        "y": 5
+      }
     },
     {
       "name": "Caesar Clown",
@@ -329,7 +383,11 @@
       "origin": "Calm Belt (Amazon Lily)",
       "age": 18,
       "height": "178 cm",
-      "image": "Marguerite (Margaret).png"
+      "image": "Marguerite (Margaret).png",
+      "image_offset": {
+        "x": 30,
+        "y": 5
+      }
     },
     {
       "name": "Mohmoo",
@@ -340,7 +398,11 @@
       "haki": [],
       "origin": "Grand Line",
       "height": "3600 cm",
-      "image": "Momoo.png"
+      "image": "Momoo.png",
+      "image_offset": {
+        "x": 70,
+        "y": 5
+      }
     },
     {
       "name": "Piiman",
@@ -357,16 +419,15 @@
     {
       "name": "Yorki",
       "birthday": "04-09",
-      "affiliation": "civilian"
-    },
-    {
-      "name": "Ashura Douji",
-      "birthday": "04-10",
       "affiliation": "civilian",
-      "image": "Ashura Doji.png"
+      "image": "Yorki.png",
+      "image_offset": {
+        "x": 29,
+        "y": 5
+      }
     },
     {
-      "name": "Boss of the Forest",
+      "name": "Forest Boss",
       "birthday": "04-10",
       "affiliation": "civilian"
     },
@@ -380,7 +441,11 @@
       "origin": "East Blue",
       "age": 13,
       "height": "103 cm",
-      "image": "Nora Gitsune (Fake Chopper, Stray Fox).png"
+      "image": "Nora Gitsune (Fake Chopper, Stray Fox).png",
+      "image_offset": {
+        "x": 30,
+        "y": 5
+      }
     },
     {
       "name": "Tamanegi",
@@ -414,7 +479,11 @@
       "origin": "Grand Line (Zou)",
       "age": 27,
       "height": "232 cm",
-      "image": "Pekoms.png"
+      "image": "Pekoms.png",
+      "image_offset": {
+        "x": 27,
+        "y": 5
+      }
     },
     {
       "name": "Bakkin",
@@ -427,7 +496,11 @@
       "origin": "Grand Line",
       "age": 76,
       "height": "68 cm",
-      "image": "Buckingham Stussy.png"
+      "image": "Buckingham Stussy.png",
+      "image_offset": {
+        "x": 46,
+        "y": 5
+      }
     },
     {
       "name": "Cowboy",
@@ -437,7 +510,11 @@
       "role": "Background Character",
       "haki": [],
       "origin": "Unknown",
-      "image": "Cowboy.png"
+      "image": "Cowboy.png",
+      "image_offset": {
+        "x": 21,
+        "y": 5
+      }
     },
     {
       "name": "Morgan",
@@ -475,7 +552,11 @@
         "Observation Haki"
       ],
       "origin": "North Blue",
-      "image": "Fossa.png"
+      "image": "Fossa.png",
+      "image_offset": {
+        "x": 67,
+        "y": 5
+      }
     },
     {
       "name": "Stronger",
@@ -491,12 +572,21 @@
       },
       "haki": [],
       "origin": "Grand Line",
-      "image": "Doc Q and Stronger.png"
+      "image": "Doc Q and Stronger.png",
+      "image_offset": {
+        "x": 72,
+        "y": 5
+      }
     },
     {
       "name": "Charlotte Anana",
       "birthday": "04-17",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Charlotte_Anana.png",
+      "image_offset": {
+        "x": 24,
+        "y": 5
+      }
     },
     {
       "name": "Hyouzou",
@@ -508,7 +598,11 @@
       "origin": "Grand Line (Fish-Man Island)",
       "age": 39,
       "height": "327 cm",
-      "image": "Hyouzou.png"
+      "image": "Hyouzou.png",
+      "image_offset": {
+        "x": 36,
+        "y": 5
+      }
     },
     {
       "name": "Sham",
@@ -543,7 +637,11 @@
       "origin": "North Blue",
       "age": 32,
       "height": "258 cm",
-      "image": "Blueno.png"
+      "image": "Blueno.png",
+      "image_offset": {
+        "x": 14,
+        "y": 5
+      }
     },
     {
       "name": "Island Eater",
@@ -554,12 +652,21 @@
       "haki": [],
       "origin": "Grand Line",
       "height": "71500 cm",
-      "image": "Island Eater.png"
+      "image": "Island Eater.png",
+      "image_offset": {
+        "x": 14,
+        "y": 5
+      }
     },
     {
       "name": "Ucy",
       "birthday": "04-21",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Ucy.png",
+      "image_offset": {
+        "x": 51,
+        "y": 5
+      }
     },
     {
       "name": "Kuro",
@@ -573,7 +680,11 @@
       "origin": "East Blue",
       "age": 35,
       "height": "207 cm",
-      "image": "Kuro (Klahadore).png"
+      "image": "Kuro (Klahadore).png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Charlotte Mont-d'Or",
@@ -596,7 +707,11 @@
       "origin": "Grand Line (Totto Land)",
       "age": 38,
       "height": "260 cm",
-      "image": "Charlotte Mont-d_Or (Charlotte Mont-d_Or).png"
+      "image": "Charlotte Mont-d_Or (Charlotte Mont-d_Or).png",
+      "image_offset": {
+        "x": 36,
+        "y": 5
+      }
     },
     {
       "name": "Kalifa",
@@ -622,7 +737,12 @@
     {
       "name": "Chome",
       "birthday": "04-24",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Chome.png",
+      "image_offset": {
+        "x": 15,
+        "y": 5
+      }
     },
     {
       "name": "Stussy",
@@ -643,7 +763,11 @@
       ],
       "origin": "MADS",
       "height": "179 cm",
-      "image": "Stussy.png"
+      "image": "Stussy.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Penguin",
@@ -654,7 +778,11 @@
       "haki": [],
       "origin": "North Blue",
       "age": 28,
-      "image": "Penguin.png"
+      "image": "Penguin.png",
+      "image_offset": {
+        "x": 57,
+        "y": 5
+      }
     },
     {
       "name": "Chaka",
@@ -673,7 +801,11 @@
       "origin": "Grand Line (Arabasta)",
       "age": 41,
       "height": "213 cm",
-      "image": "Chaka.png"
+      "image": "Chaka.png",
+      "image_offset": {
+        "x": 69,
+        "y": 0
+      }
     },
     {
       "name": "Streusen",
@@ -695,7 +827,11 @@
       "origin": "Grand Line",
       "age": 92,
       "height": "140 cm",
-      "image": "Streusen.png"
+      "image": "Streusen.png",
+      "image_offset": {
+        "x": 25,
+        "y": 5
+      }
     },
     {
       "name": "Funkfreed",
@@ -711,7 +847,11 @@
       },
       "haki": [],
       "origin": "Grand Line",
-      "image": "Funkfreed.png"
+      "image": "Funkfreed.png",
+      "image_offset": {
+        "x": 24,
+        "y": 5
+      }
     },
     {
       "name": "Miss Goldenweek",
@@ -745,6 +885,70 @@
       "age": 29,
       "height": "178 cm",
       "image": "Viola (Violet).png"
+    },
+    {
+      "name": "Ashura Doji",
+      "birthday": "04-10",
+      "romanized_name": "Ashura Dōji",
+      "epithet": "Shutenmaru",
+      "affiliation": "Akazaya Nine",
+      "role": "Samurai / Bandit",
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "origin": "Grand Line (Wano Country)",
+      "age": 56,
+      "height": "544 cm",
+      "image": "Ashura Doji.png",
+      "image_offset": {
+        "x": 61,
+        "y": 5
+      }
+    },
+    {
+      "name": "Marianne",
+      "birthday": "04-29",
+      "affiliation": "unknown",
+      "bounty": "29000000",
+      "age": "18",
+      "image": "Marianne (Miss Goldenweek) (edited).png"
+    },
+    {
+      "name": "Shimotsuki Yasuie",
+      "birthday": "04-02",
+      "affiliation": "civilian",
+      "age": "71",
+      "image": "Shimotsuki Yasuie (edited).png"
+    },
+    {
+      "name": "Buckingham Stussy",
+      "birthday": "04-12",
+      "haki": [],
+      "image": "Buckingham Stussy (edited).png"
+    },
+    {
+      "name": "Clou D. Clover",
+      "birthday": "04-08",
+      "haki": []
+    },
+    {
+      "name": "Kashii",
+      "birthday": "04-01",
+      "haki": [],
+      "image": "Kashii (edited).png"
+    },
+    {
+      "name": "Momoo",
+      "birthday": "04-09",
+      "haki": [],
+      "image": "Momoo (edited).png"
+    },
+    {
+      "name": "Porchemy",
+      "birthday": "04-03",
+      "haki": [],
+      "image": "Porchemy (edited).png"
     }
   ]
 }

@@ -16,12 +16,21 @@
       "origin": "Grand Line (Elbaph)",
       "age": 160,
       "height": "2130 cm",
-      "image": "Brogy.png"
+      "image": "Brogy.png",
+      "image_offset": {
+        "x": 46,
+        "y": 5
+      }
     },
     {
       "name": "Doma",
       "birthday": "02-01",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Doma.png",
+      "image_offset": {
+        "x": 45,
+        "y": 5
+      }
     },
     {
       "name": "Elizabello II",
@@ -34,7 +43,11 @@
       "origin": "Grand Line (Prodence Kingdom)",
       "age": 57,
       "height": "436 cm",
-      "image": "Elizabello II.png"
+      "image": "Elizabello II.png",
+      "image_offset": {
+        "x": 40,
+        "y": 5
+      }
     },
     {
       "name": "Killer",
@@ -57,7 +70,11 @@
       "origin": "South Blue",
       "age": 27,
       "height": "195 cm",
-      "image": "Killer.png"
+      "image": "Killer.png",
+      "image_offset": {
+        "x": 0,
+        "y": 5
+      }
     },
     {
       "name": "Nefertari Vivi",
@@ -70,7 +87,11 @@
       "origin": "Grand Line (Arabasta)",
       "age": 18,
       "height": "169 cm",
-      "image": "Nefertari Vivi (Nefeltari Vivi) (post-timeskip).png"
+      "image": "Nefertari Vivi (Nefeltari Vivi) (post-timeskip).png",
+      "image_offset": {
+        "x": 83,
+        "y": 5
+      }
     },
     {
       "name": "Ninjin",
@@ -87,7 +108,12 @@
     {
       "name": "Bizarre",
       "birthday": "02-03",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Bizarre.png",
+      "image_offset": {
+        "x": 30,
+        "y": 5
+      }
     },
     {
       "name": "Brownbeard",
@@ -101,12 +127,21 @@
       "origin": "Grand Line",
       "age": 45,
       "height": "691 cm",
-      "image": "Chadros Higelyges (Brownbeard).png"
+      "image": "Chadros Higelyges (Brownbeard).png",
+      "image_offset": {
+        "x": 52,
+        "y": 5
+      }
     },
     {
       "name": "Fuza",
       "birthday": "02-03",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Fuza.png",
+      "image_offset": {
+        "x": 28,
+        "y": 5
+      }
     },
     {
       "name": "Sasaki",
@@ -129,7 +164,11 @@
       "origin": "Grand Line",
       "age": 34,
       "height": "318 cm",
-      "image": "Sasaki.png"
+      "image": "Sasaki.png",
+      "image_offset": {
+        "x": 23,
+        "y": 5
+      }
     },
     {
       "name": "Fujin",
@@ -143,7 +182,11 @@
       "origin": "Grand Line (Wano Country)",
       "age": 45,
       "height": "200 cm",
-      "image": "Fujin.png"
+      "image": "Fujin.png",
+      "image_offset": {
+        "x": 58,
+        "y": 5
+      }
     },
     {
       "name": "Fukaboshi",
@@ -155,7 +198,11 @@
       "origin": "Grand Line (Ryugu Kingdom)",
       "age": 24,
       "height": "604 cm",
-      "image": "Fukaboshi.png"
+      "image": "Fukaboshi.png",
+      "image_offset": {
+        "x": 26,
+        "y": 5
+      }
     },
     {
       "name": "Gloriosa",
@@ -179,7 +226,11 @@
       "role": "12th Division Commander",
       "haki": [],
       "origin": "South Blue",
-      "image": "Haruta.png"
+      "image": "Haruta.png",
+      "image_offset": {
+        "x": 38,
+        "y": 5
+      }
     },
     {
       "name": "Blamenco",
@@ -195,7 +246,11 @@
       },
       "haki": [],
       "origin": "South Blue",
-      "image": "Blamenco.png"
+      "image": "Blamenco.png",
+      "image_offset": {
+        "x": 35,
+        "y": 5
+      }
     },
     {
       "name": "Vista",
@@ -211,15 +266,20 @@
       "origin": "North Blue",
       "age": 47,
       "height": "328 cm",
-      "image": "Vista.png"
+      "image": "Vista.png",
+      "image_offset": {
+        "x": 49,
+        "y": 5
+      }
     },
     {
       "name": "Blondie",
       "birthday": "02-06",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Blondie.png"
     },
     {
-      "name": "Nico Olivia",
+      "name": "Nico Olvia",
       "birthday": "02-06",
       "romanized_name": "Niko Orubia",
       "affiliation": "Ohara",
@@ -228,7 +288,11 @@
       "haki": [],
       "origin": "West Blue (Ohara)",
       "height": "186 cm",
-      "image": "Nico Olvia.png"
+      "image": "Nico Olvia.png",
+      "image_offset": {
+        "x": 0,
+        "y": 5
+      }
     },
     {
       "name": "Nico Robin",
@@ -251,7 +315,11 @@
       "origin": "West Blue (Ohara)",
       "age": 30,
       "height": "188 cm",
-      "image": "Nico Robin.png"
+      "image": "Nico Robin.png",
+      "image_offset": {
+        "x": 9,
+        "y": 5
+      }
     },
     {
       "name": "Buchi",
@@ -265,7 +333,11 @@
       "origin": "East Blue",
       "age": 23,
       "height": "216 cm",
-      "image": "Buchi (Butchie).png"
+      "image": "Buchi (Butchie).png",
+      "image_offset": {
+        "x": 43,
+        "y": 5
+      }
     },
     {
       "name": "Chiken",
@@ -275,7 +347,11 @@
       "role": "Fishmonger",
       "haki": [],
       "origin": "East Blue (Goa Kingdom)",
-      "image": "Chicken.png"
+      "image": "Chicken.png",
+      "image_offset": {
+        "x": 27,
+        "y": 5
+      }
     },
     {
       "name": "Gonbe",
@@ -290,7 +366,12 @@
     {
       "name": "Onigumo",
       "birthday": "02-08",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Onigumo.png",
+      "image_offset": {
+        "x": 47,
+        "y": 5
+      }
     },
     {
       "name": "Bartholomew Kuma",
@@ -313,7 +394,11 @@
       "origin": "South Blue (Sorbet Kingdom)",
       "age": 47,
       "height": "689 cm",
-      "image": "Bartholomew Kuma.png"
+      "image": "Bartholomew Kuma.png",
+      "image_offset": {
+        "x": 42,
+        "y": 5
+      }
     },
     {
       "name": "Carne",
@@ -325,7 +410,11 @@
       "origin": "East Blue",
       "age": 34,
       "height": "171 cm",
-      "image": "Carne.png"
+      "image": "Carne.png",
+      "image_offset": {
+        "x": 36,
+        "y": 5
+      }
     },
     {
       "name": "Genbo",
@@ -337,7 +426,11 @@
       "origin": "Sky Island (Skypiea)",
       "age": 25,
       "height": "193 cm",
-      "image": "Genbo.png"
+      "image": "Genbo.png",
+      "image_offset": {
+        "x": 33,
+        "y": 5
+      }
     },
     {
       "name": "Wadatsumi",
@@ -350,7 +443,11 @@
       "origin": "Grand Line (Ryugu Kingdom)",
       "age": 25,
       "height": "8000 cm",
-      "image": "Wadatsumi.png"
+      "image": "Wadatsumi.png",
+      "image_offset": {
+        "x": 51,
+        "y": 5
+      }
     },
     {
       "name": "Mikazuki",
@@ -361,7 +458,11 @@
       "bounty": "36,000,000",
       "haki": [],
       "origin": "Grand Line (Water 7)",
-      "image": "Sakazuki (Akainu) (attack).png"
+      "image": "Mikazuki.png",
+      "image_offset": {
+        "x": 49,
+        "y": 5
+      }
     },
     {
       "name": "Page One",
@@ -383,7 +484,11 @@
       "origin": "Grand Line",
       "age": 20,
       "height": "171 cm",
-      "image": "Page One.png"
+      "image": "Page One.png",
+      "image_offset": {
+        "x": 32,
+        "y": 5
+      }
     },
     {
       "name": "Charlotte Flampé",
@@ -395,7 +500,11 @@
       "origin": "Grand Line (Totto Land)",
       "age": 15,
       "height": "170 cm",
-      "image": "Charlotte Flampe.png"
+      "image": "Charlotte Flampe.png",
+      "image_offset": {
+        "x": 52,
+        "y": 5
+      }
     },
     {
       "name": "Little Oars Jr.",
@@ -408,19 +517,11 @@
       "origin": "Grand Line",
       "age": 72,
       "height": "6000 cm",
-      "image": "Little Oars Jr..png"
-    },
-    {
-      "name": "King Cobra",
-      "birthday": "02-13",
-      "romanized_name": "Neferutari Kobura",
-      "affiliation": "Arabasta Kingdom",
-      "role": "King",
-      "haki": [],
-      "origin": "Grand Line (Arabasta)",
-      "age": 50,
-      "height": "182 cm",
-      "image": "Nefertari Cobra (Nefeltari Cobra).png"
+      "image": "Little Oars Jr..png",
+      "image_offset": {
+        "x": 36,
+        "y": 5
+      }
     },
     {
       "name": "Nefertari Cobra",
@@ -432,7 +533,11 @@
       "origin": "Grand Line (Arabasta)",
       "age": 50,
       "height": "182 cm",
-      "image": "Nefertari Cobra (Nefeltari Cobra).png"
+      "image": "Nefertari Cobra (Nefeltari Cobra).png",
+      "image_offset": {
+        "x": 72,
+        "y": 5
+      }
     },
     {
       "name": "Hyogoro",
@@ -448,7 +553,11 @@
       "origin": "Grand Line (Wano Country)",
       "age": 70,
       "height": "100 cm",
-      "image": "Hyogoro (Grandpa Hyo) (kneeling).png"
+      "image": "Hyogoro (Grandpa Hyo) (kneeling).png",
+      "image_offset": {
+        "x": 51,
+        "y": 5
+      }
     },
     {
       "name": "Miss Valentine",
@@ -467,7 +576,11 @@
       "origin": "West Blue",
       "age": 24,
       "height": "177 cm",
-      "image": "Mikita (Miss Valentine).png"
+      "image": "Mikita (Miss Valentine).png",
+      "image_offset": {
+        "x": 25,
+        "y": 5
+      }
     },
     {
       "name": "Charlotte Linlin",
@@ -491,7 +604,11 @@
       "origin": "Grand Line",
       "age": 68,
       "height": "880 cm",
-      "image": "Charlotte Linlin (Big Mom).png"
+      "image": "Charlotte Linlin (Big Mom).png",
+      "image_offset": {
+        "x": 25,
+        "y": 5
+      }
     },
     {
       "name": "Daisy",
@@ -516,12 +633,17 @@
       "origin": "East Blue",
       "age": 42,
       "height": "261 cm",
-      "image": "Bluejam.png"
+      "image": "Bluejam.png",
+      "image_offset": {
+        "x": 39,
+        "y": 5
+      }
     },
     {
       "name": "Clione",
       "birthday": "02-17",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Clione.png"
     },
     {
       "name": "Ukkari",
@@ -538,7 +660,12 @@
     {
       "name": "Gambia",
       "birthday": "02-18",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Gambia.png",
+      "image_offset": {
+        "x": 80,
+        "y": 5
+      }
     },
     {
       "name": "Minolva",
@@ -553,7 +680,11 @@
       "role": "Talking Snowman",
       "haki": [],
       "origin": "Grand Line (Drum Island)",
-      "image": "Snowman-san.png"
+      "image": "Snowman-san.png",
+      "image_offset": {
+        "x": 43,
+        "y": 5
+      }
     },
     {
       "name": "Bobby Funk",
@@ -578,7 +709,11 @@
       "role": "Animal",
       "haki": [],
       "origin": "East Blue",
-      "image": "Cocox (Buckox).png"
+      "image": "Cocox (Buckox).png",
+      "image_offset": {
+        "x": 20,
+        "y": 5
+      }
     },
     {
       "name": "Henohenounchi",
@@ -588,12 +723,21 @@
       "role": "Dummy / Decoy",
       "haki": [],
       "origin": "Grand Line (Arabasta)",
-      "image": "Henohenounchi (Igaram_s dummies).png"
+      "image": "Henohenounchi (Igaram_s dummies).png",
+      "image_offset": {
+        "x": 32,
+        "y": 5
+      }
     },
     {
       "name": "Road",
       "birthday": "02-19",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Road.png",
+      "image_offset": {
+        "x": 61,
+        "y": 5
+      }
     },
     {
       "name": "Superhuman Domingos",
@@ -603,7 +747,11 @@
       "role": "Pirates",
       "haki": [],
       "origin": "East Blue",
-      "image": "Superhuman Domingos.png"
+      "image": "Superhuman Domingos.png",
+      "image_offset": {
+        "x": 47,
+        "y": 0
+      }
     },
     {
       "name": "Kumadori",
@@ -618,12 +766,21 @@
       "origin": "South Blue",
       "age": 36,
       "height": "318 cm",
-      "image": "Kumadori.png"
+      "image": "Kumadori.png",
+      "image_offset": {
+        "x": 47,
+        "y": 5
+      }
     },
     {
       "name": "Charlotte Dolce",
       "birthday": "02-21",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Charlotte_Dolce.png",
+      "image_offset": {
+        "x": 38,
+        "y": 5
+      }
     },
     {
       "name": "Charlotte Dragée",
@@ -642,7 +799,11 @@
       "origin": "West Blue",
       "age": 59,
       "height": "238 cm",
-      "image": "Jigoro.png"
+      "image": "Jigoro.png",
+      "image_offset": {
+        "x": 34,
+        "y": 5
+      }
     },
     {
       "name": "Pascia",
@@ -655,7 +816,11 @@
       "origin": "Grand Line",
       "age": 22,
       "height": "172 cm",
-      "image": "Pascia (Pasia, Pashia).png"
+      "image": "Pascia (Pasia, Pashia).png",
+      "image_offset": {
+        "x": 52,
+        "y": 5
+      }
     },
     {
       "name": "Hamburg",
@@ -667,7 +832,11 @@
       "origin": "Unknown",
       "age": 33,
       "height": "302 cm",
-      "image": "Hamburg, Pickles, and Big Pan.png"
+      "image": "Hamburg, Pickles, and Big Pan.png",
+      "image_offset": {
+        "x": 0,
+        "y": 6
+      }
     },
     {
       "name": "Jerry",
@@ -696,7 +865,11 @@
       "origin": "Grand Line (Wano Country)",
       "age": 39,
       "height": "382 cm",
-      "image": "Kozuki Oden.png"
+      "image": "Kozuki Oden.png",
+      "image_offset": {
+        "x": 66,
+        "y": 5
+      }
     },
     {
       "name": "Makino",
@@ -708,7 +881,11 @@
       "origin": "East Blue (Foosha Village)",
       "age": 31,
       "height": "166 cm",
-      "image": "Makino.png"
+      "image": "Makino.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Enishida",
@@ -742,7 +919,11 @@
       "origin": "Grand Line (Elbaph)",
       "age": 75,
       "height": "1700 cm",
-      "image": "Gerd.png"
+      "image": "Gerd.png",
+      "image_offset": {
+        "x": 58,
+        "y": 0
+      }
     },
     {
       "name": "Tightrope Walking Funan Bros.",
@@ -779,7 +960,8 @@
     {
       "name": "Charlotte Joscarpone",
       "birthday": "02-27",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Charlotte_Joscarpone.png"
     },
     {
       "name": "Charlotte Mascarpone",
@@ -789,7 +971,8 @@
     {
       "name": "Charlotte Angel",
       "birthday": "02-28",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Charlotte_Angel.png"
     },
     {
       "name": "Charlotte Cracker",
@@ -812,12 +995,21 @@
       "origin": "Grand Line (Totto Land)",
       "age": 45,
       "height": "307 cm",
-      "image": "Charlotte Cracker.png"
+      "image": "Charlotte Cracker.png",
+      "image_offset": {
+        "x": 65,
+        "y": 5
+      }
     },
     {
       "name": "Charlotte Custard",
       "birthday": "02-28",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Charlotte_Custard.png",
+      "image_offset": {
+        "x": 39,
+        "y": 5
+      }
     },
     {
       "name": "Kazekage",
@@ -852,6 +1044,51 @@
       "origin": "Tibet",
       "height": "200 cm",
       "image": "Pandaman.png"
+    },
+    {
+      "name": "Aramaki / Ryokugyu",
+      "birthday": "02-29",
+      "affiliation": "navy"
+    },
+    {
+      "name": "Mikita",
+      "birthday": "02-14",
+      "affiliation": "unknown",
+      "bounty": "7500000",
+      "devil_fruit": {
+        "name": "Kilo-Kilo Fruit",
+        "japanese_name": "Kilo Kilo no Mi",
+        "type": "Paramecia",
+        "power": "Allows the user's mass to be varied between a featherweight and 10 tons. Note that the user's volume does not change when he changes his mass."
+      },
+      "age": "24",
+      "image": "Mikita (Miss Valentine) (edited).png",
+      "image_offset": {
+        "x": 36,
+        "y": 0
+      }
+    },
+    {
+      "name": "Kouzuki Oden",
+      "birthday": "02-22",
+      "haki": []
+    },
+    {
+      "name": "Minoruba",
+      "birthday": "02-18",
+      "haki": [],
+      "image": "Minoruba (edited).png"
+    },
+    {
+      "name": "Pandawomanmi",
+      "birthday": "02-29",
+      "haki": []
+    },
+    {
+      "name": "Raizo",
+      "birthday": "02-26",
+      "haki": [],
+      "image": "Raizo (edited).png"
     }
   ]
 }

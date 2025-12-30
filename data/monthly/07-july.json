@@ -9,7 +9,8 @@
         "japanese_name": "ムシムシの実 モデル:カブトムシ",
         "type": "Zoan",
         "power": "Rhinoceros beetle transformation"
-      }
+      },
+      "image": "Kabu.png"
     },
     {
       "name": "Nako",
@@ -19,7 +20,11 @@
       "role": "Doctor",
       "haki": [],
       "origin": "East Blue (Conomi Islands)",
-      "image": "Nako.png"
+      "image": "Nako.png",
+      "image_offset": {
+        "x": 59,
+        "y": 5
+      }
     },
     {
       "name": "Minister of the Left",
@@ -31,7 +36,11 @@
       "origin": "Grand Line (Ryugu Kingdom)",
       "age": 62,
       "height": "435 cm",
-      "image": "Minister of the Left.png"
+      "image": "Minister of the Left.png",
+      "image_offset": {
+        "x": 90,
+        "y": 5
+      }
     },
     {
       "name": "Nami",
@@ -45,7 +54,11 @@
       "origin": "East Blue (Conomi Islands)",
       "age": 20,
       "height": "170 cm",
-      "image": "Nami.png"
+      "image": "Nami.png",
+      "image_offset": {
+        "x": 49,
+        "y": 5
+      }
     },
     {
       "name": "Neptune",
@@ -78,7 +91,11 @@
       "origin": "North Blue",
       "age": 32,
       "height": "228 cm",
-      "image": "Caribou.png"
+      "image": "Caribou.png",
+      "image_offset": {
+        "x": 58,
+        "y": 5
+      }
     },
     {
       "name": "Vergo",
@@ -109,7 +126,11 @@
       "origin": "South Blue",
       "age": 35,
       "height": "241 cm",
-      "image": "Lucky Roux.png"
+      "image": "Lucky Roux.png",
+      "image_offset": {
+        "x": 44,
+        "y": 5
+      }
     },
     {
       "name": "Namur",
@@ -122,7 +143,11 @@
         "Observation Haki"
       ],
       "origin": "Grand Line (Fish-Man Island)",
-      "image": "Namur.png"
+      "image": "Namur.png",
+      "image_offset": {
+        "x": 53,
+        "y": 5
+      }
     },
     {
       "name": "Laki",
@@ -134,7 +159,11 @@
       "origin": "Sky Island (Skypiea)",
       "age": 24,
       "height": "179 cm",
-      "image": "Raki (Laki).png"
+      "image": "Raki (Laki).png",
+      "image_offset": {
+        "x": 32,
+        "y": 5
+      }
     },
     {
       "name": "Daruma",
@@ -146,7 +175,11 @@
       "origin": "Grand Line (Fish-Man Island)",
       "age": 30,
       "height": "122 cm",
-      "image": "Daruma.png"
+      "image": "Daruma.png",
+      "image_offset": {
+        "x": 41,
+        "y": 5
+      }
     },
     {
       "name": "Paulie",
@@ -158,12 +191,21 @@
       "origin": "Grand Line (Water 7)",
       "age": 26,
       "height": "195 cm",
-      "image": "Paulie.png"
+      "image": "Paulie.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Vinsmoke Sora",
       "birthday": "07-09",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Vinsmoke_Sora.png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Kamakiri",
@@ -175,7 +217,11 @@
       "origin": "Sky Island (Skypiea)",
       "age": 24,
       "height": "214 cm",
-      "image": "Kamakiri.png"
+      "image": "Kamakiri.png",
+      "image_offset": {
+        "x": 50,
+        "y": 1
+      }
     },
     {
       "name": "Ramba",
@@ -208,9 +254,10 @@
       "image": "Pearl.png"
     },
     {
-      "name": "Sarkies",
+      "name": "Sarquiss",
       "birthday": "07-12",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Sarquiss (edited).png"
     },
     {
       "name": "Acrobatic Fuwas",
@@ -236,7 +283,11 @@
       "role": "Leader of Seducing Woods",
       "haki": [],
       "origin": "Grand Line (Totto Land)",
-      "image": "Kingbaum.png"
+      "image": "Kingbaum.png",
+      "image_offset": {
+        "x": 47,
+        "y": 5
+      }
     },
     {
       "name": "Queen",
@@ -259,7 +310,11 @@
       "origin": "Grand Line",
       "age": 56,
       "height": "612 cm",
-      "image": "Queen.png"
+      "image": "Queen.png",
+      "image_offset": {
+        "x": 29,
+        "y": 0
+      }
     },
     {
       "name": "Bastille",
@@ -275,7 +330,11 @@
       "origin": "Grand Line",
       "age": 38,
       "height": "291 cm",
-      "image": "Bastille.png"
+      "image": "Bastille.png",
+      "image_offset": {
+        "x": 36,
+        "y": 5
+      }
     },
     {
       "name": "Morgans",
@@ -328,27 +387,34 @@
       "origin": "East Blue (Shells Town)",
       "age": 22,
       "height": "179 cm",
-      "image": "Helmeppo (after).png"
+      "image": "Helmeppo (after).png",
+      "image_offset": {
+        "x": 50,
+        "y": 0
+      }
     },
     {
       "name": "Seto",
       "birthday": "07-16",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Seto.png"
     },
     {
       "name": "Hammond",
       "birthday": "07-17",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Hammond.png"
     },
     {
-      "name": "Hoicael",
+      "name": "Hoichael",
       "birthday": "07-18",
       "affiliation": "civilian"
     },
     {
       "name": "Michael",
       "birthday": "07-18",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Michael.png"
     },
     {
       "name": "Nugire Yainu",
@@ -374,7 +440,11 @@
       },
       "haki": [],
       "origin": "Punk Hazard",
-      "image": "Smiley.png"
+      "image": "Smiley.png",
+      "image_offset": {
+        "x": 55,
+        "y": 5
+      }
     },
     {
       "name": "Wire",
@@ -396,7 +466,11 @@
       "haki": [],
       "origin": "Grand Line (Totto Land)",
       "height": "239 cm",
-      "image": "Prometheus.png"
+      "image": "Prometheus.png",
+      "image_offset": {
+        "x": 61,
+        "y": 5
+      }
     },
     {
       "name": "Yu",
@@ -406,7 +480,11 @@
       "role": "Civilian",
       "haki": [],
       "origin": "East Blue",
-      "image": "Yu.png"
+      "image": "Yu.png",
+      "image_offset": {
+        "x": 54,
+        "y": 5
+      }
     },
     {
       "name": "Chess",
@@ -433,12 +511,17 @@
       "origin": "Grand Line (Zou)",
       "age": 30,
       "height": "226 cm",
-      "image": "Giovanni.png"
+      "image": "Giovanni.png",
+      "image_offset": {
+        "x": 100,
+        "y": 0
+      }
     },
     {
       "name": "Ham Burger",
       "birthday": "07-20",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Ham_Burger.png"
     },
     {
       "name": "Pansy",
@@ -450,7 +533,11 @@
         "Armament Haki"
       ],
       "origin": "Calm Belt (Amazon Lily)",
-      "image": "Pansy.png"
+      "image": "Pansy.png",
+      "image_offset": {
+        "x": 29,
+        "y": 5
+      }
     },
     {
       "name": "Kanjuro",
@@ -472,7 +559,11 @@
       "origin": "Grand Line (Wano Country)",
       "age": 39,
       "height": "347 cm",
-      "image": "Kanjuro.png"
+      "image": "Kanjuro.png",
+      "image_offset": {
+        "x": 45,
+        "y": 5
+      }
     },
     {
       "name": "Charlotte Praline",
@@ -484,12 +575,17 @@
       "origin": "Grand Line (Totto Land)",
       "age": 29,
       "height": "800 cm",
-      "image": "Charlotte Praline.png"
+      "image": "Charlotte Praline.png",
+      "image_offset": {
+        "x": 14,
+        "y": 5
+      }
     },
     {
       "name": "Charlotte Prim",
       "birthday": "07-22",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Charlotte_Prim.png"
     },
     {
       "name": "Richie",
@@ -518,7 +614,11 @@
       "origin": "Grand Line (Green Bit)",
       "age": 25,
       "height": "23 cm",
-      "image": "Leo.png"
+      "image": "Leo.png",
+      "image_offset": {
+        "x": 34,
+        "y": 5
+      }
     },
     {
       "name": "Nojiko",
@@ -550,7 +650,11 @@
       "origin": "South Blue",
       "age": 26,
       "height": "197 cm",
-      "image": "Gem (Mr. 5).png"
+      "image": "Gem (Mr. 5).png",
+      "image_offset": {
+        "x": 50,
+        "y": 2
+      }
     },
     {
       "name": "Kikyo",
@@ -567,7 +671,12 @@
     {
       "name": "Thalassa Lucas",
       "birthday": "07-27",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Thalassa_Lucas.png",
+      "image_offset": {
+        "x": 40,
+        "y": 5
+      }
     },
     {
       "name": "Flapper",
@@ -607,12 +716,47 @@
       "origin": "Grand Line",
       "age": 28,
       "height": "187 cm",
-      "image": "Zala (Miss Doublefinger, Paula).png"
+      "image": "Zala (Miss Doublefinger, Paula).png",
+      "image_offset": {
+        "x": 36,
+        "y": 5
+      }
     },
     {
-      "name": "Sarie Nantokanette",
-      "birthday": "07-31",
-      "affiliation": "civilian"
+      "name": "Zala",
+      "birthday": "07-30",
+      "affiliation": "unknown",
+      "bounty": "35000000",
+      "devil_fruit": {
+        "name": "Sea Urchin Fruit",
+        "japanese_name": "Toge Toge no Mi",
+        "type": "Paramecia",
+        "power": "Allows you to transform any part of your body (even your hair) into spikes strong enough to pierce stone walls. These spikes can also be used to perform acupuncture techniques to increase the user's own muscle mass."
+      },
+      "age": "28",
+      "image": "Zala (Miss Doublefinger, Paula) (edited).png"
+    },
+    {
+      "name": "Batchee",
+      "birthday": "07-01",
+      "haki": [],
+      "image": "Batchee (Bacchy) (edited).png"
+    },
+    {
+      "name": "Kingbaum",
+      "birthday": "07-13",
+      "haki": [],
+      "image": "Kingbaum (edited).png"
+    },
+    {
+      "name": "Kurozumi Kanjuro",
+      "birthday": "07-21",
+      "haki": []
+    },
+    {
+      "name": "Uzuki Tempura",
+      "birthday": "07-23",
+      "haki": []
     }
   ]
 }
