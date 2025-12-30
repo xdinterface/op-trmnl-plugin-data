@@ -29,7 +29,7 @@
       "epithet": "Dorry the Blue Ogre (青鬼のドリー, Ao-Oni no Dorī?)",
       "affiliation": "civilian",
       "role": "Pirate Captain",
-      "bounty": "1,800,000,000100,000,000",
+      "bounty": "1,800,000,000",
       "haki": [],
       "origin": "Grand Line (Elbaph)",
       "age": 160,
@@ -173,7 +173,7 @@
       }
     },
     {
-      "name": "O-Toko",
+      "name": "Toko",
       "birthday": "10-05",
       "romanized_name": "Toko",
       "affiliation": "civilian",
@@ -265,7 +265,7 @@
       }
     },
     {
-      "name": "Kouzuki Momonosuke",
+      "name": "Kozuki Momonosuke",
       "birthday": "10-07",
       "romanized_name": "Kōzuki Momonosuke",
       "affiliation": "Kouzuki Family",
