@@ -1,6 +1,17 @@
 {
   "characters": [
     {
+      "name": "Eiichiro Oda",
+      "birthday": "01-01",
+      "romanized_name": "Oda Eiichirō",
+      "epithet": "Creator of One Piece",
+      "affiliation": "Shueisha",
+      "role": "Mangaka",
+      "haki": [],
+      "origin": "Kumamoto, Japan",
+      "age": 50
+    },
+    {
       "name": "Anjo",
       "birthday": "01-01",
       "romanized_name": "Anjō",
