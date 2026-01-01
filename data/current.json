@@ -9,7 +9,12 @@
       "role": "Mangaka",
       "haki": [],
       "origin": "Kumamoto, Japan",
-      "age": 50
+      "age": 50,
+      "image": "Eiichiro Oda.png",
+      "image_offset": {
+        "x": 31,
+        "y": 11
+      }
     },
     {
       "name": "Anjo",

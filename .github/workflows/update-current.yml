@@ -1,0 +1,59 @@
+name: Update current.json
+
+on:
+  schedule:
+    # Run at 00:05 UTC on the 1st of every month
+    - cron: '5 0 1 * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-current:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update current.json for current month
+        run: |
+          # Get current month (01-12)
+          MONTH=$(date -u +%m)
+
+          # Map month number to filename
+          declare -A MONTHS=(
+            ["01"]="01-january"
+            ["02"]="02-february"
+            ["03"]="03-march"
+            ["04"]="04-april"
+            ["05"]="05-may"
+            ["06"]="06-june"
+            ["07"]="07-july"
+            ["08"]="08-august"
+            ["09"]="09-september"
+            ["10"]="10-october"
+            ["11"]="11-november"
+            ["12"]="12-december"
+          )
+
+          MONTHLY_FILE="data/monthly/${MONTHS[$MONTH]}.json"
+
+          echo "Current month: $MONTH"
+          echo "Copying $MONTHLY_FILE to data/current.json"
+
+          if [ -f "$MONTHLY_FILE" ]; then
+            cp "$MONTHLY_FILE" data/current.json
+            echo "Updated current.json with $(grep -c '"name"' data/current.json) characters"
+          else
+            echo "Error: $MONTHLY_FILE not found"
+            exit 1
+          fi
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/current.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update current.json for $(date -u +%B' '%Y)"
+            git push
+          fi
