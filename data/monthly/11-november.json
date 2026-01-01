@@ -35,7 +35,7 @@
       }
     },
     {
-      "name": "Concelot",
+      "name": "Koncelot",
       "birthday": "11-02",
       "romanized_name": "Konsurotto",
       "affiliation": "Mokomo Dukedom",
@@ -115,7 +115,7 @@
       }
     },
     {
-      "name": "Shimotsuki Ryuma",
+      "name": "Ryuma",
       "birthday": "11-06",
       "romanized_name": "Shimotsuki Ryūma",
       "epithet": "Sword God",
@@ -243,11 +243,11 @@
       "epithet": "\"Pirate Hunter Zoro\" (海賊狩りのゾロ, Kaizoku Gari no Zoro?)",
       "affiliation": "Straw Hat Pirates",
       "role": "Master Swordsman; Pirate; Crew Combatant; Senior Officer; Rōnin (temporary); Bounty Hunter (former)",
-      "bounty": "1,111,000,000",
+      "bounty": "1,111,000,000320,000,000120,000,00060,000,000",
       "haki": [],
       "origin": "East Blue",
       "age": 21,
-      "height": "181 cm",
+      "height": "178 cm (5'10\") (debut)181 cm (5'11\") (after timeskip)",
       "image": "Roronoa Zoro (Roronoa Zolo) (edited).png",
       "image_offset": {
         "x": 100,
@@ -498,7 +498,7 @@
       "image": "Kentauros (Centaur).png"
     },
     {
-      "name": "Borsalino",
+      "name": "Kizaru",
       "birthday": "11-23",
       "romanized_name": "Borusarīno",
       "affiliation": "civilian",

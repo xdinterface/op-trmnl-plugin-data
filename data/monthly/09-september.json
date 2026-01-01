@@ -47,7 +47,7 @@
       "epithet": "\"Snake Princess\" (蛇姫, Hebihime?);\"Pirate Empress\" (海賊女帝, Kaizoku Jotei?)",
       "affiliation": "Kuja Pirates",
       "role": "Captain of the Kuja Pirates; Empress of Amazon Lily; Warlord of the Sea (former); Slave (former)",
-      "bounty": "1,659,000,000",
+      "bounty": "1,659,000,00080,000,000",
       "devil_fruit": {
         "name": "Love-Love Fruit",
         "japanese_name": "メロメロの実",
@@ -212,7 +212,7 @@
       }
     },
     {
-      "name": "Gecko Moriah",
+      "name": "Gekko Moriah",
       "birthday": "09-06",
       "romanized_name": "Gekkō Moria",
       "epithet": "Gecko Moriah",
@@ -368,7 +368,7 @@
       "image": "Manjaro (Fake Zoro).png"
     },
     {
-      "name": "Kikunojo",
+      "name": "O-Kiku",
       "birthday": "09-09",
       "romanized_name": "Kikunojō",
       "epithet": "\"Kikunojo of the Lingering Snow\" (残雪の菊之丞, Zansetsu no Kikunojō?, English: \"Kikunojo of the Fallen Snow\")",
@@ -493,7 +493,7 @@
       }
     },
     {
-      "name": "Tsurujo",
+      "name": "O-Tsuru",
       "birthday": "09-15",
       "romanized_name": "Tsurujo",
       "affiliation": "Loyal to Kouzuki Family",
@@ -686,7 +686,7 @@
       "image": "Hanger.png"
     },
     {
-      "name": "Kurozumi Orochi",
+      "name": "Orochi",
       "birthday": "09-23",
       "romanized_name": "Kurozumi Orochi",
       "affiliation": "Wano Country (Kurozumi Family); Beasts Pirates (former)",

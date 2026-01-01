@@ -427,7 +427,8 @@
     {
       "name": "A O",
       "birthday": "01-15",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "A_O.png"
     },
     {
       "name": "Boodle",

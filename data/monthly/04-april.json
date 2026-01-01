@@ -429,7 +429,8 @@
     {
       "name": "Forest Boss",
       "birthday": "04-10",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Forest_Boss.png"
     },
     {
       "name": "Nora Gitsune",

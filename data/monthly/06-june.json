@@ -67,7 +67,12 @@
     {
       "name": "Lonz",
       "birthday": "06-02",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Lonz.png",
+      "image_offset": {
+        "x": 44,
+        "y": 5
+      }
     },
     {
       "name": "Dragon Number Thirteen",
@@ -171,7 +176,12 @@
     {
       "name": "Karma",
       "birthday": "06-06",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Karma.png",
+      "image_offset": {
+        "x": 25,
+        "y": 5
+      }
     },
     {
       "name": "Momonga",
@@ -319,7 +329,7 @@
       }
     },
     {
-      "name": "Shiryu",
+      "name": "Shiliew",
       "birthday": "06-11",
       "romanized_name": "Shiryū",
       "epithet": "\"Shiryu of the Rain\"",
@@ -535,7 +545,7 @@
       }
     },
     {
-      "name": "Babe",
+      "name": "Mr. 4",
       "birthday": "06-19",
       "romanized_name": "Bēbu",
       "epithet": "\"Catcher-Killing\" Babe",
@@ -579,7 +589,8 @@
     {
       "name": "Amadob",
       "birthday": "06-20",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Amadob.png"
     },
     {
       "name": "Miss Father's Day",
@@ -741,7 +752,8 @@
     {
       "name": "Elmy",
       "birthday": "06-30",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Elmy.png"
     },
     {
       "name": "Fugetsu Omusubi",

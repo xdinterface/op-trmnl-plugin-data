@@ -15,7 +15,12 @@
     {
       "name": "Bishamon",
       "birthday": "08-01",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Bishamon.png",
+      "image_offset": {
+        "x": 74,
+        "y": 5
+      }
     },
     {
       "name": "Urouge",
@@ -387,7 +392,7 @@
       "image": "Wapol.png"
     },
     {
-      "name": "Issho",
+      "name": "Fujitora",
       "birthday": "08-10",
       "romanized_name": "Isshō",
       "affiliation": "Marines",
@@ -632,7 +637,7 @@
       }
     },
     {
-      "name": "Wyper",
+      "name": "Wiper",
       "birthday": "08-18",
       "romanized_name": "Waipā",
       "epithet": "Berserker",

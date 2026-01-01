@@ -340,7 +340,7 @@
       }
     },
     {
-      "name": "Chicken",
+      "name": "Chiken",
       "birthday": "02-08",
       "romanized_name": "Chikin",
       "affiliation": "Goa Kingdom",
@@ -851,7 +851,7 @@
       "image": "Jerry.png"
     },
     {
-      "name": "Kozuki Oden",
+      "name": "Oden",
       "birthday": "02-22",
       "romanized_name": "Kōzuki Oden",
       "epithet": "\"Foolish Lord\"",
@@ -936,7 +936,7 @@
       "image": "Tightrope Walking Funan Bros.png"
     },
     {
-      "name": "Raizo",
+      "name": "Raizou",
       "birthday": "02-26",
       "romanized_name": "Raizō",
       "epithet": "\"Raizo of the Mist\"",
@@ -966,7 +966,12 @@
     {
       "name": "Charlotte Mascarpone",
       "birthday": "02-27",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Charlotte_Mascarpone.png",
+      "image_offset": {
+        "x": 50,
+        "y": 12
+      }
     },
     {
       "name": "Charlotte Angel",

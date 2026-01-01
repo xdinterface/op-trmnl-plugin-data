@@ -164,7 +164,7 @@
       "image": "Hina.png"
     },
     {
-      "name": "Tama",
+      "name": "O-Tama",
       "birthday": "03-03",
       "romanized_name": "Kurozumi Tama",
       "affiliation": "Kouzuki Family",
@@ -753,7 +753,12 @@
     {
       "name": "Spacey",
       "birthday": "03-21",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Spacey.png",
+      "image_offset": {
+        "x": 54,
+        "y": 5
+      }
     },
     {
       "name": "Sapi",
@@ -881,7 +886,12 @@
     {
       "name": "Peachbeard",
       "birthday": "03-27",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Peachbeard.png",
+      "image_offset": {
+        "x": 86,
+        "y": 5
+      }
     },
     {
       "name": "Shioyaki",
@@ -900,7 +910,12 @@
     {
       "name": "Sarie Nantokanette",
       "birthday": "03-28",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Sarie_Nantokanette.png",
+      "image_offset": {
+        "x": 22,
+        "y": 7
+      }
     },
     {
       "name": "Catarina Devon",

@@ -226,7 +226,12 @@
     {
       "name": "Ramba",
       "birthday": "07-10",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Ramba.png",
+      "image_offset": {
+        "x": 95,
+        "y": 5
+      }
     },
     {
       "name": "Blue Fan",
@@ -408,7 +413,8 @@
     {
       "name": "Hoichael",
       "birthday": "07-18",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "image": "Hoichael.png"
     },
     {
       "name": "Michael",
@@ -540,7 +546,7 @@
       }
     },
     {
-      "name": "Kurozumi Kanjuro",
+      "name": "Kanjuro",
       "birthday": "07-21",
       "romanized_name": "Kurozumi Kanjūrō",
       "epithet": "Evening Shower",
@@ -633,7 +639,7 @@
       "image": "Nojiko.png"
     },
     {
-      "name": "Gem",
+      "name": "Mr. 5",
       "birthday": "07-26",
       "romanized_name": "Jemu",
       "epithet": "Gem of the Border",
@@ -699,7 +705,7 @@
       "affiliation": "civilian"
     },
     {
-      "name": "Zala",
+      "name": "Miss Doublefinger",
       "birthday": "07-30",
       "romanized_name": "Zara",
       "epithet": "Poison Spider",
