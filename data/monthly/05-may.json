@@ -239,6 +239,7 @@
       "name": "Maynard",
       "birthday": "05-07",
       "affiliation": "civilian",
+      "bounty": "500,000,000",
       "image": "Maynard.png",
       "image_offset": {
         "x": 37,
@@ -407,6 +408,7 @@
       "epithet": "Dark King",
       "affiliation": "Roger Pirates (former)",
       "role": "First Mate (former) / Coater",
+      "bounty": "Unknown",
       "haki": [
         "Conqueror's Haki",
         "Armament Haki",
@@ -524,6 +526,7 @@
       "name": "Gorilla",
       "birthday": "05-18",
       "affiliation": "civilian",
+      "bounty": "100,000,000",
       "image": "Gorilla.png",
       "image_offset": {
         "x": 62,
@@ -556,6 +559,7 @@
       "romanized_name": "Jon Jaianto",
       "affiliation": "Marines",
       "role": "Vice Admiral",
+      "bounty": "500,000,000",
       "haki": [
         "Armament Haki",
         "Observation Haki"

@@ -68,6 +68,7 @@
       "name": "Lonz",
       "birthday": "06-02",
       "affiliation": "civilian",
+      "bounty": "500,000,000",
       "image": "Lonz.png",
       "image_offset": {
         "x": 44,
@@ -122,6 +123,7 @@
       "romanized_name": "Kurokkasu",
       "affiliation": "Roger Pirates (former)",
       "role": "Doctor / Lighthouse Keeper",
+      "bounty": "Unknown",
       "haki": [
         "Observation Haki"
       ],
@@ -165,6 +167,7 @@
       "romanized_name": "Shishirī",
       "affiliation": "Marines",
       "role": "Rear Admiral",
+      "bounty": "200,000,000",
       "haki": [],
       "origin": "South Blue",
       "image": "Sicily.png",
@@ -189,6 +192,7 @@
       "romanized_name": "Momonga",
       "affiliation": "Marines",
       "role": "Vice Admiral",
+      "bounty": "500,000,000",
       "haki": [
         "Armament Haki",
         "Observation Haki"
@@ -251,6 +255,7 @@
       "name": "Lacroix",
       "birthday": "06-08",
       "affiliation": "civilian",
+      "bounty": "500,000,000",
       "image": "Lacroix.png",
       "image_offset": {
         "x": 51,
@@ -277,6 +282,7 @@
       "name": "Rockstar",
       "birthday": "06-09",
       "affiliation": "civilian",
+      "bounty": "94,000,000",
       "image": "Rockstar.png",
       "image_offset": {
         "x": 66,
@@ -335,6 +341,7 @@
       "epithet": "\"Shiryu of the Rain\"",
       "affiliation": "Blackbeard Pirates",
       "role": "Titanic Captain",
+      "bounty": "Unknown",
       "devil_fruit": {
         "name": "Clear-Clear Fruit",
         "japanese_name": "Suke Sube no Mi",
@@ -397,6 +404,7 @@
       "romanized_name": "Rippā",
       "affiliation": "Marines",
       "role": "Commander",
+      "bounty": "1,000,000",
       "haki": [],
       "origin": "East Blue",
       "image": "Ripper.png"
@@ -467,6 +475,7 @@
       "name": "Roshio",
       "birthday": "06-15",
       "affiliation": "civilian",
+      "bounty": "42,000,000",
       "image": "Roshio.png",
       "image_offset": {
         "x": 34,
@@ -568,6 +577,7 @@
       "romanized_name": "Rokkaku",
       "affiliation": "Marines",
       "role": "Lieutenant",
+      "bounty": "1,000,000",
       "haki": [],
       "origin": "East Blue",
       "image": "Rokkaku.png",
@@ -602,6 +612,7 @@
       "name": "Gyro",
       "birthday": "06-22",
       "affiliation": "civilian",
+      "bounty": "73,000,000",
       "image": "Gyro.png",
       "image_offset": {
         "x": 56,
@@ -763,6 +774,7 @@
     {
       "name": "Shiryu",
       "birthday": "06-11",
+      "bounty": "Unknown",
       "haki": [],
       "image": "Shiryu (edited).png"
     }

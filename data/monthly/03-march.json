@@ -39,6 +39,7 @@
       "epithet": "\"Colossal Battleship\"",
       "affiliation": "Blackbeard Pirates",
       "role": "Titanic Captain",
+      "bounty": "Unknown",
       "devil_fruit": {
         "name": "Huge-Huge Fruit",
         "japanese_name": "Deka Deka no Mi",
@@ -148,6 +149,7 @@
       "epithet": "\"Black Cage\"",
       "affiliation": "Marines",
       "role": "Rear Admiral",
+      "bounty": "200,000,000",
       "devil_fruit": {
         "name": "Bind-Bind Fruit",
         "japanese_name": "Ori Ori no Mi",
@@ -864,6 +866,7 @@
       "epithet": "\"Great Staff Officer\"",
       "affiliation": "Marines",
       "role": "Vice Admiral",
+      "bounty": "500,000,000",
       "devil_fruit": {
         "name": "Wash-Wash Fruit",
         "japanese_name": "Woshu Woshu no Mi",
@@ -887,6 +890,7 @@
       "name": "Peachbeard",
       "birthday": "03-27",
       "affiliation": "civilian",
+      "bounty": "52,000,000",
       "image": "Peachbeard.png",
       "image_offset": {
         "x": 86,
@@ -924,6 +928,7 @@
       "epithet": "\"Crescent Moon Hunter\"",
       "affiliation": "Blackbeard Pirates",
       "role": "Titanic Captain",
+      "bounty": "Unknown",
       "devil_fruit": {
         "name": "Dog-Dog Fruit, Model: Nine Tailed Fox",
         "japanese_name": "Inu Inu no Mi, Model: Kyubi no Kitsune",

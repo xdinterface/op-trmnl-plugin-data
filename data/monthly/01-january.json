@@ -120,7 +120,7 @@
       "origin": "Sky Island (Skypiea)",
       "age": 11,
       "height": "140 cm",
-      "image": "Aisa (post-timeskip).png",
+      "image": "Aisa post-timeskip.png",
       "image_offset": {
         "x": 50,
         "y": 48
@@ -206,6 +206,7 @@
       "name": "Strawberry",
       "birthday": "01-05",
       "affiliation": "civilian",
+      "bounty": "500,000,000",
       "image": "Strawberry.png",
       "image_offset": {
         "x": 54,
@@ -264,6 +265,7 @@
       "epithet": "\"Okama King\"",
       "affiliation": "Revolutionary Army",
       "role": "G Army Commander",
+      "bounty": "100,000,000",
       "devil_fruit": {
         "name": "Horm-Horm Fruit",
         "japanese_name": "Horu Horu no Mi",
@@ -837,6 +839,7 @@
       "romanized_name": "Aradin",
       "affiliation": "Sun Pirates",
       "role": "Captain / Doctor",
+      "bounty": "Unknown",
       "haki": [],
       "origin": "Grand Line (Ryugu Kingdom)",
       "age": 46,
@@ -853,6 +856,7 @@
       "romanized_name": "An Zengaina",
       "affiliation": "Zengaiina Pirates",
       "role": "Captain",
+      "bounty": "15,000,000",
       "haki": [],
       "origin": "Unknown",
       "image": "An Zengaiina (Ratherby Seifer).png",

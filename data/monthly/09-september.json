@@ -270,6 +270,7 @@
       "epithet": "Double Ironfist Fullbody",
       "affiliation": "Marines",
       "role": "Marine Lieutenant Commander",
+      "bounty": "1,000,000",
       "haki": [],
       "origin": "North Blue",
       "age": 28,
@@ -417,7 +418,8 @@
     {
       "name": "Very Good",
       "birthday": "09-10",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "bounty": "100,000,000"
     },
     {
       "name": "Mont Blanc Cricket",
@@ -919,6 +921,7 @@
       "name": "T Bone",
       "birthday": "09-10",
       "affiliation": "navy",
+      "bounty": "500,000,000",
       "age": "53"
     },
     {

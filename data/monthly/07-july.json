@@ -119,6 +119,7 @@
       "romanized_name": "Rakkī Ruu",
       "affiliation": "Red Hair Pirates",
       "role": "Officer",
+      "bounty": "Unknown",
       "haki": [
         "Armament Haki",
         "Observation Haki"
@@ -262,6 +263,7 @@
       "name": "Sarquiss",
       "birthday": "07-12",
       "affiliation": "civilian",
+      "bounty": "38,000,000",
       "image": "Sarquiss (edited).png"
     },
     {
@@ -270,6 +272,7 @@
       "romanized_name": "Akurobatikku Fuwāzu",
       "affiliation": "Beasts Pirates (Headliners)",
       "role": "Headliner",
+      "bounty": "Unknown",
       "devil_fruit": {
         "name": "Artificial Zoan (Monkey)",
         "japanese_name": "SMILE",
@@ -328,6 +331,7 @@
       "epithet": "\"Shark Cutter\"",
       "affiliation": "Marines",
       "role": "Vice Admiral",
+      "bounty": "500,000,000",
       "haki": [
         "Armament Haki",
         "Observation Haki"
@@ -385,6 +389,7 @@
       "romanized_name": "Herumeppo",
       "affiliation": "Marines (SWORD)",
       "role": "Lieutenant Commander",
+      "bounty": "100,000,000",
       "haki": [
         "Observation Haki",
         "Armament Haki"

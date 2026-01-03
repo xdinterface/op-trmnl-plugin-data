@@ -72,6 +72,7 @@
       "epithet": "\"Red-Leg\"",
       "affiliation": "Baratie",
       "role": "Head Chef",
+      "bounty": "Unknown",
       "haki": [
         "Armament Haki"
       ],
@@ -214,6 +215,7 @@
       "name": "Yamakaji",
       "birthday": "04-05",
       "affiliation": "civilian",
+      "bounty": "500,000,000",
       "image": "Yamakaji.png"
     },
     {
@@ -276,6 +278,7 @@
       "name": "Gin",
       "birthday": "04-07",
       "affiliation": "civilian",
+      "bounty": "12,000,000",
       "image": "Gin.png"
     },
     {
@@ -420,6 +423,7 @@
       "name": "Yorki",
       "birthday": "04-09",
       "affiliation": "civilian",
+      "bounty": "Unknown",
       "image": "Yorki.png",
       "image_offset": {
         "x": 29,
@@ -948,6 +952,7 @@
     {
       "name": "Porchemy",
       "birthday": "04-03",
+      "bounty": "3,400,000",
       "haki": [],
       "image": "Porchemy (edited).png"
     }

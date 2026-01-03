@@ -3,7 +3,8 @@
     {
       "name": "Comil",
       "birthday": "10-01",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "bounty": "500,000,000"
     },
     {
       "name": "Mohji",
@@ -307,7 +308,8 @@
     {
       "name": "Doberman",
       "birthday": "10-08",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "bounty": "500,000,000"
     },
     {
       "name": "Hatcha",
@@ -836,7 +838,8 @@
     {
       "name": "Charlotte Snack",
       "birthday": "10-29",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "bounty": "600,000,000"
     },
     {
       "name": "Turco",
@@ -878,7 +881,8 @@
     {
       "name": "Whitey Bay",
       "birthday": "10-31",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "bounty": "Unknown"
     },
     {
       "name": "Shandian Chief",
@@ -905,6 +909,7 @@
     {
       "name": "Ginny",
       "birthday": "10-21",
+      "bounty": "190,000,000",
       "haki": []
     },
     {

@@ -259,6 +259,7 @@
       "epithet": "\"Flower Sword\"",
       "affiliation": "Whitebeard Pirates",
       "role": "5th Division Commander",
+      "bounty": "Unknown",
       "haki": [
         "Armament Haki",
         "Observation Haki"
@@ -367,6 +368,7 @@
       "name": "Onigumo",
       "birthday": "02-08",
       "affiliation": "civilian",
+      "bounty": "500,000,000",
       "image": "Onigumo.png",
       "image_offset": {
         "x": 47,
@@ -651,6 +653,7 @@
       "romanized_name": "Ukkari",
       "affiliation": "Kuja",
       "role": "Warrior",
+      "bounty": "100,000",
       "haki": [
         "Armament Haki"
       ],
@@ -661,6 +664,7 @@
       "name": "Gambia",
       "birthday": "02-18",
       "affiliation": "civilian",
+      "bounty": "67,000,000",
       "image": "Gambia.png",
       "image_offset": {
         "x": 80,
@@ -745,6 +749,7 @@
       "romanized_name": "Kairiki Domingosu",
       "affiliation": "Buggy Pirates",
       "role": "Pirates",
+      "bounty": "Unknown",
       "haki": [],
       "origin": "East Blue",
       "image": "Superhuman Domingos.png",
@@ -857,6 +862,7 @@
       "epithet": "\"Foolish Lord\"",
       "affiliation": "Kouzuki Family / Roger Pirates / Whitebeard Pirates",
       "role": "Daimyo / Samurai",
+      "bounty": "Unknown",
       "haki": [
         "Conqueror's Haki",
         "Armament Haki",
@@ -1076,6 +1082,7 @@
     {
       "name": "Kouzuki Oden",
       "birthday": "02-22",
+      "bounty": "Unknown",
       "haki": []
     },
     {

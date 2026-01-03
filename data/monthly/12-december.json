@@ -179,7 +179,8 @@
     {
       "name": "Charlotte Amande",
       "birthday": "12-10",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "bounty": "Unknown"
     },
     {
       "name": "Charlotte Effilée",
@@ -215,6 +216,7 @@
       "romanized_name": "Shimizu",
       "affiliation": "Baroque Works",
       "role": "Millions Agent",
+      "bounty": "389,700,00081,000,000",
       "haki": [],
       "origin": "Grand Line",
       "image": "Mr. Shimizu.png"
@@ -715,6 +717,7 @@
     {
       "name": "Yeti Cool Brothers",
       "birthday": "12-11",
+      "bounty": "20,000,000",
       "haki": []
     }
   ]

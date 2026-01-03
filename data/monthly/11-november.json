@@ -3,7 +3,8 @@
     {
       "name": "Dalmatian",
       "birthday": "11-01",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "bounty": "500,000,000"
     },
     {
       "name": "Wanda",
@@ -182,7 +183,8 @@
     {
       "name": "Albion",
       "birthday": "11-09",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "bounty": "92,000,000"
     },
     {
       "name": "Benn Beckman",
