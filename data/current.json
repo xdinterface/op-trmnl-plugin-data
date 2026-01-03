@@ -14,7 +14,8 @@
       "image_offset": {
         "x": 31,
         "y": 11
-      }
+      },
+      "short_bio": "Eiichiro Oda, born January 1, 1975 in Kumamoto City, Kumamoto Prefecture in Japan, is a professional mangaka, best known as the creator of the manga One Piece. A dedicated writer and artist since adolescence, Oda began working for Shueisha's Shonen Jump at 17 and currently stands as one of the world's most prominent mangaka, earning an estimated ¥3.1 billion (US$23 million) per year. Despite his rigorous work schedule, he maintains steady correspondence with fans (and the wider public) through both formal interviews and informal channels such as his SBS columns."
     },
     {
       "name": "Anjo",
@@ -28,7 +29,8 @@
       "image_offset": {
         "x": 59,
         "y": 5
-      }
+      },
+      "short_bio": "Anjo is a pirate admirer who witnessed Gol D. Roger's execution."
     },
     {
       "name": "Daz Bonez",
@@ -52,7 +54,8 @@
       "image_offset": {
         "x": 30,
         "y": 0
-      }
+      },
+      "short_bio": "\"The Killer\" Daz Bonez, alias Mr. 1, is a former bounty hunter and the former highest-ranked male Officer Agent of Baroque Works. His partner was Miss Doublefinger. After escaping Impel Down, he traveled with Crocodile in the New World and later joined Crocodile's new organization, Cross Guild. He was a major antagonist during the Arabasta Arc and a tentative ally in the Impel Down and Marineford Arcs."
     },
     {
       "name": "Islewan",
@@ -62,7 +65,8 @@
       "image_offset": {
         "x": 50,
         "y": 0
-      }
+      },
+      "short_bio": "Islewan is an infamous New World pirate captain who was once a member of the Whitebeard Pirates, before forming his own crew subordinate to Whitebeard."
     },
     {
       "name": "Portgas D. Ace",
@@ -90,7 +94,8 @@
       "image_offset": {
         "x": 50,
         "y": 0
-      }
+      },
+      "short_bio": "Portgas D. Ace, born as Gol D. Ace and nicknamed \"Fire Fist\" Ace, was the captain of the Spade Pirates before being recruited into the Whitebeard Pirates and becoming its 2nd division commander. The biological son of the late Pirate King Gol D. Roger and Portgas D. Rouge, Ace was put in the care of Monkey D. Garp and Curly Dadan after Roger's death, which is where he became the sworn brother of Monkey D. Luffy and Sabo. Due to Roger's absence from his life, Ace disowned his father and took his mother's surname, ultimately declaring that his captain Whitebeard was his true father. Ace's pursuit of his former subordinate Blackbeard for the murder of their crewmate Thatch led to him being captured after their duel on Banaro Island, and he was turned in to the Marines, who held a public execution for him on Marineford due to his heritage; this triggered the Summit War of Marineford. While freed from bondage, Ace would ultimately lose his life at the hands of Admiral Akainu while protecting Luffy. Ace's death proved the final catalyst following the Straw Hats' defeat at Sabaody that would make Luffy put his crew's journey on hiatus so they could all train for the next two years and return powerful enough to survive the New World on their own, paving the way for the second half of the series. His reincarnated Devil Fruit would eventually be consumed by his sworn brother, Sabo, ensuring that his will would live on. Ace first appeared at the end of the Drum Island Arc, but was only formally introduced in the Arabasta Arc, where he acts as a brief ally of the Straw Hat Pirates. He is a central figure during the entire Summit War Saga. He is also the protagonist of Ace's Great Blackbeard Search cover arc."
     },
     {
       "name": "Peeply Lulu",
@@ -106,7 +111,8 @@
       "image_offset": {
         "x": 50,
         "y": 0
-      }
+      },
+      "short_bio": "Peepley Lulu is one of the five foremen of the Galley-La Company's Dock 1 in Water 7. His specialties as a shipwright are pitch, block and tackle, and blacksmithing. He became an ally of the Straw Hat Pirates during the end of the Water 7 Arc and the beginning of the Enies Lobby Arc."
     },
     {
       "name": "Aisa",
@@ -124,7 +130,8 @@
       "image_offset": {
         "x": 50,
         "y": 48
-      }
+      },
+      "short_bio": "Aisa is a young Shandia girl who used to sneak onto the Upper Yard frequently to collect Vearth. She is Isa's daughter. After the timeskip, she works in the Wagomuland theme park and sells Cloud Balloons."
     },
     {
       "name": "Iceburg",
@@ -140,7 +147,8 @@
       "image_offset": {
         "x": 50,
         "y": 0
-      }
+      },
+      "short_bio": "Iceburg is the president of the Galley-La Company and the mayor of Water 7. He was formerly one of Tom's Workers, being one of Tom's two apprentices alongside Franky. He is a central character for the Water 7 Arc and the Water 7 Saga as a whole, due to being the original inheritor of the Pluton blueprints given to him by Tom which CP9 sought after."
     },
     {
       "name": "Lassoo",
@@ -160,7 +168,8 @@
       "image_offset": {
         "x": 2,
         "y": 5
-      }
+      },
+      "short_bio": "Lassoo is Mr. 4's gun that consumed a Devil Fruit through some unknown method which allows it to become a living dog. He is classified as a Type D creature, \"Small Savage\"."
     },
     {
       "name": "Peterman",
@@ -174,7 +183,8 @@
       "image_offset": {
         "x": 20,
         "y": 5
-      }
+      },
+      "short_bio": "Peterman is the head of a kidnapping gang called the Hound Pets, located in Sabaody Archipelago, and a minor antagonist of the Sabaody Archipelago Arc."
     },
     {
       "name": "Ulti",
@@ -200,7 +210,8 @@
       "image_offset": {
         "x": 47,
         "y": 5
-      }
+      },
+      "short_bio": "Ulti is a former member of the Tobiroppo, the six strongest Shinuchi of the Beasts Pirates. She is the elder sister of fellow former Tobiroppo Page One, and the daughter of a former Warlord of the Sea, Hanafuda. Due to her actions and role, she is a supporting antagonist in the Wano Country Arc. Following the downfall of the Beasts Pirates however, Ulti swore loyalty to Yamato for saving her and Page One from Who's-Who and became one of his allies in the Oni Child Yamato's Golden Harvest Surrogate Pilgrimage Cover Page Serial."
     },
     {
       "name": "Strawberry",
@@ -211,7 +222,8 @@
       "image_offset": {
         "x": 54,
         "y": 5
-      }
+      },
+      "short_bio": "Vice Admiral Strawberry is a Marine officer, and one of the five vice admirals who led the Buster Call assault on Enies Lobby."
     },
     {
       "name": "Oimo",
@@ -227,7 +239,8 @@
       "image_offset": {
         "x": 75,
         "y": 5
-      }
+      },
+      "short_bio": "Oimo is a giant from Elbaph and a member of the Giant Warrior Pirates under Dorry and Brogy. He has a grandson attending the Walrus School on Elbaph; Olav. After being captured by the Marines 50 years ago, he and his comrade Kashii were tricked into serving as the guards of Enies Lobby's main gate. During the Enies Lobby Arc, Oimo and Kashii defected against the World Government and allied themselves with the Straw Hat Pirates, Galley-La Company, and Franky Family. During the Egghead Arc, Oimo and Kashii became major allies of the Straw Hat Pirates as members of the Giant Warrior Pirates."
     },
     {
       "name": "Tilestone",
@@ -239,7 +252,8 @@
       "origin": "Grand Line (Water 7)",
       "age": 35,
       "height": "255 cm",
-      "image": "Tilestone.png"
+      "image": "Tilestone.png",
+      "short_bio": "Tilestone is one of the five foremen of Dock One of the Galley-La Company in Water 7. Tilestone is the last of the foremen to be formally introduced in the story, although he is present from the first scene Galley-La is shown in. His specialties are cabinetry, caulking, and flag making. He became an ally of the Straw Hat Pirates during the end of the Water 7 Arc and the beginning of the Enies Lobby Arc."
     },
     {
       "name": "Mozu",
@@ -256,7 +270,8 @@
       "image_offset": {
         "x": 86,
         "y": 5
-      }
+      },
+      "short_bio": "Mozu and Kiwi, also known as the Square Sisters due to their square-like hairstyle, are two members of the Franky Family very loyal to Franky, who went with him everywhere and tended to mimic every pose he did. They are both allies of the Straw Hat Pirates during the end of the Water 7 and beginning of the Enies Lobby Arc (starting off as minor antagonists in the former). Currently, they jointly manage Blueno's old bar in Water 7."
     },
     {
       "name": "Emporio Ivankov",
@@ -279,7 +294,8 @@
       "origin": "Grand Line (Kamabakka Kingdom)",
       "age": 53,
       "height": "449 cm",
-      "image": "Emporio-Ivankov.png"
+      "image": "Emporio-Ivankov.png",
+      "short_bio": "Emporio Ivankov, or Iva for short, is the \"Queen\" of the Kamabakka Kingdom, known as \"Okama King\" and a \"Miracle Person\". He is one of the Revolutionary Army's founding members, as well as the commander of the G Army, which covers the Grand Line. A former slave of the World Nobles, he escaped during the Native Hunting Competition on God Valley and was responsible for the God Valley Incident along with Ginny. He was formerly a prisoner of Impel Down, where he was kept in Level 5, but lived in the secret \"Okama Paradise\" in Level 5.5. After escaping Impel Down and participating in the Summit War of Marineford, he returned to his post as Queen of Kamabakka Kingdom. He acts as an ally of Luffy during the Impel Down and Marineford Arcs."
     },
     {
       "name": "General Franky",
@@ -291,7 +307,8 @@
       "haki": [],
       "origin": "Created on Baldimore / Assembled",
       "height": "1300 cm",
-      "image": "General_Franky.png"
+      "image": "General_Franky.png",
+      "short_bio": "The is the newest addition to the Battle Franky line, numbered BF-38."
     },
     {
       "name": "Ivan X",
@@ -307,7 +324,8 @@
       "image_offset": {
         "x": 39,
         "y": 5
-      }
+      },
+      "short_bio": "The Super Spot-Billed Duck Troops are a family of seven Super Spot-Billed Ducks (and later one camel) who serve the kingdom of Arabasta. They are led by their captain Karoo, and are reputed to be the fastest troop in the kingdom of Arabasta. All of the ducks have the strange theme of wearing different types of hats and various other jewelry and clothing. Also strange was that the last member to join the squad, Matsuge, is a camel who helped the Straw Hats confront Baroque Works."
     },
     {
       "name": "Mountblutain",
@@ -319,7 +337,8 @@
       "origin": "East Blue",
       "age": 30,
       "height": "294 cm",
-      "image": "Mounblutain-(Fake-Sogeking,-Mounbleten).png"
+      "image": "Mounblutain-(Fake-Sogeking,-Mounbleten).png",
+      "short_bio": "Mounblutain was a member of the Fake Straw Hat Crew who masqueraded as Sogeking."
     },
     {
       "name": "Pickles",
@@ -335,7 +354,8 @@
       "image_offset": {
         "x": 32,
         "y": 5
-      }
+      },
+      "short_bio": "Pickles, also known as the \"Tackle Machine\", is a former combatant of the Groggy Monsters of the Foxy Pirates. Due to his actions, he is a major antagonist of the Long Ring Long Land Arc."
     },
     {
       "name": "Eustass Kid",
@@ -363,7 +383,8 @@
       "image_offset": {
         "x": 43,
         "y": 5
-      }
+      },
+      "short_bio": "Eustass \"Captain\" Kid is a notorious pirate from the South Blue and the captain of the Kid Pirates. He is one of twelve pirates who are referred to as the \"Worst Generation\". Kid first appeared at the Sabaody Archipelago at the same time Monkey D. Luffy and his crew arrived. Both were described as members of the \"Eleven Supernovas\", pirates who had congregated on the island who all had a bounty of more than 100,000,000. After briefly fighting alongside Luffy while escaping an attack by the Marines, he fled the archipelago and would later spectate the Summit War of Marineford alongside the other Supernovas. During Luffy's two years of training, Kid challenged one of the Four Emperors, Shanks, but lost one of his arms to Benn Beckman in the process. He attempted to form an alliance with the On Air Pirates and Hawkins Pirates to challenge the Red Hair Pirates once more, but the alliance fell apart after an attack from another Emperor, Kaidou, which led to his imprisonment at Wano Country where he would eventually reunite with Luffy. Though nominally acting in self-interest towards vengeance and glory, Kid's assistance towards the Ninja-Pirate-Mink-Samurai Alliance was instrumental in defeating Kaidou, Big Mom and the Beasts Pirates. After leaving Wano, Kid and his crew arrived at Elbaph and decided to challenge Shanks once more. However, the entire crew and their ship were decimated by Shanks and his allies, Dorry and Brogy. Kid was originally introduced with a bounty of 315,000,000, largely due to a high number of civilian casualties caused by him and his crew, thus exceeding Luffy's when they first arrived at the Sabaody Archipelago. Sometime during the timeskip, his bounty was raised from 315,000,000 to 470,000,000. Kid's bounty was eventually raised to 3,000,000,000 for his role in defeating Big Mom of the Four Emperors alongside Trafalgar Law during the Raid on Onigashima. Due to his actions, Kid can be considered a minor ally during the Sabaody Archipelago Arc as well as a major ally during the Wano Country Arc."
     },
     {
       "name": "Otohime",
@@ -381,7 +402,8 @@
       "image_offset": {
         "x": 0,
         "y": 5
-      }
+      },
+      "short_bio": "Queen Otohime was a goldfish mermaid, the queen of the Ryugu Kingdom, the wife of king Neptune, and the mother of Fukaboshi, Ryuboshi, Manboshi, and Shirahoshi. Otohime was a political activist who worked hard for union and peace between fish-men plus merfolk and humans, dreaming of having her people emigrate from the Sea Floor to the surface. Ten years ago, she was assassinated by Hody Jones, who had framed a human pirate as the instigator of the deed. She is one of the two posthumous overarching protagonists of the Fish-Man Island Arc (alongside Fisher Tiger)."
     },
     {
       "name": "Itomimizu",
@@ -391,7 +413,8 @@
       "image_offset": {
         "x": 42,
         "y": 5
-      }
+      },
+      "short_bio": "Itomimizu is the former Foxy Pirates' game official and serves as the announcer and commentator of the Davy Back Fight events. He rides on a very large bird named Chuchun."
     },
     {
       "name": "Hiriluk",
@@ -408,7 +431,8 @@
       "image_offset": {
         "x": 52,
         "y": 5
-      }
+      },
+      "short_bio": "Dr. Hiriluk was a quack doctor from Drum Island, as well as Tony Tony Chopper's father figure. He was also a former thief. He died seven years ago by drinking an explosive formula—a form of preemptive suicide, as his life was already curtailed by both disease and external threats."
     },
     {
       "name": "Ikaros Much",
@@ -424,7 +448,8 @@
       "image_offset": {
         "x": 45,
         "y": 0
-      }
+      },
+      "short_bio": "Ikaros Much is a giant squid fish-man and was an officer of the New Fish-Man Pirates before their downfall and disbandment. Due to his actions and role, he is considered to be a major antagonist in the Fish-Man Island Arc."
     },
     {
       "name": "Sweet Pea",
@@ -440,13 +465,15 @@
       "image_offset": {
         "x": 70,
         "y": 5
-      }
+      },
+      "short_bio": "Sweet Pea is a member of the Kuja tribe living on the island Amazon Lily. During the timeskip, she became a member of the Kuja Pirates."
     },
     {
       "name": "A O",
       "birthday": "01-15",
       "affiliation": "civilian",
-      "image": "A_O.png"
+      "image": "A_O.png",
+      "short_bio": "A O is an infamous New World pirate and captain of the A O Pirates. He and his crew were subordinates to Whitebeard."
     },
     {
       "name": "Boodle",
@@ -462,7 +489,8 @@
       "image_offset": {
         "x": 52,
         "y": 5
-      }
+      },
+      "short_bio": "Boodle is the mayor of Orange Town. He is an ally of the Straw Hat Pirates during the Orange Town Arc."
     },
     {
       "name": "Capone Bege",
@@ -486,19 +514,22 @@
       "image_offset": {
         "x": 45,
         "y": 5
-      }
+      },
+      "short_bio": "Capone \"Gang\" Bege is a mafia don-turned-pirate and the captain of the Fire Tank Pirates. He is also one of twelve pirates who are referred to as the \"Worst Generation\". He and his crew came from West Blue, where Bege was one of the heads of the Five Families of the West. During the timeskip, he became a subordinate of Charlotte Linlin and married Charlotte Chiffon. The two have a son named Capone Pez. While working under the Big Mom Pirates, he held a position of a rook-ranked combatant. Due to his allegiance and actions, he is the secondary antagonist of the Zou Arc. Later, Bege formed a temporary alliance with the Straw Hat Pirates in order to kill Big Mom during the Whole Cake Island Arc. After his plan failed, Bege effectively became an enemy of the Emperor and her crew. Sometime during the timeskip, his bounty increased from 138,000,000 to 300,000,000. After the events of the Whole Cake Island Arc, it has increased to 350,000,000. He is also one of the central characters in \"Gang\" Bege's Oh My Family Cover Page Serial."
     },
     {
       "name": "Splash",
       "birthday": "01-18",
       "affiliation": "civilian",
-      "image": "Splash.png"
+      "image": "Splash.png",
+      "short_bio": "Splash and Splatter are two newkama pirate twins. They both willingly donated blood to Sanji when he was dying of severe blood loss."
     },
     {
       "name": "Splatter",
       "birthday": "01-18",
       "affiliation": "civilian",
-      "image": "Splatter.png"
+      "image": "Splatter.png",
+      "short_bio": "Splash and Splatter are two newkama pirate twins. They both willingly donated blood to Sanji when he was dying of severe blood loss."
     },
     {
       "name": "Kouzuki Toki",
@@ -520,7 +551,8 @@
       "image_offset": {
         "x": 42,
         "y": 5
-      }
+      },
+      "short_bio": "Kouzuki Toki, née Amatsuki, was the wife of the daimyo of Kuri, Kouzuki Oden and the mother of Kouzuki Momonosuke and Kouzuki Hiyori. She was born around 830 years before the present day. By the time she was 26 years old, she jumped forward in time with her Devil Fruit ability and arrived 30 years before the present when she met Oden and stayed with him for 10 years until he was executed. She was killed during the destruction of Oden Castle."
     },
     {
       "name": "Spandine",
@@ -532,7 +564,8 @@
       "origin": "Grand Line",
       "age": 66,
       "height": "275 cm",
-      "image": "Spandine.png"
+      "image": "Spandine.png",
+      "short_bio": "Spandine is the father of Spandam and was CP9's chief 22 years ago during the Ohara Incident. He led the \"investigation\" in Ohara and was responsible for summoning the Buster Call. Presently, his political power within the World Government is weakening due to an unknown disease he has been stricken with. At some point later, his sickness led to him losing all of his authority within the government."
     },
     {
       "name": "Kinderella",
@@ -542,7 +575,8 @@
       "image_offset": {
         "x": 35,
         "y": 5
-      }
+      },
+      "short_bio": "Kinderella, also known as Miss Universe, is a woman who married Wapol after he became the head of his own corporation. Two years after that, she became the queen of the Evil Black Drum Kingdom when Wapol became its king."
     },
     {
       "name": "Antonio",
@@ -552,7 +586,8 @@
       "role": "Store Owner",
       "haki": [],
       "origin": "Sabaody Archipelago",
-      "image": "Antonio.png"
+      "image": "Antonio.png",
+      "short_bio": ":For the non-canon character of the same name, see Antonio (Non-Canon) Antonio is the owner of \"Antonio's Graman\" in Sabaody Archipelago."
     },
     {
       "name": "Miss Friday",
@@ -562,7 +597,8 @@
       "role": "Messenger / Agent",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Miss-Friday.png"
+      "image": "Miss-Friday.png",
+      "short_bio": "Miss Friday is a vulture and a member of the criminal organization Baroque Works, being a part of along with Mr. 13. They were a team that served as messengers for Mr. 0 and were also responsible for executing any Baroque Works agents that fail their missions. She is classified as Type D creatures, \"Small Savage\"."
     },
     {
       "name": "Going Merry",
@@ -577,7 +613,8 @@
       "image_offset": {
         "x": 0,
         "y": 5
-      }
+      },
+      "short_bio": "The Going Merry was the first full-sized ship owned by the Straw Hat Pirates, a caravel that served as their main transportation through the East Blue, and the Grand Line up until Water 7. It was often affectionally referred to as simply Merry by the crew. Originally designed by Kaya's servant Merry, it was gifted to the Straw Hats for defending Syrup Village against the Black Cat Pirates. Over time, it came to be loved by the crew as a home and as a friend, so much so that she eventually developed a life of her own and became a genuine crew member. Unfortunately, the Going Merry took an inordinate amount of damage during her \"lifetime\", being blown up, impaled, sliced up multiple times, and partially eaten by Wapol. Eventually, the Merry could no longer continue and after helping the Straw Hats escape Enies Lobby, it received a Viking funeral. After destruction, the Merry was succeeded by the Thousand Sunny, a ship specially built by Franky (and the Galley-La Company) to maintain the \"soul\" of its predecessor."
     },
     {
       "name": "Capone Pez",
@@ -587,7 +624,8 @@
       "image_offset": {
         "x": 27,
         "y": 5
-      }
+      },
+      "short_bio": "Capone \"Gang\" Pez is the infant son of Capone Bege and Charlotte Chiffon, as well as the grandson of Charlotte Linlin and Pound."
     },
     {
       "name": "Charlotte Basskarte",
@@ -597,7 +635,8 @@
       "image_offset": {
         "x": 57,
         "y": 5
-      }
+      },
+      "short_bio": "Charlotte Basskarte (WT100) Charlotte Basskarte is the 13th son and 22nd child of the Charlotte Family and the middle triplet brother of Nusstorte and Dosmarche. He is also an officer of the Big Mom Pirates."
     },
     {
       "name": "Charlotte Dosmarche",
@@ -607,19 +646,22 @@
       "image_offset": {
         "x": 34,
         "y": 5
-      }
+      },
+      "short_bio": "Charlotte Dosmarche is the 14th son and 23rd child of the Charlotte Family and the younger triplet brother of Nusstorte and Basskarte. He also is an officer of the Big Mom Pirates and serves as Totto Land's Minister of Tea, governing over Black Island."
     },
     {
       "name": "Charlotte Nusstorte",
       "birthday": "01-23",
       "affiliation": "civilian",
-      "image": "Charlotte_Nusstorte.png"
+      "image": "Charlotte_Nusstorte.png",
+      "short_bio": "Charlotte Nusstorte is the 12th son and 21st child of the Charlotte Family and the eldest triplet brother of Basskarte and Dosmarche. He is also an officer of the Big Mom Pirates and serves as Totto Land's Minister of Transport, governing over Package Island."
     },
     {
       "name": "Ginrummy",
       "birthday": "01-23",
       "affiliation": "civilian",
-      "image": "Ginrummy.png"
+      "image": "Ginrummy.png",
+      "short_bio": "Ginrummy is a Shinuchi of the Beasts Pirates."
     },
     {
       "name": "Roxanne",
@@ -629,13 +671,15 @@
       "role": "Customer",
       "haki": [],
       "origin": "East Blue",
-      "image": "Roxanne.png"
+      "image": "Roxanne.png",
+      "short_bio": "Roxanne is a Baratie regular who was friendly with Sanji."
     },
     {
       "name": "Gild Tesoro",
       "birthday": "01-24",
       "affiliation": "civilian",
-      "image": "Gild_Tesoro.png"
+      "image": "Gild_Tesoro.png",
+      "short_bio": "Gild Tesoro, also known as the \"Golden Emperor\", was the owner and proprietor of Gran Tesoro, the largest entertainment city-ship in the world. Formerly a slave of the World Nobles, Tesoro became a global kingpin with dealings with the World Government and the Underworld infamously known as the \"Monster of the New World\" and one of the wealthiest people in the world. He served as the main antagonist of One Piece Film: Gold, during which he invited the Straw Hat Pirates aboard his ship as part of an elaborate show to enslave and execute them in lavish fashion, only to meet a crushing defeat by Monkey D. Luffy and be subsequently arrested by the Marines."
     },
     {
       "name": "Kairiken",
@@ -649,7 +693,8 @@
       "image_offset": {
         "x": 34,
         "y": 5
-      }
+      },
+      "short_bio": "Kairiken is a bounty hunter at Sabaody Archipelago."
     },
     {
       "name": "Miss Monday",
@@ -663,7 +708,8 @@
       "image_offset": {
         "x": 25,
         "y": 5
-      }
+      },
+      "short_bio": "Miss Monday is the code name of a former frontier agent of Baroque Works and partner to Igaram (Mr. 8 at the time) during his infiltration of Baroque Works. Due to her actions, she is a supporting antagonist in the Whisky Peak Arc. After the fall of Baroque Works, she stayed at Whisky Peak, and eventually bore a son with Mr. 9."
     },
     {
       "name": "Giolla",
@@ -685,7 +731,8 @@
       "image_offset": {
         "x": 70,
         "y": 5
-      }
+      },
+      "short_bio": "Giolla is an officer of the Donquixote Pirates' Trebol Army. Due to her actions and role, she is a supporting antagonist during the Dressrosa Arc."
     },
     {
       "name": "Kuromarimo",
@@ -701,7 +748,8 @@
       "image_offset": {
         "x": 61,
         "y": 5
-      }
+      },
+      "short_bio": "Kuromarimo was the magistrate during Wapol's rule on Drum Island, and was the highest-ranking law officer below Wapol. After fleeing Drum Island to escape Blackbeard's attack, Kuromarimo became part of the Bliking Pirates. Due to his actions and role, he is a major antagonist in the Drum Island Arc."
     },
     {
       "name": "Nero",
@@ -718,7 +766,8 @@
       "image_offset": {
         "x": 59,
         "y": 5
-      }
+      },
+      "short_bio": "Nero the Sea Weasel was the newest agent of CP9. He was first introduced on the Puffing Tom, where he helped to escort Nico Robin to Enies Lobby. He was one of the antagonists during the Sea Train voyage in the Water 7 Arc."
     },
     {
       "name": "Charlotte Chiffon",
@@ -734,7 +783,8 @@
       "image_offset": {
         "x": 26,
         "y": 5
-      }
+      },
+      "short_bio": "Charlotte Chiffon is the 22nd daughter and the 52nd child of the Charlotte Family and Totto Land's former Minister of Puff having governed over Funwari Island until her defection. She is Capone Bege's wife and the mother of Capone Pez, as well as a member of Bege's Fire Tank Pirates. Her father is Big Mom's 25th ex-husband, Pound, and her younger twin sister is Lola. Due to her resemblance to Lola, Chiffon was abused by Big Mom in her rage for Lola abandoning an arranged marriage. This led to Chiffon cutting ties to her blood family and helping Bege in his attempt to assassinate her own mother, which caused Big Mom herself and most of Chiffon's siblings to identify her as an enemy. She is an ally of the Straw Hat Pirates during the Whole Cake Island Arc. She is also one of the central characters in \"Gang\" Bege's Oh My Family Cover Page Serial."
     },
     {
       "name": "Lola",
@@ -752,7 +802,8 @@
       "image_offset": {
         "x": 48,
         "y": 5
-      }
+      },
+      "short_bio": "Charlotte Lola is the captain of the Rolling Pirates and the 23rd daughter and 53rd child of the Charlotte Family. Her mother is the former Emperor Charlotte Linlin and her father is Linlin's 25th husband, Pound. She is the younger twin sister of Chiffon and Gotti's wife. She was Totto Land's Minister of Chocolate before she ran away after being arranged to marry Prince Loki of Elbaph. Wanting to marry for love, she proposed so many times to the point of being called \"Marriage Proposal Lola\" until she finally married Gotti. She was a member of the Thriller Bark Victim's Association after her shadow was stolen by Gecko Moria and placed into a warthog zombie also named Lola. She is an ally of the Straw Hat Pirates during the Thriller Bark Arc. She is also one of the central characters in \"Gang\" Bege's Oh My Family Cover Page Serial."
     },
     {
       "name": "Mansherry",
@@ -774,7 +825,8 @@
       "image_offset": {
         "x": 73,
         "y": 5
-      }
+      },
+      "short_bio": "Mansherry is a dwarf and the princess of the Tontatta Kingdom. She is the daughter of Gancho, the king of the Tontatta Kingdom."
     },
     {
       "name": "Kin'emon",
@@ -800,7 +852,8 @@
       "image_offset": {
         "x": 35,
         "y": 5
-      }
+      },
+      "short_bio": "'''\"Foxfire\" Kin'emon''' is a samurai from the region of Kuri in Wano Country who currently serves the shogunate as a great elder in the Flower Capital. Once a thug in his youth, he became a retainer of the Kouzuki Family and the leader of Kouzuki Oden's Nine Red Scabbards. He was born 56 years before the present day, but traveled 20 years forward in time when he was 36 years old. Due to Wano Country having been taken over by Kurozumi Orochi, an ally of Kaidou of the Four Emperors, Kin'emon set out on a seafaring quest to recruit warriors for his cause, bringing alongside him his master, Kouzuki Momonosuke, as well as two of his comrades. After a series of misadventures, Kin'emon ended up on the island of Punk Hazard, where he met and joined forces with the Straw Hat Pirates, posing as Momonosuke's father during the journey to Zou. He is one of the central allies of the Straw Hats during the Dressrosa, Whole Cake Island and Wano Country Sagas."
     },
     {
       "name": "Domo-kun",
@@ -810,7 +863,8 @@
       "role": "Pet",
       "haki": [],
       "origin": "Unknown",
-      "image": "Domo-kun.png"
+      "image": "Domo-kun.png",
+      "short_bio": "Domo-kun and Nnke-kun are aliens planning to conquer the Earth. They are the first joke characters created by Oda. They first appeared in Oda's short story Future Present from God. Later Domo-kun makes an appearance among the Buggy Pirates. Oda answered a question in an SBS and drew both of them. Nnke-kun appeared again alongside Pandaman on the cover of Volume 52."
     },
     {
       "name": "Suleiman",
@@ -831,7 +885,8 @@
       "image_offset": {
         "x": 71,
         "y": 5
-      }
+      },
+      "short_bio": "Suleiman the Beheader is a war criminal who joined as a gladiator at the Corrida Colosseum to compete for the Mera Mera no Mi. He eventually joined the Beautiful Pirates, serving under Cavendish. He is an ally of Luffy during the Dressrosa Arc."
     },
     {
       "name": "Aladine",
@@ -848,7 +903,8 @@
       "image_offset": {
         "x": 39,
         "y": 5
-      }
+      },
+      "short_bio": "Aladine is a goatsbeard brotula merman. He was originally a Ryugu Kingdom soldier who was then enslaved, but then became a pirate as the doctor and later first mate of the Sun Pirates. He is the husband of Charlotte Praline, serving as the bond between the Sun Pirates and the Charlotte Family."
     },
     {
       "name": "An Zengaiina",
@@ -863,7 +919,8 @@
       "image_offset": {
         "x": 91,
         "y": 5
-      }
+      },
+      "short_bio": "An Zengaiina is a prisoner on Level 2 of Impel Down."
     },
     {
       "name": "Ipponmatsu",
@@ -879,7 +936,8 @@
       "image_offset": {
         "x": 46,
         "y": 5
-      }
+      },
+      "short_bio": "Ipponmatsu is the owner of an arms shop in Loguetown and Ipponume's husband. He was the former owner of both Sandai Kitetsu and Yubashiri."
     }
   ]
 }

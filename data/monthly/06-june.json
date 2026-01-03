@@ -8,7 +8,8 @@
       "image_offset": {
         "x": 16,
         "y": 5
-      }
+      },
+      "short_bio": "Moda is a milk maiden from the Lulusia Kingdom that Ace met during his cover story. She is the daughter of Koda and Kyuji. Following the destruction of her homeland, Moda was enlisted by the Revolutionary Army."
     },
     {
       "name": "St. Charloss",
@@ -24,7 +25,8 @@
       "image_offset": {
         "x": 50,
         "y": 2
-      }
+      },
+      "short_bio": "Saint Charlos of the Rosward Family is a World Noble, the son of Saint Rosward Rosward, and the older brother of Saint Shalria. Due to his actions, he can be considered one of the main antagonists of the Sabaody Archipelago Arc, and a minor antagonist during the Levely Arc."
     },
     {
       "name": "Chimney",
@@ -36,7 +38,8 @@
       "origin": "Grand Line (Water 7)",
       "age": 10,
       "height": "115 cm",
-      "image": "Chimney-(post-timeskip).png"
+      "image": "Chimney-(post-timeskip).png",
+      "short_bio": "Chimney is the granddaughter of Sea Train conductor Kokoro, her only mermaid grandparent, making Chimney 1/4 mermaid. She is the owner of a rabbit named Gonbe (whom Chimney thinks is a cat). She is an ally of the Straw Hat Pirates during the Water 7 and Enies Lobby Arcs."
     },
     {
       "name": "Rob Lucci",
@@ -62,7 +65,8 @@
       "image_offset": {
         "x": 50,
         "y": 0
-      }
+      },
+      "short_bio": "Rob Lucci, also known as \"Massacre Weapon\", is a masked agent of CP0. Originally, he was introduced as part of CP9, reputed as the assassin unit's strongest member in history. Operating undercover to obtain the Pluton blueprints from Iceburg, he worked as a sawyer, treenail, and bolt specialist for the Galley-La Company's Dock 1 in Water 7. After his defeat by Monkey D. Luffy at Enies Lobby, Lucci was dismissed from CP9 by Spandam, who declared him and the other assassins responsible for the Straw Hats' havoc on Enies Lobby. However, within the next two years, he managed to be reinstated into Cipher Pol as part of CP0, this time as Spandam's superior. Lucci is the secondary antagonist of the Water 7 Saga, appearing as the main antagonist of the Water 7 Arc and the secondary antagonist of the Enies Lobby Arc. He later appears as a major antagonist in the Egghead Arc (and briefly a reluctant ally). He is also one of the central characters from CP9's Independent Report Cover Page Serial, along with the rest of the CP9 agents."
     },
     {
       "name": "Lonz",
@@ -73,7 +77,8 @@
       "image_offset": {
         "x": 44,
         "y": 5
-      }
+      },
+      "short_bio": "Vice Admiral Lonz is a Marine vice admiral who is also part of the Giant Squad."
     },
     {
       "name": "Dragon Number Thirteen",
@@ -83,7 +88,8 @@
       "role": "Guard Dragon",
       "haki": [],
       "origin": "Punk Hazard",
-      "image": "Dragon-Number-Thirteen.png"
+      "image": "Dragon-Number-Thirteen.png",
+      "short_bio": "Dragon Number Thirteen was a dragon created by Vegapunk to guard Punk Hazard. He carried out this duty even after Vegapunk and the World Government's departure until he was killed by Roronoa Zoro four years later. He was named by one of the World Nobles."
     },
     {
       "name": "Mousse",
@@ -93,13 +99,15 @@
       "role": "Villager",
       "haki": [],
       "origin": "Grand Line (Jaya)",
-      "image": "Mousse.png"
+      "image": "Mousse.png",
+      "short_bio": "Mousse was the daughter of Kalgara and Herb and was considered the most beautiful of the Shandia women on the island of Jaya four hundred years ago."
     },
     {
       "name": "Epoida",
       "birthday": "06-04",
       "affiliation": "civilian",
-      "image": "Epoida.png"
+      "image": "Epoida.png",
+      "short_bio": "Epoida is an infamous New World pirate captain who was once a member of the Whitebeard Pirates, before forming his own crew subordinate to Whitebeard."
     },
     {
       "name": "Raijin",
@@ -115,7 +123,8 @@
       "image_offset": {
         "x": 37,
         "y": 5
-      }
+      },
+      "short_bio": "Raijin is a ninja and a member of the Beasts Pirates. He previously was a member of the Orochi Oniwabanshu which served the shogun of Wano Country, Kurozumi Orochi. Due to his actions and role, he is a minor antagonist in the Wano Country Arc."
     },
     {
       "name": "Crocus",
@@ -134,7 +143,8 @@
       "image_offset": {
         "x": 14,
         "y": 5
-      }
+      },
+      "short_bio": "Crocus is a doctor and the caretaker of the whale Laboon as well as the overseer of the Twin Cape Lighthouse that guides ships coming down from Reverse Mountain into the Grand Line. Though he was a lighthouse keeper for most of his life, he spent three years as a doctor serving as a part of Gol D. Roger's crew. According to Silvers Rayleigh, he was the best doctor in the world at the time he joined the Roger Pirates, and the only one able to relieve Roger's disease. He is an ally during the Reverse Mountain Arc and provides the Log Pose used by the Straw Hat Pirates for the first half of the Grand Line."
     },
     {
       "name": "Jabra",
@@ -159,7 +169,8 @@
       "image_offset": {
         "x": 30,
         "y": 5
-      }
+      },
+      "short_bio": "Jabra is an agent of CP0. He was previously an agent of CP9, being the third strongest of this agency. He was one of the major antagonists during the Enies Lobby Arc."
     },
     {
       "name": "Sicily",
@@ -174,7 +185,8 @@
       "image_offset": {
         "x": 35,
         "y": 5
-      }
+      },
+      "short_bio": "Sicily is a Marine Rear Admiral."
     },
     {
       "name": "Karma",
@@ -184,7 +196,8 @@
       "image_offset": {
         "x": 25,
         "y": 5
-      }
+      },
+      "short_bio": "Karma is an octopus fish-man and the captain of the Takotopus Pirates, an infamous New World pirate crew subordinate to the Whitebeard Pirates."
     },
     {
       "name": "Momonga",
@@ -204,7 +217,8 @@
       "image_offset": {
         "x": 20,
         "y": 0
-      }
+      },
+      "short_bio": "Vice Admiral Momonga is a Marine officer and the Base Commander of the G-1 Marine Base. He was one of the five Vice Admirals who had led the Buster Call on Enies Lobby."
     },
     {
       "name": "Sheepshead",
@@ -226,7 +240,8 @@
       "image_offset": {
         "x": 23,
         "y": 5
-      }
+      },
+      "short_bio": "Sheepshead is a Shinuchi of the Beasts Pirates who was in charge of the Gifters on Zou."
     },
     {
       "name": "Perona",
@@ -249,7 +264,8 @@
       "image_offset": {
         "x": 66,
         "y": 5
-      }
+      },
+      "short_bio": "\"Ghost Princess\" Perona is the former commander of the Wild Zombies and Surprise Zombies of Thriller Bark prior to its collapse. She is one of the Mysterious Four and one of the major antagonists of the Thriller Bark Saga. After the defeat of Gecko Moria's army and during the timeskip, she begrudgingly helped and cooperated with Roronoa Zoro while in Dracule Mihawk's home on Kuraigana Island."
     },
     {
       "name": "Lacroix",
@@ -260,7 +276,8 @@
       "image_offset": {
         "x": 51,
         "y": 5
-      }
+      },
+      "short_bio": "Vice Admiral Lacroix is a Marine vice admiral and a member of the Giant Squad."
     },
     {
       "name": "Saldeath",
@@ -276,7 +293,8 @@
       "image_offset": {
         "x": 46,
         "y": 5
-      }
+      },
+      "short_bio": "Saldeath is one of the Chief Guards of Impel Down. He is the commander of the Blue Gorillas. Due to his actions, he is a major antagonist in the Impel Down Arc."
     },
     {
       "name": "Rockstar",
@@ -287,7 +305,8 @@
       "image_offset": {
         "x": 66,
         "y": 5
-      }
+      },
+      "short_bio": "Rockstar is a member of the Red Hair Pirates, being relatively new in the crew two years ago."
     },
     {
       "name": "Surume",
@@ -300,7 +319,8 @@
       "origin": "North Blue (North Pole)",
       "age": 120,
       "height": "30000 cm",
-      "image": "Surume.png"
+      "image": "Surume.png",
+      "short_bio": "Surume is a kraken and famous giant creature which dwells in the deepest parts of the ocean. He was enslaved by the New Fish-Man Pirates, but later became the pet of Monkey D. Luffy, who was the one who gave Surume his name."
     },
     {
       "name": "Dalton",
@@ -322,7 +342,8 @@
       "image_offset": {
         "x": 10,
         "y": 5
-      }
+      },
+      "short_bio": ":The subject of this article is sometimes called Doltan. Dalton is the elected king of the Sakura Kingdom (successor to the Drum Kingdom). He is a former Royal Guard who once served under Wapol. He is an ally to the Straw Hat Pirates during the Drum Island Arc."
     },
     {
       "name": "Portgas D. Rouge",
@@ -332,7 +353,8 @@
       "image_offset": {
         "x": 50,
         "y": 0
-      }
+      },
+      "short_bio": "Portgas D. Rouge was the mother of Portgas D. Ace and the lover of Gol D. Roger."
     },
     {
       "name": "Shiliew",
@@ -359,7 +381,8 @@
       "image_offset": {
         "x": 29,
         "y": 5
-      }
+      },
+      "short_bio": "Shiryu of the Rain is one of the Ten Titanic Captains of the Blackbeard Pirates, severing as the captain of the second ship of the fleet. He was originally introduced as the ex-Head Jailer of Impel Down, who had himself been imprisoned on Level 6 death row for his excessive, murderous violence against prisoners. When temporarily released to help Magellan quell the prison riot caused by Monkey D. Luffy and Marshall D. Teach coming to Impel Down, he chose to go against what he was ordered and instead assist the Blackbeard Pirates, ultimately deciding to join them. Due to his actions and role, he is a supporting antagonist in the Impel Down and Marineford Arcs, a minor antagonist in the Egghead Arc, and a major antagonist in the Final Saga."
     },
     {
       "name": "Disco",
@@ -374,7 +397,8 @@
       "image_offset": {
         "x": 54,
         "y": 5
-      }
+      },
+      "short_bio": "Disco is the owner of the now-bankrupt Human Auctioning House at Grove 1 in Sabaody Archipelago."
     },
     {
       "name": "Senor Pink",
@@ -396,7 +420,8 @@
       "origin": "North Blue",
       "age": 46,
       "height": "244 cm",
-      "image": "Senor-Pink.png"
+      "image": "Senor-Pink.png",
+      "short_bio": "Senor Pink is an assassin and officer of the Donquixote Pirates' Diamante Army. He was also the husband of Russian and the father of Gimlet. Due to his actions and role, he is a supporting antagonist during the Dressrosa Arc."
     },
     {
       "name": "Ripper",
@@ -407,7 +432,8 @@
       "bounty": "1,000,000",
       "haki": [],
       "origin": "East Blue",
-      "image": "Ripper.png"
+      "image": "Ripper.png",
+      "short_bio": "Commander Ripper is an East Blue Marine who heads the 153rd Branch. Formerly a subordinate of Morgan, he assumed control after Morgan was defeated by the Straw Hat Pirates."
     },
     {
       "name": "Candy",
@@ -417,7 +443,8 @@
       "role": "Captain",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Candy.png"
+      "image": "Candy.png",
+      "short_bio": "Candy is the captain of the Candy Pirates."
     },
     {
       "name": "Chabo",
@@ -427,7 +454,8 @@
       "role": "Civilian",
       "haki": [],
       "origin": "East Blue (Conomi Islands)",
-      "image": "Chabo.png"
+      "image": "Chabo.png",
+      "short_bio": "Chabo is a young boy from Gosa Village. He works for Nojiko on her mikan farm."
     },
     {
       "name": "Kawamatsu",
@@ -443,7 +471,8 @@
       "origin": "Grand Line (Fish-Man Island)",
       "age": 41,
       "height": "271 cm",
-      "image": "Kawamatsu.png"
+      "image": "Kawamatsu.png",
+      "short_bio": "Kawamatsu the Kappa is a Japanese puffer fish-man who is a yokozuna-ranked sumo wrestler. As a child, he was shipwrecked in Wano and orphaned soon afterwards. After Kouzuki Oden rescued him from an attempted lynching, he went on to serve as one of Oden's Nine Red Scabbards until Oden's death 20 years ago. After spending 7 years watching over Oden's daughter Hiyori, Kawamatsu was imprisoned by the Beasts Pirates for 13 years until Monkey D. Luffy ultimately freed him. He then reunited with the Nine Red Scabbards and joined their effort to fight Kurozumi Orochi and Kaidou and avenge Oden. Following Kouzuki Momonosuke's ascent to shogun, he serves as the daimyo of Hakumai. He is an ally of the Straw Hat Pirates during the Wano Country Arc."
     },
     {
       "name": "Belo Betty",
@@ -469,7 +498,8 @@
       "image_offset": {
         "x": 74,
         "y": 5
-      }
+      },
+      "short_bio": "Belo Betty is the commander of the East Army in the Revolutionary Army. She succeeded the previous commander, Ginny, eight years after her death."
     },
     {
       "name": "Roshio",
@@ -480,7 +510,8 @@
       "image_offset": {
         "x": 34,
         "y": 5
-      }
+      },
+      "short_bio": "\"Executioner\" Roshio is a pirate captain who has a bounty of 42,000,000."
     },
     {
       "name": "Pedro",
@@ -501,7 +532,8 @@
       "image_offset": {
         "x": 29,
         "y": 5
-      }
+      },
+      "short_bio": "Pedro of the Treetops was a jaguar mink and captain of the Guardians. He was the former captain of the Nox Pirates who sailed in search of a Poneglyph, and he earned a bounty of 382,000,000 in the process, but his journey was cut short in Totto Land. He returned to Totto Land to accompany the Sanji Retrieval Team in their quest to rescue Sanji. During the escape from Whole Cake Island, Pedro sacrificed himself to ensure his team's escape, as he believed the Straw Hats will bring about the Dawn of the World."
     },
     {
       "name": "Genzo",
@@ -513,7 +545,8 @@
       "origin": "East Blue (Conomi Islands)",
       "age": 48,
       "height": "173 cm",
-      "image": "Genzo.png"
+      "image": "Genzo.png",
+      "short_bio": "Genzo is the sheriff of Cocoyasi Village, and an unofficial but long-serving parental figure to Nami and Nojiko. He is an ally of the Straw Hat Pirates during the Arlong Park Arc."
     },
     {
       "name": "Tamachibi",
@@ -527,7 +560,8 @@
       "image_offset": {
         "x": 58,
         "y": 5
-      }
+      },
+      "short_bio": "Tama (Viz) Tamachibi is a child Dr. Kureha healed while she was in Cocoa Weed. He lives with his father, who is the owner of Stool, a restaurant in town."
     },
     {
       "name": "Toto",
@@ -537,7 +571,8 @@
       "role": "Civilian",
       "haki": [],
       "origin": "Grand Line (Arabasta)",
-      "image": "Toto-(Toh-Toh).png"
+      "image": "Toto-(Toh-Toh).png",
+      "short_bio": "Toto is Koza's father and Goro's older brother, who lives in Yuba."
     },
     {
       "name": "Rika",
@@ -551,7 +586,8 @@
       "image_offset": {
         "x": 61,
         "y": 5
-      }
+      },
+      "short_bio": "Rika is a young girl from Shells Town, and the daughter of Ririka. She currently serves as a waitress at the 153rd Marine Branch."
     },
     {
       "name": "Mr. 4",
@@ -569,7 +605,8 @@
       "image_offset": {
         "x": 69,
         "y": 5
-      }
+      },
+      "short_bio": "\"Catcher-Killing\" Babe, better known by his alias Mr. 4, is a former officer agent of the Baroque Works and partner of Miss Merry Christmas. He is also Lassoo's owner. He was a major antagonist during the Arabasta Arc. After the group's dissolution, he became a pizza delivery boy, stationed at the new Spiders Cafe."
     },
     {
       "name": "Rokkaku",
@@ -584,7 +621,8 @@
       "image_offset": {
         "x": 43,
         "y": 5
-      }
+      },
+      "short_bio": "Lieutenant Junior Grade Rokkaku was one of Axe-Hand Morgan's officers at the 153rd Marine Branch. He currently serves under Commander Ripper."
     },
     {
       "name": "Tibany",
@@ -594,19 +632,22 @@
       "role": "Civilian",
       "haki": [],
       "origin": "Grand Line (Kamabakka)",
-      "image": "Tibany-(Tibbany,-Elizabeth).png"
+      "image": "Tibany-(Tibbany,-Elizabeth).png",
+      "short_bio": "Tibany is an okama from Momoiro Island. He and the other okama chased after Sanji and attempted to convert him into an okama. In the anime, he was called Elizabeth."
     },
     {
       "name": "Amadob",
       "birthday": "06-20",
       "affiliation": "civilian",
-      "image": "Amadob.png"
+      "image": "Amadob.png",
+      "short_bio": "Amadob is an infamous New World pirate who allied himself with Whitebeard."
     },
     {
       "name": "Miss Father's Day",
       "birthday": "06-21",
       "affiliation": "civilian",
-      "image": "Miss_Fathers_Day.png"
+      "image": "Miss_Fathers_Day.png",
+      "short_bio": "'''Miss Father's Day''' was a Frontier Agent, who along with Mr. 7, was part of the \"sniping\" pair who apparently are deployed for jobs by the Baroque Works where sniping is necessary. Due to her actions, she is a minor antagonist in the Arabasta Arc."
     },
     {
       "name": "Gyro",
@@ -617,7 +658,8 @@
       "image_offset": {
         "x": 56,
         "y": 5
-      }
+      },
+      "short_bio": "Crab-Hand Gyro is the captain of the Gyro Pirates from South Blue that was on its way to the New World before an unfortunate meeting with the New Fish-Man Pirates."
     },
     {
       "name": "Orlumbus",
@@ -635,7 +677,8 @@
       "image_offset": {
         "x": 31,
         "y": 5
-      }
+      },
+      "short_bio": "\"Massacre Ruler\" Orlumbus is a former adventurer from the Standing Kingdom and the admiral of the Yonta Maria Grand Fleet. He joined as a gladiator at the Corrida Colosseum to compete for the Mera Mera no Mi. After the final battle against Donquixote Doflamingo, Orlumbus pledged his loyalty to Monkey D. Luffy and became a pirate and the captain of the seventh ship of the Straw Hat Grand Fleet. He is an ally of Luffy during the Dressrosa Arc, and one of the central characters from The Stories of the Self-Proclaimed Straw Hat Grand Fleet Cover Page Serial."
     },
     {
       "name": "Ryuboshi",
@@ -647,7 +690,8 @@
       "origin": "Grand Line (Ryugu Kingdom)",
       "age": 23,
       "height": "544 cm",
-      "image": "Ryuboshi.png"
+      "image": "Ryuboshi.png",
+      "short_bio": "Ryuboshi is an oarfish merman and the second son of the royal Neptune Family on Fish-Man Island."
     },
     {
       "name": "Charlotte Pudding",
@@ -665,7 +709,8 @@
       "origin": "Grand Line (Totto Land)",
       "age": 16,
       "height": "166 cm",
-      "image": "Charlotte-Pudding.png"
+      "image": "Charlotte-Pudding.png",
+      "short_bio": "Charlotte Pudding is the 35th daughter and the 76th child of the Charlotte Family, an officer of the Big Mom Pirates, and a hybrid between a human and a member of the Three-Eye Tribe. She also works as a chocolatier and the owner of cafe \"Caramel\" on Cacao Island, as the candidate for the vacant position of '''Officer. She was once [[Sanji's arranged fiancée, per the political agreement between their families. She is currently held captive by the Blackbeard Pirates. Due to her actions and role, she was initially a major antagonist in the Whole Cake Island Arc, but after genuinely falling in love with Sanji, she became an ally of the Straw Hat Pirates to help them escape from her mother, Charlotte Linlin. She is also a supporting character in the Germa 66's Ahh... An Emotionless Excursion cover page serial."
     },
     {
       "name": "Zeus",
@@ -680,7 +725,8 @@
       "image_offset": {
         "x": 21,
         "y": 5
-      }
+      },
+      "short_bio": "Zeus the Thundercloud is a homie that is fused with Nami's Sorcery Clima-Tact. Before merging with the Clima-Tact, he was owned by Big Mom, who would summon him from her left hand. Due to being made from a soul fragment from Big Mom herself, he is more powerful than most homies. He was created by Big Mom in her youth, and served her into old age as one of her personal weapons alongside Prometheus and Napoleon. During the Straw Hat Pirates' escape from Totto Land, Zeus was captured by the Straw Hats and forced to become Nami's servant. He lived inside her Sorcery Clima-Tact for a brief period until he was reclaimed by Big Mom in Wano Country. However, Big Mom later abandoned Zeus for good after he had struggled during the battle at Onigashima, replacing him with another homie named Hera. She attempted to remove her soul fragment from him, but he survived the ordeal by permanently fusing with Nami's Clima-Tact as a vessel. Zeus then joined Nami for good, this time as her partner."
     },
     {
       "name": "Riku Dold III",
@@ -696,7 +742,8 @@
       "image_offset": {
         "x": 36,
         "y": 5
-      }
+      },
+      "short_bio": "Riku Doldo III is the recrowned king of Dressrosa after the defeat of Donquixote Doflamingo, who dethroned him a decade ago. The current patriarch of the Riku Family, Doldo is the father of the late Scarlett and Viola and the grandfather of Rebecca. During the latest Levely, he was one of the leading figures in the vote for the abolishment of the Seven Warlords of the Sea. Doldo entered the Corrida Colosseum to compete for the Mera Mera no Mi under the alias of \"Ricky\". He is an ally of the Straw Hat Pirates during the Dressrosa Arc."
     },
     {
       "name": "Mocha",
@@ -712,7 +759,8 @@
       "image_offset": {
         "x": 44,
         "y": 5
-      }
+      },
+      "short_bio": "Mocha is a little girl who was held captive on Punk Hazard. She was freed with the rest of the children by the Straw Hat Pirates."
     },
     {
       "name": "St. Roswald",
@@ -724,7 +772,8 @@
       "origin": "Mary Geoise",
       "age": 55,
       "height": "215 cm",
-      "image": "Rosward-(Roswald).png"
+      "image": "Rosward-(Roswald).png",
+      "short_bio": "Saint Rosward Rosward is a World Noble and member of the Rosward Family. He is the father of Charlos and Shalria. Alongside his son and daughter, he is one of the main antagonists of the Sabaody Archipelago Arc."
     },
     {
       "name": "Fukuro",
@@ -744,7 +793,8 @@
       "image_offset": {
         "x": 55,
         "y": 5
-      }
+      },
+      "short_bio": "Fukurou the Silent is an agent of CP0. Before the time skip, he was previously an agent of CP9. He was one of the major antagonists during the Enies Lobby Arc."
     },
     {
       "name": "Pankuuta Dakeyan",
@@ -764,19 +814,22 @@
       "name": "Elmy",
       "birthday": "06-30",
       "affiliation": "civilian",
-      "image": "Elmy.png"
+      "image": "Elmy.png",
+      "short_bio": "Elmy is an infamous New World pirate captain who allied with the Whitebeard Pirates."
     },
     {
       "name": "Fugetsu Omusubi",
       "birthday": "06-30",
-      "haki": []
+      "haki": [],
+      "short_bio": "Fugetsu Omusubi was a samurai who, as a member of the Fugetsu Family, served as the daimyo of the Kibi region until he was imprisoned and killed by Kaidou 20 years ago."
     },
     {
       "name": "Shiryu",
       "birthday": "06-11",
       "bounty": "Unknown",
       "haki": [],
-      "image": "Shiryu-(edited).png"
+      "image": "Shiryu-(edited).png",
+      "short_bio": "Shiryu of the Rain is one of the Ten Titanic Captains of the Blackbeard Pirates, severing as the captain of the second ship of the fleet. He was originally introduced as the ex-Head Jailer of Impel Down, who had himself been imprisoned on Level 6 death row for his excessive, murderous violence against prisoners. When temporarily released to help Magellan quell the prison riot caused by Monkey D. Luffy and Marshall D. Teach coming to Impel Down, he chose to go against what he was ordered and instead assist the Blackbeard Pirates, ultimately deciding to join them. Due to his actions and role, he is a supporting antagonist in the Impel Down and Marineford Arcs, a minor antagonist in the Egghead Arc, and a major antagonist in the Final Saga."
     }
   ]
 }

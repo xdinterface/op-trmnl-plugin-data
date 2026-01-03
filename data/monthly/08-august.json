@@ -10,7 +10,8 @@
         "Armament Haki"
       ],
       "origin": "Calm Belt (Amazon Lily)",
-      "image": "Aphelandra.png"
+      "image": "Aphelandra.png",
+      "short_bio": "Aphelandra is a member of the tribe of Kuja living on the island of Amazon Lily. During the timeskip, she became a member of the Kuja Pirates."
     },
     {
       "name": "Bishamon",
@@ -20,7 +21,8 @@
       "image_offset": {
         "x": 74,
         "y": 5
-      }
+      },
+      "short_bio": "Bishamon is a ninja and a member of the Beasts Pirates. He previously was a member of the Orochi Oniwabanshu which served the shogun of Wano Country, Kurozumi Orochi. Due to his actions and role, he is a minor antagonist in the Wano Country Arc."
     },
     {
       "name": "Urouge",
@@ -40,12 +42,14 @@
       "origin": "Sky Island",
       "age": 47,
       "height": "388 cm",
-      "image": "Urouge.png"
+      "image": "Urouge.png",
+      "short_bio": "Urouge, nicknamed the Mad Monk, is a pirate hailing from a sky island and high priest of the Fallen Monk Pirates. He is one of twelve pirates referred to as the \"Worst Generation\", and prior to the two-year timeskip had a bounty of 108,000,000."
     },
     {
       "name": "Époni",
       "birthday": "08-02",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "Époni is a nurse in service to the royal household of the Germa Kingdom. She was primarily charged with caring for the late queen, Vinsmoke Sora."
     },
     {
       "name": "Yasopp",
@@ -66,12 +70,14 @@
       "image_offset": {
         "x": 73,
         "y": 5
-      }
+      },
+      "short_bio": "Yasopp, known as \"Chaser\", is one of the Senior Officers and the sniper of the Red Hair Pirates. He is also the father of Usopp and the widower of Banchina."
     },
     {
       "name": "Hanzo",
       "birthday": "08-03",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "Hanzo is a ninja and a member of the Beasts Pirates. He previously was a member of the Orochi Oniwabanshu which served the shogun of Wano Country, Kurozumi Orochi. Due to his actions and role, he is a minor antagonist in the Wano Country Arc."
     },
     {
       "name": "Inazuma",
@@ -94,7 +100,8 @@
       "image_offset": {
         "x": 79,
         "y": 5
-      }
+      },
+      "short_bio": "Inazuma is a newkama and the deputy commander of the G Army in the Revolutionary Army, serving under Emporio Ivankov as his right hand man/woman."
     },
     {
       "name": "Marshall D. Teach",
@@ -117,7 +124,8 @@
       "origin": "Grand Line",
       "age": 40,
       "height": "344 cm",
-      "image": "Marshall-D.-Teach-(Blackbeard,-Marshall-D.-Teech).png"
+      "image": "Marshall-D.-Teach-(Blackbeard,-Marshall-D.-Teech).png",
+      "short_bio": "Marshall D. Teach, most commonly referred to by his epithet \"Blackbeard\", is the admiral of the Blackbeard Pirates, and one of the Four Emperors that rule over the New World. He is the son of the infamous pirate Rocks D. Xebec and Eris, making him a member of the nearly extinct Davy Family, thus a descendant of the legendary pirate Davy D. Jones which is only known to a small number of individuals, including his own crew and the Five Elders. He is also the only known person in history to wield the powers of two Devil Fruits. Teach started out his pirate career as an apprentice of the Whitebeard Pirates, then later became a member of the crew's 2nd Division. However, he murdered Thatch, the 4th Division Commander, in order to steal the Yami Yami no Mi, a rare darkness-based Logia Devil Fruit with the power to nullify the Devil Fruit abilities of others. He then fled from Whitebeard's crew and, after defeating the infamous 2nd Division Commander Portgas D. Ace and handing him over to the Marines, was awarded a position among the Seven Warlords of the Sea. He only held the position briefly, though, using it to infiltrate the great underwater prison Impel Down and escaping with multiple infamous Level 6 prisoners recruited into his crew. Upon arriving at the Summit War of Marineford, he resigned from his position and murdered Whitebeard, mysteriously stealing his quake-generating power. This, along with his victory in the Payback War and conquest of the majority of Whitebeard's territories during the timeskip, resulted in his acknowledgement as one of the Four Emperors, as well as him being considered a part of the \"Worst Generation\" along with the eleven Supernovas. After the Rocky Port Incident, he turned the island of Hachinosu into his base of operations with the ambition of having it officially accepted into the World Government as the Blackbeard Kingdom. Teach initially had no bounty; however, after resigning from the Seven Warlords, recruiting several dangerous criminals to his crew from Impel Down, and becoming one of the Four Emperors, he received a bounty of 2,247,600,000. Following the downfalls of Kaidou and Big Mom during the Wano Country Arc, his bounty was increased to 3,996,000,000 for unknown reasons. Due to his actions throughout the series, namely his key role in the deaths of Portgas D. Ace and Whitebeard, Teach consistently serves as one of the primary antagonists of the entire series. During the series' first half, he is an unseen minor antagonist in the Drum Island Arc, a minor antagonist in the Jaya Arc, the secondary antagonist of the Post-Enies Lobby Arc, and the overarching antagonist of the Summit War Saga. During the series' second half, he is a minor antagonist in the Dressrosa Arc and Wano Country Arc, a supporting antagonist in the Egghead Arc, and one of the overarching main antagonists in the Final Saga."
     },
     {
       "name": "Amazon",
@@ -129,12 +137,14 @@
       "origin": "Grand Line (Skypiea)",
       "age": 79,
       "height": "120 cm",
-      "image": "Amazon.png"
+      "image": "Amazon.png",
+      "short_bio": "Amazon was the elderly gatekeeper of Skypiea and informer at the entrance to Skypiea known as Heaven's Gate. She let people in even if they could not pay her extol toll, but purposely failed to tell those who did not pay about the consequences for entering the city. After the timeskip, she became the admission ticket saleswoman for Skypiea's new theme park, Wagomuland."
     },
     {
       "name": "Dirt Boss",
       "birthday": "08-04",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "The Dirt Boss is a giant mole awoken by Gedatsu during his work for Goro in his cover story."
     },
     {
       "name": "Rebecca",
@@ -153,7 +163,8 @@
       "image_offset": {
         "x": 32,
         "y": 5
-      }
+      },
+      "short_bio": "Rebecca is the daughter of Scarlett and Kyros, the niece of Viola and the granddaughter of Riku Doldo III. She is the former crown princess of Dressrosa, who forfeited her title to live with her father and currently serves as a lady-in-waiting to her aunt, Viola. While living under Donquixote Doflamingo's regime, she was imprisoned and forced to fight as a gladiator at the Corrida Colosseum. She joined a tournament to compete for the Mera Mera no Mi, winning the D Block and battling in the finals before Sabo claimed the Devil Fruit. She is an ally of the Straw Hat Pirates during the Dressrosa Arc."
     },
     {
       "name": "Gaimon",
@@ -169,12 +180,14 @@
       "image_offset": {
         "x": 27,
         "y": 5
-      }
+      },
+      "short_bio": "Gaimon is a former pirate who currently lives inside a treasure chest on the Island of Rare Animals."
     },
     {
       "name": "Octopako",
       "birthday": "08-05",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "Octopako is an octopus fish-woman whom Hatchan tried to win over during his cover story, Hatchan's Sea-Floor Stroll."
     },
     {
       "name": "Vasco Shot",
@@ -201,7 +214,8 @@
       "image_offset": {
         "x": 30,
         "y": 5
-      }
+      },
+      "short_bio": "Vasco Shot, monikered \"Heavy Drinker\", is one of the Ten Titanic Captains of the Blackbeard Pirates, serving as the captain of the eighth ship of the fleet. He was originally one of several legendary criminals given a life sentence on Impel Down's Level 6, before being freed by Marshall D. Teach and joining him. Due to his actions and role, he is a supporting antagonist in the Marineford Arc, a minor antagonist in the Egghead Arc, and a major antagonist in the Final Saga."
     },
     {
       "name": "Blenheim",
@@ -215,7 +229,8 @@
       "image_offset": {
         "x": 42,
         "y": 5
-      }
+      },
+      "short_bio": "Blenheim is the former 9th division commander of the Whitebeard Pirates."
     },
     {
       "name": "Gladius",
@@ -238,7 +253,8 @@
       "image_offset": {
         "x": 67,
         "y": 5
-      }
+      },
+      "short_bio": "Gladius is an officer of the Donquixote Pirates' Pica Army. Due to his actions and role, he is a supporting antagonist during the Dressrosa Arc."
     },
     {
       "name": "Gomorrah",
@@ -248,7 +264,8 @@
       "role": "King Bull",
       "haki": [],
       "origin": "Unknown",
-      "image": "Sodom-and-Gomorrah.png"
+      "image": "Sodom-and-Gomorrah.png",
+      "short_bio": "Gomorrah is one of the two gigantic King Bulls owned by the Franky Family, the other being Sodom."
     },
     {
       "name": "Sodom",
@@ -258,7 +275,8 @@
       "role": "King Bull",
       "haki": [],
       "origin": "Unknown",
-      "image": "Sodom-and-Gomorrah.png"
+      "image": "Sodom-and-Gomorrah.png",
+      "short_bio": "Sodom is one of the two gigantic King Bulls (sea horse in the most literal sense) owned by the Franky Family, the other being Gomorrah."
     },
     {
       "name": "Bellamy",
@@ -285,7 +303,8 @@
       "image_offset": {
         "x": 50,
         "y": 2
-      }
+      },
+      "short_bio": "Bellamy \"the Hyena\" is a dyer and retired pirate hailing from the North Blue. Originally captain of the Bellamy Pirates, he was renowned in Mock Town as the \"Big-Time Rookie\" until his humiliating defeat by Monkey D. Luffy. Desperate to redeem himself to his idol Donquixote Doflamingo, he worked back up as a full-fledged member of the Donquixote Pirates, until the crew was entirely destroyed in Dressrosa by the Straw Hat Pirates. He is the main antagonist of the Jaya Arc, and a minor antagonist in the Dressrosa Arc. He is also given some focus in the The Stories of the Self-Proclaimed Straw Hat Grand Fleet cover arc."
     },
     {
       "name": "Kaku",
@@ -311,7 +330,8 @@
       "image_offset": {
         "x": 50,
         "y": 0
-      }
+      },
+      "short_bio": "Kaku is a masked agent of CP0. He was previously an assassin of CP9, operating undercover in order to obtain the Pluton blueprints from Iceburg. While undercover, he acted as one of the five foremen of Galley-La Company's Dock One, specializing in mechanics, diagnostics, and housecalls. He is a major antagonist in the Water 7 and Enies Lobby Arcs, and a supporting antagonist in the Egghead Arc, later turned reluctant temporary ally of the Straw Hat Pirates during the latter Arc."
     },
     {
       "name": "Buggy",
@@ -335,7 +355,8 @@
       "image_offset": {
         "x": 54,
         "y": 5
-      }
+      },
+      "short_bio": "Buggy the Star Clown is the nominal president of Cross Guild, and one of the current Four Emperors dominating the New World. Initially a Roger Pirates apprentice alongside Shanks, Buggy succeeded his disbanded mentors as a career pirate in the East Blue, in time becoming captain of the Buggy Pirates. One of the earliest enemies defeated by Monkey D. Luffy and the Straw Hat Pirates, revenge drove him to an alliance with \"Iron Mace\" Alvida and pursuit into the Grand Line. Since then, his fortunes have constantly, dramatically revolved: from imprisonment in Impel Down to entanglement in its first mass-breakout and the subsequent Summit War of Marineford, his escalating infamy won him entry to the Seven Warlords of the Sea, allowing him to launch the pirate mercenary organization Buggy's Delivery. After the Warlords were outlawed, Buggy found himself \"leading\" the Cross Guild, a successor group actually controlled by fellow ex-Warlords Crocodile and Dracule Mihawk; with his inflated reputation, he was grudgingly retained as figurehead leader, and gained recognition as one of the new Emperors. Emboldened, Buggy has declared his intent to become the Pirate King, putting Cross Guild in pursuit of One Piece. He is the main antagonist of the Orange Town Arc and a secondary antagonist in the Loguetown Arc, as well as the central protagonist of the Buggy's Crew Adventure Chronicles cover arc (the manga's first). Since then, he has become one of the series' most-recurring characters, serving as a supporting character through the Summit War Saga in addition to tertiary appearances in the Jaya Arc, Zou Arc, Wano Country Arc, and Egghead Arc. He is also the main antagonist in most episodes of \"Boss Luffy Historical Special\". He also serves as a reluctant ally to Luffy in the <s>3D</s>2Y special episode, and the movie One Piece: Stampede."
     },
     {
       "name": "Hatchan",
@@ -349,12 +370,14 @@
       "origin": "Grand Line (Fish-Man Island)",
       "age": 38,
       "height": "220 cm",
-      "image": "Hatchan-(Hachi).png"
+      "image": "Hatchan-(Hachi).png",
+      "short_bio": "Hatchan, nicknamed \"Hachi\", is an octopus fish-man who was an officer of the Arlong Pirates before their defeat, and a member of the Sun Pirates before that. After the rest of the Arlong Pirates were arrested, Hatchan was the sole member to escape, and went on many adventures which ended in him opening a floating takoyaki restaurant and meeting up again with the Straw Hat Pirates. He was one of the major antagonists of the Arlong Park Arc. He is also the central character of the Hatchan's Sea-Floor Stroll Cover Page Serial. Later, along with Camie, he is one of the main supporting characters of both the Sabaody Archipelago and Fish-Man Island Arcs as an ally of the Straw Hat Pirates."
     },
     {
       "name": "Yazaemon",
       "birthday": "08-08",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "Yazaemon is a ninja and a member of the Beasts Pirates. He previously was a member of the Orochi Oniwabanshu which served the shogun of Wano Country, Kurozumi Orochi. Due to his actions and role, he is a minor antagonist in the Wano Country Arc."
     },
     {
       "name": "Hack",
@@ -367,12 +390,14 @@
       "origin": "Grand Line (Fish-Man Island)",
       "age": 38,
       "height": "280 cm",
-      "image": "Hack.png"
+      "image": "Hack.png",
+      "short_bio": "\"Hundredth Dan\" Hack is a Japanese soldierfish fish-man and a member of the Revolutionary Army, which he serves as combat instructor. He went to Dressrosa to investigate the arms trafficking there and competed at the Corrida Colosseum for the Mera Mera no Mi."
     },
     {
       "name": "Vegapunk",
       "birthday": "08-09",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "Dr. Vegapunk was the leading scientist of the SSG in the employment of the Marines. His work included discovering the secrets and uses of seastone, the secrets of how Devil Fruit powers work, the co-discovery of the Lineage Factor and its applications, the creation of the Pacifista and Seraphim, and various other scientific achievements that are said to be at least 500 years ahead of current technology. He hailed from the technologically advanced Karakuri Island and resided on Egghead, where his laboratory is located. Before being employed under the World Government, Vegapunk had been the director of an outlaw scientific research team known as MADS. The team was eventually arrested, and Vegapunk was later integrated into the Marines as its head scientist after MADS' dissolution. During his tenure at Egghead, he created six copies, or \"satellites\", of himself, each embodying an aspect of his personality. However, once York revealed to the World Government that Vegapunk was researching the Void Century, they dispatched CP0 and conspired with her to eliminate him, which resulted in the monumental Egghead Incident. Vegapunk was killed by his old friend, Admiral Kizaru, during the ensuing Buster Call on Egghead. Foreseeing his assassination, however, Vegapunk left behind an important message to be broadcasted around the world regarding a catastrophic global future event. He was survived by all six of his satellites: most ascended with Punk Records into the clouds, York remained with the World Government, and Lilith escaped with the Straw Hat Pirates and is attempting to resurrect Vegapunk via cloning. First mentioned during the Post-Enies Lobby Arc, Vegapunk was a major background character throughout the series until his proper introduction during the Egghead Arc, becoming a major ally to the Straw Hat Pirates alongside his satellites and playing a central role during its ongoings."
     },
     {
       "name": "Wapol",
@@ -391,7 +416,8 @@
       "origin": "Grand Line (Drum Kingdom)",
       "age": 29,
       "height": "207 cm",
-      "image": "Wapol.png"
+      "image": "Wapol.png",
+      "short_bio": "\"Tin-Plate\" Wapol is the king of the South Blue's Evil Black Drum Kingdom and chairman of an international toy conglomerate. Originally king of the Grand Line's Drum Island, Wapol fled when the Blackbeard Pirates attacked (spending some time as the \"captain\" of his own, improvised pirate crew) and was permanently deposed by the Straw Hat Pirates soon after. However, his chance creation of a unique \"miracle\" alloy allowed him to rebuild as a toy manufacturer, winning wealth and power anew and eventually securing his current kingdom with the world-famous Kinderella as consort. After accidentally witnessing the Five Elders and Imu assassinating King Nefertari Cobra at the latest Levely, he went into hiding aboard \"Big News\" Morgan's airship alongside Nefertari Vivi. He is the main antagonist of the Drum Island Arc (and by extension the ninth movie). He is also the protagonist of the Wapol's Omnivorous Hurrah cover arc."
     },
     {
       "name": "Fujitora",
@@ -417,7 +443,8 @@
       "image_offset": {
         "x": 14,
         "y": 5
-      }
+      },
+      "short_bio": "Issho, better known by his alias Fujitora, is an Admiral in the Marines. Once the captain of a guard force in the former Aoi Kingdom, he was conscripted through a World Military Draft during the two-year timeskip, being appointed to fill one of the Admiral vacancies caused by Kuzan's resignation and Sakazuki's promotion alongside his co-worker Ryokugyu. A proponent of \"Humane Justice\", Fujitora notably spearheaded a campaign for the abolishment of the \"Seven Warlords of the Sea\" system, which came to pass during the most recent Levely. Fujitora was first mentioned by Sakazuki when the latter was discussing plans to deal with Monkey D. Luffy and Trafalgar Law on Dressrosa. His following mission and actions on Dressrosa made him the first Admiral to physically appear post-timeskip and the secondary antagonist of the Dressrosa Arc."
     },
     {
       "name": "Gedatsu",
@@ -432,7 +459,8 @@
       "origin": "Sky Island (Birka)",
       "age": 31,
       "height": "220 cm",
-      "image": "Gedatsu.png"
+      "image": "Gedatsu.png",
+      "short_bio": "Sky Boss Gedatsu was one of Enel's priests who punished criminals with the Ordeal of Swamp during Enel's reign. He is a major antagonist during the Skypiea Arc, and later the central character from Gedatsu's Accidental Blue-Sea Life Cover Page Serial. He now works at Ukkari Hot-Springs Resort."
     },
     {
       "name": "Hattori",
@@ -442,7 +470,8 @@
       "image_offset": {
         "x": 3,
         "y": 5
-      }
+      },
+      "short_bio": "Hattori is Rob Lucci's pet pigeon, and initially acted as the target of his ventriloquism."
     },
     {
       "name": "Dellinger",
@@ -455,7 +484,8 @@
       "origin": "North Blue",
       "age": 16,
       "height": "145 cm",
-      "image": "Dellinger.png"
+      "image": "Dellinger.png",
+      "short_bio": "Dellinger is a combatant and an officer of the Donquixote Pirates' Diamante Army who is a hybrid between a human and a fighting fish fish-man. Due to his actions and role, he is a supporting antagonist during the Dressrosa Arc."
     },
     {
       "name": "Duval",
@@ -472,7 +502,8 @@
       "image_offset": {
         "x": 59,
         "y": 5
-      }
+      },
+      "short_bio": "Duval is the leader of the Rosy Life Riders (originally the Flying Fish Riders), active around the Sabaody Archipelago and Fish-Man Island. Initially an enemy of the Straw Hat Pirates due to a personal grudge against Sanji, he has since become their ally."
     },
     {
       "name": "Hajrudin",
@@ -488,7 +519,8 @@
       "image_offset": {
         "x": 66,
         "y": 5
-      }
+      },
+      "short_bio": "Hajrudin is a giant warrior described as being from the \"new generation\" of Elbaph. He is the illegitimate son of the late King Harald and his lover Ida, as well as the older half-brother of Prince Loki. A century after the Giant Warrior Pirates' disbandment, Hajrudin formed the New Giant Warrior Pirates in an attempt to revive the legendary crew; they formerly served as S-class pirate mercenaries for Buggy's Pirate Dispatch Organization. Hajrudin competed in the Corrida Colosseum on Dressrosa, where he would team up with Monkey D. Luffy and the Straw Hat Pirates to overthrow Donquixote Doflamingo's regime. Following this, Hajrudin swore his crew's allegiance to Luffy and became the captain of the sixth ship of the Straw Hat Grand Fleet. He is a major ally during the Dressrosa and Elbaph Arcs, and one of the central characters of The Stories of the Self-Proclaimed Straw Hat Grand Fleet Cover Page Serial."
     },
     {
       "name": "Don Sai",
@@ -504,7 +536,8 @@
       "origin": "West Blue (Kano Country)",
       "age": 28,
       "height": "242 cm",
-      "image": "Sai.png"
+      "image": "Sai.png",
+      "short_bio": "Sai, also known as Don Sai, is a member of the Chinjao Family and the 13th leader of the Happo Navy, as well as the captain of the third ship of the Straw Hat Grand Fleet. He is also a martial artist who joined as a gladiator at the Corrida Colosseum to compete for the Mera Mera no Mi, where he met Monkey D. Luffy, whom he eventually pledged his loyalty to. He is now married to Baby 5, a former officer of the Donquixote Pirates who defected due to falling in love with him. He is an ally of Luffy during the Dressrosa Arc, and one of the central characters from The Stories of the Self-Proclaimed Straw Hat Grand Fleet Cover Page Serial."
     },
     {
       "name": "Machvise",
@@ -527,22 +560,26 @@
       "image_offset": {
         "x": 35,
         "y": 5
-      }
+      },
+      "short_bio": "Machvise is an officer of the Donquixote Pirates' Diamante Army. Due to his actions and role, he is a supporting antagonist during the Dressrosa Arc."
     },
     {
       "name": "Bomba",
       "birthday": "08-14",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "Bomba is a dwarf from Tontatta Kingdom. He is one of the two vice chiefs of the Tonta Corps along with Rampo, under Gancho and Leo, and serves under Leo in the Tontatta Pirates. He is the elder brother of Bobomba."
     },
     {
       "name": "Giberson",
       "birthday": "08-14",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "Giberson, known as \"The Concealer\", is a veteran warehouseman and one of the emperors of the Underworld."
     },
     {
       "name": "Jean Ango",
       "birthday": "08-14",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "Jean Ango, also known as Jean the Bandit, is a bounty hunter. He joined as a gladiator at the Corrida Colosseum to compete for the Mera Mera no Mi."
     },
     {
       "name": "Pisaro",
@@ -552,7 +589,8 @@
       "role": "Musician",
       "haki": [],
       "origin": "Grand Line (Fish-Man Island)",
-      "image": "Pisaro.png"
+      "image": "Pisaro.png",
+      "short_bio": "Pisaro is the musician of the Arlong Pirates and an ocean sunfish fish-man. He was previously a member of the Sun Pirates."
     },
     {
       "name": "Bentham",
@@ -576,7 +614,8 @@
       "image_offset": {
         "x": 63,
         "y": 5
-      }
+      },
+      "short_bio": ":The subject of this article is often called \"Bon Clay\". Bentham of the Wild, alias Mr. 2 Bon Kurei, is a newkama and former Baroque Works officer agent. He was a major antagonist during the Arabasta Arc, and (along with his fellow Officer Agents) one of the central characters in Miss Goldenweek's \"Operation: Meet Baroque Works\". While he was once an enemy of Luffy's as a member of Baroque Works, the two became quick friends, leading Bon Kurei to sacrifice himself for Luffy both at Arabasta and later at Impel Down, being one of his main allies during that Story Arc. He is currently the queen of Newkama Land."
     },
     {
       "name": "Dr. Tsukimi",
@@ -604,7 +643,8 @@
       "origin": "North Blue",
       "age": 55,
       "height": "306 cm",
-      "image": "Sakazuki-(Akainu)-(attack).png"
+      "image": "Sakazuki-(Akainu)-(attack).png",
+      "short_bio": "Sakazuki, formerly known by his Admiral alias Akainu, is the current Fleet Admiral of the Marines, succeeding the previous Fleet Admiral, Sengoku. During the first half of the series, he was one of the three Admirals, and was the last one out of the three to debut. Upon becoming the Fleet Admiral, one of Sakazuki's first decisions was to relocate Marine Headquarters into the New World in preparation for the New Pirate Age. In the manga, Akainu was first mentioned by Nico Robin during the initial encounter with Aokiji. In the anime, he was mentioned earlier by Vice Admiral Jonathan during the anime-only G-8 Arc, which aired after Akainu had been revealed in the manga. Sakazuki is perhaps the strictest follower of Absolute Justice in the entire series, to the point where his extremism prompted his fellow Admiral Aokiji to oppose his promotion to Fleet Admiral and resign from the Marines after this effort failed. Due of his actions and role, Sakazuki is the main antagonist of the Marineford Arc and a major antagonist in the Final Saga and the second half of the series."
     },
     {
       "name": "Matsuge",
@@ -620,7 +660,8 @@
       "image_offset": {
         "x": 50,
         "y": 0
-      }
+      },
+      "short_bio": ":The subject of this article is sometimes called Eyelash. Matsuge is a Camel who accompanied the Straw Hat Pirates during the Arabasta Arc. He is classified as a Type-A creature, \"Big Friendly\"."
     },
     {
       "name": "Pagaya",
@@ -636,7 +677,8 @@
       "image_offset": {
         "x": 82,
         "y": 5
-      }
+      },
+      "short_bio": "Pagaya is Conis' father and a native to Skypiea who fixed the waver that Nami rides."
     },
     {
       "name": "Wiper",
@@ -656,7 +698,8 @@
       "image_offset": {
         "x": 26,
         "y": 2
-      }
+      },
+      "short_bio": "\"Berserker\" Wyper is the former leader of the Shandia warriors that fought to take Upper Yard back from Enel. He is the direct descendant of Kalgara. He is an antagonist later turned ally during the Skypiea Arc. After the timeskip, he is one of God's Guards."
     },
     {
       "name": "Motobaro",
@@ -670,12 +713,14 @@
       "image_offset": {
         "x": 48,
         "y": 5
-      }
+      },
+      "short_bio": "Motobaro is the pet bison of Duval. He is used by Duval as a steed, and can also swim on water."
     },
     {
       "name": "Boo",
       "birthday": "08-20",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "Boo is a member of the Chinjao Family and the vice-leader of the Happo Navy. He is a martial artist who joined as a gladiator at the Corrida Colosseum to compete for the Mera Mera no Mi. He is an ally of Luffy during the Dressrosa Arc."
     },
     {
       "name": "Holdem",
@@ -693,7 +738,8 @@
       "origin": "Wano Country",
       "age": 30,
       "height": "312 cm",
-      "image": "Holed_em-(Holdem).png"
+      "image": "Holed_em-(Holdem).png",
+      "short_bio": "'''Holed'em''' is a Shinuchi of the Beasts Pirates, who resides in Bakura Town. He is the son of Norinosuke, a Wano Country citizen. Due to his actions and role, he is a supporting antagonist in the Wano Country Arc and a minor antagonist in the Oni Child Yamato's Golden Harvest Surrogate Pilgrimage cover story."
     },
     {
       "name": "Pound",
@@ -704,7 +750,8 @@
       "origin": "Grand Line (New World)",
       "age": 48,
       "height": "731 cm (24'0\")",
-      "image": "Pound.png"
+      "image": "Pound.png",
+      "short_bio": "Pound is Big Mom's 25th ex-husband and the father of Charlotte Chiffon and Lola. He is also the grandfather of Capone Pez and father-in-law of Capone Bege and Gotti. He is an ally of the Straw Hat Pirates during the Whole Cake Island Arc. He is also a major character in the \"Gang\" Bege's Oh My Family serial."
     },
     {
       "name": "Take",
@@ -718,7 +765,8 @@
       "image_offset": {
         "x": 38,
         "y": 5
-      }
+      },
+      "short_bio": "Take is a carp fish-man and is a member of the Arlong Pirates. He is the commander of parties."
     },
     {
       "name": "Vander Decken IX",
@@ -731,7 +779,8 @@
       "origin": "Grand Line (Ryugu Kingdom; Fish-Man Island)",
       "age": 35,
       "height": "352 cm (11'7\")",
-      "image": "Vander-Decken-IX.png"
+      "image": "Vander-Decken-IX.png",
+      "short_bio": "Vander Decken IX is the captain of the Flying Pirates on their ship, the Flying Dutchman, and the eighth descendant of the original Vander Decken of legend. He is a Japanese bullhead shark fish-man and the secondary antagonist of the Fish-Man Island Arc."
     },
     {
       "name": "Pell",
@@ -749,7 +798,8 @@
       "origin": "Grand Line (Arabasta Kingdom)",
       "age": 35,
       "height": "189 cm (6'2\")",
-      "image": "Pell.png"
+      "image": "Pell.png",
+      "short_bio": "Pell the Falcon is one of the two head guards in the Arabasta Kingdom that serve under Igaram, the other being Chaka. He is said to be the strongest fighter in all of Arabasta."
     },
     {
       "name": "Daigin",
@@ -764,7 +814,8 @@
       "image_offset": {
         "x": 85,
         "y": 5
-      }
+      },
+      "short_bio": "Daigin is a Marine Commodore who led the team that went to Impel Down to capture the intruder, Monkey D. Luffy."
     },
     {
       "name": "Kaya",
@@ -780,17 +831,20 @@
       "image_offset": {
         "x": 59,
         "y": 0
-      }
+      },
+      "short_bio": "Kaya is a young woman who lives in the largest mansion in Syrup Village on the Gecko Islands. She is a close friend of Usopp and is currently studying to become a doctor. She is an ally of the Straw Hat Pirates during the Syrup Village Arc."
     },
     {
       "name": "Corgi",
       "birthday": "08-25",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "Corgi is a World Government official who took part in the mission to acquire the blueprints of Pluton and escort the prisoners Nico Robin and Cutty Flam to Enies Lobby. He acted as the leader of the forces in the Sea Train, answering directly to the CP9 agents."
     },
     {
       "name": "Gatz",
       "birthday": "08-26",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "Gatz is the announcer at the Corrida Colosseum."
     },
     {
       "name": "Monet",
@@ -807,7 +861,8 @@
       "origin": "North Blue",
       "age": 30,
       "height": "227 cm (7'5\")",
-      "image": "Monet.png"
+      "image": "Monet.png",
+      "short_bio": "Monet was a scout and assistant for Caesar Clown and his underlings in the research facility on Punk Hazard. She was, in truth, a member and officer of the Donquixote Pirates and was sent as a deep cover agent by Doflamingo. She was also the older sister of Sugar. Due to her mission and actions, she could be regarded as the tertiary antagonist of the Punk Hazard Arc."
     },
     {
       "name": "Hannyabal",
@@ -819,12 +874,14 @@
       "origin": "South Blue",
       "age": 35,
       "height": "309 cm (10'1\")",
-      "image": "Hannyabal-(post-timeskip).png"
+      "image": "Hannyabal-(post-timeskip).png",
+      "short_bio": "Hannyabal is the warden of Impel Down. Formerly the Vice Warden, he was promoted to Magellan's position following the mass breakout. Due to his actions and role, he is a major antagonist in the Impel Down Arc."
     },
     {
       "name": "Farul",
       "birthday": "08-29",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "Farul is Cavendish's pet horse and a member of the Beautiful Pirates."
     },
     {
       "name": "Curly Dadan",
@@ -837,7 +894,8 @@
       "origin": "East Blue",
       "age": 55,
       "height": "221 cm (7'3\")",
-      "image": "Curly-Dadan.png"
+      "image": "Curly-Dadan.png",
+      "short_bio": "Curly Dadan is a mountain bandit and the boss of the Dadan Family who lives on Mt. Colubo near Foosha Village. She served as the foster mother of Portgas D. Ace and Monkey D. Luffy, who were entrusted to her by Monkey D. Garp, and also took care of Sabo too when he moved in. Dadan was first mentioned in the Post-Enies Lobby Arc, when Woop Slap read about Luffy and the Straw Hat Pirates waging war on the World Government."
     },
     {
       "name": "Cavendish",
@@ -855,7 +913,8 @@
       "image_offset": {
         "x": 32,
         "y": 5
-      }
+      },
+      "short_bio": "Cavendish of the White Horse, also known as the \"Pirate Prince\", is a famous Super Rookie and the captain of the Beautiful Pirates. He joined as a gladiator at the Corrida Colosseum to compete for the Mera Mera no Mi. After the final battle against Donquixote Doflamingo, Cavendish decided to pledge his loyalty to Monkey D. Luffy and became the captain of the first ship of the Straw Hat Grand Fleet. He was formerly the prince of the Bourgeois Kingdom before he was exiled. He also suffers from a split personality, changing into a bloodthirsty lunatic known as Hakuba when his dominant personality sleeps. While initially antagonistic, he later becomes an ally of Luffy during the Dressrosa Arc, and one of the central characters from The Stories of the Self-Proclaimed Straw Hat Grand Fleet Cover Page Serial."
     },
     {
       "name": "Kurozumi Higurashi",
@@ -866,7 +925,8 @@
         "japanese_name": "Mane Mane no Mi",
         "type": "Paramecia",
         "power": "Allows you to change your appearance by touching your face with your right hand, and to return to your normal appearance by touching your face with your left hand. You only need to touch a person once for their appearance to be remembered forever. The user can also assemble parts of different people, but is unable to attack unless he possesses his own face and body."
-      }
+      },
+      "short_bio": "Kurozumi Higurashi was a member of the Kurozumi Family and a major supporter of Kurozumi Orochi. She was killed by Kaidou for her interruption in his fight with Kouzuki Oden. Due of her actions and role, she was a major overarching antagonist in the Wano Country Arc and Saga."
     },
     {
       "name": "Kurozumi Semimaru",
@@ -877,12 +937,14 @@
         "japanese_name": "Bari Bari no Mi",
         "type": "Paramecia",
         "power": "Enables its user to generate almost invisible barriers to deflect or block any attack. These barriers can take on a wide range of shapes (racket, stairs, etc.)."
-      }
+      },
+      "short_bio": "Kurozumi Semimaru was a member of the Kurozumi Family and a major supporter of Kurozumi Orochi."
     },
     {
       "name": "Tsukimi",
       "birthday": "08-15",
-      "haki": []
+      "haki": [],
+      "short_bio": "Dr. Tsukimi was an old man who appeared in Enel's cover story."
     }
   ]
 }

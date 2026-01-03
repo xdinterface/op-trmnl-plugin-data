@@ -12,7 +12,8 @@
       "image_offset": {
         "x": 21,
         "y": 5
-      }
+      },
+      "short_bio": "Capote is a billfish fish-man and a former combatant of the Foxy Pirates. Due to his actions, he is a major antagonist during the Long Ring Long Land Arc."
     },
     {
       "name": "Hikoichi",
@@ -28,7 +29,8 @@
       },
       "haki": [],
       "origin": "Wano Country",
-      "image": "Hikoichi.png"
+      "image": "Hikoichi.png",
+      "short_bio": "The Super Spot-Billed Duck Troops are a family of seven Super Spot-Billed Ducks (and later one camel) who serve the kingdom of Arabasta. They are led by their captain Karoo, and are reputed to be the fastest troop in the kingdom of Arabasta. All of the ducks have the strange theme of wearing different types of hats and various other jewelry and clothing. Also strange was that the last member to join the squad, Matsuge, is a camel who helped the Straw Hats confront Baroque Works."
     },
     {
       "name": "Kaido",
@@ -56,7 +58,8 @@
       "image_offset": {
         "x": 37,
         "y": 5
-      }
+      },
+      "short_bio": "Kaidou of the Beasts, renowned as the world's \"Strongest Creature\", is the Governor-General of the Beasts Pirates and was formerly one of the Four Emperors who ruled over the New World. He is also the father of Yamato. Once a child soldier in the service of the Vodka Kingdom, Kaidou joined the legendary Rocks Pirates as an apprentice in his teenage years. A few years after the God Valley Incident, he formed his own pirate crew and built it up into a powerful military force determined to challenge the World Government and change the world. Kaidou then joined forces with Wano Country's shogun Kurozumi Orochi and occupied Onigashima as his base for nearly three decades. In the present day, Kaidou formed an unprecedented pirate alliance with fellow Emperor and former crewmate Big Mom for the purpose of taking over the world. He then betrayed Orochi to enact his New Onigashima Project for Wano. The plan never came to fruition, however, as Onigashima was raided by the Ninja-Pirate-Mink-Samurai Alliance on that very same night and Kaidou was ultimately bested by Monkey D. Luffy. Following this defeat, Kaidou lost his position among the Four Emperors. Kaidou was first referred to by Monkey D. Garp in the Post-Enies Lobby Arc when he revealed the existence of the Four Emperors, and was then first directly mentioned by Gecko Moria in the Thriller Bark Arc. Before he debuted in person, his voice was heard in a flashback that Kouzuki Momonosuke had when first disembarking on Dressrosa. Due to his actions, he can be considered the overarching antagonist of the Dressrosa Saga, the main antagonist of the Wano Country Arc and Saga, and a major antagonist of the second half of the series."
     },
     {
       "name": "Coribou",
@@ -74,7 +77,8 @@
       "image_offset": {
         "x": 39,
         "y": 5
-      }
+      },
+      "short_bio": "\"Blood-Splatterer\" Coribou is a captain of the Caribou Pirates, along with his big brother Caribou. He is famous for killing Marines and was at the Sabaody Archipelago around the time of the Straw Hat Pirates' reunion. He, along with Caribou, another infamous rookie, joined the Fake Straw Hat Crew temporarily. He has a bounty of 190,000,000, making him part of the new generation of rookies, following the path of Luffy and the other Supernovas with bounties over 100,000,000. He is a minor antagonist of the Fish-Man Island Arc and a supporting character in the Caribou's Kehihihihi in the New World Cover Page Serial."
     },
     {
       "name": "Cosette",
@@ -84,7 +88,8 @@
       "image_offset": {
         "x": 25,
         "y": 5
-      }
+      },
+      "short_bio": "Cosette is the head chef employed in the Germa Kingdom's royal household."
     },
     {
       "name": "Monkey D. Garp",
@@ -106,7 +111,8 @@
       "image_offset": {
         "x": 16,
         "y": 0
-      }
+      },
+      "short_bio": "Monkey D. Garp, also known as \"Garp the Fist\", is an extremely famous and powerful Marine Vice Admiral. He is the father of Monkey D. Dragon, the paternal grandfather of Monkey D. Luffy, and the adoptive grandfather of Portgas D. Ace. He was responsible for overseeing Ace's birth and raising a young Luffy, before entrusting them both to the Dadan Family. A contemporary of Gol D. Roger in his prime, Garp came to be known as the only Marine that could seriously challenge the Pirate King, with feats to match; his participation in the God Valley Incident, that led to the defeat and disbanding of the infamous Rocks Pirates, won him the title \"Hero of the Marines\". His prestigious career has not only afforded him multiple promotion offers to Admiral, but the freedom to refuse (due to his deep hatred and contempt for World Nobles) without consequence. At the same time, he has mentored many younger Marines into prominence, including once-Admiral Kuzan and SWORD members Koby and Helmeppo. After Ace's death at the Summit War of Marineford, Garp became an instructor to focus on training new recruits. While the public believes him to be retired, he still retains the rank of Vice Admiral. During his mission to rescue Koby from the Blackbeard Pirates, Garp was badly injured and imprisoned on Hachinosu, being officially declared \"missing in action\" by the Marines. Garp was first introduced during the Diary of Koby-Meppo cover arc, where he first took charge of training Koby and Helmeppo. Due to his actions, he is the main antagonist of the Post-Enies Lobby Arc and a supporting antagonist in the Marineford Arc."
     },
     {
       "name": "Arlong",
@@ -124,7 +130,8 @@
       "image_offset": {
         "x": 42,
         "y": 0
-      }
+      },
+      "short_bio": "Arlong the Saw is a sawshark fish-man. He was the captain of the all fish-man crew (excluding Nami), the Arlong Pirates, a former member of the Sun Pirates, and the older half-brother of Madam Shyarly. He is also a major inspirational figure for the New Fish-Man Pirates. Following the death of his former captain, Fisher Tiger, Arlong was captured and sent to Impel Down, but received a pardon thanks to his comrade Jinbe becoming one of the Seven Warlords of the Sea. Once freed, Arlong set his sights on conquering the East Blue, settling himself on the Conomi Islands alongside his crew and racketeering the local population. He is also the man responsible for killing Bell-mère, Nami and Nojiko's foster mother. Arlong then had Nami become his subordinate, taking advantage of her cartography skills to one day conquer all of the Blue Sea. Arlong had the highest bounty in the East Blue before being defeated by Monkey D. Luffy. Due to his actions and role, he is the main antagonist of the Arlong Park Arc."
     },
     {
       "name": "Cindry",
@@ -140,7 +147,8 @@
       "image_offset": {
         "x": 50,
         "y": 0
-      }
+      },
+      "short_bio": "Victoria Cindry was once a famous stage actress who died after falling off the stage twelve years ago. Having been infatuated with her, Dr. Hogback stole her corpse in order to make her his own personal zombie servant with the aid of Gecko Moria's powers."
     },
     {
       "name": "Ishilly",
@@ -150,7 +158,8 @@
       "image_offset": {
         "x": 5,
         "y": 5
-      }
+      },
+      "short_bio": "Ishilly is a striped beakfish mermaid who lives on Fish-Man Island and was first seen in Mermaid Cove. She is an employee at Mermaid Café."
     },
     {
       "name": "Koushirou",
@@ -166,7 +175,8 @@
       "image_offset": {
         "x": 3,
         "y": 0
-      }
+      },
+      "short_bio": "Shimotsuki Koushirou is a member of the Shimotsuki Family and a master swordsman, he was both the teacher of as well as the distant relative of Roronoa Zoro. He is also the father of the late Shimotsuki Kuina and son of Shimotsuki Kouzaburou. He is the master of Isshin Dojo in Shimotsuki Village."
     },
     {
       "name": "Demaro Black",
@@ -180,7 +190,8 @@
       "origin": "East Blue",
       "age": 36,
       "height": "245 cm",
-      "image": "Demaro-Black-(Fake-Luffy,-Demalo-Black).png"
+      "image": "Demaro-Black-(Fake-Luffy,-Demalo-Black).png",
+      "short_bio": ":The subject of this article is sometimes called \"Demaro Black\". \"Three-Tongued\" Demalo Black is the former captain of the Fake Straw Hat Crew. He impersonated Monkey D. Luffy to benefit from his reputation, but was later arrested by Sentomaru. Afterwards, he began impersonating Eustass Kid, before being arrested again. Due to his actions, he can be considered the main antagonist of the Return to Sabaody Arc, despite the fact that he was little to no actual threat to the protagonists."
     },
     {
       "name": "Monkey D. Luffy",
@@ -208,7 +219,8 @@
       "image_offset": {
         "x": 43,
         "y": 8
-      }
+      },
+      "short_bio": "Monkey D. Luffy, commonly known as \"Straw Hat Luffy\" or simply \"Straw Hat\", is the founder and captain of the increasingly infamous and powerful Straw Hat Pirates. He pursues the legendary treasure of the late Gol D. Roger in order to become the new Pirate King and reach a further, untold dream (currently known to only his crew, family and closest friends). He believes that being the Pirate King means having the most freedom in the world. Born on Dawn Island, Luffy is the son of Revolutionary leader Monkey D. Dragon and grandson of the Marine hero Monkey D. Garp and as such is a member of the Clan of D. Most of his childhood was shaped by Garp and Curly Dadan, under whose care he befriended and swore brotherhood to the late Portgas D. Ace and Sabo. However, he draws his greatest inspiration from the pirate Shanks, who (unwittingly) enabled him to eat the Devil Fruit that turned his body into rubber, sacrificed an arm to save his life, and gifted his signature straw hat as a symbol of their vow to reunite someday, after Luffy became a great pirate. As a pirate, Luffy has actively opposed countless regional, national, and global powers, beginning with several established East Blue pirates and extending to the Marines, the Seven Warlords of the Sea, Cipher Pol, the World Nobles and Five Elders, and even the Four Emperors of the New World. Despite his young age and relatively short career, he has triumphed over a majority of these, successfully invading and indirectly causing the annihilation of Enies Lobby, escaping the impregnable Impel Down, enabling several key developments in the Summit War of Marineford, and defeating three Warlords and an Emperor in direct combat. At the same time, he carries a great penchant for attracting friends and allies; in addition to personally engaging every member of his crew, he has earned regard and gratitude among many nations, fellow pirates, the Revolutionary Army, and even several Marines. Luffy has gained worldwide infamy through his accomplishments, heritage, and general recklessness, drawing many large bounties as well as the focused hostility of the World Government, Marine Headquarters, and Fleet Admiral Sakazuki in particular. Currently, he is recognized as a central member of the Worst Generation, the unwilling leader of the seven-crew Straw Hat Grand Fleet, and—in wake of defeating Kaidou during the Raid on Onigashima—one of the Four Emperors, with a bounty of 3,000,000,000. Since the awakening of the Gomu Gomu no Mi for the first time in centuries, Luffy has also been heralded as the second coming of Joy Boy, as well as the current incarnation of the Sun God, Nika. He is the main protagonist of the One Piece manga and anime series."
     },
     {
       "name": "Enel",
@@ -233,7 +245,8 @@
       "image_offset": {
         "x": 85,
         "y": 0
-      }
+      },
+      "short_bio": ":The subject of this article is sometimes called \"Eneru\" or \"Ener\". Enel is the former tyrannical \"God\" of Skypiea. Once an inhabitant of Birka, Enel destroyed his homeland through the powers of the Goro Goro no Mi and led a small army of loyalists to take over Skypiea. As the nation's new \"God,\" he ruthlessly exploited its populace and resources to build a massive airship aimed toward \"Fairy Vearth\"—the moon. Though defeated by Monkey D. Luffy some six years into his reign, Enel nevertheless completed the ship, and successfully left the planet to become the moon's new ruler. Enel is the main antagonist of the Skypiea Arc and thus the main antagonist of the Sky Island Saga as a whole. Subsequently, he became the central character of the Enel's Great Space Operations cover arc."
     },
     {
       "name": "Maynard",
@@ -244,7 +257,8 @@
       "image_offset": {
         "x": 37,
         "y": 5
-      }
+      },
+      "short_bio": "Maynard the Pursuer is a vice admiral who appears in the Dressrosa Arc. He was registered as a gladiator to compete at the Corrida Colosseum for the Mera Mera no Mi, but was defeated before he could participate."
     },
     {
       "name": "Shakuyaku",
@@ -263,7 +277,8 @@
       "image_offset": {
         "x": 50,
         "y": 13
-      }
+      },
+      "short_bio": "Shakuyaku, most commonly known by her nickname Shakky, is the bartender of Shakky's Rip-off Bar on the Sabaody Archipelago (formerly on Hachinosu over 40 years ago). She lives with her husband Silvers Rayleigh. Shakky formerly served in the Kuja Pirates as the First Mate of Gloriosa, her captain and the Kuja tribe's empress. She later succeeded Gloriosa as both the Kuja Pirates' captain as well as the Kuja's empress, before eventually being succeeded by Tritoma and Boa Hancock. During her youth, Shakky was chased by the legendary Marine, Monkey D. Garp. She and the bar she ran at Hachinosu became famous in the world of pirates; while she was beloved by both the Rocks Pirates and Roger Pirates, she only had eyes for Silvers Rayleigh, the Roger Pirates' First Mate. 38 years ago, Shakky was kidnapped and made the ultimate prize for the winner of the Native Hunting Competition on God Valley, which served as one of the major triggers of the God Valley Incident. She was rescued by Rayleigh, which ultimately solidified their romantic relationship. She is a minor ally of the Straw Hat Pirates during the Sabaody Archipelago Arc."
     },
     {
       "name": "Shoujou",
@@ -281,13 +296,15 @@
       "image_offset": {
         "x": 42,
         "y": 5
-      }
+      },
+      "short_bio": "\"Sonar King\" Shoujou is the of the Shoujou Pirates, the head of underwater sonar operations around Jaya's coast, the sworn brother of Masira, and a follower of Mont Blanc Cricket, as part of the Saruyama Alliance. He and Masira were both fans of Liar Noland, the fairy tale concerning Cricket's ancestor, Mont Blanc Noland. He became an ally of the Straw Hat Pirates during the Jaya Arc."
     },
     {
       "name": "Kong",
       "birthday": "05-09",
       "affiliation": "civilian",
-      "image": "Kong.png"
+      "image": "Kong.png",
+      "short_bio": "Kong is the Commander-in-Chief of the World Government. He was a Fleet Admiral of the Marines at the time of the Battle of Edd War twenty-seven years ago. Some time after, he was promoted while Sengoku eventually became the new Fleet Admiral."
     },
     {
       "name": "Sengoku",
@@ -314,7 +331,8 @@
       "image_offset": {
         "x": 34,
         "y": 0
-      }
+      },
+      "short_bio": "Sengoku the Buddha is a former Fleet Admiral of the Marines, succeeding Kong and preceding Sakazuki. He retired from his leadership position after the Summit War of Marineford, but remained in the Marines as an Inspector General. He was also one of the major figures from the time when Gol D. Roger, the \"Pirate King\", was still alive, and still continues to be in the present, even after his retirement from the Marines. He raised Donquixote Rosinante into a Marine and treated him like his own son. Due to his actions and his position in the Marines, he is a major antagonist in the Marineford Arc."
     },
     {
       "name": "Heracles",
@@ -327,13 +345,15 @@
       "origin": "South Blue",
       "age": 51,
       "height": "214 cm",
-      "image": "Heracles_n.png"
+      "image": "Heracles_n.png",
+      "short_bio": "Heracles is a strange warrior that used to reside in the Greenstone forest in the Boin Archipelago. He trained Usopp in the use of Pop Greens for two years."
     },
     {
       "name": "Goldberg",
       "birthday": "05-11",
       "affiliation": "civilian",
-      "image": "Goldberg.png"
+      "image": "Goldberg.png",
+      "short_bio": "Goldberg is a giant from Elbaph who is the cook of the New Giant Warrior Pirates and was formerly an S-Class ranked mercenary for Buggy's Delivery. He is a major ally of the Straw Hat Pirates during the Elbaph Arc."
     },
     {
       "name": "Poro",
@@ -347,7 +367,8 @@
       "image_offset": {
         "x": 79,
         "y": 5
-      }
+      },
+      "short_bio": "Poro is a bookstore owner from Orange Town."
     },
     {
       "name": "Daikoku",
@@ -359,7 +380,8 @@
       "origin": "Grand Line (Wano Country)",
       "age": 42,
       "height": "436 cm",
-      "image": "Daikoku.png"
+      "image": "Daikoku.png",
+      "short_bio": "Daikoku is a ninja and a member of the Beasts Pirates. He previously was a member of the Orochi Oniwabanshu which served the shogun of Wano Country, Kurozumi Orochi. Due to his actions and role, he is a minor antagonist in the Wano Country Arc."
     },
     {
       "name": "Vinsmoke Judge",
@@ -378,7 +400,8 @@
       "image_offset": {
         "x": 81,
         "y": 5
-      }
+      },
+      "short_bio": "Vinsmoke Judge, also known as Garuda, is the king of the Germa Kingdom, the supreme commander of the Germa 66, and the patriarch of the Vinsmoke Family, being Sanji's biological father. Judge is also a skilled scientist specialized in engineering and genetics, being responsible for the creation of most of Germa 66' technological advancements, including modifying his own children into super soldiers and developing the Raid Suit that supports their enhanced abilities. He is a former member of MADS, where he was a research partner to the leading World Government scientist Vegapunk and helped in co-discovering the existence of the Lineage Factor, which years later, led to him building and expanding his Kingdom's military might through the use of Cloning. After escaping Totto Land, Judge and Caesar Clown, his former colleague, created NEO MADS as a successor to MADS. Due to his actions, he is the secondary antagonist during the first half of the Whole Cake Island Arc. However, he and his children became allies of the Straw Hat Pirates and the Fire Tank Pirates after realizing Big Mom deceived and intended to assassinate them. He is also one of the central characters in Germa 66's Ahh... An Emotionless Excursion Cover Page Serial."
     },
     {
       "name": "Koby",
@@ -399,7 +422,8 @@
       "image_offset": {
         "x": 38,
         "y": 0
-      }
+      },
+      "short_bio": "Koby the Hero is a Marine Captain, currently serving in the SWORD special forces unit. Alongside fellow SWORD member Helmeppo, he was trained and mentored into prominence under the legendary Vice Admiral Garp. Originally a cabin boy enslaved by the Alvida Pirates, Koby was freed and befriended by Monkey D. Luffy, becoming Luffy's first traveling companion. Though he soon left to pursue his dream of Marine service, he continues to regard Luffy highly; after entering full-fledged service, he briefly reunited with Luffy on two occasions, as both friend and adversary. Overall, Koby has experienced a meteoric rise in the Marines, with many accomplishments and the Rocky Port Incident in particular cementing him as a public hero. During an arrest attempt on Boa Hancock, he was captured by the Blackbeard Pirates but eventually escaped with the help of Perona, his SWORD colleagues, and his mentor Garp. For his atypical status, the Cross Guild has assigned Koby a 5-star bounty, worth 500,000,000. He is Luffy's ally during the Romance Dawn Arc, and co-features with Helmeppo as a central character in the Diary of Koby-Meppo cover arc. Since then, he has appeared as a supporting character (with brief antagonistic roles) in the Post-Enies Lobby Arc and the Marineford Arc, with more tertiary appearances in the Levely Arc, the Wano Country Arc, and the Egghead Arc."
     },
     {
       "name": "Silvers Rayleigh",
@@ -421,7 +445,8 @@
       "image_offset": {
         "x": 44,
         "y": 0
-      }
+      },
+      "short_bio": "Silvers Rayleigh, also known as the \"Dark King\", is a legendary retired pirate who formerly served as the first mate of the Roger Pirates, being known as the \"Right Hand of the Pirate King\". He is one of the major figures from the time when Gol D. Roger, the \"Pirate King\", was still alive. After the disbandment of the Roger Pirates and the execution of Roger, Rayleigh became a coating mechanic at the Sabaody Archipelago. Also, at some point after this, he became the husband of Shakuyaku and befriended Hatchan. Through Hatchan, Rayleigh became acquainted with the Straw Hat Pirates and volunteered to coat their ship so that they could continue their journey to the New World. Following the Summit War of Marineford, Rayleigh tutored Monkey D. Luffy in Haki to prepare him for the challenges ahead and two years later saw Luffy and his crew off from Sabaody Archipelago, completing the job he had started for them. After the Seven Warlords of the Sea were disbanded and the Emperor Blackbeard invaded Amazon Lily, Rayleigh personally intervened to put an end to the hostilities and intimidated the Emperor into retreating. Rayleigh is an ally of the Straw Hat Pirates during the Sabaody Archipelago Arc and Return to Sabaody Arc, and served as Luffy's mentor during the two-year timeskip."
     },
     {
       "name": "Tamago",
@@ -448,7 +473,8 @@
       "image_offset": {
         "x": 55,
         "y": 5
-      }
+      },
+      "short_bio": "Baron Tamago (also known as Viscount Hiyoko and Count Niwatori in his second and third form respectively) is a knight-ranked combatant of the Big Mom Pirates, who originates from the Longleg Tribe. He and his partner Pekoms were responsible for collecting the monthly payment of sweets from Fish-Man Island in exchange for Big Mom's protection. Due to his actions and role, he is a supporting antagonist during the Whole Cake Island Arc."
     },
     {
       "name": "Baby 5",
@@ -470,7 +496,8 @@
       "image_offset": {
         "x": 25,
         "y": 5
-      }
+      },
+      "short_bio": "Baby 5 is a pirate and the wife of Sai, the Happo Navy's 13th leader. She is a former servant and assassin of the Donquixote Pirates, serving as an officer in the Pica Army. Her real name has not been revealed, as \"Baby 5\" is a codename given to her upon joining the Donquixote Pirates. Due to her actions, she is a minor antagonist during the Punk Hazard Arc, and a supporting antagonist during the Dressrosa Arc, before becoming an ally of the Straw Hat Pirates following her engagement with Sai in the same Arc."
     },
     {
       "name": "Pudding Pudding",
@@ -484,7 +511,8 @@
       "image_offset": {
         "x": 53,
         "y": 5
-      }
+      },
+      "short_bio": "Pudding Pudding was a Marine commodore in the 77th Branch of the Marines."
     },
     {
       "name": "Hocker",
@@ -494,7 +522,8 @@
       "role": "Pet Shop Owner",
       "haki": [],
       "origin": "East Blue (Orange Town)",
-      "image": "Hocker.png"
+      "image": "Hocker.png",
+      "short_bio": "Hocker was the owner of the Pet Food Shop in Orange Town and the owner of Chouchou."
     },
     {
       "name": "Mr. 13",
@@ -504,7 +533,8 @@
       "role": "Unluckies",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Mr.-13.png"
+      "image": "Mr.-13.png",
+      "short_bio": "Mr. 13 is an otter and a member of the criminal organization Baroque Works, being a part of along with Miss Friday. They were a team that served as messengers for Mr. 0 and were also responsible for executing any Baroque Works agents that fail their missions. He is classified as Type D creatures, \"Small Savage\"."
     },
     {
       "name": "Poppy",
@@ -520,7 +550,8 @@
       "image_offset": {
         "x": 81,
         "y": 5
-      }
+      },
+      "short_bio": "Poppy is a member of the Kuja tribe."
     },
     {
       "name": "Gorilla",
@@ -531,7 +562,8 @@
       "image_offset": {
         "x": 62,
         "y": 5
-      }
+      },
+      "short_bio": "Captain Gorilla is a Marine officer who was sent to investigate the Nightmare of Baldimore accidentally caused by Franky."
     },
     {
       "name": "Andre",
@@ -541,7 +573,8 @@
       "image_offset": {
         "x": 62,
         "y": 5
-      }
+      },
+      "short_bio": "Andre is a New World pirate captain who was once a member of the Whitebeard Pirates, before forming his own crew subordinate to Whitebeard. He is the twin brother of the Marine officer Candre."
     },
     {
       "name": "Candre",
@@ -551,7 +584,8 @@
       "image_offset": {
         "x": 50,
         "y": 0
-      }
+      },
+      "short_bio": "Candre is Andre's twin brother and an officer within the Marines."
     },
     {
       "name": "John Giant",
@@ -570,7 +604,8 @@
       "image_offset": {
         "x": 45,
         "y": 5
-      }
+      },
+      "short_bio": "John Giant is a Vice Admiral in the Marine Headquarters, and the first giant to ever enlist in the Marines."
     },
     {
       "name": "Tenguyama Hitetsu",
@@ -583,7 +618,8 @@
       "origin": "Grand Line (Wano Country)",
       "age": 81,
       "height": "214 cm",
-      "image": "Kozuki-Sukiyaki-(Tenguyama-Hitetsu).png"
+      "image": "Kozuki-Sukiyaki-(Tenguyama-Hitetsu).png",
+      "short_bio": "Kouzuki Sukiyaki is the former shogun of Wano Country. He is the father of the late daimyo of Kuri, Kouzuki Oden, as well as the grandfather of current shogun Kouzuki Momonosuke and Hiyori. The descendant of the legendary swordsmith Kotetsu, he is a swordsmith by hobby and crafted one of Roronoa Zoro's swords, Sandai Kitetsu, as well as Ame no Habakiri, which was previously wielded by Oden and currently by his son, Momonosuke. Around three decades before the present day, he was deposed from the shogunate and imprisoned by the usurper Kurozumi Orochi. Escaping sometime after Oden's execution 20 years ago, Sukiyaki went into hiding and lived as a hermit under the name Tenguyama Hitetsu; he resided in Amigasa Village in Kuri and raised the young girl Kurozumi Tama as his ward. After Orochi was overthrown and his grandson Momonosuke took power, Sukiyaki revealed his identity to his family and their retainers, but chose to remain hidden from the general public due to his shame over what he allowed to happen to Wano."
     },
     {
       "name": "Conis",
@@ -595,7 +631,8 @@
       "origin": "Sky Island (Skypiea)",
       "age": 21,
       "height": "176 cm",
-      "image": "Conis.png"
+      "image": "Conis.png",
+      "short_bio": "Conis is a citizen of Skypiea who befriended Monkey D. Luffy and his crew after their arrival. She is Pagaya's daughter and owner of a cloud fox named Su."
     },
     {
       "name": "Gotti",
@@ -613,7 +650,8 @@
       "image_offset": {
         "x": 50,
         "y": 0
-      }
+      },
+      "short_bio": "\"Hit Man\" Gotti is an assassin, a combatant in the Fire Tank Pirates, and the husband of Charlotte Lola. Along with his crew, he is a temporary ally of the Straw Hat Pirates during the Whole Cake Island Arc. He is also one of the central characters in \"Gang\" Bege's Oh My Family Cover Page Serial."
     },
     {
       "name": "Decalvan Brothers",
@@ -623,7 +661,8 @@
       "image_offset": {
         "x": 42,
         "y": 5
-      }
+      },
+      "short_bio": "The Decalvan Brothers are two infamous New World pirates who allied with Whitebeard."
     },
     {
       "name": "Lindbergh",
@@ -643,7 +682,8 @@
       "image_offset": {
         "x": 30,
         "y": 5
-      }
+      },
+      "short_bio": "Lindbergh, or \"Lind\" for short, is a cat mink and the commander of the Revolutionary Army's South Army."
     },
     {
       "name": "Chew",
@@ -660,7 +700,8 @@
       "image_offset": {
         "x": 50,
         "y": 0
-      }
+      },
+      "short_bio": ": The subject of this article is sometimes called \"Chuu\", \"Chū\" or \"Choo\". Chew is a smelt-whiting fish-man and an officer of the Arlong Pirates. He is also a former member of the Sun Pirates. He is one of the major antagonists of the Arlong Park Arc."
     },
     {
       "name": "Carrot",
@@ -672,7 +713,8 @@
       "origin": "Grand Line (Zou)",
       "age": 15,
       "height": "161 cm",
-      "image": "Carrot.png"
+      "image": "Carrot.png",
+      "short_bio": "Carrot is a rabbit mink, the current ruler of the Mokomo Dukedom, and a former member of the Kingsbirds and Inuarashi Musketeer Squad. She was trained by Pedro, whose will she carries on. She is an ally of the Straw Hat Pirates during the Whole Cake Island Saga and Wano Country Arc, where she joined the Sanji Retrieval Team to rescue Sanji on Whole Cake Island and participated in the Raid on Onigashima."
     },
     {
       "name": "Big Pan",
@@ -687,13 +729,15 @@
       "image_offset": {
         "x": 66,
         "y": 5
-      }
+      },
+      "short_bio": "Big Pan is the largest former member of the Foxy Pirates and a combatant of the Groggy Monsters. He is a wotan, being half loach fish-man and half giant. Due to his actions, he is a major antagonist during the Long Ring Long Land Arc."
     },
     {
       "name": "Koza",
       "birthday": "05-26",
       "affiliation": "civilian",
-      "image": "Koza-(edited).png"
+      "image": "Koza-(edited).png",
+      "short_bio": "Koza is Princess Nefertari Vivi's childhood friend. As a child, he was the leader of the Sand-Sand Clan. As an adult, he became the leader of the Arabasta Rebellion. He later became the environmental minister of the Arabasta Kingdom."
     },
     {
       "name": "Koze",
@@ -707,7 +751,8 @@
       "image_offset": {
         "x": 57,
         "y": 5
-      }
+      },
+      "short_bio": "Koze and Packy were members of the Yes Pirates."
     },
     {
       "name": "Stansen",
@@ -723,7 +768,8 @@
       "image_offset": {
         "x": 41,
         "y": 5
-      }
+      },
+      "short_bio": "Stansen is a giant from Elbaph, who is a shipwright. After being imprisoned in the Auction House, he was freed alongside other slaves by Silvers Rayleigh during the Straw Hat Pirates' assault on the business. Afterwards, Stansen became a member and the shipwright of the New Giant Warrior Pirates, and the crew became S-Class soldiers within the mercenary group Buggy's Delivery. Upon his captain Hajrudin pledging his loyalty to Monkey D. Luffy, the crew left the organization. He is a major ally of the Straw Hat Pirates during the Elbaph Arc."
     },
     {
       "name": "Nyasha",
@@ -733,7 +779,8 @@
       "image_offset": {
         "x": 10,
         "y": 0
-      }
+      },
+      "short_bio": "Nyasha is a giant cat owned by the Vinsmoke Family that pulls their royal carriage."
     },
     {
       "name": "Diamante",
@@ -760,13 +807,15 @@
       "image_offset": {
         "x": 35,
         "y": 5
-      }
+      },
+      "short_bio": "Diamante is one of the top three officers of the Donquixote Pirates. He occupies the Diamond seat of the Donquixote Family and is the leader of the crew's Diamante Army subdivision. He was the proprietor of the Corrida Colosseum of Dressrosa, where he earned his title as the \"Hero of the Colosseum\". Due to his actions and role, he is one of the major antagonists in the Dressrosa Arc."
     },
     {
       "name": "Kyuin",
       "birthday": "05-30",
       "affiliation": "civilian",
-      "image": "Kyuin.png"
+      "image": "Kyuin.png",
+      "short_bio": "Kyuin is a former member of the Donquixote Pirates, and the former boss of the SMILE Factory on Dressrosa."
     },
     {
       "name": "Lacuba",
@@ -777,7 +826,8 @@
       "bounty": "17,000,000",
       "haki": [],
       "origin": "Unknown",
-      "image": "Lacuba.png"
+      "image": "Lacuba.png",
+      "short_bio": "Lacuba is a pirate famed as a devious tactician, with a bounty of 17,000,000."
     },
     {
       "name": "Kaidou",
@@ -787,7 +837,8 @@
       "image_offset": {
         "x": 37,
         "y": 5
-      }
+      },
+      "short_bio": "Kaidou of the Beasts, renowned as the world's \"Strongest Creature\", is the Governor-General of the Beasts Pirates and was formerly one of the Four Emperors who ruled over the New World. He is also the father of Yamato. Once a child soldier in the service of the Vodka Kingdom, Kaidou joined the legendary Rocks Pirates as an apprentice in his teenage years. A few years after the God Valley Incident, he formed his own pirate crew and built it up into a powerful military force determined to challenge the World Government and change the world. Kaidou then joined forces with Wano Country's shogun Kurozumi Orochi and occupied Onigashima as his base for nearly three decades. In the present day, Kaidou formed an unprecedented pirate alliance with fellow Emperor and former crewmate Big Mom for the purpose of taking over the world. He then betrayed Orochi to enact his New Onigashima Project for Wano. The plan never came to fruition, however, as Onigashima was raided by the Ninja-Pirate-Mink-Samurai Alliance on that very same night and Kaidou was ultimately bested by Monkey D. Luffy. Following this defeat, Kaidou lost his position among the Four Emperors. Kaidou was first referred to by Monkey D. Garp in the Post-Enies Lobby Arc when he revealed the existence of the Four Emperors, and was then first directly mentioned by Gecko Moria in the Thriller Bark Arc. Before he debuted in person, his voice was heard in a flashback that Kouzuki Momonosuke had when first disembarking on Dressrosa. Due to his actions, he can be considered the overarching antagonist of the Dressrosa Saga, the main antagonist of the Wano Country Arc and Saga, and a major antagonist of the second half of the series."
     }
   ]
 }

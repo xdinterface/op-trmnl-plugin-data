@@ -8,7 +8,8 @@
       "image_offset": {
         "x": 20,
         "y": 5
-      }
+      },
+      "short_bio": "Minorhinoceros is one of the five Jailer Beasts of Impel Down. He is an \"awakened\" Zoan Devil Fruit user, having eaten a Devil Fruit that allows him to turn into a blue rhinoceros. Due to his actions, he can be considered a supporting antagonist of the Impel Down Arc."
     },
     {
       "name": "Sanji",
@@ -30,7 +31,8 @@
       "image_offset": {
         "x": 2,
         "y": 0
-      }
+      },
+      "short_bio": "\"Black Leg\" Sanji is the cook of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the fifth member of the crew and the fourth to join, doing so at the end of the Baratie Arc. Born as Vinsmoke Sanji, the third son and fourth child of the Vinsmoke Family (thus, making him a former prince of the Germa Kingdom), he disowned his family twice, once in his youth and again after reuniting with them as an adult. After fleeing the Vinsmokes as a child, he eventually entered the care of Zeff as the sous chef of the Baratie, where he would remain until he met Luffy, who convinced him to join his crew. His dream is to find the rumored chef's paradise, the All Blue, which is where the East Blue, West Blue, North Blue, and South Blue meet, along with their wildlife. He is one of the top three fighters of the Straw Hats, alongside Luffy and Zoro, who is referred to as the \"Monster Trio\". He first gained a bounty of 77,000,000 for his role in the raid on Enies Lobby. It increased to 177,000,000 after the Dressrosa Arc, but the condition of his bounty was changed to Only Alive due to his biological father's interference. After he escaped from Big Mom's territory, his bounty condition was reverted to Dead or Alive (with the Vinsmoke name despite his renouncing it), and its value increased to 330,000,000. Following the Raid on Onigashima, his bounty was increased to 1,032,000,000."
     },
     {
       "name": "Sanjuan Wolf",
@@ -54,7 +56,8 @@
       "image_offset": {
         "x": 50,
         "y": 0
-      }
+      },
+      "short_bio": "Sanjuan Wolf is an enormous giant, known as \"Colossal Battleship\" for his size, and and one of the Ten Titanic Captains of the Blackbeard Pirates, serving as the captain of the seventh ship of the fleet. . He was one of the legendary criminals imprisoned within the sixth level of the great underwater prison Impel Down until he was freed and recruited by Marshall D. Teach. Due to his actions and role, he is a supporting antagonist in the Marineford Arc, a minor antagonist in the Egghead Arc, and a major antagonist in the Final Saga."
     },
     {
       "name": "Vinsmoke Ichiji",
@@ -74,7 +77,8 @@
       "image_offset": {
         "x": 12,
         "y": 5
-      }
+      },
+      "short_bio": "Vinsmoke Ichiji, also known as \"Sparking Red\", is the eldest son and second child of the Vinsmoke Family. He is a prince of the Germa Kingdom and a commander in its military arm, Germa 66. Due to his actions, he is a major antagonist during the first half of the Whole Cake Island Arc. However, he and his family became allies of the Straw Hat Pirates and the Fire Tank Pirates after realizing Big Mom deceived and intended to assassinate them. He is also one of the central characters in Germa 66's Ahh... An Emotionless Excursion Cover Page Serial."
     },
     {
       "name": "Vinsmoke Niji",
@@ -94,7 +98,8 @@
       "image_offset": {
         "x": 0,
         "y": 5
-      }
+      },
+      "short_bio": "Vinsmoke Niji, also known as \"Dengeki Blue\", is the second son and third child of the Vinsmoke Family. He is a prince of the Germa Kingdom and a commander in its military arm, Germa 66. Due to his actions, he is a major antagonist during the first half of the Whole Cake Island Arc. However, he and his family became allies of the Straw Hat Pirates and the Fire Tank Pirates after realizing Big Mom deceived and intended to assassinate them. He is also one of the central characters in Germa 66's Ahh... An Emotionless Excursion Cover Page Serial."
     },
     {
       "name": "Vinsmoke Yonji",
@@ -114,7 +119,8 @@
       "image_offset": {
         "x": 15,
         "y": 5
-      }
+      },
+      "short_bio": "Vinsmoke Yonji, also known as \"Winch Green\", is the fourth son and youngest child of the Vinsmoke Family. He is a prince of the Germa Kingdom and a commander in its military arm, Germa 66. Due to his actions, he is a major antagonist during the first half of the Whole Cake Island Arc. However, he and his family became allies of the Straw Hat Pirates and the Fire Tank Pirates after realizing Big Mom deceived and intended to assassinate them. He is also one of the central characters in Germa 66's Ahh... An Emotionless Excursion Cover Page Serial."
     },
     {
       "name": "Galdino",
@@ -140,7 +146,8 @@
       "image_offset": {
         "x": 97,
         "y": 5
-      }
+      },
+      "short_bio": "\"Loan Shark\" Galdino, alias Mr. 3, is a former officer agent of Baroque Works, partnered with \"Miss Goldenweek\" Marianne. After being sent to Impel Down, he assisted Buggy and Monkey D. Luffy during their prison breakout and the Summit War of Marineford. When the war ended, he became a member of the Buggy Pirates. After Buggy became a Warlord of the Sea, the Buggy and Alvida Alliance evolved into the Underworld organization known as Buggy's Delivery. The organization was integrated into a larger one, Cross Guild, of which he is currently a member. He is the main antagonist of the Little Garden Arc and a supporting antagonist of the Arabasta Saga as a whole, one of the central characters of the Miss Goldenweek's \"Operation: Meet Baroque Works\" cover arc (along with the rest of Baroque Works' Officer Agents), and a supporting ally during the Impel Down and Marineford Arcs."
     },
     {
       "name": "Hina",
@@ -163,7 +170,8 @@
       "origin": "West Blue",
       "age": 34,
       "height": "181 cm",
-      "image": "Hina.png"
+      "image": "Hina.png",
+      "short_bio": "\"Black Cage\" Hina is a Marine Rear Admiral and a former classmate of Vice Admiral Smoker. She currently leads the Black Cage Corps, a unit (containing Jango and Fullbody among others) tasked with patrolling the seas around the Arabasta Kingdom. Originally introduced as a captain, she was promoted to the rank of rear admiral some time after the Summit War of Marineford."
     },
     {
       "name": "O-Tama",
@@ -181,7 +189,8 @@
       "origin": "Grand Line (Wano Country)",
       "age": 8,
       "height": "108 cm",
-      "image": "Tama-(Otama).png"
+      "image": "Tama-(Otama).png",
+      "short_bio": "Kurozumi Tama, commonly known as O-Tama, is a girl from the region of Kuri in Wano Country. She is a kasa weaver working under Tenguyama Hitetsu, as well as a kunoichi in training under the apprenticeship of Shinobu. She is the last known survivor of the Kurozumi Family. Tama befriended Portgas D. Ace four years ago, having wished to join his crew at the time. She is a major ally of the Ninja-Pirate-Mink-Samurai Alliance during the Wano Country Arc."
     },
     {
       "name": "Masira",
@@ -199,7 +208,8 @@
       "image_offset": {
         "x": 48,
         "y": 5
-      }
+      },
+      "short_bio": "\"Salvage King\" Masira is the of the Masira Pirates and the head of a simian ship salvage operation near Jaya Island. His sworn brother is Shoujou and both of them are members of the Saruyama Alliance, headed by Mont Blanc Cricket. He and Shoujou are both fans of Mont Blanc Noland's exploits and the fairy tale book based on them. He became an ally of the Straw Hat Pirates during the Jaya Arc."
     },
     {
       "name": "Minotaurus",
@@ -209,7 +219,8 @@
       "image_offset": {
         "x": 63,
         "y": 5
-      }
+      },
+      "short_bio": "Minotaurus is one of the five Jailer Beasts in Impel Down and the first one to appear. He is an \"awakened\" Zoan Devil Fruit user who ate a fruit that allows him to turn into a Holstein cow. Due to his actions, he can be considered a supporting antagonist of the Impel Down Arc."
     },
     {
       "name": "Minokoala",
@@ -219,7 +230,8 @@
       "image_offset": {
         "x": 55,
         "y": 5
-      }
+      },
+      "short_bio": "Minokoala is one of the five Jailer Beasts of Impel Down. He is an \"awakened\" Zoan Devil Fruit user that ate a fruit that allows him to turn into a koala. Due to his actions, he can be considered a supporting antagonist of the Impel Down Arc."
     },
     {
       "name": "Sadi",
@@ -236,7 +248,8 @@
       "image_offset": {
         "x": 26,
         "y": 5
-      }
+      },
+      "short_bio": "Sadi is a chief guard of Impel Down. She always wants to be addressed as Little Sadi. Due to her actions, she is a major antagonist in the Impel Down Arc."
     },
     {
       "name": "Charlotte Brûlée",
@@ -260,7 +273,8 @@
       "image_offset": {
         "x": 32,
         "y": 5
-      }
+      },
+      "short_bio": "Charlotte Brûlée is the eighth daughter and 19th child of the Charlotte Family and the older twin sister of Broyé. She is also an officer of the Big Mom Pirates. She was stationed in the Seducing Woods to ambush the Sanji Retrieval Team, but after being defeated, the team used her Devil Fruit ability to enter an alternate dimension known as Mirro-World to move around Totto Land. Due to her actions and role, she is a major antagonist in the Whole Cake Island Arc. She, alongside her siblings Charlotte Katakuri and Charlotte Oven, become temporary and reluctant allies of the Straw Hat Pirates during One Piece Film: Red."
     },
     {
       "name": "Jaguar D. Saul",
@@ -274,7 +288,8 @@
       "origin": "South Blue",
       "age": 127,
       "height": "1950 cm",
-      "image": "Jaguar-D.-Saul.png"
+      "image": "Jaguar-D.-Saul.png",
+      "short_bio": "Jaguar D. Saul is a giant and former Vice Admiral who deserted the Marines and happened to wash ashore on Ohara. During the Buster Call that destroyed Ohara 22 years ago, he risked his life to protect a young Nico Robin and ended up frozen by fellow former Vice Admiral Kuzan. While Robin and the World Government presumed that he had died, he had actually survived. After collecting the books that Ohara's scholars sacrificed themselves to save, he brought them to Elbaph and went into hiding, after which he stayed and became a history teacher for the Walrus School, located on Elbaph's \"Sun World\" level. He is a major ally of the Straw Hat Pirates during the Elbaph Arc."
     },
     {
       "name": "Salome",
@@ -284,7 +299,8 @@
       "role": "Snake Weapon",
       "haki": [],
       "origin": "Calm Belt (Amazon Lily)",
-      "image": "Salome.png"
+      "image": "Salome.png",
+      "short_bio": "Salome is Boa Hancock’s personal Snake Weapon."
     },
     {
       "name": "Gyoru",
@@ -294,7 +310,8 @@
       "role": "Fishmonger",
       "haki": [],
       "origin": "East Blue (Goa Kingdom)",
-      "image": "Gyoru-(Gyoll).png"
+      "image": "Gyoru-(Gyoll).png",
+      "short_bio": "Gyoru is a fishmonger in Foosha Village and the husband of Chicken. Luffy bought fish from him when he was a kid."
     },
     {
       "name": "Minozebra",
@@ -304,7 +321,8 @@
       "image_offset": {
         "x": 20,
         "y": 5
-      }
+      },
+      "short_bio": "Minozebra is one of the five Jailer Beasts of Impel Down. He is an \"awakened\" Zoan Devil Fruit user that ate a fruit that allows him to turn into a zebra. Due to his actions, he can be considered a supporting antagonist of the Impel Down Arc."
     },
     {
       "name": "Zambai",
@@ -320,7 +338,8 @@
       "image_offset": {
         "x": 40,
         "y": 5
-      }
+      },
+      "short_bio": "Zambai is a ship dismantler from Water 7, who was a member of the Franky Family and Franky's right hand man. After the timeskip, he, Kiev, and Tamagon have joined the Galley-La Company as Zambai's Company Union. He became an ally of the Straw Hat Pirates during the end of the Water 7 Arc and the beginning of the Enies Lobby Arc, having started off as a minor antagonist in the former."
     },
     {
       "name": "Dracule Mihawk",
@@ -337,7 +356,8 @@
       "origin": "Unknown",
       "age": 43,
       "height": "198 cm",
-      "image": "Dracule-Mihawk.png"
+      "image": "Dracule-Mihawk.png",
+      "short_bio": "Dracule \"Hawk Eyes\" Mihawk is a world-famous pirate currently recognized as the strongest swordsman in the world. Known as the \"Marine Hunter\" in his early career, Mihawk stood as one of the Seven Warlords of the Sea (the first to be revealed and formally introduced) until the group's dissolution, and was for a time the sole human resident of Kuraigana Island. Since then, he has become a founding executive of the Cross Guild, alongside fellow ex-Warlord Crocodile. Mihawk once led a renowned rivalry with Shanks, currently one of the Four Emperors. In turn, he is viewed as the ultimate opponent by Roronoa Zoro, who pursues his own dream of becoming the world's strongest swordsman. Though Mihawk easily won their first encounter, he grew to respect Zoro, and agreed to mentor him in further swordsmanship during the timeskip. Like the other ex-Warlords, Mihawk has been cloned by Dr. Vegapunk to create one of the Seraphim, S-Hawk, as part of a project to replace the Warlord system. Due to his actions and role, Mihawk can be considered a supporting antagonist in the Baratie Arc and one of the major antagonists in the Marineford Arc, where he took part in the Summit War of Marineford on the side of the Marines, along with most of the other Warlords of the Sea."
     },
     {
       "name": "Franky",
@@ -358,7 +378,8 @@
       "image_offset": {
         "x": 60,
         "y": 5
-      }
+      },
+      "short_bio": "\"Iron Man\" Franky is the shipwright of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the crew's eighth member and the seventh to join, doing so at the end of the Post-Enies Lobby Arc. Franky was born in the South Blue to Scien, an infamous scientist and pirate who would later be known as Queen of the Beasts Pirates. After his parents abandoned him as a 10-year-old, he eventually made his way to Water 7. Born \"Cutty Flam\", he chose to go by his nickname of \"Franky\" until he eventually permanently discarded his true name per the request of Iceburg to hide his identity. He worked as a shipwright of Tom's Workers until, during a failed attempt to save his mentor Tom from the World Government, his body was heavily damaged, requiring him to augment himself into a cyborg. Upon returning to Water 7, he became the leader of the Franky Family, a group of ship dismantlers and bounty hunters. Franky and his followers were introduced as the secondary antagonists of the Water 7 Arc, until circumstances forced them to become allies at the end of the same arc and the Enies Lobby Arc. Franky's dream is to create a ship and circumnavigate the world with it, and he built the Thousand Sunny and joined the Straw Hat Pirates to fulfill his dream. He gained a bounty of 44,000,000 for his involvement at the Enies Lobby Incident. It later increased to 94,000,000 after the Dressrosa Arc. Following the Raid on Onigashima, his bounty was increased to 394,000,000."
     },
     {
       "name": "Shanks",
@@ -380,7 +401,8 @@
       "image_offset": {
         "x": 73,
         "y": 5
-      }
+      },
+      "short_bio": "\"Red-Haired\" Shanks, commonly known as just \"Red Hair\", is the chief of the Red Hair Pirates and one of the Four Emperors that rule over the New World. Born in God Valley to the Figarland Family of the World Nobles, Shanks is the son of Figarland Garling and the younger twin brother of Shamrock. However, as an infant during the God Valley Incident, Shanks was bequeathed to Monkey D. Dragon by his mother. He ended up in a treasure chest which was stolen by the Roger Pirates, resulting in him being adopted and raised onboard the Oro Jackson. He served on Gol D. Roger's crew as an apprentice alongside Buggy. After Roger's death, Shanks began to assemble his own crew, only to then return to Mary Geoise to reunite with his family and join the Knights of God, becoming Saint Shanks. However, Shanks ultimately abdicated his noble status after working against Mary Geoise; he then rapidly attained infamy as a pirate before being named as one of the Emperors six years ago. Shanks is a major figure in Monkey D. Luffy's life, having saved his life as a child twelve years ago and inspiring Luffy to set his own path as a pirate to surpass him someday. He gave Luffy the straw hat that Roger once wore, as a symbol of their promise to meet again once Luffy had surpassed him, and also accidentally enabled Luffy to eat the Gomu Gomu no Mi. Two years ago, Shanks was pivotal in bringing the Summit War of Marineford to a close. Following the downfall of his rival Emperors in Wano Country, Shanks has set his sights on claiming the One Piece. Shanks has been an important background character throughout the series, usually being shown acknowledging Luffy's ever-growing reputation as a pirate. He serves as a minor ally to Luffy during both the Marineford and Wano Country Arcs. He and his crew also have a sizable role in One Piece Film: Red, which centers on Uta, Shanks' adopted daughter."
     },
     {
       "name": "Hotori",
@@ -394,7 +416,8 @@
       "origin": "Sky Island (Birka)",
       "age": 27,
       "height": "179 cm",
-      "image": "Hotori-and-Kotori.png"
+      "image": "Hotori-and-Kotori.png",
+      "short_bio": "Hotori and Kotori are the younger brothers of Satori. They are lieutenants of the Divine Soldiers, an army of 50 warriors under the command of Yama, their leader, and Enel. They are minor antagonists during the Skypiea Arc."
     },
     {
       "name": "Kotori",
@@ -408,7 +431,8 @@
       "origin": "Sky Island (Birka)",
       "age": 27,
       "height": "179 cm",
-      "image": "Hotori-and-Kotori.png"
+      "image": "Hotori-and-Kotori.png",
+      "short_bio": "Hotori and Kotori are the younger brothers of Satori. They are lieutenants of the Divine Soldiers, an army of 50 warriors under the command of Yama, their leader, and Enel. They are minor antagonists during the Skypiea Arc."
     },
     {
       "name": "Nola",
@@ -425,7 +449,8 @@
       "image_offset": {
         "x": 51,
         "y": 5
-      }
+      },
+      "short_bio": "Nola, known to many as the Master of the Sky, is a giant snake who lives on Upper Yard in Skypiea. Having lived for over four centuries, the snake was once the companion of Kalgara and Mont Blanc Noland back when Upper Yard was still part of Jaya. It is the grandchild of the snake Kashigami, whom the Shandia once worshiped as a god."
     },
     {
       "name": "Satori",
@@ -440,7 +465,8 @@
       "origin": "Sky Island (Birka)",
       "age": 27,
       "height": "179 cm",
-      "image": "Satori.png"
+      "image": "Satori.png",
+      "short_bio": "Satori of the Forest is one of four former priests of Enel's God's Army, operating the Ordeal of Balls to punish criminals during Enel's reign. He is also the oldest triplet brother of Hotori and Kotori. Due to his actions, he is a major antagonist of the Skypiea Arc."
     },
     {
       "name": "Sentomaru",
@@ -456,7 +482,8 @@
       "origin": "Grand Line",
       "age": 34,
       "height": "279 cm",
-      "image": "Sentomaru.png"
+      "image": "Sentomaru.png",
+      "short_bio": "Sentomaru is a former Marine Officer and the former captain of the Marines' Science Unit, as well as Dr. Vegapunk's former bodyguard. He turned against the World Government and the Marines by siding with Vegapunk and the Straw Hat Pirates during the Egghead Incident. Due to his actions, he can be considered a supporting antagonist in the Sabaody Archipelago Arc and the secondary antagonist of the Return to Sabaody Arc. He is an ally of the Straw Hat Pirates in the Egghead Arc."
     },
     {
       "name": "Palms",
@@ -482,7 +509,8 @@
       "image_offset": {
         "x": 42,
         "y": 5
-      }
+      },
+      "short_bio": "Spandam is the former chief of CP9 and CP5. He is the son of Spandine, who was also his predecessor as the chief of CP9. He currently serves under CP0. He planned to obtain the blueprints for Pluton and bring Nico Robin to justice. Ten years ago, he framed Tom's Workers for a bombing attack on Water 7, which caused Tom to take responsibility and be executed. As revenge, Franky disfigured his face. He is the main antagonist of the Water 7 Saga, appearing as the overarching antagonist of the Water 7 Arc and the main antagonist of the Enies Lobby Arc. He also appears as a minor antagonist in One Piece Film: Gold."
     },
     {
       "name": "Patty",
@@ -498,7 +526,8 @@
       "image_offset": {
         "x": 84,
         "y": 5
-      }
+      },
+      "short_bio": "Patty is one of the main cooks at the Baratie, currently serving as the restaurant's head pâtissier."
     },
     {
       "name": "Sarutobi",
@@ -508,7 +537,8 @@
       "image_offset": {
         "x": 65,
         "y": 5
-      }
+      },
+      "short_bio": "Sarutobi is a ninja and a member of the Beasts Pirates. He previously was a member of the Orochi Oniwabanshu which served the shogun of Wano Country, Kurozumi Orochi. Due to his actions and role, he is a minor antagonist in the Wano Country Arc."
     },
     {
       "name": "Lafitte",
@@ -532,7 +562,8 @@
       "image_offset": {
         "x": 17,
         "y": 5
-      }
+      },
+      "short_bio": "Laffitte, nicknamed \"Demon Sheriff\", is the navigator and one of the Ten Titanic Captains of the Blackbeard Pirates, serving as the captain of the fifth ship of the fleet. He is also a former West Blue policeman known for countless acts of police brutality, which resulted in his exile from that sea. Due to his actions and role, he is a minor antagonist in the Jaya Arc, a supporting antagonist in the Impel Down and Marineford Arcs, and a major antagonist in the Final Saga."
     },
     {
       "name": "Alvida",
@@ -552,7 +583,8 @@
       "origin": "East Blue",
       "age": 27,
       "height": "198 cm",
-      "image": "Alvida-(fat).png"
+      "image": "Alvida-(fat).png",
+      "short_bio": "\"Iron Mace\" Alvida is the former captain of the Alvida Pirates, and the first enemy pirate Monkey D. Luffy encountered in his own pirate career. After her defeat by Luffy, she met and allied with Buggy to form the Buggy and Alvida Alliance, and for a time became the acting captain during Buggy's entanglements in Impel Down and the Summit War of Marineford. Since then, she has remained with the crew throughout Buggy's revolving fortunes, occupying high positions in both Buggy's Delivery and the Cross Guild. Due to her actions, she can be regarded as the secondary antagonist of the Romance Dawn Arc and a tertiary antagonist in the Loguetown Arc."
     },
     {
       "name": "Charlotte Perospero",
@@ -575,7 +607,8 @@
       "origin": "Grand Line (Totto Land)",
       "age": 50,
       "height": "333 cm",
-      "image": "Charlotte-Perospero-(Charlotte-Perosperaw).png"
+      "image": "Charlotte-Perospero-(Charlotte-Perosperaw).png",
+      "short_bio": "Charlotte Perospero is the eldest child of the Charlotte Family and an officer of the Big Mom Pirates. He also serves as Totto Land's Minister of Candy, governing over Candy Island. Due to his actions and role, he is a major antagonist in the Whole Cake Island Arc and a supporting antagonist in the Wano Country Arc."
     },
     {
       "name": "Smoker",
@@ -597,7 +630,8 @@
       "origin": "Grand Line (Loguetown)",
       "age": 36,
       "height": "209 cm",
-      "image": "Smoker.png"
+      "image": "Smoker.png",
+      "short_bio": "Smoker the White Hunter is a Marine vice-admiral and the commander of G-5 Branch's Unit 01, as well as the overall Base Commander of the G-5 Marine base. Originally a ranking captain in Loguetown, Smoker became fixated on Monkey D. Luffy's Straw Hat Pirates for escaping his previously-unbroken authority, and—with his loyal subordinate Tashigi—quit his post to pursue them into the Grand Line. Since then, he has battled the Straw Hats repeatedly, in addition to many larger threats that won him new recognition and promotion through the Marine Ranks. One of Luffy's longest-recurring adversaries, Smoker can be considered the main antagonist of the Loguetown Arc, and a minor antagonist during the Marineford Arc. Though playing a similar role initially, he becomes a temporary ally during the Arabasta Arc and Punk Hazard Arc."
     },
     {
       "name": "Who's-Who",
@@ -624,7 +658,8 @@
       "image_offset": {
         "x": 50,
         "y": 4
-      }
+      },
+      "short_bio": "'''Who's-Who, also known as Who of the Droplets''', is a pirate who acted as one of the Tobiroppo, the strongest six Shinuchi of the Beasts Pirates, prior to Kaidou's fall from power after the Raid on Onigashima. Over a decade ago, he served as an agent of CP9 before his failure to guard the Gomu Gomu no Mi led to his dismissal from service and imprisonment. Upon escaping, Who's-Who turned to piracy, becoming captain of the Who's-Who Pirates before eventually joining the Beasts Pirates. Due to his actions and role, Who's-Who is a supporting antagonist in the Wano Country Arc and the Oni Child Yamato's Golden Harvest Surrogate Pilgrimage cover story."
     },
     {
       "name": "Tom",
@@ -640,7 +675,8 @@
       "image_offset": {
         "x": 52,
         "y": 0
-      }
+      },
+      "short_bio": "Tom was a long-horned cowfish fish-man known as the greatest shipwright in the world, particularly for building the Roger Pirates' ship, the Oro Jackson. He was also the older brother of Den, a fellow fish-man shipwright. As the head of Tom's Workers, Tom was pivotal to the redevelopment of Water 7, directly mentoring both Iceburg and Franky and laying groundwork for what would become the Galley-La Company. His ultimate innovation, the Sea Train, impressed even the World Government into pardoning his associations with Pirate King Gol D. Roger. However, in order to protect his apprentices from a frame-up orchestrated by CP5's Spandam, Tom renounced this pardon and was taken to Enies Lobby, presumably to be executed shortly after."
     },
     {
       "name": "Ideaman",
@@ -654,7 +690,8 @@
       "image_offset": {
         "x": 15,
         "y": 5
-      }
+      },
+      "short_bio": "Ideaman is a member of Krieg Pirates. He is the Staff Officer of Planning."
     },
     {
       "name": "Trebol",
@@ -680,7 +717,8 @@
       "image_offset": {
         "x": 56,
         "y": 5
-      }
+      },
+      "short_bio": "Sticky-Sticky Fruit (FUNimation) Trebol is one of the top three officers of the Donquixote Pirates, acting as a Staff Officer. He occupies the Club seat of the Donquixote Family and is the leader of the crew's Trebol Army subdivision. He is also personally responsible for fostering Donquixote Doflamingo's cruelty from a young age, making him the indirect cause of an inhumanly large amount of evil and suffering brought about by Doflamingo's wrath. Because of this, he can be considered a tertiary antagonist in the Dressrosa Arc with a greater influence and impact than what is first suggested in his initial appearances."
     },
     {
       "name": "Atmos",
@@ -698,7 +736,8 @@
       "image_offset": {
         "x": 19,
         "y": 5
-      }
+      },
+      "short_bio": "\"Water Buffalo\" Atmos is the former 13th division commander of the Whitebeard Pirates."
     },
     {
       "name": "Scratchmen Apoo",
@@ -721,7 +760,8 @@
       "origin": "Grand Line",
       "age": 31,
       "height": "256 cm",
-      "image": "Scratchmen-Apoo.png"
+      "image": "Scratchmen-Apoo.png",
+      "short_bio": "Scratchmen Apoo, also known as \"Roar of the Sea\", is the captain of the On Air Pirates and was formerly an informant for the Beasts Pirates, led by Kaidou of the Four Emperors. He is a member of the Longarm Tribe and one of twelve pirates who are referred to as the \"Worst Generation\", being one of the eleven Supernovas who came to Sabaody Archipelago two years ago with a bounty of 198,000,000. Two years later, his bounty increased to 350,000,000. Due to his actions and role, he is a supporting antagonist in the Wano Country Arc."
     },
     {
       "name": "Sabo",
@@ -744,13 +784,15 @@
       "origin": "East Blue (Goa Kingdom)",
       "age": 22,
       "height": "187 cm",
-      "image": "Sabo.png"
+      "image": "Sabo.png",
+      "short_bio": "\"Flame Emperor\" Sabo is the Revolutionary Army's chief of staff, recognized as the No. 2 of the entire organization under Supreme Commander Monkey D. Dragon. He is also the sworn brother of the notorious pirates Monkey D. Luffy and the late Portgas D. Ace. Raised in nobility by his parents Outlook III and Didit in the Goa Kingdom, Sabo ran away and met Ace and Luffy while living as a vagabond in Gray Terminal. He tried to set sail just a few months afterward to get away from his family, but had his ship destroyed by the World Noble Saint Jalmack. He was saved by Dragon but lost his memory in the process, and so devoted his life to the service of the Revolutionary Army. However, his memories would return 10 years later after hearing about Ace's death. Two years after regaining his memories, Sabo would reunite with Luffy and also carry Ace's legacy by consuming his Devil Fruit, the Mera Mera no Mi. After storming the Holy Land during the most recent Levely with several other commanders of the Revolutionary Army, Sabo was framed for the assassination of Nefertari Cobra, increasing his notoriety across the world and sparking several rebellions. He acts as an ally of Luffy during the Dressrosa Arc, as well as the movies One Piece Film: Gold and One Piece: Stampede."
     },
     {
       "name": "Shiki",
       "birthday": "03-20",
       "affiliation": "civilian",
-      "image": "Shiki.png"
+      "image": "Shiki.png",
+      "short_bio": "Shiki the Golden Lion, also known as the \"Flying Pirate\", is the admiral and helmsman of the Golden Lion Pirates. He is also a former member of the Rocks Pirates and the first known prisoner to have ever escaped from Impel Down. Shiki wreaked havoc on the seas during Roger's time, having commanded the largest pirate fleet of that period. Considered one of Roger's greatest rivals, Shiki desired to conquer the world. He is the main antagonist of One Piece Film: Strong World."
     },
     {
       "name": "Spacey",
@@ -760,7 +802,8 @@
       "image_offset": {
         "x": 54,
         "y": 5
-      }
+      },
+      "short_bio": "First Lieutenant Spacey is one of the automata created on Karakuri Island by Tsukimi."
     },
     {
       "name": "Sapi",
@@ -774,13 +817,15 @@
       "image_offset": {
         "x": 56,
         "y": 5
-      }
+      },
+      "short_bio": "Sapi is a fish salesman from Loguetown who sold Sanji the blue-finned elephant tuna."
     },
     {
       "name": "Charlotte Raisin",
       "birthday": "03-23",
       "affiliation": "civilian",
-      "image": "Charlotte_Raisin.png"
+      "image": "Charlotte_Raisin.png",
+      "short_bio": "Charlotte Raisin is the 33rd son and 60th child of the Charlotte Family and an officer of the Big Mom Pirates. He was a member of Big Mom's enraged army sent to fight Monkey D. Luffy, and later joined Charlotte Oven's army to ambush Luffy on Cacao Island."
     },
     {
       "name": "Miss Catherine",
@@ -808,7 +853,8 @@
       "image_offset": {
         "x": 21,
         "y": 5
-      }
+      },
+      "short_bio": "Thatch was the 4th division commander, as well as the head chef of the Whitebeard Pirates. He was murdered by Marshall D. Teach for his Devil Fruit."
     },
     {
       "name": "Ohm",
@@ -827,7 +873,8 @@
       "image_offset": {
         "x": 50,
         "y": 0
-      }
+      },
+      "short_bio": "Skybreeder Ohm is one of four priests of the former God Enel and a high-ranking member of God's Army. Together with his giant dog steed Holy, he subjected God's enemies to the Ordeal of Iron on Upper Yard. Due to his affiliation and actions, he is a major antagonist in the Skypiea Arc."
     },
     {
       "name": "Thousand Sunny",
@@ -842,7 +889,8 @@
       "image_offset": {
         "x": 4,
         "y": 5
-      }
+      },
+      "short_bio": "The Thousand Sunny, or simply Sunny, is the current ship of the Straw Hat Pirates, succeeding the destroyed Going Merry. It has served as their main transportation through most of the Grand Line, from Water 7 well into the New World. The Sunny is a brigantine-type ship designed and built by Franky, with help from Iceburg and many other master shipwrights from Galley-La. Built from Adam Wood, it is a magnificent ship of the finest craftsmanship at least double the size of the Going Merry. Its features include practically all of the various requests the Straw Hats had before arriving in Water 7."
     },
     {
       "name": "Mikio Itoo",
@@ -857,7 +905,8 @@
       "image_offset": {
         "x": 84,
         "y": 5
-      }
+      },
+      "short_bio": "Mikio Itoo is a background joke character created by Eiichiro Oda, and arguably the first Easter Egg featured in One Piece. He is a caricature of Mikio Ito, a Yokohama-born manga creator whom Oda knew as a fellow assistant to Nobuhiro Watsuki. Like Oda, Ito went on to publish his own series in Weekly Shonen Jump, such as Normandy Secret Club and Mysterious Murasame-kun. Within the world of One Piece, Itoo appears to be a wanted gunman with a bounty of one million yen. How many belly this would amount to is unknown."
     },
     {
       "name": "Tsuru",
@@ -884,7 +933,8 @@
       "image_offset": {
         "x": 21,
         "y": 5
-      }
+      },
+      "short_bio": "Tsuru, known as the \"Great Staff Officer\", is a renowned Marine Vice Admiral, as well as the grandmother of Kujaku."
     },
     {
       "name": "Peachbeard",
@@ -895,7 +945,8 @@
       "image_offset": {
         "x": 86,
         "y": 5
-      }
+      },
+      "short_bio": "Peachbeard is the epithet of the captain of the Peachbeard Pirates, who are subordinates of the Emperor Blackbeard."
     },
     {
       "name": "Shioyaki",
@@ -909,7 +960,8 @@
       "image_offset": {
         "x": 46,
         "y": 5
-      }
+      },
+      "short_bio": "Shioyaki is a salmon fish-man who was a member of the Arlong Pirates and the head of banquets."
     },
     {
       "name": "Sarie Nantokanette",
@@ -919,7 +971,8 @@
       "image_offset": {
         "x": 22,
         "y": 7
-      }
+      },
+      "short_bio": "Sarie Nantokanette is the queen of the Goa Kingdom and Sterry's wife."
     },
     {
       "name": "Catarina Devon",
@@ -946,7 +999,8 @@
       "image_offset": {
         "x": 18,
         "y": 5
-      }
+      },
+      "short_bio": "Catarina Devon, known as the \"Crescent Moon Hunter\", is one of Ten Titanic Captains of the Blackbeard Pirates, serving as captain of the sixth ship of the fleet. She is regarded as the worst female pirate in history and was one of the most dangerous criminals ever to be imprisoned within Impel Down until she was freed and recruited by Marshall D. Teach. Due to her actions and role, she is a supporting antagonist in the Marineford Arc, a minor antagonist in the Egghead Arc and a major antagonist in the Final Saga."
     },
     {
       "name": "Fukurokuju",
@@ -958,7 +1012,8 @@
       "origin": "Grand Line (Wano Country)",
       "age": 61,
       "height": "221 cm",
-      "image": "Fukurokuju.png"
+      "image": "Fukurokuju.png",
+      "short_bio": "Fukurokuju is a ninja and the previous captain of the Orochi Oniwabanshu before they joined the Beasts Pirates following Orochi's deposition. Though he pledged his team's support to Kaidou, Fukurokuju remained loyal to the surviving Orochi and helped him attempt to get revenge. However, Fukurokuju was ultimately bested in combat by his rival Raizo as his and Orochi's plot failed. Due to his actions and role, he is a supporting antagonist during the Wano Country Arc."
     },
     {
       "name": "St. Shalulia",
@@ -990,7 +1045,8 @@
       "image_offset": {
         "x": 54,
         "y": 5
-      }
+      },
+      "short_bio": "Three-Headed Baskerville is the Chief Justice of Enies Lobby, in service of the World Government. Ostensibly a three-headed man, \"he\" is actually three men—Bas, And, and Kerville—who are such close friends that they prefer acting as one body."
     },
     {
       "name": "Manboshi",
@@ -1006,7 +1062,8 @@
       "image_offset": {
         "x": 33,
         "y": 5
-      }
+      },
+      "short_bio": "Manboshi is an opah merman and the third son of the royal Neptune Family on Fish-Man Island."
     },
     {
       "name": "Baskerville",
@@ -1022,47 +1079,56 @@
       "image_offset": {
         "x": 35,
         "y": 5
-      }
+      },
+      "short_bio": "Three-Headed Baskerville is the Chief Justice of Enies Lobby, in service of the World Government. Ostensibly a three-headed man, \"he\" is actually three men—Bas, And, and Kerville—who are such close friends that they prefer acting as one body."
     },
     {
       "name": "Shaka",
       "birthday": "03-22",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "Shaka, also designated as , is one of the six satellites of Dr. Vegapunk, embodying his aspect of \"good\". He is a major ally of the Straw Hat Pirates during the Egghead Arc."
     },
     {
       "name": "Lilith",
       "birthday": "03-22",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "Lilith, also designated as , is one of six satellites of Dr. Vegapunk, embodying his aspect of \"evil\". She is a major ally of the Straw Hat Pirates during the Egghead and Elbaph Arcs, and ultimately the only Vegapunk to escape with them after the Egghead Incident."
     },
     {
       "name": "Edison",
       "birthday": "03-22",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "Edison, also designated as , is one of the six satellites of Dr. Vegapunk, embodying his aspect of \"thinking\". He is a major companion and ally to the Straw Hat Pirates during the Egghead Arc."
     },
     {
       "name": "Pythagoras",
       "birthday": "03-22",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "Pythagoras, also designated as , is one of the six satellites of Dr. Vegapunk, embodying his aspect of \"wisdom\". He is an ally of the Straw Hat Pirates during the Egghead Arc."
     },
     {
       "name": "Atlas",
       "birthday": "03-22",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "Atlas, also designated as , is one of the six satellites of Dr. Vegapunk, embodying his emotions of frustrations and stress which was relieved through \"violence\". She is a major ally of the Straw Hat Pirates during the Egghead Arc."
     },
     {
       "name": "York",
       "birthday": "03-22",
-      "affiliation": "civilian"
+      "affiliation": "civilian",
+      "short_bio": "York, also designated as , is one of the six satellites of Dr. Vegapunk, embodying his aspect of \"greed\". She acted as an ally to the Straw Hat Pirates at first, but was later revealed to be a traitor responsible for instigating the Egghead Incident and many of the events prior during the Egghead Arc. Due to her actions, she is a major antagonist in the aforementioned arc. After Jaygarcia Saturn's demise, York has become the direct subordinate to Saturn's replacement, Figarland Garling."
     },
     {
       "name": "Hera",
       "birthday": "03-17",
-      "haki": []
+      "haki": [],
+      "short_bio": "Hera the Thundercloud is a thundercloud homie created by Big Mom at Wano Country as a replacement for Zeus. She is a special kind of homie, having received a soul fragment from Big Mom herself, and serves as one of her personal weapons, alongside Prometheus and Napoleon."
     },
     {
       "name": "Kurozumi Tama",
       "birthday": "03-03",
-      "haki": []
+      "haki": [],
+      "short_bio": "Kurozumi Tama, commonly known as O-Tama, is a girl from the region of Kuri in Wano Country. She is a kasa weaver working under Tenguyama Hitetsu, as well as a kunoichi in training under the apprenticeship of Shinobu. She is the last known survivor of the Kurozumi Family. Tama befriended Portgas D. Ace four years ago, having wished to join his crew at the time. She is a major ally of the Ninja-Pirate-Mink-Samurai Alliance during the Wano Country Arc."
     }
   ]
 }
