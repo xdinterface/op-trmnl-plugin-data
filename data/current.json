@@ -10,7 +10,7 @@
       "haki": [],
       "origin": "Kumamoto, Japan",
       "age": 50,
-      "image": "Eiichiro Oda.png",
+      "image": "Eiichiro-Oda.png",
       "image_offset": {
         "x": 31,
         "y": 11
@@ -48,7 +48,7 @@
       "origin": "West Blue",
       "age": 31,
       "height": "212 cm",
-      "image": "Daz Bonez (Mr. 1).png",
+      "image": "Daz-Bonez-(Mr.-1).png",
       "image_offset": {
         "x": 30,
         "y": 0
@@ -86,7 +86,7 @@
       "origin": "South Blue (Baterilla)",
       "age": 20,
       "height": "185 cm",
-      "image": "Portgas D. Ace.png",
+      "image": "Portgas-D.-Ace.png",
       "image_offset": {
         "x": 50,
         "y": 0
@@ -102,7 +102,7 @@
       "origin": "Grand Line (Water 7)",
       "age": 33,
       "height": "206 cm",
-      "image": "Peepley Lulu (Peeply Lulu).png",
+      "image": "Peepley-Lulu-(Peeply-Lulu).png",
       "image_offset": {
         "x": 50,
         "y": 0
@@ -279,7 +279,7 @@
       "origin": "Grand Line (Kamabakka Kingdom)",
       "age": 53,
       "height": "449 cm",
-      "image": "Emporio Ivankov.png"
+      "image": "Emporio-Ivankov.png"
     },
     {
       "name": "General Franky",
@@ -303,7 +303,7 @@
       "origin": "Grand Line (Arabasta)",
       "age": 16,
       "height": "228 cm",
-      "image": "Ivan X.png",
+      "image": "Ivan-X.png",
       "image_offset": {
         "x": 39,
         "y": 5
@@ -319,7 +319,7 @@
       "origin": "East Blue",
       "age": 30,
       "height": "294 cm",
-      "image": "Mounblutain (Fake Sogeking, Mounbleten).png"
+      "image": "Mounblutain-(Fake-Sogeking,-Mounbleten).png"
     },
     {
       "name": "Pickles",
@@ -331,7 +331,7 @@
       "haki": [],
       "origin": "Unknown",
       "height": "212 cm",
-      "image": "Hamburg, Pickles, and Big Pan.png",
+      "image": "Hamburg,-Pickles,-and-Big-Pan.png",
       "image_offset": {
         "x": 32,
         "y": 5
@@ -359,7 +359,7 @@
       "origin": "South Blue",
       "age": 23,
       "height": "205 cm",
-      "image": "Eustass Kid.png",
+      "image": "Eustass-Kid.png",
       "image_offset": {
         "x": 43,
         "y": 5
@@ -420,7 +420,7 @@
       "origin": "Grand Line (Fish-Man Island)",
       "age": 30,
       "height": "499 cm",
-      "image": "Ikaros Much.png",
+      "image": "Ikaros-Much.png",
       "image_offset": {
         "x": 45,
         "y": 0
@@ -436,7 +436,7 @@
         "Armament Haki"
       ],
       "origin": "Calm Belt (Amazon Lily)",
-      "image": "Sweet Pea.png",
+      "image": "Sweet-Pea.png",
       "image_offset": {
         "x": 70,
         "y": 5
@@ -482,7 +482,7 @@
       "origin": "West Blue",
       "age": 42,
       "height": "166 cm",
-      "image": "Capone Bege.png",
+      "image": "Capone-Bege.png",
       "image_offset": {
         "x": 45,
         "y": 5
@@ -516,7 +516,7 @@
       "origin": "Unknown (born 830+ years ago)",
       "age": 36,
       "height": "190 cm",
-      "image": "Kozuki Toki.png",
+      "image": "Kozuki-Toki.png",
       "image_offset": {
         "x": 42,
         "y": 5
@@ -562,7 +562,7 @@
       "role": "Messenger / Agent",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Miss Friday.png"
+      "image": "Miss-Friday.png"
     },
     {
       "name": "Going Merry",
@@ -573,7 +573,7 @@
       "haki": [],
       "origin": "East Blue (Syrup Village)",
       "height": "1100 cm",
-      "image": "Going Merry (Merry Go) (edited).png",
+      "image": "Going-Merry-(Merry-Go)-(edited).png",
       "image_offset": {
         "x": 0,
         "y": 5
@@ -659,7 +659,7 @@
       "role": "Bounty Hunter",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Miss Monday.png",
+      "image": "Miss-Monday.png",
       "image_offset": {
         "x": 25,
         "y": 5
@@ -730,7 +730,7 @@
       "origin": "Grand Line (Totto Land)",
       "age": 26,
       "height": "215 cm",
-      "image": "Charlotte Chiffon.png",
+      "image": "Charlotte-Chiffon.png",
       "image_offset": {
         "x": 26,
         "y": 5
@@ -748,7 +748,7 @@
       "origin": "Grand Line (Totto Land)",
       "age": 26,
       "height": "215 cm",
-      "image": "Lola (zombie).png",
+      "image": "Lola-(zombie).png",
       "image_offset": {
         "x": 48,
         "y": 5
@@ -796,7 +796,7 @@
       "origin": "Wano Country (Kuri)",
       "age": 36,
       "height": "295 cm",
-      "image": "Kin_emon (Kinemon).png",
+      "image": "Kin_emon-(Kinemon).png",
       "image_offset": {
         "x": 35,
         "y": 5
@@ -844,7 +844,7 @@
       "origin": "Grand Line (Ryugu Kingdom)",
       "age": 46,
       "height": "627 cm",
-      "image": "Aladine (Aladdin).png",
+      "image": "Aladine-(Aladdin).png",
       "image_offset": {
         "x": 39,
         "y": 5
@@ -859,7 +859,7 @@
       "bounty": "15,000,000",
       "haki": [],
       "origin": "Unknown",
-      "image": "An Zengaiina (Ratherby Seifer).png",
+      "image": "An-Zengaiina-(Ratherby-Seifer).png",
       "image_offset": {
         "x": 91,
         "y": 5
@@ -875,7 +875,7 @@
       "origin": "East Blue (Loguetown)",
       "age": 40,
       "height": "157 cm",
-      "image": "Ipponmatsu (Matsu).png",
+      "image": "Ipponmatsu-(Matsu).png",
       "image_offset": {
         "x": 46,
         "y": 5

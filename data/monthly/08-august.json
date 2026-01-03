@@ -62,7 +62,7 @@
       "origin": "East Blue (Gecko Islands)",
       "age": 47,
       "height": "183 cm",
-      "image": "Yasopp (1).png",
+      "image": "Yasopp-(1).png",
       "image_offset": {
         "x": 73,
         "y": 5
@@ -117,7 +117,7 @@
       "origin": "Grand Line",
       "age": 40,
       "height": "344 cm",
-      "image": "Marshall D. Teach (Blackbeard, Marshall D. Teech).png"
+      "image": "Marshall-D.-Teach-(Blackbeard,-Marshall-D.-Teech).png"
     },
     {
       "name": "Amazon",
@@ -197,7 +197,7 @@
       "origin": "South Blue",
       "age": 38,
       "height": "573 cm",
-      "image": "Vasco Shot.png",
+      "image": "Vasco-Shot.png",
       "image_offset": {
         "x": 30,
         "y": 5
@@ -248,7 +248,7 @@
       "role": "King Bull",
       "haki": [],
       "origin": "Unknown",
-      "image": "Sodom and Gomorrah.png"
+      "image": "Sodom-and-Gomorrah.png"
     },
     {
       "name": "Sodom",
@@ -258,7 +258,7 @@
       "role": "King Bull",
       "haki": [],
       "origin": "Unknown",
-      "image": "Sodom and Gomorrah.png"
+      "image": "Sodom-and-Gomorrah.png"
     },
     {
       "name": "Bellamy",
@@ -281,7 +281,7 @@
       "origin": "North Blue",
       "age": 27,
       "height": "240 cm",
-      "image": "Bellamy (post-timeskip).png",
+      "image": "Bellamy-(post-timeskip).png",
       "image_offset": {
         "x": 50,
         "y": 2
@@ -307,7 +307,7 @@
       "origin": "East Blue",
       "age": 25,
       "height": "193 cm",
-      "image": "Kaku (CP9).png",
+      "image": "Kaku-(CP9).png",
       "image_offset": {
         "x": 50,
         "y": 0
@@ -349,7 +349,7 @@
       "origin": "Grand Line (Fish-Man Island)",
       "age": 38,
       "height": "220 cm",
-      "image": "Hatchan (Hachi).png"
+      "image": "Hatchan-(Hachi).png"
     },
     {
       "name": "Yazaemon",
@@ -413,7 +413,7 @@
       "origin": "Grand Line",
       "age": 54,
       "height": "270 cm",
-      "image": "Issho (Fujitora).png",
+      "image": "Issho-(Fujitora).png",
       "image_offset": {
         "x": 14,
         "y": 5
@@ -523,7 +523,7 @@
       "origin": "North Blue",
       "age": 52,
       "height": "440 cm",
-      "image": "Machvise (Mach Vise).png",
+      "image": "Machvise-(Mach-Vise).png",
       "image_offset": {
         "x": 35,
         "y": 5
@@ -572,7 +572,7 @@
       "origin": "East Blue",
       "age": 32,
       "height": "238 cm",
-      "image": "Bentham (Mr. 2 Bon Kurei, Bon Clay).png",
+      "image": "Bentham-(Mr.-2-Bon-Kurei,-Bon-Clay).png",
       "image_offset": {
         "x": 63,
         "y": 5
@@ -604,7 +604,7 @@
       "origin": "North Blue",
       "age": 55,
       "height": "306 cm",
-      "image": "Sakazuki (Akainu) (attack).png"
+      "image": "Sakazuki-(Akainu)-(attack).png"
     },
     {
       "name": "Matsuge",
@@ -616,7 +616,7 @@
       "origin": "Grand Line (Arabasta)",
       "age": 17,
       "height": "190 cm",
-      "image": "Matsuge (Eyelashes).png",
+      "image": "Matsuge-(Eyelashes).png",
       "image_offset": {
         "x": 50,
         "y": 0
@@ -652,7 +652,7 @@
       "origin": "Sky Island (Skypiea)",
       "age": 24,
       "height": "183 cm",
-      "image": "Wyper (post-timeskip).png",
+      "image": "Wyper-(post-timeskip).png",
       "image_offset": {
         "x": 26,
         "y": 2
@@ -666,7 +666,7 @@
       "role": "Pet (Bison)",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Motobaro (Motobalo).png",
+      "image": "Motobaro-(Motobalo).png",
       "image_offset": {
         "x": 48,
         "y": 5
@@ -693,7 +693,7 @@
       "origin": "Wano Country",
       "age": 30,
       "height": "312 cm",
-      "image": "Holed_em (Holdem).png"
+      "image": "Holed_em-(Holdem).png"
     },
     {
       "name": "Pound",
@@ -731,7 +731,7 @@
       "origin": "Grand Line (Ryugu Kingdom; Fish-Man Island)",
       "age": 35,
       "height": "352 cm (11'7\")",
-      "image": "Vander Decken IX.png"
+      "image": "Vander-Decken-IX.png"
     },
     {
       "name": "Pell",
@@ -819,7 +819,7 @@
       "origin": "South Blue",
       "age": 35,
       "height": "309 cm (10'1\")",
-      "image": "Hannyabal (post-timeskip).png"
+      "image": "Hannyabal-(post-timeskip).png"
     },
     {
       "name": "Farul",
@@ -837,7 +837,7 @@
       "origin": "East Blue",
       "age": 55,
       "height": "221 cm (7'3\")",
-      "image": "Curly Dadan.png"
+      "image": "Curly-Dadan.png"
     },
     {
       "name": "Cavendish",

@@ -43,7 +43,7 @@
       "origin": "Grand Line (Prodence Kingdom)",
       "age": 57,
       "height": "436 cm",
-      "image": "Elizabello II.png",
+      "image": "Elizabello-II.png",
       "image_offset": {
         "x": 40,
         "y": 5
@@ -87,7 +87,7 @@
       "origin": "Grand Line (Arabasta)",
       "age": 18,
       "height": "169 cm",
-      "image": "Nefertari Vivi (Nefeltari Vivi) (post-timeskip).png",
+      "image": "Nefertari-Vivi-(Nefeltari-Vivi)-(post-timeskip).png",
       "image_offset": {
         "x": 83,
         "y": 5
@@ -103,7 +103,7 @@
       "origin": "East Blue (Syrup Village)",
       "age": 11,
       "height": "127 cm",
-      "image": "Ninjin (Carrot).png"
+      "image": "Ninjin-(Carrot).png"
     },
     {
       "name": "Bizarre",
@@ -127,7 +127,7 @@
       "origin": "Grand Line",
       "age": 45,
       "height": "691 cm",
-      "image": "Chadros Higelyges (Brownbeard).png",
+      "image": "Chadros-Higelyges-(Brownbeard).png",
       "image_offset": {
         "x": 52,
         "y": 5
@@ -216,7 +216,7 @@
         "Observation Haki"
       ],
       "origin": "Calm Belt (Amazon Lily)",
-      "image": "Gloriosa (Elder Nyon) (full).png"
+      "image": "Gloriosa-(Elder-Nyon)-(full).png"
     },
     {
       "name": "Haruta",
@@ -289,7 +289,7 @@
       "haki": [],
       "origin": "West Blue (Ohara)",
       "height": "186 cm",
-      "image": "Nico Olvia.png",
+      "image": "Nico-Olvia.png",
       "image_offset": {
         "x": 0,
         "y": 5
@@ -316,7 +316,7 @@
       "origin": "West Blue (Ohara)",
       "age": 30,
       "height": "188 cm",
-      "image": "Nico Robin.png",
+      "image": "Nico-Robin.png",
       "image_offset": {
         "x": 9,
         "y": 5
@@ -334,7 +334,7 @@
       "origin": "East Blue",
       "age": 23,
       "height": "216 cm",
-      "image": "Buchi (Butchie).png",
+      "image": "Buchi-(Butchie).png",
       "image_offset": {
         "x": 43,
         "y": 5
@@ -362,7 +362,7 @@
       "role": "Pet (Cat/Rabbit)",
       "haki": [],
       "origin": "Grand Line (Water 7)",
-      "image": "Gonbe (nyaa nyaa).png"
+      "image": "Gonbe-(nyaa-nyaa).png"
     },
     {
       "name": "Onigumo",
@@ -396,7 +396,7 @@
       "origin": "South Blue (Sorbet Kingdom)",
       "age": 47,
       "height": "689 cm",
-      "image": "Bartholomew Kuma.png",
+      "image": "Bartholomew-Kuma.png",
       "image_offset": {
         "x": 42,
         "y": 5
@@ -486,7 +486,7 @@
       "origin": "Grand Line",
       "age": 20,
       "height": "171 cm",
-      "image": "Page One.png",
+      "image": "Page-One.png",
       "image_offset": {
         "x": 32,
         "y": 5
@@ -502,7 +502,7 @@
       "origin": "Grand Line (Totto Land)",
       "age": 15,
       "height": "170 cm",
-      "image": "Charlotte Flampe.png",
+      "image": "Charlotte-Flampe.png",
       "image_offset": {
         "x": 52,
         "y": 5
@@ -519,7 +519,7 @@
       "origin": "Grand Line",
       "age": 72,
       "height": "6000 cm",
-      "image": "Little Oars Jr..png",
+      "image": "Little-Oars-Jr..png",
       "image_offset": {
         "x": 36,
         "y": 5
@@ -535,7 +535,7 @@
       "origin": "Grand Line (Arabasta)",
       "age": 50,
       "height": "182 cm",
-      "image": "Nefertari Cobra (Nefeltari Cobra).png",
+      "image": "Nefertari-Cobra-(Nefeltari-Cobra).png",
       "image_offset": {
         "x": 72,
         "y": 5
@@ -555,7 +555,7 @@
       "origin": "Grand Line (Wano Country)",
       "age": 70,
       "height": "100 cm",
-      "image": "Hyogoro (Grandpa Hyo) (kneeling).png",
+      "image": "Hyogoro-(Grandpa-Hyo)-(kneeling).png",
       "image_offset": {
         "x": 51,
         "y": 5
@@ -578,7 +578,7 @@
       "origin": "West Blue",
       "age": 24,
       "height": "177 cm",
-      "image": "Mikita (Miss Valentine).png",
+      "image": "Mikita-(Miss-Valentine).png",
       "image_offset": {
         "x": 25,
         "y": 5
@@ -606,7 +606,7 @@
       "origin": "Grand Line",
       "age": 68,
       "height": "880 cm",
-      "image": "Charlotte Linlin (Big Mom).png",
+      "image": "Charlotte-Linlin-(Big-Mom).png",
       "image_offset": {
         "x": 25,
         "y": 5
@@ -703,7 +703,7 @@
       "origin": "Grand Line (Mogaro Kingdom)",
       "age": 33,
       "height": "320 cm",
-      "image": "Bobby Funk and Kelly Funk.png"
+      "image": "Bobby-Funk-and-Kelly-Funk.png"
     },
     {
       "name": "Cocox",
@@ -713,7 +713,7 @@
       "role": "Animal",
       "haki": [],
       "origin": "East Blue",
-      "image": "Cocox (Buckox).png",
+      "image": "Cocox-(Buckox).png",
       "image_offset": {
         "x": 20,
         "y": 5
@@ -727,7 +727,7 @@
       "role": "Dummy / Decoy",
       "haki": [],
       "origin": "Grand Line (Arabasta)",
-      "image": "Henohenounchi (Igaram_s dummies).png",
+      "image": "Henohenounchi-(Igaram_s-dummies).png",
       "image_offset": {
         "x": 32,
         "y": 5
@@ -752,7 +752,7 @@
       "bounty": "Unknown",
       "haki": [],
       "origin": "East Blue",
-      "image": "Superhuman Domingos.png",
+      "image": "Superhuman-Domingos.png",
       "image_offset": {
         "x": 47,
         "y": 0
@@ -821,7 +821,7 @@
       "origin": "Grand Line",
       "age": 22,
       "height": "172 cm",
-      "image": "Pascia (Pasia, Pashia).png",
+      "image": "Pascia-(Pasia,-Pashia).png",
       "image_offset": {
         "x": 52,
         "y": 5
@@ -837,7 +837,7 @@
       "origin": "Unknown",
       "age": 33,
       "height": "302 cm",
-      "image": "Hamburg, Pickles, and Big Pan.png",
+      "image": "Hamburg,-Pickles,-and-Big-Pan.png",
       "image_offset": {
         "x": 0,
         "y": 6
@@ -871,7 +871,7 @@
       "origin": "Grand Line (Wano Country)",
       "age": 39,
       "height": "382 cm",
-      "image": "Kozuki Oden.png",
+      "image": "Kozuki-Oden.png",
       "image_offset": {
         "x": 66,
         "y": 5
@@ -903,7 +903,7 @@
         "Armament Haki"
       ],
       "origin": "Calm Belt (Amazon Lily)",
-      "image": "Enishida (Genista).png"
+      "image": "Enishida-(Genista).png"
     },
     {
       "name": "Mr. Beans",
@@ -913,7 +913,7 @@
       "role": "Bounty Hunter",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Mr. Beans.png"
+      "image": "Mr.-Beans.png"
     },
     {
       "name": "Gerd",
@@ -939,7 +939,7 @@
       "role": "Pirates",
       "haki": [],
       "origin": "East Blue",
-      "image": "Tightrope Walking Funan Bros.png"
+      "image": "Tightrope-Walking-Funan-Bros.png"
     },
     {
       "name": "Raizou",
@@ -1006,7 +1006,7 @@
       "origin": "Grand Line (Totto Land)",
       "age": 45,
       "height": "307 cm",
-      "image": "Charlotte Cracker.png",
+      "image": "Charlotte-Cracker.png",
       "image_offset": {
         "x": 65,
         "y": 5
@@ -1042,7 +1042,7 @@
       "role": "Mayor",
       "haki": [],
       "origin": "East Blue (Goa Kingdom)",
-      "image": "Woop Slap.png"
+      "image": "Woop-Slap.png"
     },
     {
       "name": "Pandaman",
@@ -1073,7 +1073,7 @@
         "power": "Allows the user's mass to be varied between a featherweight and 10 tons. Note that the user's volume does not change when he changes his mass."
       },
       "age": "24",
-      "image": "Mikita (Miss Valentine) (edited).png",
+      "image": "Mikita-(Miss-Valentine)-(edited).png",
       "image_offset": {
         "x": 36,
         "y": 0
@@ -1089,7 +1089,7 @@
       "name": "Minoruba",
       "birthday": "02-18",
       "haki": [],
-      "image": "Minoruba (edited).png"
+      "image": "Minoruba-(edited).png"
     },
     {
       "name": "Pandawomanmi",
@@ -1100,7 +1100,7 @@
       "name": "Raizo",
       "birthday": "02-26",
       "haki": [],
-      "image": "Raizo (edited).png"
+      "image": "Raizo-(edited).png"
     }
   ]
 }

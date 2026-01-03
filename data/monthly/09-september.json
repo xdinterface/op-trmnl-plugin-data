@@ -17,7 +17,7 @@
       "origin": "Red Line (Mary Geoise)",
       "age": 24,
       "height": "174 cm (5'9\") (debut, after timeskip)",
-      "image": "Jewelry Bonney.png",
+      "image": "Jewelry-Bonney.png",
       "image_offset": {
         "x": 46,
         "y": 5
@@ -58,7 +58,7 @@
       "origin": "Calm Belt (Amazon Lily)",
       "age": 31,
       "height": "191 cm (6'3\") (debut, after timeskip)",
-      "image": "Boa Hancock.png",
+      "image": "Boa-Hancock.png",
       "image_offset": {
         "x": 17,
         "y": 3
@@ -113,7 +113,7 @@
       "origin": "Calm Belt (Amazon Lily)",
       "age": 30,
       "height": "453 cm (14'10\")",
-      "image": "Boa Sandersonia.png",
+      "image": "Boa-Sandersonia.png",
       "image_offset": {
         "x": 37,
         "y": 5
@@ -130,7 +130,7 @@
       "origin": "Grand Line",
       "age": 56,
       "height": "190 cm (6'3\")",
-      "image": "Brannew (Brandnew).png",
+      "image": "Brannew-(Brandnew).png",
       "image_offset": {
         "x": 24,
         "y": 5
@@ -148,7 +148,7 @@
       "affiliation": "Thriller Bark Pirates (Perona)",
       "role": "Perona's servant; Wild Zombie Commander-in-Chief",
       "haki": [],
-      "image": "Kumashi (Kumacy).png",
+      "image": "Kumashi-(Kumacy).png",
       "image_offset": {
         "x": 24,
         "y": 5
@@ -182,7 +182,7 @@
       "origin": "Calm Belt (Amazon Lily)",
       "age": 28,
       "height": "432 cm (14'2\")",
-      "image": "Boa Marigold.png"
+      "image": "Boa-Marigold.png"
     },
     {
       "name": "Crocodile",
@@ -229,7 +229,7 @@
       "origin": "West Blue",
       "age": 50,
       "height": "692 cm",
-      "image": "Gecko Moria (Moriah).png",
+      "image": "Gecko-Moria-(Moriah).png",
       "image_offset": {
         "x": 46,
         "y": 5
@@ -275,7 +275,7 @@
       "origin": "North Blue",
       "age": 28,
       "height": "184 cm (6'0\")",
-      "image": "Fullbody (after).png"
+      "image": "Fullbody-(after).png"
     },
     {
       "name": "Motzel",
@@ -350,7 +350,7 @@
       "origin": "North Blue",
       "age": 31,
       "height": "210 cm (6'10½\") (debut, after timeskip)",
-      "image": "Basil Hawkins.png",
+      "image": "Basil-Hawkins.png",
       "image_offset": {
         "x": 32,
         "y": 5
@@ -366,7 +366,7 @@
       "origin": "East Blue",
       "age": 25,
       "height": "202 cm (6'7\")",
-      "image": "Manjaro (Fake Zoro).png"
+      "image": "Manjaro-(Fake-Zoro).png"
     },
     {
       "name": "O-Kiku",
@@ -379,7 +379,7 @@
       "origin": "Grand Line (Wano Country)",
       "age": 42,
       "height": "287 cm (9'5\")",
-      "image": "Kikunojo (Okiku) (scary mask).png"
+      "image": "Kikunojo-(Okiku)-(scary-mask).png"
     },
     {
       "name": "Shyarly",
@@ -392,7 +392,7 @@
       "origin": "Grand Line (Ryugu Kingdom; Fish-Man Island)",
       "age": 29,
       "height": "520 cm (17'1\")",
-      "image": "Shyarly (Sharley).png",
+      "image": "Shyarly-(Sharley).png",
       "image_offset": {
         "x": 42,
         "y": 5
@@ -433,7 +433,7 @@
       "origin": "North Blue",
       "age": 43,
       "height": "242 cm (7'11\")",
-      "image": "Mont Blanc Cricket (Montblanc Cricket).png"
+      "image": "Mont-Blanc-Cricket-(Montblanc-Cricket).png"
     },
     {
       "name": "Morley",
@@ -488,7 +488,7 @@
       "haki": [],
       "origin": "East Blue",
       "height": "N/A",
-      "image": "Lord of the Coast (Local Sea Monster).png",
+      "image": "Lord-of-the-Coast-(Local-Sea-Monster).png",
       "image_offset": {
         "x": 42,
         "y": 5
@@ -504,7 +504,7 @@
       "origin": "Grand Line (Wano Country)",
       "age": 55,
       "height": "191 cm (6'3\")",
-      "image": "Tsurujo (Otsuru) (past).png",
+      "image": "Tsurujo-(Otsuru)-(past).png",
       "image_offset": {
         "x": 39,
         "y": 1
@@ -554,7 +554,7 @@
       "origin": "East Blue (Shimotsuki Village)",
       "age": 11,
       "height": "150 cm (4'11\")",
-      "image": "Shimotsuki Kuina.png",
+      "image": "Shimotsuki-Kuina.png",
       "image_offset": {
         "x": 40,
         "y": 5
@@ -568,7 +568,7 @@
       "role": "Pirate; Captain (former); Slave",
       "bounty": "60,000,000",
       "haki": [],
-      "image": "Devil Dias.png"
+      "image": "Devil-Dias.png"
     },
     {
       "name": "Karasu",
@@ -599,7 +599,7 @@
       "origin": "East Blue",
       "age": 44,
       "height": "243 cm (8'0\")",
-      "image": "Krieg (Don Krieg).png",
+      "image": "Krieg-(Don-Krieg).png",
       "image_offset": {
         "x": 51,
         "y": 5
@@ -618,7 +618,7 @@
       "origin": "Sky Islands (Birka)",
       "age": 33,
       "height": "191 cm (6'3\")",
-      "image": "Shura (solo).png",
+      "image": "Shura-(solo).png",
       "image_offset": {
         "x": 81,
         "y": 5
@@ -634,7 +634,7 @@
       "origin": "East Blue",
       "age": 26,
       "height": "181 cm (5'11\")",
-      "image": "Chocolat (Fake Nami).png"
+      "image": "Chocolat-(Fake-Nami).png"
     },
     {
       "name": "Kuzan",
@@ -646,7 +646,7 @@
       "origin": "South Blue (Vespa Kingdom territory)",
       "age": 49,
       "height": "298 cm (9'9¼\")",
-      "image": "Kuzan (Aokiji).png",
+      "image": "Kuzan-(Aokiji).png",
       "image_offset": {
         "x": 64,
         "y": 3
@@ -662,7 +662,7 @@
       "origin": "Grand Line (Ryugu Kingdom, Fish-Man Island)",
       "age": 33,
       "height": "50 cm (1'7\")",
-      "image": "Pappag (Pappagu).png"
+      "image": "Pappag-(Pappagu).png"
     },
     {
       "name": "Kyros",
@@ -702,7 +702,7 @@
       "origin": "Grand Line (Wano Country)",
       "age": 54,
       "height": "350 cm (11'6\")",
-      "image": "Kurozumi Orochi.png"
+      "image": "Kurozumi-Orochi.png"
     },
     {
       "name": "Umit",
@@ -720,7 +720,7 @@
       "origin": "Wano Country",
       "age": 29,
       "height": "820 cm (26'11\")",
-      "image": "Black Maria.png",
+      "image": "Black-Maria.png",
       "image_offset": {
         "x": 27,
         "y": 5
@@ -735,7 +735,7 @@
       "bounty": "Less than 15,000,000",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Jean Goen (Dez Tinny).png",
+      "image": "Jean-Goen-(Dez-Tinny).png",
       "image_offset": {
         "x": 29,
         "y": 5
@@ -749,7 +749,7 @@
       "role": "Pet",
       "haki": [],
       "origin": "Sky Islands (Skypiea)",
-      "image": "Su (Suu).png",
+      "image": "Su-(Suu).png",
       "image_offset": {
         "x": 50,
         "y": 0
@@ -787,7 +787,7 @@
       "role": "Frontier Agent (former); Bounty Hunter",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Mr. 9.png"
+      "image": "Mr.-9.png"
     },
     {
       "name": "Jack",
@@ -844,7 +844,7 @@
       "affiliation": "civilian",
       "haki": [],
       "age": 46,
-      "image": "Charlotte Lola.png"
+      "image": "Charlotte-Lola.png"
     },
     {
       "name": "Charlotte Opera",
@@ -890,7 +890,7 @@
       "origin": "North Blue",
       "age": 42,
       "height": "505 cm (16'6\")",
-      "image": "Avalo Pizarro.png",
+      "image": "Avalo-Pizarro.png",
       "image_offset": {
         "x": 22,
         "y": 5
@@ -908,14 +908,14 @@
         "power": "Allows its user to control shadows. He can cut the shadows of anyone with a pair of scissors, and the shadows thus removed can be locked into inert bodies, giving rise to zombies possessing the combat techniques of the person to whom the shadow belonged. If shadows are enclosed in the body of a living being, they can only remain for a short time, depending on the latter's mental strength. For example, its user has consumed up to 1000 of them. It should also be noted that the user can use his own shadow and make it tangible. He can therefore use his shadow to teleport or protect himself from physical attacks."
       },
       "age": "50",
-      "image": "Gecko Moria (Moriah).png"
+      "image": "Gecko-Moria-(Moriah).png"
     },
     {
       "name": "Kikunojo",
       "birthday": "09-09",
       "affiliation": "civilian",
       "age": "22",
-      "image": "Kikunojo (Okiku) (scary mask).png"
+      "image": "Kikunojo-(Okiku)-(scary-mask).png"
     },
     {
       "name": "T Bone",
@@ -928,13 +928,13 @@
       "name": "Kurozumi Orochi",
       "birthday": "09-23",
       "haki": [],
-      "image": "Kurozumi Orochi (edited).png"
+      "image": "Kurozumi-Orochi-(edited).png"
     },
     {
       "name": "Shimotsuki Kuina",
       "birthday": "09-17",
       "haki": [],
-      "image": "Shimotsuki Kuina (edited).png"
+      "image": "Shimotsuki-Kuina-(edited).png"
     }
   ]
 }

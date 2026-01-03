@@ -36,7 +36,7 @@
       "origin": "Grand Line (Water 7)",
       "age": 10,
       "height": "115 cm",
-      "image": "Chimney (post-timeskip).png"
+      "image": "Chimney-(post-timeskip).png"
     },
     {
       "name": "Rob Lucci",
@@ -58,7 +58,7 @@
       "origin": "Grand Line",
       "age": 30,
       "height": "212 cm",
-      "image": "Rob Lucci (CP0).png",
+      "image": "Rob-Lucci-(CP0).png",
       "image_offset": {
         "x": 50,
         "y": 0
@@ -83,7 +83,7 @@
       "role": "Guard Dragon",
       "haki": [],
       "origin": "Punk Hazard",
-      "image": "Dragon Number Thirteen.png"
+      "image": "Dragon-Number-Thirteen.png"
     },
     {
       "name": "Mousse",
@@ -245,7 +245,7 @@
       "origin": "West Blue",
       "age": 25,
       "height": "160 cm",
-      "image": "Perona (post-timeskip).png",
+      "image": "Perona-(post-timeskip).png",
       "image_offset": {
         "x": 66,
         "y": 5
@@ -396,7 +396,7 @@
       "origin": "North Blue",
       "age": 46,
       "height": "244 cm",
-      "image": "Senor Pink.png"
+      "image": "Senor-Pink.png"
     },
     {
       "name": "Ripper",
@@ -465,7 +465,7 @@
       "origin": "East Blue",
       "age": 34,
       "height": "196 cm",
-      "image": "Belo Betty.png",
+      "image": "Belo-Betty.png",
       "image_offset": {
         "x": 74,
         "y": 5
@@ -537,7 +537,7 @@
       "role": "Civilian",
       "haki": [],
       "origin": "Grand Line (Arabasta)",
-      "image": "Toto (Toh-Toh).png"
+      "image": "Toto-(Toh-Toh).png"
     },
     {
       "name": "Rika",
@@ -565,7 +565,7 @@
       "origin": "Grand Line",
       "age": 30,
       "height": "218 cm",
-      "image": "Babe (Mr. 4).png",
+      "image": "Babe-(Mr.-4).png",
       "image_offset": {
         "x": 69,
         "y": 5
@@ -594,7 +594,7 @@
       "role": "Civilian",
       "haki": [],
       "origin": "Grand Line (Kamabakka)",
-      "image": "Tibany (Tibbany, Elizabeth).png"
+      "image": "Tibany-(Tibbany,-Elizabeth).png"
     },
     {
       "name": "Amadob",
@@ -631,7 +631,7 @@
       "origin": "Grand Line (Standing Kingdom)",
       "age": 42,
       "height": "480 cm",
-      "image": "Orlumbus (Olombus).png",
+      "image": "Orlumbus-(Olombus).png",
       "image_offset": {
         "x": 31,
         "y": 5
@@ -665,7 +665,7 @@
       "origin": "Grand Line (Totto Land)",
       "age": 16,
       "height": "166 cm",
-      "image": "Charlotte Pudding.png"
+      "image": "Charlotte-Pudding.png"
     },
     {
       "name": "Zeus",
@@ -676,7 +676,7 @@
       "role": "Partner",
       "haki": [],
       "origin": "Grand Line (Totto Land)",
-      "image": "Zeus (Fluff).png",
+      "image": "Zeus-(Fluff).png",
       "image_offset": {
         "x": 21,
         "y": 5
@@ -692,7 +692,7 @@
       "origin": "Grand Line (Dressrosa)",
       "age": 60,
       "height": "261 cm",
-      "image": "Riku Doldo III.png",
+      "image": "Riku-Doldo-III.png",
       "image_offset": {
         "x": 36,
         "y": 5
@@ -724,7 +724,7 @@
       "origin": "Mary Geoise",
       "age": 55,
       "height": "215 cm",
-      "image": "Rosward (Roswald).png"
+      "image": "Rosward-(Roswald).png"
     },
     {
       "name": "Fukuro",
@@ -740,7 +740,7 @@
       "origin": "Grand Line",
       "age": 31,
       "height": "331 cm",
-      "image": "Fukurou (Fukurô, Fukuro).png",
+      "image": "Fukurou-(Fukurô,-Fukuro).png",
       "image_offset": {
         "x": 55,
         "y": 5
@@ -754,7 +754,7 @@
       "role": "Pirate",
       "haki": [],
       "origin": "Unknown",
-      "image": "Pankuta Dakeyan (Justy Tinbread).png",
+      "image": "Pankuta-Dakeyan-(Justy-Tinbread).png",
       "image_offset": {
         "x": 61,
         "y": 5
@@ -776,7 +776,7 @@
       "birthday": "06-11",
       "bounty": "Unknown",
       "haki": [],
-      "image": "Shiryu (edited).png"
+      "image": "Shiryu-(edited).png"
     }
   ]
 }

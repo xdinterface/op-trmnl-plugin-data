@@ -17,7 +17,7 @@
       "origin": "East Blue",
       "age": 29,
       "height": "197 cm (6'6\")",
-      "image": "Mohji and Richie.png",
+      "image": "Mohji-and-Richie.png",
       "image_offset": {
         "x": 50,
         "y": 0
@@ -82,7 +82,7 @@
       "origin": "Grand Line (Jaya)",
       "age": 39,
       "height": "222 cm (7'3\")",
-      "image": "Kalgara (Calgara).png",
+      "image": "Kalgara-(Calgara).png",
       "image_offset": {
         "x": 34,
         "y": 5
@@ -110,7 +110,7 @@
       "origin": "Sky Islands (Skypiea)",
       "age": 65,
       "height": "179 cm (5'10\")",
-      "image": "Shandia Chief.png"
+      "image": "Shandia-Chief.png"
     },
     {
       "name": "Kokoro",
@@ -149,7 +149,7 @@
       "origin": "Grand Line",
       "age": 45,
       "height": "203 cm",
-      "image": "Marco (post-timeskip).png",
+      "image": "Marco-(post-timeskip).png",
       "image_offset": {
         "x": 50,
         "y": 0
@@ -167,7 +167,7 @@
       "origin": "East Blue (Goa Kingdom)",
       "age": 55,
       "height": "256 cm (8'5\")",
-      "image": "Monkey D. Dragon.png",
+      "image": "Monkey-D.-Dragon.png",
       "image_offset": {
         "x": 0,
         "y": 5
@@ -201,7 +201,7 @@
       "origin": "East Blue",
       "age": 27,
       "height": "340 cm (11'2\")",
-      "image": "Van Augur (Van Auger, Van Ogre).png",
+      "image": "Van-Augur-(Van-Auger,-Van-Ogre).png",
       "image_offset": {
         "x": 53,
         "y": 5
@@ -259,7 +259,7 @@
       "origin": "North Blue (Flevance)",
       "age": 26,
       "height": "191 cm",
-      "image": "Trafalgar D. Water Law (post-timeskip).png",
+      "image": "Trafalgar-D.-Water-Law-(post-timeskip).png",
       "image_offset": {
         "x": 53,
         "y": 5
@@ -282,7 +282,7 @@
       "origin": "Grand Line (Moby Dick)",
       "age": 28,
       "height": "322 cm (10'7\")",
-      "image": "Kozuki Momonosuke (dragon).png",
+      "image": "Kozuki-Momonosuke-(dragon).png",
       "image_offset": {
         "x": 61,
         "y": 5
@@ -299,7 +299,7 @@
       "origin": "North Blue",
       "age": 70,
       "height": "157 cm (5'2\")",
-      "image": "Lao G.png",
+      "image": "Lao-G.png",
       "image_offset": {
         "x": 54,
         "y": 5
@@ -320,7 +320,7 @@
       "origin": "Punk Hazard",
       "age": 188,
       "height": "3675 cm (120'7\")",
-      "image": "Hatcha (Haccha).png"
+      "image": "Hatcha-(Haccha).png"
     },
     {
       "name": "Pierre",
@@ -335,7 +335,7 @@
       },
       "haki": [],
       "origin": "Sky Islands (Skypiea)",
-      "image": "Pierre (solo).png",
+      "image": "Pierre-(solo).png",
       "image_offset": {
         "x": 68,
         "y": 5
@@ -375,7 +375,7 @@
       "haki": [],
       "origin": "North Blue",
       "height": "220 cm (7'2\")",
-      "image": "Mont Blanc Noland (Montblanc Noland).png",
+      "image": "Mont-Blanc-Noland-(Montblanc-Noland).png",
       "image_offset": {
         "x": 50,
         "y": 0
@@ -453,7 +453,7 @@
       "origin": "Grand Line (Mokomo Dukedom)",
       "age": 40,
       "height": "511 cm (16'9\")",
-      "image": "Inuarashi (Dogstorm).png",
+      "image": "Inuarashi-(Dogstorm).png",
       "image_offset": {
         "x": 92,
         "y": 5
@@ -480,7 +480,7 @@
       "origin": "Grand Line (Totto Land)",
       "age": 35,
       "height": "464 cm (15'3\")",
-      "image": "Charlotte Smoothie.png",
+      "image": "Charlotte-Smoothie.png",
       "image_offset": {
         "x": 46,
         "y": 5
@@ -497,7 +497,7 @@
       "origin": "Grand Line (Wano Country)",
       "age": 45,
       "height": "192 cm (6'3¾\")",
-      "image": "Izou (Izo).png"
+      "image": "Izou-(Izo).png"
     },
     {
       "name": "Haredas",
@@ -509,7 +509,7 @@
       "origin": "Sky Islands (Birka)",
       "age": 97,
       "height": "253 cm (8'4\")",
-      "image": "Haredas (post-timeskip).png",
+      "image": "Haredas-(post-timeskip).png",
       "image_offset": {
         "x": 15,
         "y": 0
@@ -592,7 +592,7 @@
       "origin": "North Blue",
       "age": 28,
       "height": "342 cm (11'3\")",
-      "image": "Doc Q and Stronger.png",
+      "image": "Doc-Q-and-Stronger.png",
       "image_offset": {
         "x": 30,
         "y": 5
@@ -671,7 +671,7 @@
       "origin": "East Blue",
       "age": 24,
       "height": "208 cm (6'10\")",
-      "image": "Drip (Fake Sanji).png"
+      "image": "Drip-(Fake-Sanji).png"
     },
     {
       "name": "Sugar",
@@ -707,7 +707,7 @@
       "origin": "Mary Geoise",
       "age": 41,
       "height": "305 cm",
-      "image": "Donquixote Doflamingo (Don Quixote Doflamingo).png"
+      "image": "Donquixote-Doflamingo-(Don-Quixote-Doflamingo).png"
     },
     {
       "name": "Shinobu",
@@ -738,7 +738,7 @@
       "origin": "North Blue",
       "age": 33,
       "height": "233 cm (7'8\") (debut, after timeskip)",
-      "image": "X Drake.png",
+      "image": "X-Drake.png",
       "image_offset": {
         "x": 78,
         "y": 5
@@ -754,7 +754,7 @@
       "haki": [],
       "age": 23,
       "height": "160 cm (5'3\")",
-      "image": "Koala (adult).png",
+      "image": "Koala-(adult).png",
       "image_offset": {
         "x": 50,
         "y": 0
@@ -805,7 +805,7 @@
       "origin": "Grand Line (Wano Country)",
       "age": 47,
       "height": "306 cm (10'0½\")",
-      "image": "Denjiro (Kyoshiro).png",
+      "image": "Denjiro-(Kyoshiro).png",
       "image_offset": {
         "x": 0,
         "y": 5
@@ -819,7 +819,7 @@
       "role": "Pirate; Locksmith",
       "haki": [],
       "origin": "East Blue",
-      "image": "Kagikko (Keygan).png",
+      "image": "Kagikko-(Keygan).png",
       "image_offset": {
         "x": 47,
         "y": 5
@@ -851,7 +851,7 @@
       "origin": "East Blue",
       "age": 45,
       "height": "258 cm (8'5\")",
-      "image": "Turco (Fake Franky).png"
+      "image": "Turco-(Fake-Franky).png"
     },
     {
       "name": "Domino",
@@ -900,7 +900,7 @@
       "name": "Shelly",
       "birthday": "10-31",
       "affiliation": "unknown",
-      "image": "Shelly (Sherry).png",
+      "image": "Shelly-(Sherry).png",
       "image_offset": {
         "x": 0,
         "y": 5
@@ -927,7 +927,7 @@
       "name": "Toko",
       "birthday": "10-05",
       "haki": [],
-      "image": "Toko (edited).png"
+      "image": "Toko-(edited).png"
     },
     {
       "name": "Uta",

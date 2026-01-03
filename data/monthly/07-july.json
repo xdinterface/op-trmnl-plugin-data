@@ -36,7 +36,7 @@
       "origin": "Grand Line (Ryugu Kingdom)",
       "age": 62,
       "height": "435 cm",
-      "image": "Minister of the Left.png",
+      "image": "Minister-of-the-Left.png",
       "image_offset": {
         "x": 90,
         "y": 5
@@ -127,7 +127,7 @@
       "origin": "South Blue",
       "age": 35,
       "height": "241 cm",
-      "image": "Lucky Roux.png",
+      "image": "Lucky-Roux.png",
       "image_offset": {
         "x": 44,
         "y": 5
@@ -160,7 +160,7 @@
       "origin": "Sky Island (Skypiea)",
       "age": 24,
       "height": "179 cm",
-      "image": "Raki (Laki).png",
+      "image": "Raki-(Laki).png",
       "image_offset": {
         "x": 32,
         "y": 5
@@ -244,7 +244,7 @@
         "Armament Haki"
       ],
       "origin": "Calm Belt (Amazon Lily)",
-      "image": "Blue Fan (Bluefan).png"
+      "image": "Blue-Fan-(Bluefan).png"
     },
     {
       "name": "Pearl",
@@ -264,7 +264,7 @@
       "birthday": "07-12",
       "affiliation": "civilian",
       "bounty": "38,000,000",
-      "image": "Sarquiss (edited).png"
+      "image": "Sarquiss-(edited).png"
     },
     {
       "name": "Acrobatic Fuwas",
@@ -281,7 +281,7 @@
       },
       "haki": [],
       "origin": "Wano Country",
-      "image": "Acrobatic Fuwas (Nimble Fuwars).png"
+      "image": "Acrobatic-Fuwas-(Nimble-Fuwars).png"
     },
     {
       "name": "King Baum",
@@ -381,7 +381,7 @@
       "origin": "Mary Geoise",
       "age": 26,
       "height": "293 cm",
-      "image": "Donquixote Rosinante (Corazon).png"
+      "image": "Donquixote-Rosinante-(Corazon).png"
     },
     {
       "name": "Helmeppo",
@@ -397,7 +397,7 @@
       "origin": "East Blue (Shells Town)",
       "age": 22,
       "height": "179 cm",
-      "image": "Helmeppo (after).png",
+      "image": "Helmeppo-(after).png",
       "image_offset": {
         "x": 50,
         "y": 0
@@ -435,7 +435,7 @@
       "role": "Shipwright",
       "haki": [],
       "origin": "East Blue",
-      "image": "Nugire Yainu (Snot Mee).png"
+      "image": "Nugire-Yainu-(Snot-Mee).png"
     },
     {
       "name": "Smiley",
@@ -586,7 +586,7 @@
       "origin": "Grand Line (Totto Land)",
       "age": 29,
       "height": "800 cm",
-      "image": "Charlotte Praline.png",
+      "image": "Charlotte-Praline.png",
       "image_offset": {
         "x": 14,
         "y": 5
@@ -606,7 +606,7 @@
       "role": "Pet (Lion)",
       "haki": [],
       "origin": "Unknown",
-      "image": "Richie (solo).png"
+      "image": "Richie-(solo).png"
     },
     {
       "name": "Leo",
@@ -661,7 +661,7 @@
       "origin": "South Blue",
       "age": 26,
       "height": "197 cm",
-      "image": "Gem (Mr. 5).png",
+      "image": "Gem-(Mr.-5).png",
       "image_offset": {
         "x": 50,
         "y": 2
@@ -727,7 +727,7 @@
       "origin": "Grand Line",
       "age": 28,
       "height": "187 cm",
-      "image": "Zala (Miss Doublefinger, Paula).png",
+      "image": "Zala-(Miss-Doublefinger,-Paula).png",
       "image_offset": {
         "x": 36,
         "y": 5
@@ -745,19 +745,19 @@
         "power": "Allows you to transform any part of your body (even your hair) into spikes strong enough to pierce stone walls. These spikes can also be used to perform acupuncture techniques to increase the user's own muscle mass."
       },
       "age": "28",
-      "image": "Zala (Miss Doublefinger, Paula) (edited).png"
+      "image": "Zala-(Miss-Doublefinger,-Paula)-(edited).png"
     },
     {
       "name": "Batchee",
       "birthday": "07-01",
       "haki": [],
-      "image": "Batchee (Bacchy) (edited).png"
+      "image": "Batchee-(Bacchy)-(edited).png"
     },
     {
       "name": "Kingbaum",
       "birthday": "07-13",
       "haki": [],
-      "image": "Kingbaum (edited).png"
+      "image": "Kingbaum-(edited).png"
     },
     {
       "name": "Kurozumi Kanjuro",

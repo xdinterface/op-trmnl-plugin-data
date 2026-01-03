@@ -50,7 +50,7 @@
       "origin": "West Blue",
       "age": 99,
       "height": "18000 cm",
-      "image": "Sanjuan Wolf (San Juan Wolf).png",
+      "image": "Sanjuan-Wolf-(San-Juan-Wolf).png",
       "image_offset": {
         "x": 50,
         "y": 0
@@ -70,7 +70,7 @@
       "origin": "North Blue (Germa Kingdom)",
       "age": 21,
       "height": "186 cm",
-      "image": "Vinsmoke Ichiji.png",
+      "image": "Vinsmoke-Ichiji.png",
       "image_offset": {
         "x": 12,
         "y": 5
@@ -90,7 +90,7 @@
       "origin": "North Blue (Germa Kingdom)",
       "age": 21,
       "height": "185 cm",
-      "image": "Vinsmoke Niji.png",
+      "image": "Vinsmoke-Niji.png",
       "image_offset": {
         "x": 0,
         "y": 5
@@ -110,7 +110,7 @@
       "origin": "North Blue (Germa Kingdom)",
       "age": 21,
       "height": "194 cm",
-      "image": "Vinsmoke Yonji.png",
+      "image": "Vinsmoke-Yonji.png",
       "image_offset": {
         "x": 15,
         "y": 5
@@ -136,7 +136,7 @@
       "origin": "South Blue",
       "age": 37,
       "height": "179 cm",
-      "image": "Galdino (Mr. 3).png",
+      "image": "Galdino-(Mr.-3).png",
       "image_offset": {
         "x": 97,
         "y": 5
@@ -181,7 +181,7 @@
       "origin": "Grand Line (Wano Country)",
       "age": 8,
       "height": "108 cm",
-      "image": "Tama (Otama).png"
+      "image": "Tama-(Otama).png"
     },
     {
       "name": "Masira",
@@ -232,7 +232,7 @@
       "origin": "Grand Line",
       "age": 23,
       "height": "183 cm",
-      "image": "Sadi-chan (Little Sadie).png",
+      "image": "Sadi-chan-(Little-Sadie).png",
       "image_offset": {
         "x": 26,
         "y": 5
@@ -256,7 +256,7 @@
       "origin": "Grand Line (Totto Land)",
       "age": 43,
       "height": "350 cm",
-      "image": "Charlotte Brûlée (Brulee).png",
+      "image": "Charlotte-Brûlée-(Brulee).png",
       "image_offset": {
         "x": 32,
         "y": 5
@@ -274,7 +274,7 @@
       "origin": "South Blue",
       "age": 127,
       "height": "1950 cm",
-      "image": "Jaguar D. Saul.png"
+      "image": "Jaguar-D.-Saul.png"
     },
     {
       "name": "Salome",
@@ -294,7 +294,7 @@
       "role": "Fishmonger",
       "haki": [],
       "origin": "East Blue (Goa Kingdom)",
-      "image": "Gyoru (Gyoll).png"
+      "image": "Gyoru-(Gyoll).png"
     },
     {
       "name": "Minozebra",
@@ -337,7 +337,7 @@
       "origin": "Unknown",
       "age": 43,
       "height": "198 cm",
-      "image": "Dracule Mihawk.png"
+      "image": "Dracule-Mihawk.png"
     },
     {
       "name": "Franky",
@@ -376,7 +376,7 @@
       "origin": "West Blue",
       "age": 39,
       "height": "199 cm",
-      "image": "Shanks (4).png",
+      "image": "Shanks-(4).png",
       "image_offset": {
         "x": 73,
         "y": 5
@@ -394,7 +394,7 @@
       "origin": "Sky Island (Birka)",
       "age": 27,
       "height": "179 cm",
-      "image": "Hotori and Kotori.png"
+      "image": "Hotori-and-Kotori.png"
     },
     {
       "name": "Kotori",
@@ -408,7 +408,7 @@
       "origin": "Sky Island (Birka)",
       "age": 27,
       "height": "179 cm",
-      "image": "Hotori and Kotori.png"
+      "image": "Hotori-and-Kotori.png"
     },
     {
       "name": "Nola",
@@ -421,7 +421,7 @@
       "origin": "Grand Line (Jaya)",
       "age": 400,
       "height": "20000 cm",
-      "image": "Nola (baby).png",
+      "image": "Nola-(baby).png",
       "image_offset": {
         "x": 51,
         "y": 5
@@ -478,7 +478,7 @@
       "origin": "Grand Line",
       "age": 41,
       "height": "192 cm",
-      "image": "Spandam (Spanda) (past).png",
+      "image": "Spandam-(Spanda)-(past).png",
       "image_offset": {
         "x": 42,
         "y": 5
@@ -528,7 +528,7 @@
       "origin": "West Blue",
       "age": 41,
       "height": "340 cm",
-      "image": "Laffitte (Lafitte).png",
+      "image": "Laffitte-(Lafitte).png",
       "image_offset": {
         "x": 17,
         "y": 5
@@ -552,7 +552,7 @@
       "origin": "East Blue",
       "age": 27,
       "height": "198 cm",
-      "image": "Alvida (fat).png"
+      "image": "Alvida-(fat).png"
     },
     {
       "name": "Charlotte Perospero",
@@ -575,7 +575,7 @@
       "origin": "Grand Line (Totto Land)",
       "age": 50,
       "height": "333 cm",
-      "image": "Charlotte Perospero (Charlotte Perosperaw).png"
+      "image": "Charlotte-Perospero-(Charlotte-Perosperaw).png"
     },
     {
       "name": "Smoker",
@@ -620,7 +620,7 @@
       "origin": "North Blue",
       "age": 38,
       "height": "336 cm",
-      "image": "Who_s Who.png",
+      "image": "Who_s-Who.png",
       "image_offset": {
         "x": 50,
         "y": 4
@@ -721,7 +721,7 @@
       "origin": "Grand Line",
       "age": 31,
       "height": "256 cm",
-      "image": "Scratchmen Apoo.png"
+      "image": "Scratchmen-Apoo.png"
     },
     {
       "name": "Sabo",
@@ -790,7 +790,7 @@
       "role": "Nun",
       "haki": [],
       "origin": "Grand Line (Whisky Peak)",
-      "image": "Miss Catherina (Miss Katherina).png",
+      "image": "Miss-Catherina-(Miss-Katherina).png",
       "image_offset": {
         "x": 58,
         "y": 5
@@ -838,7 +838,7 @@
       "haki": [],
       "origin": "Grand Line (Water 7)",
       "height": "5600 cm",
-      "image": "Thousand Sunny.png",
+      "image": "Thousand-Sunny.png",
       "image_offset": {
         "x": 4,
         "y": 5
@@ -942,7 +942,7 @@
       "origin": "South Blue",
       "age": 36,
       "height": "361 cm",
-      "image": "Catarina Devon (Catalina Devon).png",
+      "image": "Catarina-Devon-(Catalina-Devon).png",
       "image_offset": {
         "x": 18,
         "y": 5

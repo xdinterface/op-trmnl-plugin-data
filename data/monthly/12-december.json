@@ -18,7 +18,7 @@
       "role": "Arms Shop Proprietress",
       "haki": [],
       "origin": "East Blue",
-      "image": "Ipponume (Ippon Ume).png"
+      "image": "Ipponume-(Ippon-Ume).png"
     },
     {
       "name": "Charlotte Akimeg",
@@ -70,7 +70,7 @@
       "origin": "East Blue (Conomi Islands)",
       "age": 30,
       "height": "186 cm (6'1\")",
-      "image": "Bell-mère (Bellemere, Bell-mere).png",
+      "image": "Bell-mère-(Bellemere,-Bell-mere).png",
       "image_offset": {
         "x": 50,
         "y": 0
@@ -107,7 +107,7 @@
       "origin": "Grand Line (Arabasta Kingdom)",
       "age": 50,
       "height": "218 cm (7'1\")",
-      "image": "Igaram (Mr. 8).png",
+      "image": "Igaram-(Mr.-8).png",
       "image_offset": {
         "x": 50,
         "y": 0
@@ -126,13 +126,13 @@
       "role": "Sea Serpent",
       "haki": [],
       "origin": "Calm Belt",
-      "image": "Yuda Snakes.png"
+      "image": "Yuda-Snakes.png"
     },
     {
       "name": "Jarul",
       "birthday": "12-08",
       "affiliation": "civilian",
-      "image": "Jarul (edited).png",
+      "image": "Jarul-(edited).png",
       "image_offset": {
         "x": 32,
         "y": 0
@@ -159,7 +159,7 @@
       "origin": "Grand Line (Mogaro Kingdom)",
       "age": 36,
       "height": "168 cm (5'6\")",
-      "image": "Kelly Funk (solo).png"
+      "image": "Kelly-Funk-(solo).png"
     },
     {
       "name": "Packy",
@@ -208,7 +208,7 @@
       "origin": "Grand Line",
       "age": 35,
       "height": "680 cm (22'4\")",
-      "image": "Edward Weevil (Whitebeard Jr.).png"
+      "image": "Edward-Weevil-(Whitebeard-Jr.).png"
     },
     {
       "name": "Mr. Shimizu",
@@ -219,7 +219,7 @@
       "bounty": "389,700,00081,000,000",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Mr. Shimizu.png"
+      "image": "Mr.-Shimizu.png"
     },
     {
       "name": "Rock",
@@ -277,7 +277,7 @@
       "origin": "West Blue (Kano Country)",
       "age": 78,
       "height": "520 cm (17'1\")",
-      "image": "Chinjao (Qing Jiao, Don Chin Jao).png",
+      "image": "Chinjao-(Qing-Jiao,-Don-Chin-Jao).png",
       "image_offset": {
         "x": 65,
         "y": 5
@@ -381,7 +381,7 @@
       "affiliation": "civilian",
       "role": "Wild Zombie",
       "haki": [],
-      "image": "Inuppe (Dog Penguin).png"
+      "image": "Inuppe-(Dog-Penguin).png"
     },
     {
       "name": "Banchina",
@@ -390,7 +390,7 @@
       "affiliation": "civilian",
       "haki": [],
       "origin": "East Blue (Syrup Village)",
-      "image": "Banchina (Bankina).png"
+      "image": "Banchina-(Bankina).png"
     },
     {
       "name": "Yuki",
@@ -469,7 +469,7 @@
       "role": "Explorer",
       "haki": [],
       "origin": "Grand Line",
-      "image": "Louis Arnote (Louis Arnot, Brag Men).png"
+      "image": "Louis-Arnote-(Louis-Arnot,-Brag-Men).png"
     },
     {
       "name": "Mother Carmel",
@@ -481,7 +481,7 @@
       "haki": [],
       "origin": "West Blue",
       "height": "185 cm (6'1)",
-      "image": "Carmel (old).png"
+      "image": "Carmel-(old).png"
     },
     {
       "name": "Gan Fall",
@@ -494,7 +494,7 @@
       "origin": "Grand Line (Skypiea)",
       "age": 68,
       "height": "180 cm (5'11\")",
-      "image": "Gan Fall (Ganfor) (solo).png",
+      "image": "Gan-Fall-(Ganfor)-(solo).png",
       "image_offset": {
         "x": 26,
         "y": 10
@@ -515,7 +515,7 @@
       "origin": "Grand Line (Moby Dick)",
       "age": 26,
       "height": "170 cm (5'7\")",
-      "image": "Kozuki Hiyori.png",
+      "image": "Kozuki-Hiyori.png",
       "image_offset": {
         "x": 32,
         "y": 5
@@ -539,7 +539,7 @@
       "origin": "Grand Line (Drum Island)",
       "age": 17,
       "height": "90 cm (2'11\") (hybrid form)",
-      "image": "Tony Tony Chopper.png"
+      "image": "Tony-Tony-Chopper.png"
     },
     {
       "name": "Jesus Burgess",
@@ -553,7 +553,7 @@
       "origin": "Grand Line",
       "age": 29,
       "height": "355 cm (11'8\")",
-      "image": "Jesus Burgess.png"
+      "image": "Jesus-Burgess.png"
     },
     {
       "name": "Miss Merry Christmas",
@@ -572,7 +572,7 @@
       "origin": "Grand Line",
       "age": 51,
       "height": "156 cm (5'1\")",
-      "image": "Drophy (Miss Merry Christmas).png"
+      "image": "Drophy-(Miss-Merry-Christmas).png"
     },
     {
       "name": "Charlotte Broyé",
@@ -627,7 +627,7 @@
       "origin": "East Blue",
       "age": 29,
       "height": "207 cm (6’9½”)",
-      "image": "Jango (Django).png",
+      "image": "Jango-(Django).png",
       "image_offset": {
         "x": 50,
         "y": 0
@@ -666,7 +666,7 @@
       "haki": [],
       "origin": "East Blue (Loguetown)",
       "height": "274 cm (9'0\")",
-      "image": "Gol D. Roger.png",
+      "image": "Gol-D.-Roger.png",
       "image_offset": {
         "x": 18,
         "y": 5
@@ -684,20 +684,20 @@
         "power": "whoever eats it becomes half-mole. It can dig gigantic galleries in almost any material."
       },
       "age": "51",
-      "image": "Drophy (Miss Merry Christmas).png"
+      "image": "Drophy-(Miss-Merry-Christmas).png"
     },
     {
       "name": "Zunesha",
       "birthday": "12-18",
       "affiliation": "unknown",
       "age": "1 000",
-      "image": "Zunesha (edited).png"
+      "image": "Zunesha-(edited).png"
     },
     {
       "name": "Carmel",
       "birthday": "12-21",
       "haki": [],
-      "image": "Carmel (old).png"
+      "image": "Carmel-(old).png"
     },
     {
       "name": "Donquixote Mjosgard",
@@ -708,7 +708,7 @@
       "name": "Jorul",
       "birthday": "12-04",
       "haki": [],
-      "image": "Jorul (edited).png",
+      "image": "Jorul-(edited).png",
       "image_offset": {
         "x": 50,
         "y": 0
