@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T21:49:31.407Z",
-  "total": 741,
+  "generated_at": "2026-01-08T22:32:22.969Z",
+  "total": 731,
   "characters": [
     {
       "name": "Eiichiro Oda",
@@ -38,7 +38,8 @@
       },
       "image_optimized": true,
       "short_bio": "Eiichiro Oda, born January 1, 1975 in Kumamoto City, Kumamoto Prefecture in Japan, is a professional mangaka, best known as the creator of the manga One Piece. A dedicated writer and artist since adolescence, Oda began working for Shueisha's Shonen Jump at 17 and currently stands as one of the world's most prominent mangaka, earning an estimated ¥3.1 billion (US$23 million) per year. Despite his rigorous work schedule, he maintains steady correspondence with fans (and the wider public) through both formal interviews and informal channels such as his SBS columns.",
-      "image_source": "vivre_card"
+      "image_source": "vivre_card",
+      "custom": true
     },
     {
       "name": "Anjo",
@@ -3846,13 +3847,15 @@
       "haki": [],
       "origin": "Grand Line (Drum Island)",
       "height": null,
-      "source_url": "https://onepiece.fandom.com/wiki/Snowma-san",
+      "source_url": "https://onepiece.fandom.com/wiki/Snow_Sculptures",
       "image_offset": {
         "x": 43,
         "y": 5
       },
       "image_optimized": true,
-      "image_source": "vivre_card"
+      "image_source": "vivre_card",
+      "short_bio": "Snowma-san is a snow sculpture created by Monkey D. Luffy aboard the Going Merry while traveling to Whisky Peak. It has a body of two spheres, sticks as arms and nose, a cape, and a barrel on its head. It can perform Yukidaru Punch. It was destroyed by Usopp in retaliation for Luffy ruining his Snow Queen sculpture.",
+      "custom": true
     },
     {
       "name": "Bobby Funk",
@@ -4514,7 +4517,10 @@
         "x": 52,
         "y": 5
       },
-      "image_optimized": true
+      "image_optimized": true,
+      "short_bio": "The Tightrope Walking Funan Bros are a trio of pirates within the Buggy Pirates. The leader of the three wears a beanie hat with their crew's jolly roger on it, while the other two are a dark-skinned pirate and an orange-haired pirate.",
+      "debut_chapter": 8,
+      "debut_episode": 4
     },
     {
       "name": "Raizo",
@@ -6692,7 +6698,10 @@
         "y": 5
       },
       "image_optimized": true,
-      "image_source": "vivre_card"
+      "image_source": "vivre_card",
+      "short_bio": "Miss Catherina is a former Baroque Works Millions agent who was stationed at Whisky Peak alongside her partner, Mr. Beans. She worked under the Frontier Agents Mr. 8, Miss Monday, Mr. 9 and Miss Wednesday.",
+      "debut_chapter": 106,
+      "debut_episode": 64
     },
     {
       "name": "Thatch",
@@ -7125,7 +7134,10 @@
         "y": 5
       },
       "image_optimized": true,
-      "image_source": "vivre_card"
+      "image_source": "vivre_card",
+      "short_bio": "Saint Shalria of the Rosward Family is a World Noble, the daughter of Saint Rosward Rosward, and the younger sister of Saint Charlos. Alongside the rest of her family, Shalria is one of the main antagonists of the Sabaody Archipelago Arc.",
+      "debut_chapter": 497,
+      "debut_episode": 391
     },
     {
       "name": "Baskerville",
@@ -7446,7 +7458,7 @@
       "image_source": "vivre_card"
     },
     {
-      "name": "Porchemi",
+      "name": "Porchemy",
       "japanese_name": "ポルシェーミ",
       "birthday": "04-03",
       "race": "Human",
@@ -7474,9 +7486,12 @@
       "haki": [],
       "origin": "East Blue",
       "height": "320 cm",
-      "source_url": "https://onepiece.fandom.com/wiki/Porchemi",
+      "source_url": "https://onepiece.fandom.com/wiki/Porchemy",
       "image_optimized": true,
-      "image_source": "vivre_card"
+      "image_source": "vivre_card",
+      "short_bio": "Porchemy was a member of the Bluejam Pirates until he was killed by his captain Bluejam for losing to Ace and Sabo.",
+      "debut_chapter": 583,
+      "debut_episode": 494
     },
     {
       "name": "Foxy",
@@ -13094,43 +13109,6 @@
       "image_source": "vivre_card"
     },
     {
-      "name": "Pankuuta Dakeyan",
-      "japanese_name": "パンクータ・ダケヤン",
-      "birthday": "06-29",
-      "race": "Human",
-      "affiliation": "Whitebeard Pirates",
-      "organization": null,
-      "rank": null,
-      "bounty": null,
-      "devil_fruit": null,
-      "status": "alive",
-      "age": {
-        "pre_timeskip": null,
-        "post_timeskip": null
-      },
-      "size": null,
-      "notable_info": null,
-      "image_raw_url": null,
-      "birthday_source": null,
-      "birthday_confidence": null,
-      "birthday_discovered_at": null,
-      "id": "char_347",
-      "image": "Pankuta-Dakeyan-(Justy-Tinbread).png",
-      "romanized_name": "Pankuuta Dakeyan",
-      "epithet": null,
-      "role": "Pirate",
-      "haki": [],
-      "origin": "Unknown",
-      "height": null,
-      "source_url": "https://onepiece.fandom.com/wiki/Pankuuta_Dakeyan",
-      "image_offset": {
-        "x": 61,
-        "y": 5
-      },
-      "image_optimized": true,
-      "image_source": "vivre_card"
-    },
-    {
       "name": "Elmy",
       "japanese_name": "エルミー",
       "birthday": "06-30",
@@ -17855,7 +17833,7 @@
       "image_source": "vivre_card"
     },
     {
-      "name": "Gecko Moriah",
+      "name": "Gecko Moria",
       "japanese_name": "ゲッコー・モリア",
       "birthday": "09-06",
       "race": "Human",
@@ -17888,13 +17866,16 @@
       "haki": [],
       "origin": "West Blue",
       "height": "692 cm",
-      "source_url": "https://onepiece.fandom.com/wiki/Gecko_Moriah",
+      "source_url": "https://onepiece.fandom.com/wiki/Gecko_Moria",
       "image_offset": {
         "x": 46,
         "y": 5
       },
       "image_optimized": true,
-      "image_source": "vivre_card"
+      "image_source": "vivre_card",
+      "short_bio": "Gecko Moria is the captain of the Thriller Bark Pirates and a former member of the Seven Warlords of the Sea who resides on Thriller Bark, the largest ship in the world. His bounty is 320,000,000, which was frozen until he lost his Warlord position. In his youth, Moria served as captain of the Gecko Pirates, until a vast majority of its members were killed in a fight against Kaidou of the Four Emperors. This traumatic event led Moria to seek power through an army of zombies, constructed by his subordinate, Dr. Hogback. To that end he stole the shadows of several beings with his Kage Kage no Mi powers, including Brook and several members of the Straw Hat Pirates, bringing him into conflict with them. His zombie army was ultimately destroyed and the captured shadows set free after his defeat, but he retained his position as a Warlord and escaped Thriller Bark with the remnants of his crew. He took part in the Summit War of Marineford and sided with the Marines along with most of the other Warlords. After the end of the war, he was stripped of his title and was to be eliminated by Donquixote Doflamingo, but he managed to escape into the New World. Vegapunk later cloned Moria as one of the Seraphim to replace the Warlords. Two years after the war, he attacked the Blackbeard Pirates on Hachinosu, but was defeated and imprisoned when he refused to join Blackbeard. He was later rescued by Perona with the help of Koby. He is the main antagonist of the Thriller Bark Saga and a major antagonist in the Marineford Arc.",
+      "debut_chapter": 449,
+      "debut_episode": 343
     },
     {
       "name": "Macro",
@@ -22807,7 +22788,10 @@
         "y": 5
       },
       "image_optimized": true,
-      "role": "World Noble"
+      "role": "World Noble",
+      "short_bio": "Saint Jalmack is a World Noble who visited the Goa Kingdom twelve years ago. He acts as a minor antagonist during the Post-War Arc, as he was the one responsible for causing Sabo's long-term amnesia.",
+      "debut_chapter": 588,
+      "debut_episode": 502
     },
     {
       "name": "Yosaku",
@@ -24774,7 +24758,10 @@
         "x": 34,
         "y": 5
       },
-      "image_optimized": true
+      "image_optimized": true,
+      "short_bio": "At first glance, the island seems savage, and its inhabitants seem primitive. In reality however, the locals have an extensive library and the great tree in the middle of the island is covered in plants that are excellent for making various medicines. Tony Tony Chopper was sent here by Bartholomew Kuma during the events in the Sabaody Archipelago Arc. He spent two years here in order to train. __TOC__",
+      "debut_chapter": 524,
+      "debut_episode": 419
     },
     {
       "name": "Kelly Funk",
@@ -25354,7 +25341,10 @@
       "image_source": "wiki_anime",
       "image_optimized": true,
       "height": "211 cm",
-      "role": "World Noble"
+      "role": "World Noble",
+      "short_bio": "Saint Donquixote Mjosgard was a World Noble and member of the Donquixote Family, one of the 20 royal families that founded the World Government. After an attempt to recapture his freed fish-man slaves went awry, Mjosgard met Queen Otohime of Fish-Man Island's Ryugu Kingdom and became their ally and a supporter of their efforts to integrate with humans, opposing the extreme racism typically associated with the World Nobles' normal ideology. During the most recent Levely, he would directly oppose other World Nobles from threatening Otohime's family, which resulted in his execution.",
+      "debut_chapter": 625,
+      "debut_episode": 545
     },
     {
       "name": "Pica",
@@ -26446,7 +26436,10 @@
       "image_source": "wiki_anime",
       "image_optimized": true,
       "height": "308 cm",
-      "role": "Admiral; Police Officer (former)"
+      "role": "Admiral; Police Officer (former)",
+      "short_bio": "Aramaki, better known by his alias Ryokugyu, is an Admiral in the Marines. A former policeman from the Taya Kingdom, he was part of the World Military Draft that filled the two Admiral vacancies (along with Fujitora), caused by Kuzan's resignation and Sakazuki's promotion. Ryokugyu was first mentioned by Donquixote Doflamingo in the Dressrosa Arc and debuted in the Levely Arc. His full appearance and real name were revealed near the end of the Wano Country Arc, in which he serves as a supporting antagonist.",
+      "debut_chapter": 905,
+      "debut_episode": 882
     },
     {
       "name": "Ashura Doji",
@@ -27754,38 +27747,10 @@
       "source_url": "https://onepiece.fandom.com/wiki/Shalria",
       "role": "Celestial Dragon",
       "image_source": "vivre_card",
-      "image_optimized": true
-    },
-    {
-      "name": "Charlotte Decuplets",
-      "japanese_name": "10つ子達",
-      "birthday": "12-02",
-      "race": "Human",
-      "affiliation": "Charlotte Family",
-      "organization": null,
-      "rank": null,
-      "bounty": null,
-      "devil_fruit": null,
-      "status": "alive",
-      "age": {
-        "pre_timeskip": null,
-        "post_timeskip": 18
-      },
-      "size": null,
-      "notable_info": null,
-      "image_raw_url": null,
-      "birthday_source": "wiki",
-      "birthday_confidence": null,
-      "birthday_discovered_at": "2026-01-08T20:37:01.776Z",
-      "id": "char_merged_900",
-      "image": null,
-      "romanized_name": "Juttsugo-tachi",
-      "epithet": null,
-      "role": "Pirates; Officers",
-      "height": null,
-      "origin": null,
-      "source_url": "https://onepiece.fandom.com/wiki/Charlotte_Decuplets",
-      "canon": true
+      "image_optimized": true,
+      "short_bio": "Saint Shalria of the Rosward Family is a World Noble, the daughter of Saint Rosward Rosward, and the younger sister of Saint Charlos. Alongside the rest of her family, Shalria is one of the main antagonists of the Sabaody Archipelago Arc.",
+      "debut_chapter": 497,
+      "debut_episode": 391
     },
     {
       "name": "Charlotte Newshi",
@@ -27821,7 +27786,10 @@
       "source_url": "https://onepiece.fandom.com/wiki/Charlotte_Newshi",
       "canon": true,
       "image_source": "wiki_anime",
-      "image_optimized": true
+      "image_optimized": true,
+      "short_bio": "Charlotte Newshi is the 39th son and 68th child of the Charlotte Family and the fourth of the Charlotte Decuplets to be born. He is also an officer of the Big Mom Pirates.",
+      "debut_chapter": 854,
+      "debut_episode": 822
     },
     {
       "name": "Columbus",
@@ -27854,7 +27822,9 @@
       "source_url": "https://onepiece.fandom.com/wiki/Columbus",
       "canon": true,
       "image_source": "wiki_manga",
-      "image_optimized": true
+      "image_optimized": true,
+      "short_bio": "Columbus is a member of the Yonta Maria Grand Fleet.",
+      "debut_chapter": 906
     },
     {
       "name": "Conney",
@@ -27887,7 +27857,10 @@
       "source_url": "https://onepiece.fandom.com/wiki/Conney",
       "canon": true,
       "image_source": "wiki_anime",
-      "image_optimized": true
+      "image_optimized": true,
+      "short_bio": "Conney is the queen dowager of the Sorbet Kingdom as the mother of King Bulldog.",
+      "debut_chapter": 1099,
+      "debut_episode": 1133
     },
     {
       "name": "Hibari",
@@ -27924,7 +27897,10 @@
         "x": 50,
         "y": 0
       },
-      "image_optimized": true
+      "image_optimized": true,
+      "short_bio": "Hibari is a Marine Commander and a member of SWORD.",
+      "debut_chapter": 1061,
+      "debut_episode": 1090
     },
     {
       "name": "Kujaku",
@@ -27960,7 +27936,10 @@
       "source_url": "https://onepiece.fandom.com/wiki/Kujaku",
       "canon": true,
       "image_source": "wiki_anime",
-      "image_optimized": true
+      "image_optimized": true,
+      "short_bio": "Kujaku is a Marine Rear Admiral stationed at Marine Base G-14 and also a member of SWORD. She is the granddaughter of Marine Vice Admiral Tsuru. Kujaku was first introduced during the \"Gang\" Bege's Oh My Family Cover Page Serial as a brief antagonist. She made her proper debut in the main series during the Egghead Arc.",
+      "debut_chapter": 966,
+      "debut_episode": 1090
     },
     {
       "name": "Merry",
@@ -27997,7 +27976,10 @@
         "x": 59,
         "y": 5
       },
-      "image_optimized": true
+      "image_optimized": true,
+      "short_bio": "Merry is Kaya's butler, and the original designer of the Going Merry. He is an ally of the Straw Hat Pirates during the Syrup Village Arc.",
+      "debut_chapter": 24,
+      "debut_episode": 11
     },
     {
       "name": "Mr. Shimizu",
@@ -28034,7 +28016,10 @@
         "x": 56,
         "y": 5
       },
-      "image_optimized": true
+      "image_optimized": true,
+      "short_bio": "Mr. Shimizu was a Baroque Works Millions agent stationed at Whisky Peak. He worked under the Frontier Agents Mr. 8, Miss Monday, Mr. 9 and Miss Wednesday.",
+      "debut_chapter": 107,
+      "debut_episode": 64
     },
     {
       "name": "Pankuta Dakeyan",
@@ -28071,7 +28056,10 @@
         "x": 64,
         "y": 5
       },
-      "image_optimized": true
+      "image_optimized": true,
+      "short_bio": "Pankuta Dakeyan is a prisoner in Impel Down.",
+      "debut_chapter": 525,
+      "debut_episode": 422
     },
     {
       "name": "Prince Grus",
@@ -28107,7 +28095,10 @@
       "source_url": "https://onepiece.fandom.com/wiki/Prince_Grus",
       "canon": true,
       "image_source": "wiki_anime",
-      "image_optimized": true
+      "image_optimized": true,
+      "short_bio": "Prince Grus is a Marine Rear Admiral stationed at Marine base G-14 and a member of SWORD. His fellow SWORD members also refer to Grus by the title of Prince which differs from his surname. Grus was first introduced during the \"Gang\" Bege's Oh My Family Cover Page Serial as a brief antagonist. He made his proper debut in the main series during the Egghead Arc.",
+      "debut_chapter": 966,
+      "debut_episode": 1090
     },
     {
       "name": "Samurai Batts",
@@ -28144,7 +28135,10 @@
         "x": 36,
         "y": 5
       },
-      "image_optimized": true
+      "image_optimized": true,
+      "short_bio": "Samurai Batts is a visitor on Kyuka Island.",
+      "debut_chapter": 117,
+      "debut_episode": 70
     },
     {
       "name": "Saru",
@@ -28181,7 +28175,10 @@
         "x": 77,
         "y": 5
       },
-      "image_optimized": true
+      "image_optimized": true,
+      "short_bio": "Saru is the pet dog of two of the World Nobles, Saint Rosward and Saint Shalria.",
+      "debut_chapter": 497,
+      "debut_episode": 391
     },
     {
       "name": "Sterry",
@@ -28214,7 +28211,10 @@
       "source_url": "https://onepiece.fandom.com/wiki/Sterry",
       "canon": true,
       "image_source": "vivre_card",
-      "image_optimized": true
+      "image_optimized": true,
+      "short_bio": "Sterry is the king of the Goa Kingdom and the husband of the queen, Sarie Nantokanette. He was adopted by Sabo's family at eight years of age, having originally been born in a separate noble family.",
+      "debut_chapter": 586,
+      "debut_episode": 500
     },
     {
       "name": "Mansion's Guards",
@@ -28251,264 +28251,10 @@
         "x": 100,
         "y": 5
       },
-      "image_optimized": true
-    },
-    {
-      "name": "Adio Suerte",
-      "japanese_name": "アディオ゠スエルテ",
-      "birthday": "05-10",
-      "race": null,
-      "affiliation": "Wandering Clan",
-      "organization": null,
-      "rank": null,
-      "bounty": "2,009,430,000",
-      "devil_fruit": {
-        "name": "Kote Kote no Mi",
-        "type": null
-      },
-      "status": "unknown",
-      "age": {
-        "pre_timeskip": null,
-        "post_timeskip": 45
-      },
-      "size": null,
-      "notable_info": null,
-      "image_raw_url": null,
-      "birthday_source": "wiki",
-      "birthday_confidence": null,
-      "birthday_discovered_at": "2026-01-08T20:37:01.776Z",
-      "id": "char_merged_930",
-      "image": null,
-      "romanized_name": "Adio Suerute",
-      "epithet": "Master of the Gun ( 拳銃の達人 , Kenjū no Tatsujin )",
-      "role": "Adventurer",
-      "height": "6 cm",
-      "origin": "Grand Line",
-      "source_url": "https://onepiece.fandom.com/wiki/Adio_Suerte",
-      "canon": false
-    },
-    {
-      "name": "Ann",
-      "japanese_name": "アン",
-      "birthday": "01-01",
-      "race": "Human",
-      "affiliation": null,
-      "organization": null,
-      "rank": null,
-      "bounty": null,
-      "devil_fruit": {
-        "name": "Bijo Bijo no Mi",
-        "type": null
-      },
-      "status": "alive",
-      "age": {
-        "pre_timeskip": null,
-        "post_timeskip": null
-      },
-      "size": null,
-      "notable_info": null,
-      "image_raw_url": null,
-      "birthday_source": "wiki",
-      "birthday_confidence": null,
-      "birthday_discovered_at": "2026-01-08T20:37:01.776Z",
-      "id": "char_merged_932",
-      "image": null,
-      "romanized_name": "An",
-      "epithet": "Diva Ann ( 歌姫アン , Utahime An , VIZ: \"Ann the Diva\")",
-      "role": "Singer, Guest Announcer (former)",
-      "height": null,
-      "origin": null,
-      "source_url": "https://onepiece.fandom.com/wiki/Ann",
-      "canon": false
-    },
-    {
-      "name": "DJ Parrot",
-      "japanese_name": "オウムDJ",
-      "birthday": "08-11",
-      "race": "Animal",
-      "affiliation": null,
-      "organization": null,
-      "rank": null,
-      "bounty": null,
-      "devil_fruit": null,
-      "status": "alive",
-      "age": {
-        "pre_timeskip": null,
-        "post_timeskip": null
-      },
-      "size": null,
-      "notable_info": null,
-      "image_raw_url": null,
-      "birthday_source": "wiki",
-      "birthday_confidence": null,
-      "birthday_discovered_at": "2026-01-08T20:37:01.776Z",
-      "id": "char_merged_934",
-      "image": null,
-      "romanized_name": "Ōmu Dījei",
-      "epithet": null,
-      "role": "DJ",
-      "height": null,
-      "origin": null,
-      "source_url": "https://onepiece.fandom.com/wiki/DJ_Parrot",
-      "canon": false
-    },
-    {
-      "name": "Lim",
-      "japanese_name": "リム",
-      "birthday": "09-02",
-      "race": null,
-      "affiliation": "Wandering Clan",
-      "organization": null,
-      "rank": null,
-      "bounty": null,
-      "devil_fruit": null,
-      "status": "alive",
-      "age": {
-        "pre_timeskip": null,
-        "post_timeskip": 214
-      },
-      "size": null,
-      "notable_info": null,
-      "image_raw_url": null,
-      "birthday_source": "wiki",
-      "birthday_confidence": null,
-      "birthday_discovered_at": "2026-01-08T20:37:01.776Z",
-      "id": "char_merged_936",
-      "image": null,
-      "romanized_name": "Rimu",
-      "epithet": null,
-      "role": "Sky Priestess",
-      "height": "6 cm",
-      "origin": "New World",
-      "source_url": "https://onepiece.fandom.com/wiki/Lim",
-      "canon": false
-    },
-    {
-      "name": "Marine X",
-      "japanese_name": "N/A",
-      "birthday": "08-01",
-      "race": "Human",
-      "affiliation": "Marines",
-      "organization": null,
-      "rank": null,
-      "bounty": null,
-      "devil_fruit": null,
-      "status": "alive",
-      "age": {
-        "pre_timeskip": null,
-        "post_timeskip": 25
-      },
-      "size": null,
-      "notable_info": null,
-      "image_raw_url": null,
-      "birthday_source": "wiki",
-      "birthday_confidence": null,
-      "birthday_discovered_at": "2026-01-08T20:37:01.776Z",
-      "id": "char_merged_938",
-      "image": null,
-      "romanized_name": "N/A",
-      "epithet": null,
-      "role": null,
-      "height": "180 cm",
-      "origin": null,
-      "source_url": "https://onepiece.fandom.com/wiki/Marine_X",
-      "canon": false
-    },
-    {
-      "name": "One Piece Card-kun",
-      "japanese_name": "ワンピカードくん",
-      "birthday": "07-08",
-      "race": null,
-      "affiliation": null,
-      "organization": null,
-      "rank": null,
-      "bounty": null,
-      "devil_fruit": {
-        "name": "Kado Kado no Mi",
-        "type": null
-      },
-      "status": "alive",
-      "age": {
-        "pre_timeskip": null,
-        "post_timeskip": null
-      },
-      "size": null,
-      "notable_info": null,
-      "image_raw_url": null,
-      "birthday_source": "wiki",
-      "birthday_confidence": null,
-      "birthday_discovered_at": "2026-01-08T20:37:01.776Z",
-      "id": "char_merged_940",
-      "image": null,
-      "romanized_name": "Wanpi Kādo-kun",
-      "epithet": null,
-      "role": null,
-      "height": "180 cm",
-      "origin": "Bandai",
-      "source_url": "https://onepiece.fandom.com/wiki/One_Piece_Card-kun",
-      "canon": false
-    },
-    {
-      "name": "Puggy",
-      "japanese_name": "パギー",
-      "birthday": "08-08",
-      "race": "Human",
-      "affiliation": "Buggy's Delivery",
-      "organization": null,
-      "rank": null,
-      "bounty": "200,000,000",
-      "devil_fruit": null,
-      "status": "alive",
-      "age": {
-        "pre_timeskip": null,
-        "post_timeskip": null
-      },
-      "size": null,
-      "notable_info": null,
-      "image_raw_url": null,
-      "birthday_source": "wiki",
-      "birthday_confidence": null,
-      "birthday_discovered_at": "2026-01-08T20:37:01.776Z",
-      "id": "char_merged_942",
-      "image": null,
-      "romanized_name": "Pagī",
-      "epithet": null,
-      "role": "Bodyguard; Martial Artist",
-      "height": null,
-      "origin": null,
-      "source_url": "https://onepiece.fandom.com/wiki/Puggy",
-      "canon": false
-    },
-    {
-      "name": "Tongari Den Den Mushi",
-      "japanese_name": "トンガリ電伝虫",
-      "birthday": "03-13",
-      "race": "Animal",
-      "affiliation": null,
-      "organization": null,
-      "rank": null,
-      "bounty": null,
-      "devil_fruit": null,
-      "status": "alive",
-      "age": {
-        "pre_timeskip": null,
-        "post_timeskip": 115
-      },
-      "size": null,
-      "notable_info": null,
-      "image_raw_url": null,
-      "birthday_source": "wiki",
-      "birthday_confidence": null,
-      "birthday_discovered_at": "2026-01-08T20:37:01.776Z",
-      "id": "char_merged_944",
-      "image": null,
-      "romanized_name": "Tongari Den Den Mushi",
-      "epithet": null,
-      "role": "Island Leader",
-      "height": null,
-      "origin": null,
-      "source_url": "https://onepiece.fandom.com/wiki/Tongari_Den_Den_Mushi",
-      "canon": false
+      "image_optimized": true,
+      "short_bio": "The '''Mansion's Guards are employees of the Tessle Company''', hired by Klahadore to act as security guards to keep Kaya's mansion safe.",
+      "debut_chapter": 24,
+      "debut_episode": 9
     }
   ]
 }
